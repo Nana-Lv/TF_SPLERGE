@@ -1,0 +1,62 @@
+         affected consumer conﬁdence, while private          Contemporaneous correlation between
+                                                             consumer confidence and real private
+         consumption growth was rather stable.               consumption growth
+         Thereafter, the correlation between the two
+                                                                                  in year-on-year       in quarter-on-quarter
+         variables increased markedly to a level
+                                                                                            terms                      terms
+         above the historical average. This may reﬂect
+                                                             Germany                           0.34                         0.18
+         structural changes in the relationship between      Spain                             0.75                         0.70
+         the two variables. This is also suggested by        France                            0.63                         0.37
+                                                             Italy                             0.60                         0.38
+         robustness checks on estimated parameters
+                                                             Euro area                         0.72                         0.49
+         of simple regressions of private consumption
+                                                             Sources: European Commission, Eurostat and ECB calculations.
+         growth (both in year-on-year terms and quarter-     Notes: The data refer to the period from the ﬁrst quarter of 1985
+                                                             to the fourth quarter of 2011 (for Italy, data are available only up
+         on-quarter terms) on consumer conﬁdence over        to the third quarter of 2011).
+         different sample periods.
+
+         The correlation between consumer conﬁdence and real private consumption growth differs
+         signiﬁcantly across countries. Focusing on the four largest euro area countries, the correlation
+         with year-on-year private consumption growth is relatively high for Spain, while somewhat
+         lower for France and Italy and particularly poor for Germany (see the table). All four countries
+         show ﬂuctuations in the correlation over time, with the most recent ﬁve-year period showing a
+         higher correlation than the preceding ﬁve-year period.
+
+         Overall, the usefulness of developments in consumer conﬁdence for the assessment of real private
+         consumption developments varies across countries and periods. Caution should be exercised in
+         deriving conclusions about consumption growth on the basis of consumer conﬁdence owing to
+         the instability of relationships at both the country and euro area levels. However, this information
+         can be useful in conjunction with other short-term indicators of consumption. The recent
+         improvement in euro area consumer conﬁdence may thus be seen as a positive signal for real
+         private consumption growth in the period ahead.
+
+
+       INVESTMENT
+       The gradual improvement in gross ﬁxed capital formation over the past two years was interrupted
+       in mid-2011. Quarter-on-quarter investment growth shrank by 0.7% in the fourth quarter, implying
+       a third quarter of consecutive contraction.
+
+       The full breakdown of capital formation is not yet available for the fourth quarter of 2011.
+       Short-term indicators suggest that non-construction investment – which accounts for half of total
+       investment – is likely to have been weak. Subdued overall economic and proﬁt developments,
+       together with tight ﬁnancing conditions, are expected to have dampened non-construction
+       investment growth in the fourth quarter of 2011. Declines in euro area capacity utilisation and
+       manufacturing conﬁdence as well as available aggregated country data support this picture.
+       Residential and non-residential construction investment is likely to have fallen in the fourth quarter,
+       as suggested by the deterioration in monthly production indicators and conﬁdence in the construction
+       sector. Overall tighter ﬁnancing conditions may also have dampened construction investment in the
+       fourth quarter. In addition, ongoing ﬁscal consolidation in many euro area countries continued to
+       weigh on government investment.
+
+       The few early indicators available for the ﬁrst quarter of 2012 suggest continued weakness in
+       non-construction capital formation in the euro area. New orders of capital goods from the
+       euro area declined further in December 2011. The capacity utilisation rate has broadly stabilised
+
+     ECB
+     Monthly Bulletin
+78   March 2012
+

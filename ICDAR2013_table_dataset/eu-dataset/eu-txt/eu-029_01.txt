@@ -1,0 +1,88 @@
+                                                                                                                                                                              EURO AREA
+                                                                                                                                                                              STATISTICS
+                                                                                                                                                                             Money, banking
+                                                                                                                                                                                   and other
+                                                                                                                                                                       financial corporations
+
+
+
+
+ 2.11 Aggregated balance sheet of euro area insurance corporations and pension funds
+       (EUR billions; outstanding amounts at end of period)
+
+1. Assets
+                          Total       Currency              Loans      Securities      Shares and        Investment Money market Prepayments of                     Other Non-financial
+                                           and                        other than      other equity      fund shares   fund shares     insurance                  accounts        assets
+                                       deposits                           shares                                                  premiums and                 receivable/
+                                                                                                                                    reserves for              payable and
+                                                                                                                                    outstanding                  financial
+                                                                                                                                         claims                derivatives
+
+                              1               2                 3               4               5                  6                  7                 8                 9             10
+2008 Q4                 6,158.6           800.7             478.6         2,292.9           819.1            1,088.2               93.9             245.7             184.8          154.5
+2009 Q1                 6,188.0           797.2             493.7         2,361.0           785.6            1,071.9              101.6             244.1             176.2          156.7
+     Q2                 6,329.9           782.8             487.7         2,384.4           818.9            1,200.3               89.7             248.6             162.1          155.3
+     Q3                 6,517.3           784.2             483.4         2,424.9           792.4            1,377.3               86.0             252.0             163.2          153.8
+     Q4                 6,642.1           786.9             477.9         2,462.8           804.3            1,456.7               86.4             256.2             158.1          152.8
+2010 Q1                 6,864.3           784.5             486.3         2,575.8           815.3            1,534.1               83.4             267.1             169.4          148.4
+     Q2                 6,891.1           785.5             488.9         2,613.5           792.7            1,518.4               79.8             272.1             190.2          150.1
+     Q3                 7,060.3           783.2             498.0         2,698.8           807.4            1,559.7               75.3             272.9             215.1          149.9
+     Q4                 6,978.8           774.1             501.6         2,642.2           823.1            1,579.1               65.3             271.8             170.0          151.5
+2011 Q1                 7,050.6           775.1             499.7         2,676.3           826.6            1,602.0               63.5             279.0             174.3          154.1
+     Q2                 7,073.9           778.4             506.8         2,691.8           830.6            1,605.3               66.8             269.5             171.8          153.0
+     Q3                 7,060.5           793.6             498.8         2,714.4           780.2            1,553.4               74.6             267.4             225.2          152.9
+
+
+2. Holdings of securities other than shares
+                              Total                                                 Issued by euro area residents                                                     Issued by non-euro
+                                                                                                                                                                           area residents
+                                                    Total               MFIs             General         Other financial              Insurance       Non-financial
+                                                                                      government         intermediaries        corporations and        corporations
+                                                                                                                                  pension funds
+                                  1                     2                  3                    4                         5                   6                   7                      8
+2008 Q4                     2,292.9               1,874.6              505.9              1,014.0                     207.0                11.4               136.4                  418.3
+2009 Q1                     2,361.0               1,939.5              531.1              1,040.5                     218.3                13.5               136.1                  421.5
+     Q2                     2,384.4               1,987.6              541.7              1,060.8                     231.2                15.0               139.0                  396.8
+     Q3                     2,424.9               2,021.7              552.6              1,086.7                     229.4                15.1               137.8                  403.2
+     Q4                     2,462.8               2,053.6              543.8              1,114.4                     239.3                16.7               139.5                  409.2
+2010 Q1                     2,575.8               2,157.9              578.5              1,184.6                     231.7                16.2               146.9                  417.9
+     Q2                     2,613.5               2,190.3              581.7              1,196.8                     244.3                16.6               150.9                  423.1
+     Q3                     2,698.8               2,271.6              593.4              1,242.3                     264.1                19.5               152.4                  427.2
+     Q4                     2,642.2               2,218.7              594.3              1,215.0                     236.1                17.7               155.5                  423.5
+2011 Q1                     2,676.3               2,260.2              617.3              1,208.6                     261.9                19.0               153.5                  416.0
+     Q2                     2,691.8               2,266.7              638.0              1,229.6                     223.5                16.1               159.5                  425.1
+     Q3                     2,714.4               2,289.6              640.4              1,236.2                     235.6                17.4               160.1                  424.8
+
+
+3. Liabilities and net worth
+                                                                                      Liabilities                                                                               Net worth
+
+                          Total         Loans        Securities      Shares and                        Insurance technical reserves                                  Other
+                                      received            other     other equity                                                                                  accounts
+                                                    than shares                                      Net equity of     Net equity of       Prepayments of       receivable/
+                                                                                           Total      households        households               insurance     payable and
+                                                                                                            in life      in pension          premiums and         financial
+                                                                                                        insurance               fund           reserves for     derivatives
+                                                                                                          reserves          reserves    outstanding claims
+                             1               2                 3              4               5                 6                   7                    8                9             10
+2008 Q4                6,123.7           348.8              31.7          422.1         5,178.6           2,909.2             1,445.8                823.6            142.6           34.8
+2009 Q1                6,129.8           347.8              31.8          378.6         5,228.6           2,927.5             1,460.2                841.0            142.9           58.2
+     Q2                6,215.9           321.6              33.1          395.1         5,325.5           3,005.5             1,477.4                842.6            140.6          114.1
+     Q3                6,363.7           303.8              36.1          440.0         5,438.6           3,094.8             1,501.7                842.2            145.1          153.6
+     Q4                6,441.3           284.6              39.5          436.2         5,527.8           3,168.6             1,519.8                839.3            153.3          200.8
+2010 Q1                6,622.5           293.6              39.5          455.4         5,676.6           3,255.9             1,560.2                860.5            157.5          241.7
+     Q2                6,661.4           298.9              40.9          427.9         5,733.7           3,281.4             1,589.1                863.2            160.0          229.7
+     Q3                6,774.7           315.0              39.8          435.7         5,829.0           3,338.9             1,629.5                860.5            155.2          285.6
+     Q4                6,816.8           284.5              42.3          444.6         5,895.6           3,381.8             1,651.3                862.4            149.8          162.0
+2011 Q1                6,919.1           304.2              40.1          459.7         5,965.0           3,414.1             1,664.5                886.3            150.0          131.5
+     Q2                6,933.4           305.6              43.2          447.4         5,987.2           3,437.1             1,674.4                875.6            149.9          140.6
+     Q3                6,892.2           311.4              42.4          401.5         5,972.6           3,422.1             1,678.9                871.6            164.3          168.3
+
+
+Source: ECB.
+
+
+                                                                                                                                                                              ECB
+                                                                                                                                                                  Monthly Bulletin
+                                                                                                                                                                      March 2012     S 25
+

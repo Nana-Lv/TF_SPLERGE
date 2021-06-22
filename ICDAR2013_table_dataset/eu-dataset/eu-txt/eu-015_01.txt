@@ -1,0 +1,31 @@
+                                                                                                                              Contract number – REM 01
+                                                                                                                                           Final Report
+
+
+
+                                                               PRIMARY OR SECONDARY WORK ACTIVITY ON PRINCIPAL JOB IS
+                                                                                           R&D?
+                                                                         NO                  YES                TOTAL
+                                                                            Median               Median             Median
+        PRINCIPAL JOB AND HIGHEST LEVEL OF                    Total in Head         Total in             Total in
+                                                                            Annual               Annual             Annual
+             EDUCATIONAL ATTAINMENT                               count            Head count           Head count
+                                                                            Salary               Salary              Salary
+
+   Computer and Mathematical scientists                          1.112.216     67.000,00      896.279     70.000,00    2.008.496     70.000,00
+   Biological, agricultural and other life scientists              115.467     46.000,00      328.303     50.000,00      443.770     49.000,00
+   Physical and related scientists                                  97.549     52.000,00      217.514     60.000,00      315.063     58.000,00
+   Social and related scientists                                   272.423     50.000,00      222.161     50.000,00      494.584     50.000,00
+   Engineers                                                       530.560     73.000,00    1.024.296     73.000,00    1.554.857     73.000,00
+   S&E related occupations                                       4.284.498     53.000,00    1.046.457     52.000,00    5.330.955     53.000,00
+   Non-S&E related occupations                                   6.697.962     49.000,00    1.175.371     55.000,00    7.873.332     50.000,00
+   TOTAL                                                        13.110.676     53.000,00    4.910.381     62.000,00 18.021.057       55.000,00
+
+    Table 26 – Total Number and median annual salary of people carrying out R&D as primary or secondary work activity, per level of educational
+              attainment. Data from the “National Survey of College graduates 2003” of the National Science Foundation, United States
+
+
+
+
+CARSA                                                                                                                                 Page 81 of 211
+

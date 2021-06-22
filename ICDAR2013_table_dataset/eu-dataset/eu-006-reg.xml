@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-006.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-region-model.xsd">
+    <table id="0">
+        <region id="0" page="3">
+            <instruction instr-id="1621" subinstr-id="0"/>
+            <instruction instr-id="1621" subinstr-id="2"/>
+            <instruction instr-id="1621" subinstr-id="4"/>
+            <instruction instr-id="1634" subinstr-id="0"/>
+            <instruction instr-id="1634" subinstr-id="2"/>
+            <instruction instr-id="1634" subinstr-id="4"/>
+            <instruction instr-id="1646" subinstr-id="0"/>
+            <instruction instr-id="1646" subinstr-id="2"/>
+            <instruction instr-id="1658" subinstr-id="0"/>
+            <instruction instr-id="1658" subinstr-id="2"/>
+            <instruction instr-id="1669" subinstr-id="0"/>
+            <instruction instr-id="1669" subinstr-id="2"/>
+            <instruction instr-id="1669" subinstr-id="4"/>
+            <instruction instr-id="1681" subinstr-id="0"/>
+            <instruction instr-id="1681" subinstr-id="2"/>
+            <instruction instr-id="1692" subinstr-id="0"/>
+            <instruction instr-id="1692" subinstr-id="2"/>
+            <instruction instr-id="1704" subinstr-id="0"/>
+            <instruction instr-id="1704" subinstr-id="4"/>
+            <instruction instr-id="1704" subinstr-id="6"/>
+            <bounding-box x1="70" x2="521" y1="297" y2="410"/>
+        </region>
+    </table>
+</document>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-034.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="105" x2="174" y1="427" y2="436"/>
+                <content>Reporting period</content>
+                <instruction instr-id="1170" subinstr-id="0"/>
+                <instruction instr-id="1170" subinstr-id="2"/>
+                <instruction instr-id="1170" subinstr-id="4"/>
+                <instruction instr-id="1170" subinstr-id="6"/>
+                <instruction instr-id="1170" subinstr-id="8"/>
+                <instruction instr-id="1170" subinstr-id="10"/>
+                <instruction instr-id="1170" subinstr-id="14"/>
+                <instruction instr-id="1170" subinstr-id="16"/>
+                <instruction instr-id="1170" subinstr-id="18"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="257" x2="326" y1="427" y2="436"/>
+                <content>Number of cases</content>
+                <instruction instr-id="1197" subinstr-id="0"/>
+                <instruction instr-id="1197" subinstr-id="2"/>
+                <instruction instr-id="1197" subinstr-id="4"/>
+                <instruction instr-id="1197" subinstr-id="6"/>
+                <instruction instr-id="1197" subinstr-id="10"/>
+                <instruction instr-id="1197" subinstr-id="12"/>
+                <instruction instr-id="1197" subinstr-id="14"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="391" x2="496" y1="427" y2="436"/>
+                <content>Reporting Member States</content>
+                <instruction instr-id="1224" subinstr-id="0"/>
+                <instruction instr-id="1224" subinstr-id="2"/>
+                <instruction instr-id="1224" subinstr-id="4"/>
+                <instruction instr-id="1224" subinstr-id="6"/>
+                <instruction instr-id="1234" subinstr-id="0"/>
+                <instruction instr-id="1234" subinstr-id="2"/>
+                <instruction instr-id="1234" subinstr-id="6"/>
+                <instruction instr-id="1234" subinstr-id="8"/>
+                <instruction instr-id="1234" subinstr-id="10"/>
+                <instruction instr-id="1234" subinstr-id="12"/>
+                <instruction instr-id="1234" subinstr-id="14"/>
+            </cell>
+            <cell id="3" start-col="0" start-row="1">
+                <bounding-box x1="70" x2="96" y1="414" y2="424"/>
+                <content>2004*</content>
+                <instruction instr-id="1280" subinstr-id="0"/>
+            </cell>
+            <cell id="4" start-col="1" start-row="1">
+                <bounding-box x1="287" x2="297" y1="414" y2="424"/>
+                <content>58</content>
+                <instruction instr-id="1310" subinstr-id="0"/>
+            </cell>
+            <cell id="5" start-col="2" start-row="1">
+                <bounding-box x1="411" x2="476" y1="414" y2="424"/>
+                <content>AT, DE, HU, IT</content>
+                <instruction instr-id="1339" subinstr-id="0"/>
+                <instruction instr-id="1339" subinstr-id="2"/>
+                <instruction instr-id="1339" subinstr-id="4"/>
+                <instruction instr-id="1339" subinstr-id="8"/>
+                <instruction instr-id="1339" subinstr-id="10"/>
+                <instruction instr-id="1339" subinstr-id="14"/>
+                <instruction instr-id="1339" subinstr-id="18"/>
+                <instruction instr-id="1339" subinstr-id="20"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="2">
+                <bounding-box x1="70" x2="100" y1="402" y2="412"/>
+                <content>2005**</content>
+                <instruction instr-id="1382" subinstr-id="0"/>
+                <instruction instr-id="1382" subinstr-id="2"/>
+                <instruction instr-id="1382" subinstr-id="4"/>
+                <instruction instr-id="1382" subinstr-id="6"/>
+                <instruction instr-id="1382" subinstr-id="8"/>
+                <instruction instr-id="1382" subinstr-id="10"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="2">
+                <bounding-box x1="287" x2="297" y1="402" y2="412"/>
+                <content>72</content>
+                <instruction instr-id="1412" subinstr-id="0"/>
+            </cell>
+            <cell id="8" start-col="2" start-row="2">
+                <bounding-box x1="421" x2="467" y1="402" y2="412"/>
+                <content>FR, HU, IT</content>
+                <instruction instr-id="1441" subinstr-id="0"/>
+                <instruction instr-id="1441" subinstr-id="2"/>
+                <instruction instr-id="1441" subinstr-id="6"/>
+                <instruction instr-id="1441" subinstr-id="10"/>
+                <instruction instr-id="1441" subinstr-id="12"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="3">
+                <bounding-box x1="70" x2="105" y1="391" y2="400"/>
+                <content>2006***</content>
+                <instruction instr-id="1474" subinstr-id="0"/>
+                <instruction instr-id="1474" subinstr-id="2"/>
+                <instruction instr-id="1474" subinstr-id="4"/>
+                <instruction instr-id="1474" subinstr-id="6"/>
+                <instruction instr-id="1474" subinstr-id="8"/>
+                <instruction instr-id="1474" subinstr-id="10"/>
+                <instruction instr-id="1474" subinstr-id="12"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="3">
+                <bounding-box x1="289" x2="294" y1="391" y2="400"/>
+                <content>2</content>
+                <instruction instr-id="1503" subinstr-id="0"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="3">
+                <bounding-box x1="438" x2="450" y1="391" y2="400"/>
+                <content>FR</content>
+                <instruction instr-id="1533" subinstr-id="0"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="4">
+                <bounding-box x1="70" x2="111" y1="378" y2="388"/>
+                <content>2007****</content>
+                <instruction instr-id="1567" subinstr-id="0"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="4">
+                <bounding-box x1="287" x2="297" y1="378" y2="388"/>
+                <content>39</content>
+                <instruction instr-id="1597" subinstr-id="0"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="4">
+                <bounding-box x1="439" x2="448" y1="378" y2="388"/>
+                <content>IT</content>
+                <instruction instr-id="1627" subinstr-id="0"/>
+            </cell>
+        </region>
+    </table>
+</document>

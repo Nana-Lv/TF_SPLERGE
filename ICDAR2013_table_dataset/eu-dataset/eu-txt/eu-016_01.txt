@@ -1,0 +1,47 @@
+                                                                     Contract number – REM 01
+                                                                                  Final Report
+
+Another example of Purchasing power parities is a data set known as the Penn
+World Tables (PWT), shown in the table below. The data are available at
+http://www.pwt.econ.upenn.edu/. 2000 is the latest year for which data are
+available.
+
+                                 Indicators of PPP, 2000
+
+                           Country                         PWT
+                           Austria                         93,14
+                           Belgium                         88,91
+                           Czech Republic                  32,62
+                           Denmark                        110,09
+                           Finland                         96,58
+                           France                          93,98
+                           Germany                         95,04
+                           Greece                          67,93
+                           Hungary                         41,36
+                           Ireland                         87,34
+                           Italy                           79,22
+                           Japan                          153,36
+                           Luxembourg                       86,2
+                           Netherlands                     88,78
+                           Norway                          116,7
+                           Poland                          40,86
+                           Portugal                        63,23
+                           Slovakia                        28,91
+                           Spain                            63,2
+                           Sweden                         105,64
+                           Switzerland                    123,61
+                           United Kingdom                  100,5
+                           United States                  100,48
+
+Table 33 – PPP for various countries relative to the United States based on the PWT for 2000
+
+Since 1986, The Economist has published an annual comparison of the prices of the
+McDonald’s Big Mac sandwich in various countries around the world, called the Big
+Mac Index, another example of the principle of the PPP. The following table
+presents the data for 2005.
+
+
+
+
+CARSA                                                                        Page 92 of 211
+

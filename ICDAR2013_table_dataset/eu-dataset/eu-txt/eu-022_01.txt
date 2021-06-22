@@ -1,0 +1,51 @@
+8.	        Prefer active verbs to passive...
+
+
+
+      Another easy step to clear writing is to use verbs in          … and name the agent
+      the active voice (‘the car hit a tree’) rather than the
+      passive (‘a tree was hit by the car’). Compare these:          If you change passive verb forms into active ones,
+                                                                     your writing will become clearer because you will be
+                   	 New guidelines have been laid down by           forced to name the agent — the person, organisation
+                     the President in the hope that the length       or thing that is carrying out the action.
+                     of documents submitted by DGs will be
+                     restricted to 15 pages.                         It’s easy to identify the agent here ...
+                    The President has laid down new
+               	                                                                 	 This project was rejected at Commission
+                    guidelines in the hope that DGs will restrict
+                                                                                   level.
+                    the length of documents to 15 pages.
+                                                                                  The Commission rejected this project.
+                                                                             	
+      Look how we can make a sentence clearer by cutting out         ... but impossible here:
+      passives...:
+                                                                     It is considered that tobacco advertising should be
+                   	 unclear:
+                                                                     banned in the EU.
+      	              A recommendation was made by the
+                     European Parliament that consideration
+                                                                     Who considers? The writer, the Commission, the public,
+                     be given by the Member States to a
+                                                                     the medical profession?
+                     simplification of the procedure.
+
+                                                                     Remember that EU documents have to be translated
+                   	 a bit better:                                   into several languages. If your original document is
+      	              The European Parliament made a
+                     recommendation that the Member States           unclear, you may end up with non-matching transla-
+                     give consideration to a simplification of the   tions, as each translator tries to guess what you might
+                     procedure.                                      have meant and comes up with a different solution.
+
+      and finally by using verbs instead of abstract nouns:          But you don’t have to avoid passives at all
+                                                                     costs. They can be useful, for example when there’s
+                    much better:                                     no need to say who is responsible for the action be-
+               	                                                     cause it’s obvious (‘All staff are encouraged to write
+      	             The European Parliament recommended
+                    that the Member States consider                  clearly’).
+                    simplifying the procedure.
+
+
+
+
+          10
+

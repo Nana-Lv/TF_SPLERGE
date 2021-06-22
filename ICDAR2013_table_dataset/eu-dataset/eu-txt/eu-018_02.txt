@@ -1,0 +1,59 @@
+                                                                          Contract number – REM 01
+                                                                                       Final Report
+
+   o    SI2.4: Country employers’ charges, employee contribution to social security,
+        holiday pay, personal income tax (in EURO).
+
+                          Employer's       Employee                        Personal income
+                                                            Holiday pay
+                           charges     contribution to SS                        tax
+
+        Austria            13.382            7.624            5.100            13.712
+        Belgium            12.508            5.299            2.298            18.277
+        Bulgaria             777              469              552               609
+        Croatia             5.474            2.573             489              3.367
+        Cyprus              4.254            2.647            2.095             7.173
+        Czech Republic      5.363            2.223             431              3.749
+        Denmark            10.850            5.575            3.769            28.303
+        Estonia             3.164            1.640            1.138             3.417
+        Finland            12.579            2.145            2.097            31.411
+        France             20.786            6.797            2.757             5.653
+        Germany             8.888            9.190             792             11.148
+        Greece              5.927            3.440            1.159             5.776
+        Hungary             5.716            2.030            1.821             5.598
+        Iceland             9.160            1.922            4.855            15.856
+        Ireland             9.909           9.215             3.864            27.108
+        Israel             11.596            4.165            1.089            16.307
+        Italy               9.860            4.543            2.774            11.744
+        Latvia                -                -              1.648              476
+        Lithuania           4.053            3.862            1.633             3.682
+        Luxembourg         10.254            7.455            5.609            10.817
+        Malta               2.071            2.224            4.715             7.343
+        Netherlands        17.188            7.686            4.290            24.430
+        Norway             10.431            5.059            5.758            19.157
+        Poland              6.749            2.228             222              1.922
+        Portugal            8.203            5.829            3.382            10.260
+        Romania             1.884             799              549              1.139
+        Slovakia            2.468             978              457              1.132
+        Slovenia            7.200            3.565             622              5.351
+        Spain               7.885            2.794            2.212             9.847
+        Sweden             24.152           9.674             2.128            19.410
+        Switzerland        13.158            8.084            4.922            14.903
+        Turkey              4.464            2.545            1.802             3.586
+        United Kingdom      9.832           10.087            6.067            18.611
+
+    Table 47 –Employers’ charges (N=3.283), employee contribution to social security
+  (N=2.899), holiday pay (N=1387) and personal income tax (N=3.211) of researchers in
+              EU25 and Associated Countries (2006, all currencies in EURO)
+
+Warning: This table presents the average of the raw data gathered during the
+survey process. This data is not comparable to the table presenting the
+remuneration average per country, since the number of responses taking into
+account does not provide the minimum accuracy level demanded in this type of
+studies.
+
+
+
+
+CARSA                                                                            Page 164 of 211
+

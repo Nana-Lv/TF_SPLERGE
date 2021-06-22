@@ -1,0 +1,70 @@
+         Macroeconomic and fiscal assumptions underlying the baseline scenario
+
+
+                                                    2011   2012     2013       2014     2015        2016        2017      2018       2019       2020
+         Real GDP growth                            -1.6    -3.3      0.3       2.1       2.0           1.8      1.6        1.6        1.6           1.6
+         GDP deﬂator growth                          0.7     1.1      1.2       1.4       1.5           1.5      1.5        1.5        1.7           1.7
+         Primary balance-to-GDP ratio                0.1     0.5      2.2       3.3       4.5           4.4      4.3        4.1        4.0           3.9
+         Interest payments-to-GDP ratio              4.1     5.0      5.2       5.1       5.0           4.9      4.7        4.6        4.5           4.4
+         Average effective interest rates            4.4     4.6      4.7       4.6       4.6           4.6      4.6        4.6        4.6           4.6
+         Fiscal balance-to-GDP ratio                -4.0    -4.5     -3.0      -1.8      -0.5          -0.5     -0.5       -0.5       -0.5          -0.5
+
+
+
+         is assumed to be 1.5 percentage points lower, i.e. at about 2.5% on average between 2014 and
+         2020, under the same growth assumptions debt would stabilise at slightly below 110% of GDP
+         by 2020 (see Chart B).
+
+         Assuming a more adverse GDP decline in the short term
+
+         Two further departures from the baseline scenario are analysed below. First, it is assumed that
+         a very negative shock to GDP takes place between 2012 and 2013. This shock is calibrated to
+         broadly match the current lower bound of GDP forecasts among market analysts for 2012 and
+         2013. This corresponds to a two-percentage-point reduction in GDP growth per year compared
+         with the baseline scenario (see Chart A).
+
+         This scenario shows that such a shock to GDP, which is summarised by a cumulated GDP fall
+         of 7% until the end of 2013, would lead to a temporary increase in the stock of debt to 124% of
+         GDP in 2013. In this adverse scenario, it is assumed that there is no recovery in the loss of GDP
+         and that ﬁscal policy remains passive, i.e. there is no extra consolidation effort in response to the
+         worsening macroeconomic scenario, which leads to a two-year delay in achieving the 3% deﬁcit
+
+
+         Chart A GDP growth scenarios                                            Chart B General government debt scenarios
+
+
+         (annual percentage changes)                                             (as a percentage of GDP)
+
+                     baseline scenario                                                        baseline scenario
+                     adverse growth scenario                                                  adverse growth scenario
+                     impact of structural reforms                                             impact of structural reforms
+                                                                                              baseline with smaller consolidation effort
+          6                                                               6      130                                                                130
+
+
+          4                                                               4      120                                                                120
+
+
+          2                                                               2      110                                                                110
+
+
+          0                                                               0      100                                                                100
+
+
+         -2                                                               -2      90                                                                90
+
+
+         -4                                                               -4      80                                                                80
+
+
+         -6                                                               -6      70                                                                70
+              2008      2010    2012     2014       2016   2018    2020                2008     2010     2012    2014     2016     2018      2020
+
+         Sources: Eurostat and ECB calculations.                                 Sources: Eurostat and ECB calculations.
+
+
+
+     ECB
+     Monthly Bulletin
+98   March 2012
+

@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-022.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="56" x2="84" y1="427" y2="436"/>
+                <content>French</content>
+                <instruction instr-id="4583" subinstr-id="0"/>
+                <instruction instr-id="4583" subinstr-id="2"/>
+                <instruction instr-id="4583" subinstr-id="4"/>
+                <instruction instr-id="4583" subinstr-id="6"/>
+                <instruction instr-id="4583" subinstr-id="8"/>
+                <instruction instr-id="4583" subinstr-id="10"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="127" x2="174" y1="427" y2="436"/>
+                <content>False friend</content>
+                <instruction instr-id="4585" subinstr-id="0"/>
+                <instruction instr-id="4585" subinstr-id="2"/>
+                <instruction instr-id="4585" subinstr-id="4"/>
+                <instruction instr-id="4585" subinstr-id="6"/>
+                <instruction instr-id="4585" subinstr-id="8"/>
+                <instruction instr-id="4585" subinstr-id="12"/>
+                <instruction instr-id="4585" subinstr-id="14"/>
+                <instruction instr-id="4585" subinstr-id="16"/>
+                <instruction instr-id="4585" subinstr-id="18"/>
+                <instruction instr-id="4585" subinstr-id="20"/>
+                <instruction instr-id="4585" subinstr-id="22"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="198" x2="265" y1="427" y2="436"/>
+                <content>Why is it wrong?</content>
+                <instruction instr-id="4587" subinstr-id="0"/>
+                <instruction instr-id="4587" subinstr-id="2"/>
+                <instruction instr-id="4587" subinstr-id="4"/>
+                <instruction instr-id="4587" subinstr-id="8"/>
+                <instruction instr-id="4587" subinstr-id="10"/>
+                <instruction instr-id="4587" subinstr-id="14"/>
+                <instruction instr-id="4587" subinstr-id="16"/>
+                <instruction instr-id="4587" subinstr-id="20"/>
+                <instruction instr-id="4587" subinstr-id="22"/>
+                <instruction instr-id="4587" subinstr-id="24"/>
+                <instruction instr-id="4587" subinstr-id="26"/>
+                <instruction instr-id="4587" subinstr-id="28"/>
+                <instruction instr-id="4587" subinstr-id="30"/>
+            </cell>
+            <cell id="3" start-col="3" start-row="0">
+                <bounding-box x1="340" x2="440" y1="427" y2="436"/>
+                <content>What’s the correct word?</content>
+                <instruction instr-id="4589" subinstr-id="0"/>
+                <instruction instr-id="4589" subinstr-id="2"/>
+                <instruction instr-id="4589" subinstr-id="4"/>
+                <instruction instr-id="4589" subinstr-id="6"/>
+                <instruction instr-id="4589" subinstr-id="8"/>
+                <instruction instr-id="4589" subinstr-id="10"/>
+                <instruction instr-id="4589" subinstr-id="14"/>
+                <instruction instr-id="4589" subinstr-id="16"/>
+                <instruction instr-id="4589" subinstr-id="18"/>
+                <instruction instr-id="4589" subinstr-id="22"/>
+                <instruction instr-id="4589" subinstr-id="24"/>
+                <instruction instr-id="4589" subinstr-id="26"/>
+                <instruction instr-id="4589" subinstr-id="28"/>
+                <instruction instr-id="4589" subinstr-id="30"/>
+                <instruction instr-id="4589" subinstr-id="32"/>
+                <instruction instr-id="4589" subinstr-id="34"/>
+                <instruction instr-id="4589" subinstr-id="38"/>
+                <instruction instr-id="4589" subinstr-id="40"/>
+                <instruction instr-id="4589" subinstr-id="42"/>
+                <instruction instr-id="4589" subinstr-id="44"/>
+                <instruction instr-id="4589" subinstr-id="46"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="1">
+                <bounding-box x1="56" x2="77" y1="412" y2="421"/>
+                <content>actuel</content>
+                <instruction instr-id="4594" subinstr-id="0"/>
+                <instruction instr-id="4594" subinstr-id="2"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="1">
+                <bounding-box x1="127" x2="148" y1="412" y2="421"/>
+                <content>actual</content>
+                <instruction instr-id="4597" subinstr-id="0"/>
+                <instruction instr-id="4597" subinstr-id="2"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="1">
+                <bounding-box x1="198" x2="264" y1="412" y2="421"/>
+                <content>‘actual’ means ‘real’ </content>
+                <instruction instr-id="4599" subinstr-id="0"/>
+                <instruction instr-id="4599" subinstr-id="2"/>
+                <instruction instr-id="4599" subinstr-id="4"/>
+                <instruction instr-id="4599" subinstr-id="6"/>
+                <instruction instr-id="4599" subinstr-id="8"/>
+                <instruction instr-id="4599" subinstr-id="10"/>
+                <instruction instr-id="4599" subinstr-id="12"/>
+                <instruction instr-id="4599" subinstr-id="14"/>
+                <instruction instr-id="4599" subinstr-id="16"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="1">
+                <bounding-box x1="340" x2="392" y1="412" y2="421"/>
+                <content>current, topical</content>
+                <instruction instr-id="4601" subinstr-id="0"/>
+                <instruction instr-id="4601" subinstr-id="2"/>
+                <instruction instr-id="4601" subinstr-id="4"/>
+                <instruction instr-id="4601" subinstr-id="6"/>
+                <instruction instr-id="4601" subinstr-id="8"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="2">
+                <bounding-box x1="56" x2="84" y1="398" y2="407"/>
+                <content>adéquat</content>
+                <instruction instr-id="4604" subinstr-id="0"/>
+                <instruction instr-id="4604" subinstr-id="2"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="2">
+                <bounding-box x1="127" x2="160" y1="398" y2="407"/>
+                <content>adequate</content>
+                <instruction instr-id="4607" subinstr-id="0"/>
+                <instruction instr-id="4607" subinstr-id="2"/>
+                <instruction instr-id="4607" subinstr-id="4"/>
+            </cell>
+            <cell id="10" start-col="2" start-row="2">
+                <bounding-box x1="198" x2="294" y1="398" y2="407"/>
+                <content>‘adequate’ means ‘sufficient’</content>
+                <instruction instr-id="4609" subinstr-id="0"/>
+                <instruction instr-id="4609" subinstr-id="2"/>
+                <instruction instr-id="4609" subinstr-id="4"/>
+                <instruction instr-id="4609" subinstr-id="6"/>
+                <instruction instr-id="4609" subinstr-id="8"/>
+                <instruction instr-id="4609" subinstr-id="10"/>
+                <instruction instr-id="4609" subinstr-id="12"/>
+                <instruction instr-id="4609" subinstr-id="14"/>
+                <instruction instr-id="4609" subinstr-id="16"/>
+                <instruction instr-id="4609" subinstr-id="18"/>
+            </cell>
+            <cell id="11" start-col="3" start-row="2">
+                <bounding-box x1="340" x2="367" y1="398" y2="407"/>
+                <content>suitable</content>
+                <instruction instr-id="4611"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="3">
+                <bounding-box x1="56" x2="87" y1="383" y2="392"/>
+                <content>assister à</content>
+                <instruction instr-id="4614" subinstr-id="0"/>
+                <instruction instr-id="4614" subinstr-id="2"/>
+                <instruction instr-id="4614" subinstr-id="4"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="3">
+                <bounding-box x1="127" x2="154" y1="383" y2="392"/>
+                <content>assist at</content>
+                <instruction instr-id="4617" subinstr-id="0"/>
+                <instruction instr-id="4617" subinstr-id="2"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="3">
+                <bounding-box x1="198" x2="264" y1="383" y2="392"/>
+                <content>‘assist’ means ‘help’.</content>
+                <instruction instr-id="4619" subinstr-id="0"/>
+                <instruction instr-id="4619" subinstr-id="2"/>
+                <instruction instr-id="4619" subinstr-id="4"/>
+                <instruction instr-id="4619" subinstr-id="6"/>
+                <instruction instr-id="4619" subinstr-id="8"/>
+                <instruction instr-id="4619" subinstr-id="10"/>
+                <instruction instr-id="4619" subinstr-id="12"/>
+                <instruction instr-id="4619" subinstr-id="14"/>
+            </cell>
+            <cell id="15" start-col="3" start-row="3">
+                <bounding-box x1="340" x2="412" y1="383" y2="392"/>
+                <content>attend, participate in</content>
+                <instruction instr-id="4621" subinstr-id="0"/>
+                <instruction instr-id="4621" subinstr-id="2"/>
+                <instruction instr-id="4621" subinstr-id="4"/>
+                <instruction instr-id="4621" subinstr-id="6"/>
+                <instruction instr-id="4621" subinstr-id="8"/>
+                <instruction instr-id="4621" subinstr-id="10"/>
+                <instruction instr-id="4621" subinstr-id="12"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="4">
+                <bounding-box x1="56" x2="86" y1="368" y2="377"/>
+                <content>attribuer</content>
+                <instruction instr-id="4624"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="4">
+                <bounding-box x1="127" x2="166" y1="368" y2="377"/>
+                <content>attribute to</content>
+                <instruction instr-id="4627" subinstr-id="0"/>
+                <instruction instr-id="4627" subinstr-id="2"/>
+                <instruction instr-id="4627" subinstr-id="4"/>
+                <instruction instr-id="4627" subinstr-id="6"/>
+            </cell>
+            <cell id="18" start-col="2" start-row="4">
+                <bounding-box x1="198" x2="315" y1="357" y2="377"/>
+                <content>‘attribute to’ means ‘consider to be
+due to/characteristic of’</content>
+                <instruction instr-id="4629" subinstr-id="0"/>
+                <instruction instr-id="4629" subinstr-id="2"/>
+                <instruction instr-id="4629" subinstr-id="4"/>
+                <instruction instr-id="4629" subinstr-id="6"/>
+                <instruction instr-id="4629" subinstr-id="8"/>
+                <instruction instr-id="4629" subinstr-id="10"/>
+                <instruction instr-id="4629" subinstr-id="12"/>
+                <instruction instr-id="4629" subinstr-id="14"/>
+                <instruction instr-id="4629" subinstr-id="16"/>
+                <instruction instr-id="4629" subinstr-id="18"/>
+                <instruction instr-id="4629" subinstr-id="20"/>
+                <instruction instr-id="4633" subinstr-id="0"/>
+                <instruction instr-id="4633" subinstr-id="2"/>
+                <instruction instr-id="4633" subinstr-id="4"/>
+                <instruction instr-id="4633" subinstr-id="6"/>
+                <instruction instr-id="4633" subinstr-id="8"/>
+                <instruction instr-id="4633" subinstr-id="10"/>
+            </cell>
+            <cell id="19" start-col="3" start-row="4">
+                <bounding-box x1="340" x2="410" y1="368" y2="377"/>
+                <content>allocate to, assign to</content>
+                <instruction instr-id="4635" subinstr-id="0"/>
+                <instruction instr-id="4635" subinstr-id="2"/>
+                <instruction instr-id="4635" subinstr-id="4"/>
+                <instruction instr-id="4635" subinstr-id="6"/>
+                <instruction instr-id="4635" subinstr-id="8"/>
+                <instruction instr-id="4635" subinstr-id="10"/>
+                <instruction instr-id="4635" subinstr-id="12"/>
+            </cell>
+            <cell id="20" start-col="0" start-row="5">
+                <bounding-box x1="56" x2="90" y1="342" y2="351"/>
+                <content>compléter</content>
+                <instruction instr-id="4638" subinstr-id="0"/>
+                <instruction instr-id="4638" subinstr-id="2"/>
+                <instruction instr-id="4638" subinstr-id="4"/>
+            </cell>
+            <cell id="21" start-col="1" start-row="5">
+                <bounding-box x1="127" x2="160" y1="342" y2="351"/>
+                <content>complete</content>
+                <instruction instr-id="4641" subinstr-id="0"/>
+                <instruction instr-id="4641" subinstr-id="2"/>
+                <instruction instr-id="4641" subinstr-id="4"/>
+            </cell>
+            <cell id="22" start-col="2" start-row="5">
+                <bounding-box x1="198" x2="280" y1="342" y2="351"/>
+                <content>‘complete’ means ‘finish’</content>
+                <instruction instr-id="4643" subinstr-id="0"/>
+                <instruction instr-id="4643" subinstr-id="2"/>
+                <instruction instr-id="4643" subinstr-id="4"/>
+                <instruction instr-id="4643" subinstr-id="6"/>
+                <instruction instr-id="4643" subinstr-id="8"/>
+                <instruction instr-id="4643" subinstr-id="10"/>
+                <instruction instr-id="4643" subinstr-id="12"/>
+                <instruction instr-id="4643" subinstr-id="14"/>
+                <instruction instr-id="4643" subinstr-id="16"/>
+            </cell>
+            <cell id="23" start-col="3" start-row="5">
+                <bounding-box x1="340" x2="381" y1="342" y2="351"/>
+                <content>supplement</content>
+                <instruction instr-id="4645" subinstr-id="0"/>
+                <instruction instr-id="4645" subinstr-id="2"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="6">
+                <bounding-box x1="56" x2="72" y1="327" y2="336"/>
+                <content>délai</content>
+                <instruction instr-id="4648"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="6">
+                <bounding-box x1="127" x2="146" y1="327" y2="336"/>
+                <content>delay</content>
+                <instruction instr-id="4651" subinstr-id="0"/>
+                <instruction instr-id="4651" subinstr-id="2"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="6">
+                <bounding-box x1="198" x2="320" y1="316" y2="336"/>
+                <content>‘a delay ’ means ‘a postponement or
+hold-up’(= retard in French)</content>
+                <instruction instr-id="4653" subinstr-id="0"/>
+                <instruction instr-id="4653" subinstr-id="2"/>
+                <instruction instr-id="4653" subinstr-id="4"/>
+                <instruction instr-id="4653" subinstr-id="6"/>
+                <instruction instr-id="4653" subinstr-id="8"/>
+                <instruction instr-id="4653" subinstr-id="10"/>
+                <instruction instr-id="4653" subinstr-id="12"/>
+                <instruction instr-id="4657" subinstr-id="0"/>
+                <instruction instr-id="4657" subinstr-id="2"/>
+                <instruction instr-id="4659" subinstr-id="0"/>
+                <instruction instr-id="4659" subinstr-id="2"/>
+                <instruction instr-id="4659" subinstr-id="4"/>
+                <instruction instr-id="4662"/>
+                <instruction instr-id="4664"/>
+                <instruction instr-id="4666"/>
+                <instruction instr-id="4668" subinstr-id="0"/>
+                <instruction instr-id="4668" subinstr-id="2"/>
+                <instruction instr-id="4668" subinstr-id="4"/>
+            </cell>
+            <cell id="27" start-col="3" start-row="6">
+                <bounding-box x1="340" x2="406" y1="327" y2="336"/>
+                <content>deadline, time limit</content>
+                <instruction instr-id="4671" subinstr-id="0"/>
+                <instruction instr-id="4671" subinstr-id="2"/>
+            </cell>
+            <cell id="28" start-col="0" start-row="7">
+                <bounding-box x1="56" x2="84" y1="301" y2="310"/>
+                <content>élaborer</content>
+                <instruction instr-id="4674" subinstr-id="0"/>
+                <instruction instr-id="4674" subinstr-id="2"/>
+                <instruction instr-id="4674" subinstr-id="4"/>
+            </cell>
+            <cell id="29" start-col="1" start-row="7">
+                <bounding-box x1="127" x2="182" y1="301" y2="310"/>
+                <content>elaborate (verb)</content>
+                <instruction instr-id="4677" subinstr-id="0"/>
+                <instruction instr-id="4677" subinstr-id="2"/>
+                <instruction instr-id="4677" subinstr-id="4"/>
+                <instruction instr-id="4677" subinstr-id="6"/>
+                <instruction instr-id="4677" subinstr-id="8"/>
+                <instruction instr-id="4677" subinstr-id="10"/>
+            </cell>
+            <cell id="30" start-col="2" start-row="7">
+                <bounding-box x1="198" x2="304" y1="289" y2="310"/>
+                <content>‘to elaborate’ means ‘to go into
+detail’</content>
+                <instruction instr-id="4679" subinstr-id="0"/>
+                <instruction instr-id="4679" subinstr-id="2"/>
+                <instruction instr-id="4679" subinstr-id="4"/>
+                <instruction instr-id="4679" subinstr-id="6"/>
+                <instruction instr-id="4679" subinstr-id="8"/>
+                <instruction instr-id="4679" subinstr-id="10"/>
+                <instruction instr-id="4679" subinstr-id="12"/>
+                <instruction instr-id="4679" subinstr-id="14"/>
+                <instruction instr-id="4679" subinstr-id="16"/>
+                <instruction instr-id="4679" subinstr-id="18"/>
+                <instruction instr-id="4679" subinstr-id="20"/>
+                <instruction instr-id="4679" subinstr-id="22"/>
+                <instruction instr-id="4679" subinstr-id="24"/>
+                <instruction instr-id="4682" subinstr-id="0"/>
+                <instruction instr-id="4682" subinstr-id="2"/>
+            </cell>
+            <cell id="31" start-col="3" start-row="7">
+                <bounding-box x1="340" x2="420" y1="301" y2="310"/>
+                <content>draft, develop, produce</content>
+                <instruction instr-id="4684" subinstr-id="0"/>
+                <instruction instr-id="4684" subinstr-id="2"/>
+                <instruction instr-id="4684" subinstr-id="4"/>
+                <instruction instr-id="4684" subinstr-id="6"/>
+                <instruction instr-id="4684" subinstr-id="8"/>
+                <instruction instr-id="4684" subinstr-id="10"/>
+                <instruction instr-id="4684" subinstr-id="12"/>
+                <instruction instr-id="4684" subinstr-id="14"/>
+            </cell>
+            <cell id="32" start-col="0" start-row="8">
+                <bounding-box x1="56" x2="85" y1="275" y2="284"/>
+                <content>éventuel</content>
+                <instruction instr-id="4687" subinstr-id="0"/>
+                <instruction instr-id="4687" subinstr-id="2"/>
+            </cell>
+            <cell id="33" start-col="1" start-row="8">
+                <bounding-box x1="127" x2="157" y1="275" y2="284"/>
+                <content>eventual</content>
+                <instruction instr-id="4690" subinstr-id="0"/>
+                <instruction instr-id="4690" subinstr-id="2"/>
+                <instruction instr-id="4690" subinstr-id="4"/>
+            </cell>
+            <cell id="34" start-col="2" start-row="8">
+                <bounding-box x1="198" x2="288" y1="275" y2="284"/>
+                <content>‘eventual’ means ‘ultimate’</content>
+                <instruction instr-id="4692" subinstr-id="0"/>
+                <instruction instr-id="4692" subinstr-id="2"/>
+                <instruction instr-id="4692" subinstr-id="4"/>
+                <instruction instr-id="4692" subinstr-id="6"/>
+                <instruction instr-id="4692" subinstr-id="8"/>
+                <instruction instr-id="4692" subinstr-id="10"/>
+                <instruction instr-id="4692" subinstr-id="12"/>
+                <instruction instr-id="4692" subinstr-id="14"/>
+                <instruction instr-id="4692" subinstr-id="16"/>
+                <instruction instr-id="4692" subinstr-id="18"/>
+                <instruction instr-id="4692" subinstr-id="20"/>
+            </cell>
+            <cell id="35" start-col="3" start-row="8">
+                <bounding-box x1="340" x2="352" y1="275" y2="284"/>
+                <content>any</content>
+                <instruction instr-id="4694" subinstr-id="0"/>
+                <instruction instr-id="4694" subinstr-id="2"/>
+            </cell>
+            <cell id="36" start-col="0" start-row="9">
+                <bounding-box x1="56" x2="75" y1="260" y2="269"/>
+                <content>prévu</content>
+                <instruction instr-id="4697" subinstr-id="0"/>
+                <instruction instr-id="4697" subinstr-id="2"/>
+            </cell>
+            <cell id="37" start-col="1" start-row="9">
+                <bounding-box x1="127" x2="157" y1="260" y2="269"/>
+                <content>foreseen</content>
+                <instruction instr-id="4700" subinstr-id="0"/>
+                <instruction instr-id="4700" subinstr-id="2"/>
+                <instruction instr-id="4700" subinstr-id="4"/>
+            </cell>
+            <cell id="38" start-col="2" start-row="9">
+                <bounding-box x1="198" x2="293" y1="260" y2="269"/>
+                <content>‘foreseen’ means ‘predicted’</content>
+                <instruction instr-id="4702" subinstr-id="0"/>
+                <instruction instr-id="4702" subinstr-id="2"/>
+                <instruction instr-id="4702" subinstr-id="4"/>
+                <instruction instr-id="4702" subinstr-id="6"/>
+                <instruction instr-id="4702" subinstr-id="8"/>
+                <instruction instr-id="4702" subinstr-id="10"/>
+                <instruction instr-id="4702" subinstr-id="12"/>
+                <instruction instr-id="4702" subinstr-id="14"/>
+                <instruction instr-id="4702" subinstr-id="16"/>
+                <instruction instr-id="4702" subinstr-id="18"/>
+                <instruction instr-id="4702" subinstr-id="20"/>
+                <instruction instr-id="4702" subinstr-id="22"/>
+            </cell>
+            <cell id="39" start-col="3" start-row="9">
+                <bounding-box x1="340" x2="414" y1="260" y2="269"/>
+                <content>provided for, planned</content>
+                <instruction instr-id="4704" subinstr-id="0"/>
+                <instruction instr-id="4704" subinstr-id="2"/>
+                <instruction instr-id="4704" subinstr-id="4"/>
+                <instruction instr-id="4704" subinstr-id="6"/>
+                <instruction instr-id="4704" subinstr-id="8"/>
+            </cell>
+            <cell id="40" start-col="0" start-row="10">
+                <bounding-box x1="56" x2="90" y1="245" y2="254"/>
+                <content>important</content>
+                <instruction instr-id="4707" subinstr-id="0"/>
+                <instruction instr-id="4707" subinstr-id="2"/>
+                <instruction instr-id="4707" subinstr-id="4"/>
+            </cell>
+            <cell id="41" start-col="1" start-row="10">
+                <bounding-box x1="127" x2="162" y1="245" y2="254"/>
+                <content>important</content>
+                <instruction instr-id="4710" subinstr-id="0"/>
+                <instruction instr-id="4710" subinstr-id="2"/>
+                <instruction instr-id="4710" subinstr-id="4"/>
+            </cell>
+            <cell id="42" start-col="2" start-row="10">
+                <bounding-box x1="198" x2="314" y1="234" y2="254"/>
+                <content>‘important’ is right if you mean
+‘significant’; but not if you mean&gt;</content>
+                <instruction instr-id="4712" subinstr-id="0"/>
+                <instruction instr-id="4712" subinstr-id="2"/>
+                <instruction instr-id="4712" subinstr-id="4"/>
+                <instruction instr-id="4712" subinstr-id="6"/>
+                <instruction instr-id="4712" subinstr-id="8"/>
+                <instruction instr-id="4712" subinstr-id="10"/>
+                <instruction instr-id="4712" subinstr-id="12"/>
+                <instruction instr-id="4712" subinstr-id="14"/>
+                <instruction instr-id="4715" subinstr-id="0"/>
+                <instruction instr-id="4715" subinstr-id="2"/>
+                <instruction instr-id="4715" subinstr-id="4"/>
+                <instruction instr-id="4715" subinstr-id="6"/>
+                <instruction instr-id="4715" subinstr-id="8"/>
+                <instruction instr-id="4715" subinstr-id="10"/>
+            </cell>
+            <cell id="43" start-col="3" start-row="10">
+                <bounding-box x1="340" x2="364" y1="245" y2="254"/>
+                <content>&gt; large</content>
+                <instruction instr-id="4717" subinstr-id="0"/>
+                <instruction instr-id="4717" subinstr-id="2"/>
+            </cell>
+            <cell id="44" start-col="0" start-row="11">
+                <bounding-box x1="56" x2="84" y1="219" y2="228"/>
+                <content>matériel</content>
+                <instruction instr-id="4720" subinstr-id="0"/>
+                <instruction instr-id="4720" subinstr-id="2"/>
+            </cell>
+            <cell id="45" start-col="1" start-row="11">
+                <bounding-box x1="127" x2="156" y1="219" y2="228"/>
+                <content>material</content>
+                <instruction instr-id="4723" subinstr-id="0"/>
+                <instruction instr-id="4723" subinstr-id="2"/>
+                <instruction instr-id="4723" subinstr-id="4"/>
+            </cell>
+            <cell id="46" start-col="2" start-row="11">
+                <bounding-box x1="198" x2="282" y1="207" y2="228"/>
+                <content>‘material’ means ‘matter’,
+‘information’</content>
+                <instruction instr-id="4725" subinstr-id="0"/>
+                <instruction instr-id="4725" subinstr-id="2"/>
+                <instruction instr-id="4725" subinstr-id="4"/>
+                <instruction instr-id="4725" subinstr-id="6"/>
+                <instruction instr-id="4725" subinstr-id="8"/>
+                <instruction instr-id="4725" subinstr-id="10"/>
+                <instruction instr-id="4725" subinstr-id="12"/>
+                <instruction instr-id="4725" subinstr-id="14"/>
+                <instruction instr-id="4725" subinstr-id="16"/>
+                <instruction instr-id="4725" subinstr-id="18"/>
+                <instruction instr-id="4725" subinstr-id="20"/>
+                <instruction instr-id="4725" subinstr-id="22"/>
+                <instruction instr-id="4728" subinstr-id="0"/>
+                <instruction instr-id="4728" subinstr-id="2"/>
+                <instruction instr-id="4728" subinstr-id="4"/>
+                <instruction instr-id="4728" subinstr-id="6"/>
+                <instruction instr-id="4728" subinstr-id="8"/>
+            </cell>
+            <cell id="47" start-col="3" start-row="11">
+                <bounding-box x1="340" x2="410" y1="219" y2="228"/>
+                <content>supplies, equipment</content>
+                <instruction instr-id="4730" subinstr-id="0"/>
+                <instruction instr-id="4730" subinstr-id="2"/>
+                <instruction instr-id="4730" subinstr-id="4"/>
+            </cell>
+            <cell id="48" start-col="0" start-row="12">
+                <bounding-box x1="56" x2="96" y1="193" y2="202"/>
+                <content>opportunité</content>
+                <instruction instr-id="4733" subinstr-id="0"/>
+                <instruction instr-id="4733" subinstr-id="2"/>
+                <instruction instr-id="4733" subinstr-id="4"/>
+                <instruction instr-id="4733" subinstr-id="6"/>
+            </cell>
+            <cell id="49" start-col="1" start-row="12">
+                <bounding-box x1="127" x2="169" y1="193" y2="202"/>
+                <content>opportunity</content>
+                <instruction instr-id="4736" subinstr-id="0"/>
+                <instruction instr-id="4736" subinstr-id="2"/>
+                <instruction instr-id="4736" subinstr-id="4"/>
+            </cell>
+            <cell id="50" start-col="2" start-row="12">
+                <bounding-box x1="198" x2="295" y1="193" y2="202"/>
+                <content>‘opportunity’ means‘chance’</content>
+                <instruction instr-id="4738" subinstr-id="0"/>
+                <instruction instr-id="4738" subinstr-id="2"/>
+                <instruction instr-id="4738" subinstr-id="4"/>
+                <instruction instr-id="4738" subinstr-id="6"/>
+                <instruction instr-id="4738" subinstr-id="8"/>
+                <instruction instr-id="4738" subinstr-id="10"/>
+                <instruction instr-id="4738" subinstr-id="12"/>
+                <instruction instr-id="4738" subinstr-id="14"/>
+                <instruction instr-id="4738" subinstr-id="16"/>
+                <instruction instr-id="4738" subinstr-id="18"/>
+            </cell>
+            <cell id="51" start-col="3" start-row="12">
+                <bounding-box x1="340" x2="379" y1="193" y2="202"/>
+                <content>advisability</content>
+                <instruction instr-id="4740" subinstr-id="0"/>
+                <instruction instr-id="4740" subinstr-id="2"/>
+            </cell>
+            <cell id="52" start-col="0" start-row="13">
+                <bounding-box x1="56" x2="97" y1="178" y2="187"/>
+                <content>perspectives</content>
+                <instruction instr-id="4743" subinstr-id="0"/>
+                <instruction instr-id="4743" subinstr-id="2"/>
+                <instruction instr-id="4743" subinstr-id="4"/>
+                <instruction instr-id="4743" subinstr-id="6"/>
+                <instruction instr-id="4743" subinstr-id="8"/>
+            </cell>
+            <cell id="53" start-col="1" start-row="13">
+                <bounding-box x1="127" x2="170" y1="178" y2="187"/>
+                <content>perspectives</content>
+                <instruction instr-id="4746" subinstr-id="0"/>
+                <instruction instr-id="4746" subinstr-id="2"/>
+                <instruction instr-id="4746" subinstr-id="4"/>
+            </cell>
+            <cell id="54" start-col="2" start-row="13">
+                <bounding-box x1="198" x2="307" y1="178" y2="187"/>
+                <content>‘perspective’ means ‘standpoint’</content>
+                <instruction instr-id="4748" subinstr-id="0"/>
+                <instruction instr-id="4748" subinstr-id="2"/>
+                <instruction instr-id="4748" subinstr-id="4"/>
+                <instruction instr-id="4748" subinstr-id="6"/>
+                <instruction instr-id="4748" subinstr-id="8"/>
+                <instruction instr-id="4748" subinstr-id="10"/>
+                <instruction instr-id="4748" subinstr-id="12"/>
+                <instruction instr-id="4748" subinstr-id="14"/>
+                <instruction instr-id="4748" subinstr-id="16"/>
+                <instruction instr-id="4748" subinstr-id="18"/>
+            </cell>
+            <cell id="55" start-col="3" start-row="13">
+                <bounding-box x1="340" x2="404" y1="178" y2="187"/>
+                <content>prospects, outlook</content>
+                <instruction instr-id="4750" subinstr-id="0"/>
+                <instruction instr-id="4750" subinstr-id="2"/>
+                <instruction instr-id="4750" subinstr-id="4"/>
+                <instruction instr-id="4750" subinstr-id="6"/>
+            </cell>
+            <cell id="56" start-col="0" start-row="14">
+                <bounding-box x1="56" x2="86" y1="163" y2="172"/>
+                <content>respecter</content>
+                <instruction instr-id="4753" subinstr-id="0"/>
+                <instruction instr-id="4753" subinstr-id="2"/>
+                <instruction instr-id="4753" subinstr-id="4"/>
+                <instruction instr-id="4753" subinstr-id="6"/>
+                <instruction instr-id="4753" subinstr-id="8"/>
+            </cell>
+            <cell id="57" start-col="1" start-row="14">
+                <bounding-box x1="127" x2="152" y1="163" y2="172"/>
+                <content>respect</content>
+                <instruction instr-id="4756" subinstr-id="0"/>
+                <instruction instr-id="4756" subinstr-id="2"/>
+                <instruction instr-id="4756" subinstr-id="4"/>
+            </cell>
+            <cell id="58" start-col="2" start-row="14">
+                <bounding-box x1="198" x2="308" y1="152" y2="172"/>
+                <content>‘to respect’ means ‘to value’ or
+‘honour’ someone or something</content>
+                <instruction instr-id="4758" subinstr-id="0"/>
+                <instruction instr-id="4758" subinstr-id="2"/>
+                <instruction instr-id="4758" subinstr-id="4"/>
+                <instruction instr-id="4758" subinstr-id="6"/>
+                <instruction instr-id="4758" subinstr-id="8"/>
+                <instruction instr-id="4758" subinstr-id="10"/>
+                <instruction instr-id="4758" subinstr-id="12"/>
+                <instruction instr-id="4758" subinstr-id="14"/>
+                <instruction instr-id="4758" subinstr-id="16"/>
+                <instruction instr-id="4758" subinstr-id="18"/>
+                <instruction instr-id="4758" subinstr-id="20"/>
+                <instruction instr-id="4758" subinstr-id="22"/>
+                <instruction instr-id="4758" subinstr-id="24"/>
+                <instruction instr-id="4761" subinstr-id="0"/>
+                <instruction instr-id="4761" subinstr-id="2"/>
+                <instruction instr-id="4761" subinstr-id="4"/>
+                <instruction instr-id="4761" subinstr-id="6"/>
+            </cell>
+            <cell id="59" start-col="3" start-row="14">
+                <bounding-box x1="340" x2="436" y1="152" y2="172"/>
+                <content>comply with (rules), meet (a
+deadline)</content>
+                <instruction instr-id="4763" subinstr-id="0"/>
+                <instruction instr-id="4763" subinstr-id="2"/>
+                <instruction instr-id="4766"/>
+            </cell>
+            <cell id="60" start-col="0" start-row="15">
+                <bounding-box x1="56" x2="83" y1="137" y2="146"/>
+                <content>sensible</content>
+                <instruction instr-id="4769"/>
+            </cell>
+            <cell id="61" start-col="1" start-row="15">
+                <bounding-box x1="127" x2="155" y1="137" y2="146"/>
+                <content>sensible</content>
+                <instruction instr-id="4772"/>
+            </cell>
+            <cell id="62" start-col="2" start-row="15">
+                <bounding-box x1="198" x2="295" y1="137" y2="146"/>
+                <content>‘sensible’ means ‘reasonable’</content>
+                <instruction instr-id="4774" subinstr-id="0"/>
+                <instruction instr-id="4774" subinstr-id="2"/>
+                <instruction instr-id="4774" subinstr-id="4"/>
+                <instruction instr-id="4774" subinstr-id="6"/>
+                <instruction instr-id="4774" subinstr-id="8"/>
+                <instruction instr-id="4774" subinstr-id="10"/>
+                <instruction instr-id="4774" subinstr-id="12"/>
+                <instruction instr-id="4774" subinstr-id="14"/>
+            </cell>
+            <cell id="63" start-col="3" start-row="15">
+                <bounding-box x1="340" x2="370" y1="137" y2="146"/>
+                <content>sensitive</content>
+                <instruction instr-id="4776" subinstr-id="0"/>
+                <instruction instr-id="4776" subinstr-id="2"/>
+            </cell>
+        </region>
+    </table>
+    <table id="1">
+        <region col-increment="0" id="0" page="3" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="57" x2="106" y1="472" y2="481"/>
+                <content>Jargon term</content>
+                <instruction instr-id="5817" subinstr-id="0"/>
+                <instruction instr-id="5817" subinstr-id="2"/>
+                <instruction instr-id="5817" subinstr-id="4"/>
+                <instruction instr-id="5817" subinstr-id="6"/>
+                <instruction instr-id="5817" subinstr-id="8"/>
+                <instruction instr-id="5817" subinstr-id="10"/>
+                <instruction instr-id="5817" subinstr-id="14"/>
+                <instruction instr-id="5817" subinstr-id="16"/>
+                <instruction instr-id="5817" subinstr-id="18"/>
+                <instruction instr-id="5817" subinstr-id="20"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="174" x2="260" y1="472" y2="481"/>
+                <content>Suggested definition</content>
+                <instruction instr-id="5819" subinstr-id="0"/>
+                <instruction instr-id="5819" subinstr-id="2"/>
+                <instruction instr-id="5819" subinstr-id="4"/>
+                <instruction instr-id="5819" subinstr-id="6"/>
+                <instruction instr-id="5819" subinstr-id="8"/>
+                <instruction instr-id="5819" subinstr-id="10"/>
+                <instruction instr-id="5819" subinstr-id="12"/>
+                <instruction instr-id="5819" subinstr-id="14"/>
+                <instruction instr-id="5819" subinstr-id="16"/>
+                <instruction instr-id="5819" subinstr-id="20"/>
+                <instruction instr-id="5819" subinstr-id="22"/>
+                <instruction instr-id="5819" subinstr-id="24"/>
+                <instruction instr-id="5819" subinstr-id="26"/>
+                <instruction instr-id="5819" subinstr-id="28"/>
+                <instruction instr-id="5819" subinstr-id="30"/>
+                <instruction instr-id="5819" subinstr-id="32"/>
+                <instruction instr-id="5819" subinstr-id="34"/>
+                <instruction instr-id="5819" subinstr-id="36"/>
+            </cell>
+            <cell id="2" start-col="0" start-row="1">
+                <bounding-box x1="57" x2="116" y1="458" y2="467"/>
+                <content>acceding country</content>
+                <instruction instr-id="5824" subinstr-id="0"/>
+                <instruction instr-id="5824" subinstr-id="2"/>
+                <instruction instr-id="5824" subinstr-id="4"/>
+                <instruction instr-id="5824" subinstr-id="6"/>
+                <instruction instr-id="5824" subinstr-id="8"/>
+                <instruction instr-id="5824" subinstr-id="10"/>
+            </cell>
+            <cell id="3" start-col="1" start-row="1">
+                <bounding-box x1="174" x2="267" y1="458" y2="467"/>
+                <content>country about to join the EU</content>
+                <instruction instr-id="5827" subinstr-id="0"/>
+                <instruction instr-id="5827" subinstr-id="2"/>
+                <instruction instr-id="5827" subinstr-id="4"/>
+                <instruction instr-id="5827" subinstr-id="6"/>
+                <instruction instr-id="5827" subinstr-id="8"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="2">
+                <bounding-box x1="57" x2="138" y1="443" y2="452"/>
+                <content>acquis (communautaire)</content>
+                <instruction instr-id="5829" subinstr-id="0"/>
+                <instruction instr-id="5829" subinstr-id="2"/>
+                <instruction instr-id="5829" subinstr-id="4"/>
+                <instruction instr-id="5829" subinstr-id="6"/>
+                <instruction instr-id="5829" subinstr-id="8"/>
+                <instruction instr-id="5829" subinstr-id="10"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="2">
+                <bounding-box x1="174" x2="223" y1="443" y2="452"/>
+                <content>body of EU law</content>
+                <instruction instr-id="5831" subinstr-id="0"/>
+                <instruction instr-id="5831" subinstr-id="2"/>
+                <instruction instr-id="5831" subinstr-id="4"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="3">
+                <bounding-box x1="57" x2="120" y1="428" y2="437"/>
+                <content>candidate country</content>
+                <instruction instr-id="5834" subinstr-id="0"/>
+                <instruction instr-id="5834" subinstr-id="2"/>
+                <instruction instr-id="5834" subinstr-id="4"/>
+                <instruction instr-id="5834" subinstr-id="6"/>
+                <instruction instr-id="5834" subinstr-id="8"/>
+                <instruction instr-id="5834" subinstr-id="10"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="3">
+                <bounding-box x1="174" x2="299" y1="428" y2="437"/>
+                <content>country still negotiating to join the EU</content>
+                <instruction instr-id="5837" subinstr-id="0"/>
+                <instruction instr-id="5837" subinstr-id="2"/>
+                <instruction instr-id="5837" subinstr-id="4"/>
+                <instruction instr-id="5837" subinstr-id="6"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="4">
+                <bounding-box x1="57" x2="88" y1="413" y2="422"/>
+                <content>cohesion</content>
+                <instruction instr-id="5840" subinstr-id="0"/>
+                <instruction instr-id="5840" subinstr-id="2"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="4">
+                <bounding-box x1="174" x2="418" y1="413" y2="422"/>
+                <content>approach aimed at reducing social and economic disparities within the EU</content>
+                <instruction instr-id="5843" subinstr-id="0"/>
+                <instruction instr-id="5843" subinstr-id="2"/>
+                <instruction instr-id="5843" subinstr-id="4"/>
+                <instruction instr-id="5843" subinstr-id="6"/>
+                <instruction instr-id="5843" subinstr-id="8"/>
+            </cell>
+            <cell id="10" start-col="0" start-row="5">
+                <bounding-box x1="57" x2="96" y1="399" y2="408"/>
+                <content>comitology</content>
+                <instruction instr-id="5846" subinstr-id="0"/>
+                <instruction instr-id="5846" subinstr-id="2"/>
+                <instruction instr-id="5846" subinstr-id="4"/>
+            </cell>
+            <cell id="11" start-col="1" start-row="5">
+                <bounding-box x1="174" x2="408" y1="399" y2="408"/>
+                <content>procedure under which the Commission consults committees of experts</content>
+                <instruction instr-id="5849" subinstr-id="0"/>
+                <instruction instr-id="5849" subinstr-id="2"/>
+                <instruction instr-id="5849" subinstr-id="4"/>
+                <instruction instr-id="5849" subinstr-id="6"/>
+                <instruction instr-id="5849" subinstr-id="8"/>
+                <instruction instr-id="5849" subinstr-id="10"/>
+                <instruction instr-id="5849" subinstr-id="12"/>
+                <instruction instr-id="5849" subinstr-id="14"/>
+                <instruction instr-id="5849" subinstr-id="16"/>
+                <instruction instr-id="5849" subinstr-id="18"/>
+                <instruction instr-id="5849" subinstr-id="20"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="6">
+                <bounding-box x1="57" x2="127" y1="384" y2="393"/>
+                <content>Community method</content>
+                <instruction instr-id="5852" subinstr-id="0"/>
+                <instruction instr-id="5852" subinstr-id="2"/>
+                <instruction instr-id="5852" subinstr-id="4"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="6">
+                <bounding-box x1="174" x2="413" y1="372" y2="393"/>
+                <content>method developed for taking decisions in the EU, where the Commission,
+Parliament and Council work together</content>
+                <instruction instr-id="5855" subinstr-id="0"/>
+                <instruction instr-id="5855" subinstr-id="2"/>
+                <instruction instr-id="5855" subinstr-id="4"/>
+                <instruction instr-id="5855" subinstr-id="6"/>
+                <instruction instr-id="5855" subinstr-id="8"/>
+                <instruction instr-id="5855" subinstr-id="10"/>
+                <instruction instr-id="5855" subinstr-id="12"/>
+                <instruction instr-id="5855" subinstr-id="14"/>
+                <instruction instr-id="5858" subinstr-id="0"/>
+                <instruction instr-id="5858" subinstr-id="2"/>
+                <instruction instr-id="5858" subinstr-id="4"/>
+                <instruction instr-id="5858" subinstr-id="6"/>
+                <instruction instr-id="5858" subinstr-id="8"/>
+                <instruction instr-id="5858" subinstr-id="10"/>
+            </cell>
+            <cell id="14" start-col="0" start-row="7">
+                <bounding-box x1="57" x2="101" y1="358" y2="367"/>
+                <content>enlargement</content>
+                <instruction instr-id="5861" subinstr-id="0"/>
+                <instruction instr-id="5861" subinstr-id="2"/>
+                <instruction instr-id="5861" subinstr-id="4"/>
+            </cell>
+            <cell id="15" start-col="1" start-row="7">
+                <bounding-box x1="174" x2="322" y1="358" y2="367"/>
+                <content>expansion of the EU to include new members</content>
+                <instruction instr-id="5864" subinstr-id="0"/>
+                <instruction instr-id="5864" subinstr-id="2"/>
+                <instruction instr-id="5864" subinstr-id="4"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="8">
+                <bounding-box x1="57" x2="109" y1="343" y2="352"/>
+                <content>mainstreaming</content>
+                <instruction instr-id="5867" subinstr-id="0"/>
+                <instruction instr-id="5867" subinstr-id="2"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="8">
+                <bounding-box x1="174" x2="293" y1="343" y2="352"/>
+                <content>taking into account in all EU policies</content>
+                <instruction instr-id="5870" subinstr-id="0"/>
+                <instruction instr-id="5870" subinstr-id="2"/>
+                <instruction instr-id="5870" subinstr-id="4"/>
+                <instruction instr-id="5870" subinstr-id="6"/>
+                <instruction instr-id="5870" subinstr-id="8"/>
+                <instruction instr-id="5870" subinstr-id="10"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="9">
+                <bounding-box x1="57" x2="109" y1="328" y2="337"/>
+                <content>proportionality</content>
+                <instruction instr-id="5873" subinstr-id="0"/>
+                <instruction instr-id="5873" subinstr-id="2"/>
+                <instruction instr-id="5873" subinstr-id="4"/>
+                <instruction instr-id="5873" subinstr-id="6"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="9">
+                <bounding-box x1="174" x2="433" y1="317" y2="337"/>
+                <content>principle that a level of government must not take any action that exceeds that
+necessary to carry out its assigned tasks</content>
+                <instruction instr-id="5876" subinstr-id="0"/>
+                <instruction instr-id="5876" subinstr-id="2"/>
+                <instruction instr-id="5876" subinstr-id="4"/>
+                <instruction instr-id="5876" subinstr-id="6"/>
+                <instruction instr-id="5876" subinstr-id="8"/>
+                <instruction instr-id="5876" subinstr-id="10"/>
+                <instruction instr-id="5876" subinstr-id="12"/>
+                <instruction instr-id="5876" subinstr-id="14"/>
+                <instruction instr-id="5876" subinstr-id="16"/>
+                <instruction instr-id="5876" subinstr-id="18"/>
+                <instruction instr-id="5879" subinstr-id="0"/>
+                <instruction instr-id="5879" subinstr-id="2"/>
+                <instruction instr-id="5879" subinstr-id="4"/>
+                <instruction instr-id="5879" subinstr-id="6"/>
+                <instruction instr-id="5879" subinstr-id="8"/>
+                <instruction instr-id="5879" subinstr-id="10"/>
+                <instruction instr-id="5879" subinstr-id="12"/>
+                <instruction instr-id="5879" subinstr-id="14"/>
+            </cell>
+            <cell id="20" start-col="0" start-row="10">
+                <bounding-box x1="57" x2="96" y1="302" y2="311"/>
+                <content>subsidiarity</content>
+                <instruction instr-id="5882" subinstr-id="0"/>
+                <instruction instr-id="5882" subinstr-id="2"/>
+            </cell>
+            <cell id="21" start-col="1" start-row="10">
+                <bounding-box x1="174" x2="408" y1="290" y2="311"/>
+                <content>principle that, wherever possible, decisions must be taken at the level of
+government closest to citizens</content>
+                <instruction instr-id="5885" subinstr-id="0"/>
+                <instruction instr-id="5885" subinstr-id="2"/>
+                <instruction instr-id="5885" subinstr-id="4"/>
+                <instruction instr-id="5885" subinstr-id="6"/>
+                <instruction instr-id="5885" subinstr-id="8"/>
+                <instruction instr-id="5885" subinstr-id="10"/>
+                <instruction instr-id="5885" subinstr-id="12"/>
+                <instruction instr-id="5885" subinstr-id="14"/>
+                <instruction instr-id="5885" subinstr-id="16"/>
+                <instruction instr-id="5885" subinstr-id="18"/>
+                <instruction instr-id="5888" subinstr-id="0"/>
+                <instruction instr-id="5888" subinstr-id="2"/>
+                <instruction instr-id="5888" subinstr-id="4"/>
+                <instruction instr-id="5888" subinstr-id="6"/>
+                <instruction instr-id="5888" subinstr-id="8"/>
+            </cell>
+        </region>
+    </table>
+</document>

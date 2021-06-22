@@ -1,0 +1,48 @@
+                                                                         Contract number – REM 01
+                                                                                      Final Report
+
+    - The newer Chained Consumer Price Index for All Urban Consumers (C-CPI-U).
+
+The following table shows a comparison between the European HICP and the CPI-U
+as calculated by the BLS.
+
+Category                                European HICP                          CPI-U
+Definition                    Measure of the average change in     Measure of the average
+                              the prices of goods and services     change over time in the prices
+                              available for purchase in the        of consumer items—that is,
+                              economic territory of the member     goods and services that
+                              State for purposes of directly       people buy for day-to-day
+                              satisfying consumer’s needs          living
+Geographic and population     All households in the territory of   Non-institutional urban
+coverage                      the member State                     population of the United
+                                                                   States
+Item coverage                 Private consumption, except owner- Includes owner-occupied
+                              occupied housing, gambling,        housing and excludes
+                              lotteries, and life insurance      gambling, lotteries, and life
+                                                                 insurance
+Formula                       Laspeyres                          Laspeyres
+Weight update interval        At least 5 yearly updates, annual    Biennial
+                              review
+Elementary aggregate formula Ratio of geometric to arithmetic      Weighted geometric or
+                             mean                                  arithmetic mean
+Classification                Classification of individual    U.S. CPI item classification
+                              consumption by purpose (COICOP) structure
+
+
+Level of detail               94 classes, 160 sub-indexes          211 item strata, 38 index
+                                                                   areas
+
+
+  Table 27 – Differences between the Harmonized Index of Consumer prices and the CPI-U
+
+The geographic and population coverage of the European HICP seems to be decisive
+criteria for the selection of HICP index instead of the CPI-U index as calculated by
+the BLS for the purpose of the study.
+
+The following table presents HICPs as calculated by the ECB in April 2006.
+
+
+
+
+CARSA                                                                             Page 83 of 211
+

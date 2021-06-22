@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-003.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="1" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="191" x2="238" y1="458" y2="467"/>
+                <content>Tax Period</content>
+                <instruction instr-id="45" subinstr-id="0"/>
+                <instruction instr-id="45" subinstr-id="2"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="339" x2="390" y1="458" y2="467"/>
+                <content>Check Date</content>
+                <instruction instr-id="47" subinstr-id="0"/>
+                <instruction instr-id="47" subinstr-id="2"/>
+                <instruction instr-id="47" subinstr-id="4"/>
+                <instruction instr-id="47" subinstr-id="8"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="430" x2="464" y1="458" y2="467"/>
+                <content>A m ount</content>
+                <instruction instr-id="47" subinstr-id="10"/>
+            </cell>
+            <cell id="3" start-col="0" start-row="1">
+                <bounding-box x1="118" x2="269" y1="433" y2="442"/>
+                <content>2007 payable 2008 Fall Provisional</content>
+                <instruction instr-id="62" subinstr-id="0"/>
+                <instruction instr-id="62" subinstr-id="4"/>
+                <instruction instr-id="62" subinstr-id="6"/>
+                <instruction instr-id="62" subinstr-id="10"/>
+                <instruction instr-id="62" subinstr-id="14"/>
+                <instruction instr-id="62" subinstr-id="16"/>
+                <instruction instr-id="62" subinstr-id="18"/>
+                <instruction instr-id="62" subinstr-id="20"/>
+            </cell>
+            <cell id="4" start-col="1" start-row="1">
+                <bounding-box x1="345" x2="384" y1="433" y2="442"/>
+                <content>01-22-10</content>
+                <instruction instr-id="62" subinstr-id="22"/>
+                <instruction instr-id="62" subinstr-id="24"/>
+                <instruction instr-id="62" subinstr-id="26"/>
+            </cell>
+            <cell id="5" start-col="2" start-row="1">
+                <bounding-box x1="413" x2="477" y1="433" y2="442"/>
+                <content>$ 45,439.03</content>
+                <instruction instr-id="64" subinstr-id="0"/>
+                <instruction instr-id="64" subinstr-id="2"/>
+                <instruction instr-id="64" subinstr-id="4"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="2">
+                <bounding-box x1="118" x2="304" y1="420" y2="430"/>
+                <content>Penalty 2007 payable 2008 Fall Provisional</content>
+                <instruction instr-id="66" subinstr-id="0"/>
+                <instruction instr-id="66" subinstr-id="2"/>
+                <instruction instr-id="66" subinstr-id="4"/>
+                <instruction instr-id="66" subinstr-id="6"/>
+                <instruction instr-id="66" subinstr-id="8"/>
+                <instruction instr-id="66" subinstr-id="10"/>
+                <instruction instr-id="66" subinstr-id="12"/>
+                <instruction instr-id="66" subinstr-id="14"/>
+                <instruction instr-id="66" subinstr-id="18"/>
+                <instruction instr-id="66" subinstr-id="20"/>
+                <instruction instr-id="66" subinstr-id="22"/>
+                <instruction instr-id="66" subinstr-id="24"/>
+                <instruction instr-id="66" subinstr-id="26"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="2">
+                <bounding-box x1="345" x2="384" y1="420" y2="430"/>
+                <content>01-22-10</content>
+                <instruction instr-id="66" subinstr-id="28"/>
+                <instruction instr-id="66" subinstr-id="30"/>
+                <instruction instr-id="66" subinstr-id="32"/>
+            </cell>
+            <cell id="8" start-col="2" start-row="2">
+                <bounding-box x1="439" x2="476" y1="420" y2="430"/>
+                <content>9,087.80</content>
+                <instruction instr-id="66" subinstr-id="34"/>
+                <instruction instr-id="66" subinstr-id="36"/>
+                <instruction instr-id="66" subinstr-id="38"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="3">
+                <bounding-box x1="118" x2="250" y1="408" y2="418"/>
+                <content>2008 payable 2009 Spring Tax</content>
+                <instruction instr-id="68" subinstr-id="0"/>
+                <instruction instr-id="68" subinstr-id="2"/>
+                <instruction instr-id="68" subinstr-id="4"/>
+                <instruction instr-id="68" subinstr-id="6"/>
+                <instruction instr-id="68" subinstr-id="10"/>
+                <instruction instr-id="68" subinstr-id="12"/>
+                <instruction instr-id="68" subinstr-id="14"/>
+                <instruction instr-id="68" subinstr-id="16"/>
+                <instruction instr-id="68" subinstr-id="18"/>
+                <instruction instr-id="68" subinstr-id="20"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="3">
+                <bounding-box x1="345" x2="384" y1="408" y2="418"/>
+                <content>01-22-10</content>
+                <instruction instr-id="68" subinstr-id="22"/>
+                <instruction instr-id="68" subinstr-id="24"/>
+                <instruction instr-id="68" subinstr-id="26"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="3">
+                <bounding-box x1="433" x2="477" y1="408" y2="418"/>
+                <content>48,989.80</content>
+                <instruction instr-id="70" subinstr-id="0"/>
+                <instruction instr-id="70" subinstr-id="2"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="4">
+                <bounding-box x1="118" x2="238" y1="396" y2="406"/>
+                <content>2008 payable 2009 FallTax</content>
+                <instruction instr-id="72" subinstr-id="0"/>
+                <instruction instr-id="72" subinstr-id="2"/>
+                <instruction instr-id="72" subinstr-id="4"/>
+                <instruction instr-id="72" subinstr-id="6"/>
+                <instruction instr-id="72" subinstr-id="8"/>
+                <instruction instr-id="72" subinstr-id="10"/>
+                <instruction instr-id="72" subinstr-id="14"/>
+                <instruction instr-id="72" subinstr-id="18"/>
+                <instruction instr-id="72" subinstr-id="22"/>
+                <instruction instr-id="72" subinstr-id="24"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="4">
+                <bounding-box x1="345" x2="384" y1="396" y2="406"/>
+                <content>01-22-10</content>
+                <instruction instr-id="74" subinstr-id="0"/>
+                <instruction instr-id="74" subinstr-id="2"/>
+                <instruction instr-id="74" subinstr-id="4"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="4">
+                <bounding-box x1="433" x2="477" y1="396" y2="406"/>
+                <content>48,989.80</content>
+                <instruction instr-id="74" subinstr-id="6"/>
+                <instruction instr-id="74" subinstr-id="8"/>
+                <instruction instr-id="74" subinstr-id="10"/>
+            </cell>
+            <cell id="15" start-col="0" start-row="5">
+                <bounding-box x1="118" x2="285" y1="384" y2="393"/>
+                <content>Penalty 2008 payable 2009 Spring Tax</content>
+                <instruction instr-id="76" subinstr-id="0"/>
+                <instruction instr-id="76" subinstr-id="2"/>
+                <instruction instr-id="76" subinstr-id="4"/>
+                <instruction instr-id="76" subinstr-id="6"/>
+                <instruction instr-id="76" subinstr-id="8"/>
+                <instruction instr-id="76" subinstr-id="10"/>
+                <instruction instr-id="76" subinstr-id="12"/>
+                <instruction instr-id="76" subinstr-id="14"/>
+                <instruction instr-id="76" subinstr-id="18"/>
+                <instruction instr-id="76" subinstr-id="20"/>
+                <instruction instr-id="76" subinstr-id="22"/>
+            </cell>
+            <cell id="16" start-col="1" start-row="5">
+                <bounding-box x1="345" x2="384" y1="384" y2="393"/>
+                <content>01-22-10</content>
+                <instruction instr-id="76" subinstr-id="24"/>
+                <instruction instr-id="76" subinstr-id="26"/>
+                <instruction instr-id="76" subinstr-id="28"/>
+                <instruction instr-id="76" subinstr-id="30"/>
+            </cell>
+            <cell id="17" start-col="2" start-row="5">
+                <bounding-box x1="439" x2="477" y1="384" y2="393"/>
+                <content>4,898.98</content>
+                <instruction instr-id="78" subinstr-id="2"/>
+                <instruction instr-id="78" subinstr-id="4"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="6">
+                <bounding-box x1="118" x2="250" y1="371" y2="381"/>
+                <content>2009 payable 2010 Spring Tax</content>
+                <instruction instr-id="80" subinstr-id="0"/>
+                <instruction instr-id="80" subinstr-id="2"/>
+                <instruction instr-id="80" subinstr-id="4"/>
+                <instruction instr-id="80" subinstr-id="6"/>
+                <instruction instr-id="80" subinstr-id="10"/>
+                <instruction instr-id="80" subinstr-id="12"/>
+                <instruction instr-id="80" subinstr-id="14"/>
+                <instruction instr-id="80" subinstr-id="16"/>
+                <instruction instr-id="80" subinstr-id="18"/>
+                <instruction instr-id="80" subinstr-id="20"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="6">
+                <bounding-box x1="345" x2="384" y1="371" y2="381"/>
+                <content>04-14-10</content>
+                <instruction instr-id="80" subinstr-id="22"/>
+                <instruction instr-id="80" subinstr-id="24"/>
+                <instruction instr-id="80" subinstr-id="26"/>
+            </cell>
+            <cell id="20" start-col="2" start-row="6">
+                <bounding-box x1="433" x2="477" y1="371" y2="381"/>
+                <content>45,328.50</content>
+                <instruction instr-id="82" subinstr-id="0"/>
+                <instruction instr-id="82" subinstr-id="2"/>
+            </cell>
+            <cell id="21" start-col="0" start-row="7">
+                <bounding-box x1="118" x2="238" y1="359" y2="369"/>
+                <content>2009 payable 2010 FallTax</content>
+                <instruction instr-id="84" subinstr-id="0"/>
+                <instruction instr-id="84" subinstr-id="2"/>
+                <instruction instr-id="84" subinstr-id="4"/>
+                <instruction instr-id="84" subinstr-id="6"/>
+                <instruction instr-id="84" subinstr-id="8"/>
+                <instruction instr-id="84" subinstr-id="10"/>
+                <instruction instr-id="84" subinstr-id="14"/>
+                <instruction instr-id="84" subinstr-id="18"/>
+                <instruction instr-id="84" subinstr-id="22"/>
+                <instruction instr-id="84" subinstr-id="24"/>
+            </cell>
+            <cell id="22" start-col="1" start-row="7">
+                <bounding-box x1="345" x2="384" y1="359" y2="369"/>
+                <content>10-06-10</content>
+                <instruction instr-id="86" subinstr-id="0"/>
+                <instruction instr-id="86" subinstr-id="2"/>
+                <instruction instr-id="86" subinstr-id="4"/>
+            </cell>
+            <cell id="23" start-col="2" start-row="7">
+                <bounding-box x1="433" x2="477" y1="359" y2="369"/>
+                <content>45,328.50</content>
+                <instruction instr-id="86" subinstr-id="6"/>
+                <instruction instr-id="86" subinstr-id="8"/>
+                <instruction instr-id="86" subinstr-id="10"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="8">
+                <bounding-box x1="118" x2="250" y1="347" y2="357"/>
+                <content>2010 payable 2011 Spring Tax</content>
+                <instruction instr-id="88" subinstr-id="0"/>
+                <instruction instr-id="88" subinstr-id="2"/>
+                <instruction instr-id="88" subinstr-id="4"/>
+                <instruction instr-id="88" subinstr-id="6"/>
+                <instruction instr-id="88" subinstr-id="10"/>
+                <instruction instr-id="88" subinstr-id="12"/>
+                <instruction instr-id="88" subinstr-id="14"/>
+                <instruction instr-id="88" subinstr-id="16"/>
+                <instruction instr-id="88" subinstr-id="18"/>
+                <instruction instr-id="88" subinstr-id="20"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="8">
+                <bounding-box x1="345" x2="384" y1="347" y2="357"/>
+                <content>04-29-11</content>
+                <instruction instr-id="88" subinstr-id="22"/>
+                <instruction instr-id="88" subinstr-id="24"/>
+                <instruction instr-id="88" subinstr-id="26"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="8">
+                <bounding-box x1="433" x2="477" y1="347" y2="357"/>
+                <content>45,436.50</content>
+                <instruction instr-id="90" subinstr-id="0"/>
+                <instruction instr-id="90" subinstr-id="2"/>
+            </cell>
+            <cell id="27" start-col="0" start-row="9">
+                <bounding-box x1="118" x2="238" y1="335" y2="344"/>
+                <content>2010 payable 2011 FallTax</content>
+                <instruction instr-id="92" subinstr-id="0"/>
+                <instruction instr-id="92" subinstr-id="2"/>
+                <instruction instr-id="92" subinstr-id="4"/>
+                <instruction instr-id="92" subinstr-id="6"/>
+                <instruction instr-id="92" subinstr-id="8"/>
+                <instruction instr-id="92" subinstr-id="10"/>
+                <instruction instr-id="92" subinstr-id="14"/>
+                <instruction instr-id="92" subinstr-id="18"/>
+                <instruction instr-id="92" subinstr-id="22"/>
+                <instruction instr-id="92" subinstr-id="24"/>
+            </cell>
+            <cell id="28" start-col="1" start-row="9">
+                <bounding-box x1="345" x2="384" y1="335" y2="344"/>
+                <content>10-14-11</content>
+                <instruction instr-id="94" subinstr-id="0"/>
+                <instruction instr-id="94" subinstr-id="2"/>
+                <instruction instr-id="94" subinstr-id="4"/>
+            </cell>
+            <cell id="29" start-col="2" start-row="9">
+                <bounding-box x1="433" x2="477" y1="335" y2="344"/>
+                <content>45,436.50</content>
+                <instruction instr-id="94" subinstr-id="6"/>
+                <instruction instr-id="94" subinstr-id="8"/>
+                <instruction instr-id="94" subinstr-id="10"/>
+            </cell>
+            <cell id="30" start-col="0" start-row="10">
+                <bounding-box x1="118" x2="229" y1="310" y2="319"/>
+                <content>Total Property Taxes paid</content>
+                <instruction instr-id="105" subinstr-id="0"/>
+                <instruction instr-id="105" subinstr-id="2"/>
+                <instruction instr-id="105" subinstr-id="4"/>
+                <instruction instr-id="105" subinstr-id="6"/>
+                <instruction instr-id="105" subinstr-id="8"/>
+                <instruction instr-id="105" subinstr-id="10"/>
+                <instruction instr-id="105" subinstr-id="12"/>
+            </cell>
+            <cell id="31" start-col="2" start-row="10">
+                <bounding-box x1="413" x2="477" y1="310" y2="319"/>
+                <content>$ 338,935.41</content>
+                <instruction instr-id="107" subinstr-id="0"/>
+                <instruction instr-id="107" subinstr-id="2"/>
+                <instruction instr-id="107" subinstr-id="4"/>
+                <instruction instr-id="107" subinstr-id="6"/>
+            </cell>
+        </region>
+    </table>
+    <table id="1">
+        <region col-increment="0" id="0" page="3" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="249" x2="271" y1="290" y2="300"/>
+                <content>Fund</content>
+                <instruction instr-id="321" subinstr-id="0"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="383" x2="417" y1="290" y2="300"/>
+                <content>Amount</content>
+                <instruction instr-id="323"/>
+            </cell>
+            <cell id="2" start-col="0" start-row="1">
+                <bounding-box x1="169" x2="349" y1="268" y2="277"/>
+                <content>Retirement/Severance Bond Debt Service</content>
+                <instruction instr-id="336" subinstr-id="0"/>
+                <instruction instr-id="336" subinstr-id="2"/>
+                <instruction instr-id="336" subinstr-id="4"/>
+                <instruction instr-id="336" subinstr-id="6"/>
+                <instruction instr-id="336" subinstr-id="8"/>
+                <instruction instr-id="336" subinstr-id="10"/>
+                <instruction instr-id="336" subinstr-id="12"/>
+                <instruction instr-id="336" subinstr-id="14"/>
+                <instruction instr-id="336" subinstr-id="18"/>
+                <instruction instr-id="336" subinstr-id="20"/>
+                <instruction instr-id="336" subinstr-id="22"/>
+                <instruction instr-id="336" subinstr-id="24"/>
+                <instruction instr-id="336" subinstr-id="26"/>
+                <instruction instr-id="336" subinstr-id="28"/>
+                <instruction instr-id="336" subinstr-id="30"/>
+            </cell>
+            <cell id="3" start-col="1" start-row="1">
+                <bounding-box x1="371" x2="425" y1="268" y2="277"/>
+                <content>$ 389,865</content>
+                <instruction instr-id="336" subinstr-id="32"/>
+                <instruction instr-id="336" subinstr-id="42"/>
+                <instruction instr-id="336" subinstr-id="44"/>
+                <instruction instr-id="336" subinstr-id="46"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="2">
+                <bounding-box x1="169" x2="237" y1="256" y2="266"/>
+                <content>Capital Projects</content>
+                <instruction instr-id="338" subinstr-id="0"/>
+                <instruction instr-id="338" subinstr-id="2"/>
+                <instruction instr-id="338" subinstr-id="4"/>
+                <instruction instr-id="338" subinstr-id="6"/>
+                <instruction instr-id="338" subinstr-id="8"/>
+                <instruction instr-id="338" subinstr-id="10"/>
+                <instruction instr-id="338" subinstr-id="12"/>
+                <instruction instr-id="338" subinstr-id="14"/>
+                <instruction instr-id="338" subinstr-id="16"/>
+                <instruction instr-id="338" subinstr-id="18"/>
+                <instruction instr-id="338" subinstr-id="20"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="2">
+                <bounding-box x1="390" x2="426" y1="256" y2="266"/>
+                <content>694,640</content>
+                <instruction instr-id="340" subinstr-id="0"/>
+                <instruction instr-id="340" subinstr-id="2"/>
+                <instruction instr-id="340" subinstr-id="4"/>
+                <instruction instr-id="340" subinstr-id="6"/>
+                <instruction instr-id="340" subinstr-id="8"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="3">
+                <bounding-box x1="169" x2="264" y1="245" y2="255"/>
+                <content>School Transportation</content>
+                <instruction instr-id="342" subinstr-id="0"/>
+                <instruction instr-id="342" subinstr-id="2"/>
+                <instruction instr-id="342" subinstr-id="4"/>
+                <instruction instr-id="342" subinstr-id="6"/>
+                <instruction instr-id="342" subinstr-id="8"/>
+                <instruction instr-id="342" subinstr-id="10"/>
+                <instruction instr-id="342" subinstr-id="12"/>
+                <instruction instr-id="342" subinstr-id="14"/>
+                <instruction instr-id="342" subinstr-id="16"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="3">
+                <bounding-box x1="382" x2="425" y1="245" y2="255"/>
+                <content>1,320,677</content>
+                <instruction instr-id="344" subinstr-id="0"/>
+                <instruction instr-id="344" subinstr-id="2"/>
+                <instruction instr-id="344" subinstr-id="4"/>
+            </cell>
+        </region>
+    </table>
+</document>

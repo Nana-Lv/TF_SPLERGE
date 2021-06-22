@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-011.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="167" x2="205" y1="296" y2="308"/>
+                <content>Funder</content>
+                <instruction instr-id="83" subinstr-id="0"/>
+                <instruction instr-id="83" subinstr-id="2"/>
+                <instruction instr-id="83" subinstr-id="4"/>
+                <instruction instr-id="83" subinstr-id="6"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="315" x2="384" y1="296" y2="308"/>
+                <content>Delay Period</content>
+                <instruction instr-id="116" subinstr-id="0"/>
+                <instruction instr-id="116" subinstr-id="2"/>
+                <instruction instr-id="116" subinstr-id="4"/>
+                <instruction instr-id="116" subinstr-id="6"/>
+                <instruction instr-id="116" subinstr-id="8"/>
+                <instruction instr-id="116" subinstr-id="12"/>
+                <instruction instr-id="116" subinstr-id="14"/>
+                <instruction instr-id="116" subinstr-id="16"/>
+                <instruction instr-id="116" subinstr-id="18"/>
+                <instruction instr-id="116" subinstr-id="20"/>
+                <instruction instr-id="116" subinstr-id="22"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="446" x2="489" y1="296" y2="308"/>
+                <content>Funding</content>
+                <instruction instr-id="149" subinstr-id="0"/>
+                <instruction instr-id="149" subinstr-id="2"/>
+                <instruction instr-id="149" subinstr-id="4"/>
+                <instruction instr-id="149" subinstr-id="6"/>
+                <instruction instr-id="149" subinstr-id="8"/>
+            </cell>
+            <cell id="3" start-col="0" start-row="1">
+                <bounding-box x1="72" x2="273" y1="263" y2="289"/>
+                <content>NIH Public Access Requirement (Sec.
+218)</content>
+                <instruction instr-id="242" subinstr-id="0"/>
+                <instruction instr-id="242" subinstr-id="2"/>
+                <instruction instr-id="242" subinstr-id="4"/>
+                <instruction instr-id="242" subinstr-id="6"/>
+                <instruction instr-id="242" subinstr-id="8"/>
+                <instruction instr-id="242" subinstr-id="10"/>
+                <instruction instr-id="242" subinstr-id="12"/>
+                <instruction instr-id="242" subinstr-id="16"/>
+                <instruction instr-id="242" subinstr-id="18"/>
+                <instruction instr-id="242" subinstr-id="20"/>
+                <instruction instr-id="242" subinstr-id="22"/>
+                <instruction instr-id="242" subinstr-id="24"/>
+                <instruction instr-id="242" subinstr-id="26"/>
+                <instruction instr-id="242" subinstr-id="28"/>
+                <instruction instr-id="242" subinstr-id="30"/>
+                <instruction instr-id="242" subinstr-id="32"/>
+                <instruction instr-id="251" subinstr-id="0"/>
+                <instruction instr-id="251" subinstr-id="2"/>
+            </cell>
+            <cell id="4" start-col="1" start-row="1">
+                <bounding-box x1="306" x2="369" y1="277" y2="289"/>
+                <content>up to 12 mo</content>
+                <instruction instr-id="284" subinstr-id="0"/>
+                <instruction instr-id="284" subinstr-id="2"/>
+                <instruction instr-id="284" subinstr-id="6"/>
+                <instruction instr-id="284" subinstr-id="8"/>
+                <instruction instr-id="284" subinstr-id="12"/>
+                <instruction instr-id="284" subinstr-id="14"/>
+                <instruction instr-id="284" subinstr-id="18"/>
+            </cell>
+            <cell id="5" start-col="2" start-row="1">
+                <bounding-box x1="399" x2="528" y1="277" y2="289"/>
+                <content>allowable cost for grants</content>
+                <instruction instr-id="317" subinstr-id="0"/>
+                <instruction instr-id="317" subinstr-id="2"/>
+                <instruction instr-id="317" subinstr-id="4"/>
+                <instruction instr-id="317" subinstr-id="6"/>
+                <instruction instr-id="317" subinstr-id="8"/>
+                <instruction instr-id="317" subinstr-id="10"/>
+                <instruction instr-id="317" subinstr-id="12"/>
+                <instruction instr-id="317" subinstr-id="14"/>
+                <instruction instr-id="317" subinstr-id="16"/>
+                <instruction instr-id="317" subinstr-id="20"/>
+                <instruction instr-id="317" subinstr-id="22"/>
+                <instruction instr-id="317" subinstr-id="24"/>
+                <instruction instr-id="317" subinstr-id="26"/>
+                <instruction instr-id="317" subinstr-id="28"/>
+                <instruction instr-id="317" subinstr-id="30"/>
+                <instruction instr-id="317" subinstr-id="34"/>
+                <instruction instr-id="317" subinstr-id="36"/>
+                <instruction instr-id="317" subinstr-id="38"/>
+                <instruction instr-id="317" subinstr-id="40"/>
+                <instruction instr-id="317" subinstr-id="42"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="2">
+                <bounding-box x1="72" x2="247" y1="244" y2="256"/>
+                <content>Howard Hughes Medical Institute</content>
+                <instruction instr-id="406" subinstr-id="0"/>
+                <instruction instr-id="406" subinstr-id="2"/>
+                <instruction instr-id="406" subinstr-id="4"/>
+                <instruction instr-id="406" subinstr-id="8"/>
+                <instruction instr-id="406" subinstr-id="10"/>
+                <instruction instr-id="406" subinstr-id="12"/>
+                <instruction instr-id="406" subinstr-id="14"/>
+                <instruction instr-id="406" subinstr-id="16"/>
+                <instruction instr-id="406" subinstr-id="18"/>
+                <instruction instr-id="406" subinstr-id="20"/>
+                <instruction instr-id="406" subinstr-id="22"/>
+                <instruction instr-id="406" subinstr-id="24"/>
+                <instruction instr-id="406" subinstr-id="26"/>
+                <instruction instr-id="406" subinstr-id="28"/>
+                <instruction instr-id="406" subinstr-id="30"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="2">
+                <bounding-box x1="306" x2="363" y1="244" y2="256"/>
+                <content>up to 6 mo</content>
+                <instruction instr-id="439" subinstr-id="0"/>
+                <instruction instr-id="439" subinstr-id="2"/>
+                <instruction instr-id="439" subinstr-id="6"/>
+                <instruction instr-id="439" subinstr-id="8"/>
+                <instruction instr-id="439" subinstr-id="12"/>
+                <instruction instr-id="439" subinstr-id="16"/>
+                <instruction instr-id="439" subinstr-id="18"/>
+            </cell>
+            <cell id="8" start-col="2" start-row="2">
+                <bounding-box x1="399" x2="478" y1="244" y2="256"/>
+                <content>dedicated fund</content>
+                <instruction instr-id="472" subinstr-id="0"/>
+                <instruction instr-id="472" subinstr-id="2"/>
+                <instruction instr-id="472" subinstr-id="4"/>
+                <instruction instr-id="472" subinstr-id="6"/>
+                <instruction instr-id="472" subinstr-id="8"/>
+                <instruction instr-id="472" subinstr-id="10"/>
+                <instruction instr-id="472" subinstr-id="12"/>
+                <instruction instr-id="472" subinstr-id="16"/>
+                <instruction instr-id="472" subinstr-id="18"/>
+                <instruction instr-id="472" subinstr-id="20"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="3">
+                <bounding-box x1="72" x2="221" y1="224" y2="236"/>
+                <content>European Research Council</content>
+                <instruction instr-id="561" subinstr-id="0"/>
+                <instruction instr-id="561" subinstr-id="2"/>
+                <instruction instr-id="561" subinstr-id="4"/>
+                <instruction instr-id="561" subinstr-id="6"/>
+                <instruction instr-id="561" subinstr-id="8"/>
+                <instruction instr-id="561" subinstr-id="10"/>
+                <instruction instr-id="561" subinstr-id="12"/>
+                <instruction instr-id="561" subinstr-id="14"/>
+                <instruction instr-id="561" subinstr-id="18"/>
+                <instruction instr-id="561" subinstr-id="20"/>
+                <instruction instr-id="561" subinstr-id="22"/>
+                <instruction instr-id="561" subinstr-id="24"/>
+                <instruction instr-id="561" subinstr-id="26"/>
+                <instruction instr-id="561" subinstr-id="28"/>
+                <instruction instr-id="561" subinstr-id="30"/>
+                <instruction instr-id="561" subinstr-id="32"/>
+                <instruction instr-id="561" subinstr-id="36"/>
+                <instruction instr-id="561" subinstr-id="38"/>
+                <instruction instr-id="561" subinstr-id="40"/>
+                <instruction instr-id="561" subinstr-id="42"/>
+                <instruction instr-id="561" subinstr-id="44"/>
+                <instruction instr-id="561" subinstr-id="46"/>
+                <instruction instr-id="561" subinstr-id="48"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="3">
+                <bounding-box x1="306" x2="363" y1="224" y2="236"/>
+                <content>up to 6 mo</content>
+                <instruction instr-id="594" subinstr-id="0"/>
+                <instruction instr-id="594" subinstr-id="2"/>
+                <instruction instr-id="594" subinstr-id="6"/>
+                <instruction instr-id="594" subinstr-id="8"/>
+                <instruction instr-id="594" subinstr-id="12"/>
+                <instruction instr-id="594" subinstr-id="16"/>
+                <instruction instr-id="594" subinstr-id="18"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="3">
+                <bounding-box x1="399" x2="528" y1="224" y2="236"/>
+                <content>allowable cost for grants</content>
+                <instruction instr-id="627" subinstr-id="0"/>
+                <instruction instr-id="627" subinstr-id="2"/>
+                <instruction instr-id="627" subinstr-id="4"/>
+                <instruction instr-id="627" subinstr-id="6"/>
+                <instruction instr-id="627" subinstr-id="8"/>
+                <instruction instr-id="627" subinstr-id="10"/>
+                <instruction instr-id="627" subinstr-id="12"/>
+                <instruction instr-id="627" subinstr-id="14"/>
+                <instruction instr-id="627" subinstr-id="16"/>
+                <instruction instr-id="627" subinstr-id="20"/>
+                <instruction instr-id="627" subinstr-id="22"/>
+                <instruction instr-id="627" subinstr-id="24"/>
+                <instruction instr-id="627" subinstr-id="26"/>
+                <instruction instr-id="627" subinstr-id="28"/>
+                <instruction instr-id="627" subinstr-id="30"/>
+                <instruction instr-id="627" subinstr-id="34"/>
+                <instruction instr-id="627" subinstr-id="36"/>
+                <instruction instr-id="627" subinstr-id="38"/>
+                <instruction instr-id="627" subinstr-id="40"/>
+                <instruction instr-id="627" subinstr-id="42"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="4">
+                <bounding-box x1="72" x2="231" y1="204" y2="216"/>
+                <content>UK Medical Research Council</content>
+                <instruction instr-id="716" subinstr-id="0"/>
+                <instruction instr-id="716" subinstr-id="2"/>
+                <instruction instr-id="716" subinstr-id="4"/>
+                <instruction instr-id="716" subinstr-id="6"/>
+                <instruction instr-id="716" subinstr-id="8"/>
+                <instruction instr-id="716" subinstr-id="10"/>
+                <instruction instr-id="716" subinstr-id="12"/>
+                <instruction instr-id="716" subinstr-id="14"/>
+                <instruction instr-id="716" subinstr-id="16"/>
+                <instruction instr-id="716" subinstr-id="18"/>
+                <instruction instr-id="716" subinstr-id="22"/>
+                <instruction instr-id="716" subinstr-id="24"/>
+                <instruction instr-id="716" subinstr-id="26"/>
+                <instruction instr-id="716" subinstr-id="28"/>
+                <instruction instr-id="716" subinstr-id="30"/>
+                <instruction instr-id="716" subinstr-id="32"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="4">
+                <bounding-box x1="306" x2="363" y1="204" y2="216"/>
+                <content>up to 6 mo</content>
+                <instruction instr-id="749" subinstr-id="0"/>
+                <instruction instr-id="749" subinstr-id="2"/>
+                <instruction instr-id="749" subinstr-id="6"/>
+                <instruction instr-id="749" subinstr-id="8"/>
+                <instruction instr-id="749" subinstr-id="12"/>
+                <instruction instr-id="749" subinstr-id="16"/>
+                <instruction instr-id="749" subinstr-id="18"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="4">
+                <bounding-box x1="399" x2="528" y1="204" y2="216"/>
+                <content>allowable cost for grants</content>
+                <instruction instr-id="782" subinstr-id="0"/>
+                <instruction instr-id="782" subinstr-id="2"/>
+                <instruction instr-id="782" subinstr-id="4"/>
+                <instruction instr-id="782" subinstr-id="6"/>
+                <instruction instr-id="782" subinstr-id="8"/>
+                <instruction instr-id="782" subinstr-id="10"/>
+                <instruction instr-id="782" subinstr-id="12"/>
+                <instruction instr-id="782" subinstr-id="14"/>
+                <instruction instr-id="782" subinstr-id="16"/>
+                <instruction instr-id="782" subinstr-id="20"/>
+                <instruction instr-id="782" subinstr-id="22"/>
+                <instruction instr-id="782" subinstr-id="24"/>
+                <instruction instr-id="782" subinstr-id="26"/>
+                <instruction instr-id="782" subinstr-id="28"/>
+                <instruction instr-id="782" subinstr-id="30"/>
+                <instruction instr-id="782" subinstr-id="34"/>
+                <instruction instr-id="782" subinstr-id="36"/>
+                <instruction instr-id="782" subinstr-id="38"/>
+                <instruction instr-id="782" subinstr-id="40"/>
+                <instruction instr-id="782" subinstr-id="42"/>
+            </cell>
+            <cell id="15" start-col="0" start-row="5">
+                <bounding-box x1="72" x2="155" y1="184" y2="196"/>
+                <content>Wellcome Trust</content>
+                <instruction instr-id="871" subinstr-id="0"/>
+                <instruction instr-id="871" subinstr-id="2"/>
+                <instruction instr-id="871" subinstr-id="4"/>
+            </cell>
+            <cell id="16" start-col="1" start-row="5">
+                <bounding-box x1="306" x2="363" y1="184" y2="196"/>
+                <content>up to 6 mo</content>
+                <instruction instr-id="904" subinstr-id="0"/>
+                <instruction instr-id="904" subinstr-id="2"/>
+                <instruction instr-id="904" subinstr-id="6"/>
+                <instruction instr-id="904" subinstr-id="8"/>
+                <instruction instr-id="904" subinstr-id="12"/>
+                <instruction instr-id="904" subinstr-id="16"/>
+                <instruction instr-id="904" subinstr-id="18"/>
+            </cell>
+            <cell id="17" start-col="2" start-row="5">
+                <bounding-box x1="399" x2="478" y1="184" y2="196"/>
+                <content>dedicated fund</content>
+                <instruction instr-id="937" subinstr-id="0"/>
+                <instruction instr-id="937" subinstr-id="2"/>
+                <instruction instr-id="937" subinstr-id="4"/>
+                <instruction instr-id="937" subinstr-id="6"/>
+                <instruction instr-id="937" subinstr-id="8"/>
+                <instruction instr-id="937" subinstr-id="10"/>
+                <instruction instr-id="937" subinstr-id="12"/>
+                <instruction instr-id="937" subinstr-id="16"/>
+                <instruction instr-id="937" subinstr-id="18"/>
+                <instruction instr-id="937" subinstr-id="20"/>
+            </cell>
+        </region>
+    </table>
+</document>

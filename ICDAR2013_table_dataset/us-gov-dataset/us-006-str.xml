@@ -1,0 +1,3306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-006.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="44" x2="84" y1="711" y2="721"/>
+                <content>--Trends</content>
+                <instruction instr-id="1203" subinstr-id="0"/>
+                <instruction instr-id="1203" subinstr-id="2"/>
+                <instruction instr-id="1203" subinstr-id="4"/>
+                <instruction instr-id="1203" subinstr-id="6"/>
+                <instruction instr-id="1203" subinstr-id="8"/>
+                <instruction instr-id="1203" subinstr-id="10"/>
+                <instruction instr-id="1203" subinstr-id="12"/>
+                <instruction instr-id="1203" subinstr-id="14"/>
+            </cell>
+            <cell id="1" start-col="1" end-col="4" start-row="0">
+                <bounding-box x1="337" x2="364" y1="711" y2="721"/>
+                <content>-Tips-</content>
+                <instruction instr-id="1205" subinstr-id="0"/>
+                <instruction instr-id="1205" subinstr-id="2"/>
+                <instruction instr-id="1205" subinstr-id="4"/>
+                <instruction instr-id="1205" subinstr-id="6"/>
+                <instruction instr-id="1205" subinstr-id="8"/>
+                <instruction instr-id="1205" subinstr-id="10"/>
+            </cell>
+            <cell id="2" start-col="0" start-row="1">
+                <bounding-box x1="26" x2="108" y1="687" y2="697"/>
+                <content>Potential Mistake</content>
+                <instruction instr-id="1211" subinstr-id="0"/>
+                <instruction instr-id="1211" subinstr-id="2"/>
+                <instruction instr-id="1211" subinstr-id="4"/>
+                <instruction instr-id="1211" subinstr-id="6"/>
+                <instruction instr-id="1211" subinstr-id="8"/>
+                <instruction instr-id="1211" subinstr-id="10"/>
+                <instruction instr-id="1211" subinstr-id="12"/>
+            </cell>
+            <cell id="3" start-col="1" start-row="1">
+                <bounding-box x1="146" x2="221" y1="676" y2="697"/>
+                <content>How to Find the
+Mistake</content>
+                <instruction instr-id="1211" subinstr-id="16"/>
+                <instruction instr-id="1211" subinstr-id="18"/>
+                <instruction instr-id="1211" subinstr-id="20"/>
+                <instruction instr-id="1211" subinstr-id="22"/>
+                <instruction instr-id="1211" subinstr-id="24"/>
+                <instruction instr-id="1211" subinstr-id="26"/>
+                <instruction instr-id="1211" subinstr-id="28"/>
+                <instruction instr-id="1213" subinstr-id="0"/>
+                <instruction instr-id="1213" subinstr-id="2"/>
+                <instruction instr-id="1213" subinstr-id="4"/>
+            </cell>
+            <cell id="4" start-col="2" start-row="1">
+                <bounding-box x1="301" x2="409" y1="687" y2="697"/>
+                <content>How to Fix the Mistake</content>
+                <instruction instr-id="1215" subinstr-id="0"/>
+                <instruction instr-id="1215" subinstr-id="2"/>
+                <instruction instr-id="1215" subinstr-id="4"/>
+                <instruction instr-id="1215" subinstr-id="8"/>
+                <instruction instr-id="1215" subinstr-id="10"/>
+                <instruction instr-id="1215" subinstr-id="14"/>
+                <instruction instr-id="1215" subinstr-id="16"/>
+                <instruction instr-id="1215" subinstr-id="18"/>
+                <instruction instr-id="1215" subinstr-id="22"/>
+                <instruction instr-id="1215" subinstr-id="24"/>
+                <instruction instr-id="1215" subinstr-id="26"/>
+                <instruction instr-id="1215" subinstr-id="30"/>
+                <instruction instr-id="1215" subinstr-id="32"/>
+                <instruction instr-id="1215" subinstr-id="34"/>
+                <instruction instr-id="1215" subinstr-id="36"/>
+                <instruction instr-id="1215" subinstr-id="38"/>
+                <instruction instr-id="1215" subinstr-id="40"/>
+                <instruction instr-id="1215" subinstr-id="42"/>
+            </cell>
+            <cell id="5" start-col="4" start-row="1">
+                <bounding-box x1="474" x2="595" y1="687" y2="697"/>
+                <content>How to Avoid the Mistake</content>
+                <instruction instr-id="1215" subinstr-id="58"/>
+                <instruction instr-id="1215" subinstr-id="60"/>
+                <instruction instr-id="1215" subinstr-id="64"/>
+                <instruction instr-id="1215" subinstr-id="66"/>
+                <instruction instr-id="1215" subinstr-id="68"/>
+                <instruction instr-id="1215" subinstr-id="72"/>
+                <instruction instr-id="1215" subinstr-id="76"/>
+                <instruction instr-id="1215" subinstr-id="78"/>
+                <instruction instr-id="1215" subinstr-id="80"/>
+                <instruction instr-id="1215" subinstr-id="82"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="2">
+                <bounding-box x1="277" x2="360" y1="664" y2="674"/>
+                <content>Corrective Action</content>
+                <instruction instr-id="1217" subinstr-id="0"/>
+                <instruction instr-id="1217" subinstr-id="2"/>
+                <instruction instr-id="1217" subinstr-id="4"/>
+                <instruction instr-id="1217" subinstr-id="6"/>
+                <instruction instr-id="1217" subinstr-id="8"/>
+                <instruction instr-id="1217" subinstr-id="10"/>
+                <instruction instr-id="1217" subinstr-id="12"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="2">
+                <bounding-box x1="404" x2="458" y1="641" y2="674"/>
+                <content>Correction
+Program(s)
+Available</content>
+                <instruction instr-id="1217" subinstr-id="16"/>
+                <instruction instr-id="1217" subinstr-id="18"/>
+                <instruction instr-id="1217" subinstr-id="20"/>
+                <instruction instr-id="1217" subinstr-id="22"/>
+                <instruction instr-id="1219" subinstr-id="0"/>
+                <instruction instr-id="1219" subinstr-id="2"/>
+                <instruction instr-id="1219" subinstr-id="4"/>
+                <instruction instr-id="1219" subinstr-id="6"/>
+                <instruction instr-id="1219" subinstr-id="8"/>
+                <instruction instr-id="1219" subinstr-id="10"/>
+                <instruction instr-id="1219" subinstr-id="12"/>
+                <instruction instr-id="1219" subinstr-id="14"/>
+                <instruction instr-id="1219" subinstr-id="16"/>
+                <instruction instr-id="1221" subinstr-id="0"/>
+                <instruction instr-id="1221" subinstr-id="2"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="3">
+                <bounding-box x1="14" x2="117" y1="571" y2="639"/>
+                <content>1) Has your plan
+document been
+updated within the past
+few years to reflect
+recent law changes?
+(More)</content>
+                <instruction instr-id="1224" subinstr-id="0"/>
+                <instruction instr-id="1224" subinstr-id="2"/>
+                <instruction instr-id="1224" subinstr-id="4"/>
+                <instruction instr-id="1224" subinstr-id="6"/>
+                <instruction instr-id="1224" subinstr-id="8"/>
+                <instruction instr-id="1224" subinstr-id="12"/>
+                <instruction instr-id="1224" subinstr-id="14"/>
+                <instruction instr-id="1224" subinstr-id="16"/>
+                <instruction instr-id="1224" subinstr-id="20"/>
+                <instruction instr-id="1224" subinstr-id="22"/>
+                <instruction instr-id="1226" subinstr-id="0"/>
+                <instruction instr-id="1226" subinstr-id="2"/>
+                <instruction instr-id="1226" subinstr-id="4"/>
+                <instruction instr-id="1226" subinstr-id="6"/>
+                <instruction instr-id="1228" subinstr-id="0"/>
+                <instruction instr-id="1228" subinstr-id="2"/>
+                <instruction instr-id="1228" subinstr-id="4"/>
+                <instruction instr-id="1228" subinstr-id="6"/>
+                <instruction instr-id="1228" subinstr-id="8"/>
+                <instruction instr-id="1228" subinstr-id="10"/>
+                <instruction instr-id="1228" subinstr-id="12"/>
+                <instruction instr-id="1228" subinstr-id="14"/>
+                <instruction instr-id="1228" subinstr-id="16"/>
+                <instruction instr-id="1228" subinstr-id="20"/>
+                <instruction instr-id="1228" subinstr-id="22"/>
+                <instruction instr-id="1230" subinstr-id="0"/>
+                <instruction instr-id="1230" subinstr-id="2"/>
+                <instruction instr-id="1230" subinstr-id="4"/>
+                <instruction instr-id="1230" subinstr-id="8"/>
+                <instruction instr-id="1230" subinstr-id="10"/>
+                <instruction instr-id="1230" subinstr-id="12"/>
+                <instruction instr-id="1230" subinstr-id="14"/>
+                <instruction instr-id="1230" subinstr-id="18"/>
+                <instruction instr-id="1230" subinstr-id="20"/>
+                <instruction instr-id="1230" subinstr-id="24"/>
+                <instruction instr-id="1230" subinstr-id="26"/>
+                <instruction instr-id="1230" subinstr-id="28"/>
+                <instruction instr-id="1230" subinstr-id="30"/>
+                <instruction instr-id="1230" subinstr-id="32"/>
+                <instruction instr-id="1230" subinstr-id="34"/>
+                <instruction instr-id="1232" subinstr-id="0"/>
+                <instruction instr-id="1232" subinstr-id="2"/>
+                <instruction instr-id="1232" subinstr-id="4"/>
+                <instruction instr-id="1232" subinstr-id="6"/>
+                <instruction instr-id="1232" subinstr-id="8"/>
+                <instruction instr-id="1232" subinstr-id="10"/>
+                <instruction instr-id="1232" subinstr-id="12"/>
+                <instruction instr-id="1232" subinstr-id="14"/>
+                <instruction instr-id="1232" subinstr-id="16"/>
+                <instruction instr-id="1232" subinstr-id="18"/>
+                <instruction instr-id="1232" subinstr-id="20"/>
+                <instruction instr-id="1232" subinstr-id="22"/>
+                <instruction instr-id="1232" subinstr-id="24"/>
+                <instruction instr-id="1238" subinstr-id="0"/>
+                <instruction instr-id="1238" subinstr-id="2"/>
+                <instruction instr-id="1238" subinstr-id="4"/>
+                <instruction instr-id="1238" subinstr-id="6"/>
+                <instruction instr-id="1238" subinstr-id="8"/>
+                <instruction instr-id="1238" subinstr-id="10"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="3">
+                <bounding-box x1="131" x2="230" y1="548" y2="639"/>
+                <content>Review annual
+cumulative list
+published close to
+year-endto see if plan
+made all required law
+changes(for example,
+Notice 2009-98).
+(More)</content>
+                <instruction instr-id="1244" subinstr-id="0"/>
+                <instruction instr-id="1244" subinstr-id="2"/>
+                <instruction instr-id="1244" subinstr-id="6"/>
+                <instruction instr-id="1244" subinstr-id="8"/>
+                <instruction instr-id="1246" subinstr-id="0"/>
+                <instruction instr-id="1246" subinstr-id="2"/>
+                <instruction instr-id="1246" subinstr-id="4"/>
+                <instruction instr-id="1246" subinstr-id="6"/>
+                <instruction instr-id="1246" subinstr-id="8"/>
+                <instruction instr-id="1246" subinstr-id="10"/>
+                <instruction instr-id="1246" subinstr-id="12"/>
+                <instruction instr-id="1246" subinstr-id="14"/>
+                <instruction instr-id="1246" subinstr-id="16"/>
+                <instruction instr-id="1246" subinstr-id="18"/>
+                <instruction instr-id="1246" subinstr-id="22"/>
+                <instruction instr-id="1246" subinstr-id="24"/>
+                <instruction instr-id="1246" subinstr-id="26"/>
+                <instruction instr-id="1246" subinstr-id="28"/>
+                <instruction instr-id="1248" subinstr-id="0"/>
+                <instruction instr-id="1248" subinstr-id="2"/>
+                <instruction instr-id="1248" subinstr-id="4"/>
+                <instruction instr-id="1248" subinstr-id="6"/>
+                <instruction instr-id="1248" subinstr-id="8"/>
+                <instruction instr-id="1248" subinstr-id="10"/>
+                <instruction instr-id="1248" subinstr-id="12"/>
+                <instruction instr-id="1248" subinstr-id="14"/>
+                <instruction instr-id="1248" subinstr-id="16"/>
+                <instruction instr-id="1248" subinstr-id="18"/>
+                <instruction instr-id="1250" subinstr-id="0"/>
+                <instruction instr-id="1250" subinstr-id="2"/>
+                <instruction instr-id="1250" subinstr-id="4"/>
+                <instruction instr-id="1250" subinstr-id="6"/>
+                <instruction instr-id="1250" subinstr-id="10"/>
+                <instruction instr-id="1250" subinstr-id="14"/>
+                <instruction instr-id="1250" subinstr-id="16"/>
+                <instruction instr-id="1250" subinstr-id="20"/>
+                <instruction instr-id="1250" subinstr-id="22"/>
+                <instruction instr-id="1250" subinstr-id="24"/>
+                <instruction instr-id="1250" subinstr-id="26"/>
+                <instruction instr-id="1250" subinstr-id="28"/>
+                <instruction instr-id="1252" subinstr-id="0"/>
+                <instruction instr-id="1252" subinstr-id="2"/>
+                <instruction instr-id="1252" subinstr-id="4"/>
+                <instruction instr-id="1252" subinstr-id="6"/>
+                <instruction instr-id="1252" subinstr-id="8"/>
+                <instruction instr-id="1252" subinstr-id="10"/>
+                <instruction instr-id="1252" subinstr-id="12"/>
+                <instruction instr-id="1252" subinstr-id="14"/>
+                <instruction instr-id="1254" subinstr-id="0"/>
+                <instruction instr-id="1254" subinstr-id="2"/>
+                <instruction instr-id="1254" subinstr-id="4"/>
+                <instruction instr-id="1254" subinstr-id="6"/>
+                <instruction instr-id="1254" subinstr-id="8"/>
+                <instruction instr-id="1254" subinstr-id="10"/>
+                <instruction instr-id="1254" subinstr-id="14"/>
+                <instruction instr-id="1254" subinstr-id="16"/>
+                <instruction instr-id="1260" subinstr-id="0"/>
+                <instruction instr-id="1260" subinstr-id="2"/>
+                <instruction instr-id="1260" subinstr-id="4"/>
+                <instruction instr-id="1260" subinstr-id="6"/>
+                <instruction instr-id="1260" subinstr-id="8"/>
+                <instruction instr-id="1260" subinstr-id="10"/>
+                <instruction instr-id="1266"/>
+                <instruction instr-id="1272" subinstr-id="0"/>
+                <instruction instr-id="1272" subinstr-id="2"/>
+                <instruction instr-id="1272" subinstr-id="4"/>
+                <instruction instr-id="1272" subinstr-id="6"/>
+                <instruction instr-id="1272" subinstr-id="8"/>
+                <instruction instr-id="1272" subinstr-id="10"/>
+            </cell>
+            <cell id="10" start-col="2" start-row="3">
+                <bounding-box x1="248" x2="384" y1="560" y2="639"/>
+                <content>EPCRS
+VCP: Streamlined application
+available. See Appendix F and
+schedules 1 and 2.
+Adopt amendments for missed
+law changes.
+(More)</content>
+                <instruction instr-id="1278" subinstr-id="0"/>
+                <instruction instr-id="1278" subinstr-id="2"/>
+                <instruction instr-id="1278" subinstr-id="4"/>
+                <instruction instr-id="1280" subinstr-id="0"/>
+                <instruction instr-id="1280" subinstr-id="2"/>
+                <instruction instr-id="1280" subinstr-id="4"/>
+                <instruction instr-id="1280" subinstr-id="6"/>
+                <instruction instr-id="1280" subinstr-id="10"/>
+                <instruction instr-id="1280" subinstr-id="12"/>
+                <instruction instr-id="1280" subinstr-id="14"/>
+                <instruction instr-id="1280" subinstr-id="16"/>
+                <instruction instr-id="1280" subinstr-id="18"/>
+                <instruction instr-id="1280" subinstr-id="20"/>
+                <instruction instr-id="1282" subinstr-id="0"/>
+                <instruction instr-id="1282" subinstr-id="2"/>
+                <instruction instr-id="1282" subinstr-id="4"/>
+                <instruction instr-id="1282" subinstr-id="6"/>
+                <instruction instr-id="1282" subinstr-id="8"/>
+                <instruction instr-id="1282" subinstr-id="10"/>
+                <instruction instr-id="1282" subinstr-id="12"/>
+                <instruction instr-id="1282" subinstr-id="14"/>
+                <instruction instr-id="1282" subinstr-id="16"/>
+                <instruction instr-id="1282" subinstr-id="18"/>
+                <instruction instr-id="1282" subinstr-id="20"/>
+                <instruction instr-id="1288" subinstr-id="0"/>
+                <instruction instr-id="1288" subinstr-id="2"/>
+                <instruction instr-id="1288" subinstr-id="4"/>
+                <instruction instr-id="1288" subinstr-id="6"/>
+                <instruction instr-id="1288" subinstr-id="8"/>
+                <instruction instr-id="1288" subinstr-id="10"/>
+                <instruction instr-id="1288" subinstr-id="14"/>
+                <instruction instr-id="1294" subinstr-id="2"/>
+                <instruction instr-id="1296" subinstr-id="0"/>
+                <instruction instr-id="1296" subinstr-id="2"/>
+                <instruction instr-id="1296" subinstr-id="4"/>
+                <instruction instr-id="1296" subinstr-id="6"/>
+                <instruction instr-id="1302"/>
+                <instruction instr-id="1308" subinstr-id="2"/>
+                <instruction instr-id="1308" subinstr-id="4"/>
+                <instruction instr-id="1308" subinstr-id="6"/>
+                <instruction instr-id="1314"/>
+                <instruction instr-id="1320"/>
+                <instruction instr-id="1322" subinstr-id="0"/>
+                <instruction instr-id="1322" subinstr-id="4"/>
+                <instruction instr-id="1322" subinstr-id="6"/>
+                <instruction instr-id="1322" subinstr-id="8"/>
+                <instruction instr-id="1322" subinstr-id="10"/>
+                <instruction instr-id="1322" subinstr-id="12"/>
+                <instruction instr-id="1322" subinstr-id="14"/>
+                <instruction instr-id="1322" subinstr-id="16"/>
+                <instruction instr-id="1322" subinstr-id="18"/>
+                <instruction instr-id="1322" subinstr-id="20"/>
+                <instruction instr-id="1322" subinstr-id="22"/>
+                <instruction instr-id="1322" subinstr-id="24"/>
+                <instruction instr-id="1324" subinstr-id="0"/>
+                <instruction instr-id="1324" subinstr-id="2"/>
+                <instruction instr-id="1324" subinstr-id="4"/>
+                <instruction instr-id="1324" subinstr-id="6"/>
+                <instruction instr-id="1324" subinstr-id="8"/>
+                <instruction instr-id="1324" subinstr-id="10"/>
+                <instruction instr-id="1324" subinstr-id="12"/>
+                <instruction instr-id="1324" subinstr-id="14"/>
+                <instruction instr-id="1330" subinstr-id="0"/>
+                <instruction instr-id="1330" subinstr-id="2"/>
+                <instruction instr-id="1330" subinstr-id="4"/>
+                <instruction instr-id="1330" subinstr-id="6"/>
+                <instruction instr-id="1330" subinstr-id="8"/>
+                <instruction instr-id="1330" subinstr-id="10"/>
+            </cell>
+            <cell id="11" start-col="3" start-row="3">
+                <bounding-box x1="400" x2="446" y1="606" y2="639"/>
+                <content>VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="1336" subinstr-id="0"/>
+                <instruction instr-id="1336" subinstr-id="2"/>
+                <instruction instr-id="1336" subinstr-id="4"/>
+                <instruction instr-id="1338" subinstr-id="0"/>
+                <instruction instr-id="1338" subinstr-id="2"/>
+                <instruction instr-id="1338" subinstr-id="4"/>
+                <instruction instr-id="1338" subinstr-id="6"/>
+                <instruction instr-id="1338" subinstr-id="8"/>
+                <instruction instr-id="1338" subinstr-id="12"/>
+                <instruction instr-id="1338" subinstr-id="14"/>
+                <instruction instr-id="1338" subinstr-id="16"/>
+                <instruction instr-id="1344" subinstr-id="0"/>
+                <instruction instr-id="1344" subinstr-id="2"/>
+                <instruction instr-id="1344" subinstr-id="4"/>
+                <instruction instr-id="1344" subinstr-id="6"/>
+                <instruction instr-id="1344" subinstr-id="8"/>
+                <instruction instr-id="1344" subinstr-id="10"/>
+            </cell>
+            <cell id="12" start-col="4" start-row="3">
+                <bounding-box x1="473" x2="592" y1="537" y2="639"/>
+                <content>Resort to a calendar
+(tickler) that notes when
+you must complete
+amendments. Review your
+plan document annually.
+Maintain regular contact
+with the company that sold
+you the plan.
+(More)</content>
+                <instruction instr-id="1350" subinstr-id="0"/>
+                <instruction instr-id="1350" subinstr-id="2"/>
+                <instruction instr-id="1350" subinstr-id="4"/>
+                <instruction instr-id="1350" subinstr-id="6"/>
+                <instruction instr-id="1350" subinstr-id="8"/>
+                <instruction instr-id="1350" subinstr-id="10"/>
+                <instruction instr-id="1350" subinstr-id="12"/>
+                <instruction instr-id="1350" subinstr-id="14"/>
+                <instruction instr-id="1352" subinstr-id="0"/>
+                <instruction instr-id="1352" subinstr-id="2"/>
+                <instruction instr-id="1352" subinstr-id="4"/>
+                <instruction instr-id="1352" subinstr-id="6"/>
+                <instruction instr-id="1352" subinstr-id="8"/>
+                <instruction instr-id="1352" subinstr-id="10"/>
+                <instruction instr-id="1352" subinstr-id="12"/>
+                <instruction instr-id="1352" subinstr-id="14"/>
+                <instruction instr-id="1354" subinstr-id="0"/>
+                <instruction instr-id="1354" subinstr-id="2"/>
+                <instruction instr-id="1354" subinstr-id="4"/>
+                <instruction instr-id="1354" subinstr-id="6"/>
+                <instruction instr-id="1354" subinstr-id="8"/>
+                <instruction instr-id="1354" subinstr-id="10"/>
+                <instruction instr-id="1354" subinstr-id="12"/>
+                <instruction instr-id="1354" subinstr-id="14"/>
+                <instruction instr-id="1354" subinstr-id="16"/>
+                <instruction instr-id="1354" subinstr-id="18"/>
+                <instruction instr-id="1354" subinstr-id="20"/>
+                <instruction instr-id="1354" subinstr-id="22"/>
+                <instruction instr-id="1356" subinstr-id="0"/>
+                <instruction instr-id="1356" subinstr-id="2"/>
+                <instruction instr-id="1356" subinstr-id="4"/>
+                <instruction instr-id="1356" subinstr-id="6"/>
+                <instruction instr-id="1356" subinstr-id="10"/>
+                <instruction instr-id="1356" subinstr-id="12"/>
+                <instruction instr-id="1358" subinstr-id="0"/>
+                <instruction instr-id="1358" subinstr-id="2"/>
+                <instruction instr-id="1358" subinstr-id="4"/>
+                <instruction instr-id="1358" subinstr-id="6"/>
+                <instruction instr-id="1358" subinstr-id="8"/>
+                <instruction instr-id="1358" subinstr-id="10"/>
+                <instruction instr-id="1358" subinstr-id="12"/>
+                <instruction instr-id="1358" subinstr-id="14"/>
+                <instruction instr-id="1358" subinstr-id="16"/>
+                <instruction instr-id="1358" subinstr-id="18"/>
+                <instruction instr-id="1358" subinstr-id="20"/>
+                <instruction instr-id="1360" subinstr-id="0"/>
+                <instruction instr-id="1360" subinstr-id="2"/>
+                <instruction instr-id="1360" subinstr-id="4"/>
+                <instruction instr-id="1360" subinstr-id="6"/>
+                <instruction instr-id="1360" subinstr-id="8"/>
+                <instruction instr-id="1360" subinstr-id="10"/>
+                <instruction instr-id="1360" subinstr-id="12"/>
+                <instruction instr-id="1360" subinstr-id="14"/>
+                <instruction instr-id="1362" subinstr-id="0"/>
+                <instruction instr-id="1362" subinstr-id="2"/>
+                <instruction instr-id="1362" subinstr-id="4"/>
+                <instruction instr-id="1362" subinstr-id="6"/>
+                <instruction instr-id="1362" subinstr-id="8"/>
+                <instruction instr-id="1362" subinstr-id="10"/>
+                <instruction instr-id="1362" subinstr-id="12"/>
+                <instruction instr-id="1362" subinstr-id="14"/>
+                <instruction instr-id="1362" subinstr-id="16"/>
+                <instruction instr-id="1362" subinstr-id="18"/>
+                <instruction instr-id="1362" subinstr-id="20"/>
+                <instruction instr-id="1364" subinstr-id="0"/>
+                <instruction instr-id="1364" subinstr-id="2"/>
+                <instruction instr-id="1364" subinstr-id="6"/>
+                <instruction instr-id="1364" subinstr-id="8"/>
+                <instruction instr-id="1364" subinstr-id="12"/>
+                <instruction instr-id="1364" subinstr-id="14"/>
+                <instruction instr-id="1364" subinstr-id="16"/>
+                <instruction instr-id="1364" subinstr-id="18"/>
+                <instruction instr-id="1370" subinstr-id="0"/>
+                <instruction instr-id="1370" subinstr-id="2"/>
+                <instruction instr-id="1370" subinstr-id="4"/>
+                <instruction instr-id="1370" subinstr-id="6"/>
+                <instruction instr-id="1370" subinstr-id="8"/>
+                <instruction instr-id="1372"/>
+            </cell>
+            <cell id="13" start-col="0" start-row="4">
+                <bounding-box x1="14" x2="106" y1="433" y2="524"/>
+                <content>2) Are the plan's
+operations based on
+the terms ofthe plan
+document?
+Failure to follow plan
+terms is a very
+common mistake.
+(More)</content>
+                <instruction instr-id="1378" subinstr-id="0"/>
+                <instruction instr-id="1378" subinstr-id="2"/>
+                <instruction instr-id="1378" subinstr-id="4"/>
+                <instruction instr-id="1378" subinstr-id="6"/>
+                <instruction instr-id="1378" subinstr-id="8"/>
+                <instruction instr-id="1378" subinstr-id="10"/>
+                <instruction instr-id="1378" subinstr-id="12"/>
+                <instruction instr-id="1380" subinstr-id="0"/>
+                <instruction instr-id="1380" subinstr-id="2"/>
+                <instruction instr-id="1380" subinstr-id="6"/>
+                <instruction instr-id="1380" subinstr-id="8"/>
+                <instruction instr-id="1380" subinstr-id="10"/>
+                <instruction instr-id="1380" subinstr-id="12"/>
+                <instruction instr-id="1382" subinstr-id="0"/>
+                <instruction instr-id="1382" subinstr-id="2"/>
+                <instruction instr-id="1382" subinstr-id="4"/>
+                <instruction instr-id="1382" subinstr-id="6"/>
+                <instruction instr-id="1382" subinstr-id="8"/>
+                <instruction instr-id="1382" subinstr-id="10"/>
+                <instruction instr-id="1382" subinstr-id="12"/>
+                <instruction instr-id="1382" subinstr-id="14"/>
+                <instruction instr-id="1384" subinstr-id="0"/>
+                <instruction instr-id="1384" subinstr-id="2"/>
+                <instruction instr-id="1386" subinstr-id="0"/>
+                <instruction instr-id="1386" subinstr-id="2"/>
+                <instruction instr-id="1386" subinstr-id="4"/>
+                <instruction instr-id="1386" subinstr-id="6"/>
+                <instruction instr-id="1386" subinstr-id="10"/>
+                <instruction instr-id="1386" subinstr-id="12"/>
+                <instruction instr-id="1386" subinstr-id="14"/>
+                <instruction instr-id="1386" subinstr-id="16"/>
+                <instruction instr-id="1386" subinstr-id="18"/>
+                <instruction instr-id="1386" subinstr-id="20"/>
+                <instruction instr-id="1386" subinstr-id="22"/>
+                <instruction instr-id="1386" subinstr-id="24"/>
+                <instruction instr-id="1386" subinstr-id="26"/>
+                <instruction instr-id="1388" subinstr-id="0"/>
+                <instruction instr-id="1388" subinstr-id="2"/>
+                <instruction instr-id="1388" subinstr-id="4"/>
+                <instruction instr-id="1388" subinstr-id="6"/>
+                <instruction instr-id="1388" subinstr-id="8"/>
+                <instruction instr-id="1388" subinstr-id="12"/>
+                <instruction instr-id="1388" subinstr-id="14"/>
+                <instruction instr-id="1388" subinstr-id="18"/>
+                <instruction instr-id="1388" subinstr-id="22"/>
+                <instruction instr-id="1388" subinstr-id="24"/>
+                <instruction instr-id="1388" subinstr-id="26"/>
+                <instruction instr-id="1388" subinstr-id="28"/>
+                <instruction instr-id="1390" subinstr-id="0"/>
+                <instruction instr-id="1390" subinstr-id="2"/>
+                <instruction instr-id="1390" subinstr-id="4"/>
+                <instruction instr-id="1390" subinstr-id="8"/>
+                <instruction instr-id="1390" subinstr-id="10"/>
+                <instruction instr-id="1390" subinstr-id="12"/>
+                <instruction instr-id="1390" subinstr-id="14"/>
+                <instruction instr-id="1390" subinstr-id="16"/>
+                <instruction instr-id="1396" subinstr-id="0"/>
+                <instruction instr-id="1396" subinstr-id="2"/>
+                <instruction instr-id="1396" subinstr-id="4"/>
+                <instruction instr-id="1396" subinstr-id="6"/>
+                <instruction instr-id="1396" subinstr-id="8"/>
+                <instruction instr-id="1398"/>
+            </cell>
+            <cell id="14" start-col="1" start-row="4">
+                <bounding-box x1="131" x2="230" y1="490" y2="524"/>
+                <content>Independent review of
+plan and its operation.
+(More)</content>
+                <instruction instr-id="1404" subinstr-id="0"/>
+                <instruction instr-id="1404" subinstr-id="2"/>
+                <instruction instr-id="1404" subinstr-id="4"/>
+                <instruction instr-id="1404" subinstr-id="6"/>
+                <instruction instr-id="1404" subinstr-id="8"/>
+                <instruction instr-id="1404" subinstr-id="10"/>
+                <instruction instr-id="1404" subinstr-id="12"/>
+                <instruction instr-id="1404" subinstr-id="16"/>
+                <instruction instr-id="1406" subinstr-id="0"/>
+                <instruction instr-id="1406" subinstr-id="4"/>
+                <instruction instr-id="1406" subinstr-id="6"/>
+                <instruction instr-id="1406" subinstr-id="8"/>
+                <instruction instr-id="1406" subinstr-id="10"/>
+                <instruction instr-id="1406" subinstr-id="12"/>
+                <instruction instr-id="1406" subinstr-id="14"/>
+                <instruction instr-id="1406" subinstr-id="16"/>
+                <instruction instr-id="1406" subinstr-id="18"/>
+                <instruction instr-id="1412" subinstr-id="0"/>
+                <instruction instr-id="1412" subinstr-id="2"/>
+                <instruction instr-id="1412" subinstr-id="4"/>
+                <instruction instr-id="1412" subinstr-id="6"/>
+                <instruction instr-id="1412" subinstr-id="8"/>
+                <instruction instr-id="1414"/>
+            </cell>
+            <cell id="15" start-col="2" start-row="4">
+                <bounding-box x1="248" x2="383" y1="433" y2="524"/>
+                <content>EPCRS
+Apply reasonable correction
+method that would place
+affected participants in the
+position they would have been
+in if there were no operational
+plan defects.
+(More)</content>
+                <instruction instr-id="1420" subinstr-id="0"/>
+                <instruction instr-id="1420" subinstr-id="2"/>
+                <instruction instr-id="1420" subinstr-id="4"/>
+                <instruction instr-id="1422" subinstr-id="0"/>
+                <instruction instr-id="1422" subinstr-id="2"/>
+                <instruction instr-id="1422" subinstr-id="4"/>
+                <instruction instr-id="1422" subinstr-id="6"/>
+                <instruction instr-id="1422" subinstr-id="8"/>
+                <instruction instr-id="1422" subinstr-id="10"/>
+                <instruction instr-id="1422" subinstr-id="12"/>
+                <instruction instr-id="1422" subinstr-id="14"/>
+                <instruction instr-id="1422" subinstr-id="16"/>
+                <instruction instr-id="1422" subinstr-id="20"/>
+                <instruction instr-id="1422" subinstr-id="22"/>
+                <instruction instr-id="1422" subinstr-id="24"/>
+                <instruction instr-id="1422" subinstr-id="26"/>
+                <instruction instr-id="1422" subinstr-id="28"/>
+                <instruction instr-id="1422" subinstr-id="30"/>
+                <instruction instr-id="1422" subinstr-id="32"/>
+                <instruction instr-id="1424" subinstr-id="0"/>
+                <instruction instr-id="1424" subinstr-id="2"/>
+                <instruction instr-id="1424" subinstr-id="4"/>
+                <instruction instr-id="1424" subinstr-id="6"/>
+                <instruction instr-id="1424" subinstr-id="8"/>
+                <instruction instr-id="1424" subinstr-id="10"/>
+                <instruction instr-id="1424" subinstr-id="12"/>
+                <instruction instr-id="1424" subinstr-id="14"/>
+                <instruction instr-id="1426" subinstr-id="0"/>
+                <instruction instr-id="1426" subinstr-id="2"/>
+                <instruction instr-id="1426" subinstr-id="4"/>
+                <instruction instr-id="1426" subinstr-id="6"/>
+                <instruction instr-id="1426" subinstr-id="8"/>
+                <instruction instr-id="1426" subinstr-id="10"/>
+                <instruction instr-id="1426" subinstr-id="12"/>
+                <instruction instr-id="1426" subinstr-id="14"/>
+                <instruction instr-id="1426" subinstr-id="18"/>
+                <instruction instr-id="1426" subinstr-id="20"/>
+                <instruction instr-id="1426" subinstr-id="22"/>
+                <instruction instr-id="1426" subinstr-id="24"/>
+                <instruction instr-id="1426" subinstr-id="26"/>
+                <instruction instr-id="1426" subinstr-id="28"/>
+                <instruction instr-id="1426" subinstr-id="30"/>
+                <instruction instr-id="1426" subinstr-id="32"/>
+                <instruction instr-id="1426" subinstr-id="34"/>
+                <instruction instr-id="1426" subinstr-id="36"/>
+                <instruction instr-id="1426" subinstr-id="38"/>
+                <instruction instr-id="1426" subinstr-id="40"/>
+                <instruction instr-id="1426" subinstr-id="44"/>
+                <instruction instr-id="1426" subinstr-id="46"/>
+                <instruction instr-id="1426" subinstr-id="50"/>
+                <instruction instr-id="1426" subinstr-id="52"/>
+                <instruction instr-id="1426" subinstr-id="54"/>
+                <instruction instr-id="1428" subinstr-id="0"/>
+                <instruction instr-id="1428" subinstr-id="2"/>
+                <instruction instr-id="1428" subinstr-id="4"/>
+                <instruction instr-id="1428" subinstr-id="6"/>
+                <instruction instr-id="1428" subinstr-id="8"/>
+                <instruction instr-id="1428" subinstr-id="10"/>
+                <instruction instr-id="1428" subinstr-id="12"/>
+                <instruction instr-id="1428" subinstr-id="14"/>
+                <instruction instr-id="1430" subinstr-id="0"/>
+                <instruction instr-id="1430" subinstr-id="2"/>
+                <instruction instr-id="1430" subinstr-id="4"/>
+                <instruction instr-id="1430" subinstr-id="6"/>
+                <instruction instr-id="1430" subinstr-id="8"/>
+                <instruction instr-id="1430" subinstr-id="10"/>
+                <instruction instr-id="1430" subinstr-id="12"/>
+                <instruction instr-id="1430" subinstr-id="14"/>
+                <instruction instr-id="1430" subinstr-id="16"/>
+                <instruction instr-id="1430" subinstr-id="18"/>
+                <instruction instr-id="1432" subinstr-id="0"/>
+                <instruction instr-id="1432" subinstr-id="2"/>
+                <instruction instr-id="1432" subinstr-id="4"/>
+                <instruction instr-id="1432" subinstr-id="6"/>
+                <instruction instr-id="1438" subinstr-id="0"/>
+                <instruction instr-id="1438" subinstr-id="2"/>
+                <instruction instr-id="1438" subinstr-id="4"/>
+                <instruction instr-id="1438" subinstr-id="6"/>
+                <instruction instr-id="1438" subinstr-id="8"/>
+                <instruction instr-id="1440"/>
+            </cell>
+            <cell id="16" start-col="3" start-row="4">
+                <bounding-box x1="400" x2="446" y1="479" y2="524"/>
+                <content>SCP*
+VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="1446" subinstr-id="0"/>
+                <instruction instr-id="1446" subinstr-id="2"/>
+                <instruction instr-id="1446" subinstr-id="4"/>
+                <instruction instr-id="1446" subinstr-id="6"/>
+                <instruction instr-id="1448" subinstr-id="0"/>
+                <instruction instr-id="1448" subinstr-id="2"/>
+                <instruction instr-id="1448" subinstr-id="4"/>
+                <instruction instr-id="1450" subinstr-id="0"/>
+                <instruction instr-id="1450" subinstr-id="2"/>
+                <instruction instr-id="1450" subinstr-id="4"/>
+                <instruction instr-id="1450" subinstr-id="6"/>
+                <instruction instr-id="1450" subinstr-id="8"/>
+                <instruction instr-id="1450" subinstr-id="12"/>
+                <instruction instr-id="1450" subinstr-id="14"/>
+                <instruction instr-id="1450" subinstr-id="16"/>
+                <instruction instr-id="1456" subinstr-id="0"/>
+                <instruction instr-id="1456" subinstr-id="2"/>
+                <instruction instr-id="1456" subinstr-id="4"/>
+                <instruction instr-id="1456" subinstr-id="6"/>
+                <instruction instr-id="1456" subinstr-id="8"/>
+                <instruction instr-id="1456" subinstr-id="10"/>
+            </cell>
+            <cell id="17" start-col="4" start-row="4">
+                <bounding-box x1="473" x2="588" y1="410" y2="524"/>
+                <content>Develop a communication
+mechanism to make all
+relevant parties aware of
+changes on a timely and
+accurate basis (best
+practices). Perform a
+review at least annually to
+ensure you are following
+plan terms.
+(More)</content>
+                <instruction instr-id="1462" subinstr-id="0"/>
+                <instruction instr-id="1462" subinstr-id="2"/>
+                <instruction instr-id="1462" subinstr-id="4"/>
+                <instruction instr-id="1462" subinstr-id="6"/>
+                <instruction instr-id="1462" subinstr-id="10"/>
+                <instruction instr-id="1462" subinstr-id="14"/>
+                <instruction instr-id="1462" subinstr-id="16"/>
+                <instruction instr-id="1462" subinstr-id="18"/>
+                <instruction instr-id="1462" subinstr-id="20"/>
+                <instruction instr-id="1462" subinstr-id="22"/>
+                <instruction instr-id="1462" subinstr-id="24"/>
+                <instruction instr-id="1462" subinstr-id="26"/>
+                <instruction instr-id="1462" subinstr-id="28"/>
+                <instruction instr-id="1464" subinstr-id="0"/>
+                <instruction instr-id="1464" subinstr-id="2"/>
+                <instruction instr-id="1464" subinstr-id="4"/>
+                <instruction instr-id="1464" subinstr-id="6"/>
+                <instruction instr-id="1464" subinstr-id="8"/>
+                <instruction instr-id="1464" subinstr-id="10"/>
+                <instruction instr-id="1464" subinstr-id="12"/>
+                <instruction instr-id="1464" subinstr-id="14"/>
+                <instruction instr-id="1464" subinstr-id="16"/>
+                <instruction instr-id="1464" subinstr-id="20"/>
+                <instruction instr-id="1464" subinstr-id="22"/>
+                <instruction instr-id="1464" subinstr-id="24"/>
+                <instruction instr-id="1464" subinstr-id="26"/>
+                <instruction instr-id="1464" subinstr-id="28"/>
+                <instruction instr-id="1466" subinstr-id="0"/>
+                <instruction instr-id="1466" subinstr-id="2"/>
+                <instruction instr-id="1466" subinstr-id="4"/>
+                <instruction instr-id="1466" subinstr-id="6"/>
+                <instruction instr-id="1466" subinstr-id="8"/>
+                <instruction instr-id="1466" subinstr-id="10"/>
+                <instruction instr-id="1466" subinstr-id="12"/>
+                <instruction instr-id="1466" subinstr-id="14"/>
+                <instruction instr-id="1466" subinstr-id="16"/>
+                <instruction instr-id="1466" subinstr-id="18"/>
+                <instruction instr-id="1466" subinstr-id="20"/>
+                <instruction instr-id="1468" subinstr-id="0"/>
+                <instruction instr-id="1468" subinstr-id="2"/>
+                <instruction instr-id="1468" subinstr-id="4"/>
+                <instruction instr-id="1468" subinstr-id="6"/>
+                <instruction instr-id="1468" subinstr-id="8"/>
+                <instruction instr-id="1468" subinstr-id="10"/>
+                <instruction instr-id="1468" subinstr-id="14"/>
+                <instruction instr-id="1468" subinstr-id="16"/>
+                <instruction instr-id="1468" subinstr-id="18"/>
+                <instruction instr-id="1468" subinstr-id="20"/>
+                <instruction instr-id="1470" subinstr-id="0"/>
+                <instruction instr-id="1470" subinstr-id="2"/>
+                <instruction instr-id="1470" subinstr-id="4"/>
+                <instruction instr-id="1470" subinstr-id="6"/>
+                <instruction instr-id="1470" subinstr-id="8"/>
+                <instruction instr-id="1470" subinstr-id="10"/>
+                <instruction instr-id="1470" subinstr-id="12"/>
+                <instruction instr-id="1470" subinstr-id="16"/>
+                <instruction instr-id="1470" subinstr-id="18"/>
+                <instruction instr-id="1470" subinstr-id="20"/>
+                <instruction instr-id="1470" subinstr-id="22"/>
+                <instruction instr-id="1470" subinstr-id="24"/>
+                <instruction instr-id="1470" subinstr-id="28"/>
+                <instruction instr-id="1470" subinstr-id="30"/>
+                <instruction instr-id="1470" subinstr-id="32"/>
+                <instruction instr-id="1470" subinstr-id="34"/>
+                <instruction instr-id="1470" subinstr-id="36"/>
+                <instruction instr-id="1472" subinstr-id="0"/>
+                <instruction instr-id="1472" subinstr-id="2"/>
+                <instruction instr-id="1472" subinstr-id="4"/>
+                <instruction instr-id="1472" subinstr-id="6"/>
+                <instruction instr-id="1472" subinstr-id="8"/>
+                <instruction instr-id="1472" subinstr-id="10"/>
+                <instruction instr-id="1472" subinstr-id="12"/>
+                <instruction instr-id="1474" subinstr-id="0"/>
+                <instruction instr-id="1474" subinstr-id="2"/>
+                <instruction instr-id="1474" subinstr-id="4"/>
+                <instruction instr-id="1474" subinstr-id="6"/>
+                <instruction instr-id="1474" subinstr-id="10"/>
+                <instruction instr-id="1474" subinstr-id="12"/>
+                <instruction instr-id="1474" subinstr-id="14"/>
+                <instruction instr-id="1474" subinstr-id="16"/>
+                <instruction instr-id="1474" subinstr-id="18"/>
+                <instruction instr-id="1474" subinstr-id="20"/>
+                <instruction instr-id="1474" subinstr-id="22"/>
+                <instruction instr-id="1474" subinstr-id="24"/>
+                <instruction instr-id="1474" subinstr-id="26"/>
+                <instruction instr-id="1474" subinstr-id="28"/>
+                <instruction instr-id="1474" subinstr-id="30"/>
+                <instruction instr-id="1474" subinstr-id="32"/>
+                <instruction instr-id="1474" subinstr-id="34"/>
+                <instruction instr-id="1474" subinstr-id="36"/>
+                <instruction instr-id="1476" subinstr-id="0"/>
+                <instruction instr-id="1476" subinstr-id="2"/>
+                <instruction instr-id="1476" subinstr-id="4"/>
+                <instruction instr-id="1476" subinstr-id="6"/>
+                <instruction instr-id="1476" subinstr-id="8"/>
+                <instruction instr-id="1476" subinstr-id="10"/>
+                <instruction instr-id="1476" subinstr-id="12"/>
+                <instruction instr-id="1476" subinstr-id="14"/>
+                <instruction instr-id="1476" subinstr-id="16"/>
+                <instruction instr-id="1478" subinstr-id="0"/>
+                <instruction instr-id="1478" subinstr-id="2"/>
+                <instruction instr-id="1478" subinstr-id="4"/>
+                <instruction instr-id="1478" subinstr-id="6"/>
+                <instruction instr-id="1478" subinstr-id="8"/>
+                <instruction instr-id="1478" subinstr-id="10"/>
+                <instruction instr-id="1478" subinstr-id="12"/>
+                <instruction instr-id="1484" subinstr-id="0"/>
+                <instruction instr-id="1484" subinstr-id="2"/>
+                <instruction instr-id="1484" subinstr-id="4"/>
+                <instruction instr-id="1484" subinstr-id="6"/>
+                <instruction instr-id="1484" subinstr-id="8"/>
+                <instruction instr-id="1486"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="5">
+                <bounding-box x1="14" x2="104" y1="317" y2="397"/>
+                <content>3) Is the plan's
+definition of
+compensation for all
+deferrals and
+allocations used
+correctly?
+(More)</content>
+                <instruction instr-id="1492" subinstr-id="0"/>
+                <instruction instr-id="1492" subinstr-id="4"/>
+                <instruction instr-id="1492" subinstr-id="6"/>
+                <instruction instr-id="1492" subinstr-id="8"/>
+                <instruction instr-id="1492" subinstr-id="10"/>
+                <instruction instr-id="1492" subinstr-id="12"/>
+                <instruction instr-id="1492" subinstr-id="14"/>
+                <instruction instr-id="1492" subinstr-id="16"/>
+                <instruction instr-id="1494" subinstr-id="0"/>
+                <instruction instr-id="1494" subinstr-id="2"/>
+                <instruction instr-id="1494" subinstr-id="4"/>
+                <instruction instr-id="1494" subinstr-id="6"/>
+                <instruction instr-id="1494" subinstr-id="10"/>
+                <instruction instr-id="1494" subinstr-id="12"/>
+                <instruction instr-id="1496" subinstr-id="0"/>
+                <instruction instr-id="1496" subinstr-id="2"/>
+                <instruction instr-id="1496" subinstr-id="4"/>
+                <instruction instr-id="1496" subinstr-id="6"/>
+                <instruction instr-id="1496" subinstr-id="8"/>
+                <instruction instr-id="1496" subinstr-id="10"/>
+                <instruction instr-id="1496" subinstr-id="12"/>
+                <instruction instr-id="1496" subinstr-id="14"/>
+                <instruction instr-id="1496" subinstr-id="16"/>
+                <instruction instr-id="1496" subinstr-id="18"/>
+                <instruction instr-id="1496" subinstr-id="20"/>
+                <instruction instr-id="1496" subinstr-id="24"/>
+                <instruction instr-id="1496" subinstr-id="26"/>
+                <instruction instr-id="1496" subinstr-id="30"/>
+                <instruction instr-id="1496" subinstr-id="32"/>
+                <instruction instr-id="1496" subinstr-id="34"/>
+                <instruction instr-id="1498" subinstr-id="0"/>
+                <instruction instr-id="1498" subinstr-id="2"/>
+                <instruction instr-id="1498" subinstr-id="4"/>
+                <instruction instr-id="1498" subinstr-id="6"/>
+                <instruction instr-id="1498" subinstr-id="8"/>
+                <instruction instr-id="1498" subinstr-id="12"/>
+                <instruction instr-id="1500" subinstr-id="0"/>
+                <instruction instr-id="1500" subinstr-id="2"/>
+                <instruction instr-id="1500" subinstr-id="4"/>
+                <instruction instr-id="1502" subinstr-id="0"/>
+                <instruction instr-id="1502" subinstr-id="2"/>
+                <instruction instr-id="1502" subinstr-id="4"/>
+                <instruction instr-id="1502" subinstr-id="6"/>
+                <instruction instr-id="1502" subinstr-id="8"/>
+                <instruction instr-id="1502" subinstr-id="10"/>
+                <instruction instr-id="1502" subinstr-id="12"/>
+                <instruction instr-id="1502" subinstr-id="14"/>
+                <instruction instr-id="1502" subinstr-id="16"/>
+                <instruction instr-id="1508" subinstr-id="0"/>
+                <instruction instr-id="1508" subinstr-id="2"/>
+                <instruction instr-id="1508" subinstr-id="4"/>
+                <instruction instr-id="1508" subinstr-id="6"/>
+                <instruction instr-id="1508" subinstr-id="8"/>
+                <instruction instr-id="1510"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="5">
+                <bounding-box x1="131" x2="202" y1="364" y2="397"/>
+                <content>Review the plan
+document.
+(More)</content>
+                <instruction instr-id="1516" subinstr-id="0"/>
+                <instruction instr-id="1516" subinstr-id="2"/>
+                <instruction instr-id="1516" subinstr-id="6"/>
+                <instruction instr-id="1516" subinstr-id="8"/>
+                <instruction instr-id="1516" subinstr-id="10"/>
+                <instruction instr-id="1516" subinstr-id="12"/>
+                <instruction instr-id="1518" subinstr-id="0"/>
+                <instruction instr-id="1518" subinstr-id="2"/>
+                <instruction instr-id="1518" subinstr-id="4"/>
+                <instruction instr-id="1518" subinstr-id="6"/>
+                <instruction instr-id="1518" subinstr-id="8"/>
+                <instruction instr-id="1518" subinstr-id="10"/>
+                <instruction instr-id="1518" subinstr-id="12"/>
+                <instruction instr-id="1524" subinstr-id="0"/>
+                <instruction instr-id="1524" subinstr-id="2"/>
+                <instruction instr-id="1524" subinstr-id="4"/>
+                <instruction instr-id="1524" subinstr-id="6"/>
+                <instruction instr-id="1524" subinstr-id="8"/>
+                <instruction instr-id="1524" subinstr-id="10"/>
+            </cell>
+            <cell id="20" start-col="2" start-row="5">
+                <bounding-box x1="248" x2="360" y1="352" y2="397"/>
+                <content>EPCRS
+Corrective contribution or
+distribution.
+(More)</content>
+                <instruction instr-id="1530" subinstr-id="0"/>
+                <instruction instr-id="1530" subinstr-id="2"/>
+                <instruction instr-id="1530" subinstr-id="4"/>
+                <instruction instr-id="1530" subinstr-id="6"/>
+                <instruction instr-id="1530" subinstr-id="8"/>
+                <instruction instr-id="1532" subinstr-id="0"/>
+                <instruction instr-id="1532" subinstr-id="2"/>
+                <instruction instr-id="1532" subinstr-id="4"/>
+                <instruction instr-id="1532" subinstr-id="8"/>
+                <instruction instr-id="1532" subinstr-id="10"/>
+                <instruction instr-id="1532" subinstr-id="12"/>
+                <instruction instr-id="1532" subinstr-id="14"/>
+                <instruction instr-id="1532" subinstr-id="16"/>
+                <instruction instr-id="1534" subinstr-id="0"/>
+                <instruction instr-id="1534" subinstr-id="2"/>
+                <instruction instr-id="1534" subinstr-id="4"/>
+                <instruction instr-id="1534" subinstr-id="6"/>
+                <instruction instr-id="1534" subinstr-id="8"/>
+                <instruction instr-id="1540" subinstr-id="0"/>
+                <instruction instr-id="1540" subinstr-id="2"/>
+                <instruction instr-id="1540" subinstr-id="4"/>
+                <instruction instr-id="1540" subinstr-id="6"/>
+                <instruction instr-id="1540" subinstr-id="8"/>
+                <instruction instr-id="1540" subinstr-id="10"/>
+            </cell>
+            <cell id="21" start-col="3" start-row="5">
+                <bounding-box x1="400" x2="446" y1="352" y2="397"/>
+                <content>SCP*
+VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="1546" subinstr-id="0"/>
+                <instruction instr-id="1546" subinstr-id="2"/>
+                <instruction instr-id="1546" subinstr-id="4"/>
+                <instruction instr-id="1548" subinstr-id="0"/>
+                <instruction instr-id="1548" subinstr-id="2"/>
+                <instruction instr-id="1548" subinstr-id="4"/>
+                <instruction instr-id="1550" subinstr-id="0"/>
+                <instruction instr-id="1550" subinstr-id="2"/>
+                <instruction instr-id="1550" subinstr-id="4"/>
+                <instruction instr-id="1550" subinstr-id="6"/>
+                <instruction instr-id="1550" subinstr-id="8"/>
+                <instruction instr-id="1550" subinstr-id="12"/>
+                <instruction instr-id="1550" subinstr-id="14"/>
+                <instruction instr-id="1550" subinstr-id="16"/>
+                <instruction instr-id="1556" subinstr-id="0"/>
+                <instruction instr-id="1556" subinstr-id="2"/>
+                <instruction instr-id="1556" subinstr-id="4"/>
+                <instruction instr-id="1556" subinstr-id="6"/>
+                <instruction instr-id="1556" subinstr-id="8"/>
+                <instruction instr-id="1556" subinstr-id="10"/>
+            </cell>
+            <cell id="22" start-col="4" start-row="5">
+                <bounding-box x1="473" x2="593" y1="306" y2="397"/>
+                <content>Perform annual reviews of
+compensation definitions
+and ensure that the person
+in charge of determining
+compensation is properly
+trained to understand the
+plan document.
+(More)</content>
+                <instruction instr-id="1562" subinstr-id="0"/>
+                <instruction instr-id="1562" subinstr-id="2"/>
+                <instruction instr-id="1562" subinstr-id="4"/>
+                <instruction instr-id="1562" subinstr-id="6"/>
+                <instruction instr-id="1562" subinstr-id="8"/>
+                <instruction instr-id="1562" subinstr-id="10"/>
+                <instruction instr-id="1562" subinstr-id="12"/>
+                <instruction instr-id="1564" subinstr-id="0"/>
+                <instruction instr-id="1564" subinstr-id="2"/>
+                <instruction instr-id="1564" subinstr-id="4"/>
+                <instruction instr-id="1564" subinstr-id="6"/>
+                <instruction instr-id="1564" subinstr-id="8"/>
+                <instruction instr-id="1564" subinstr-id="10"/>
+                <instruction instr-id="1564" subinstr-id="12"/>
+                <instruction instr-id="1564" subinstr-id="14"/>
+                <instruction instr-id="1564" subinstr-id="16"/>
+                <instruction instr-id="1564" subinstr-id="18"/>
+                <instruction instr-id="1564" subinstr-id="20"/>
+                <instruction instr-id="1564" subinstr-id="24"/>
+                <instruction instr-id="1564" subinstr-id="26"/>
+                <instruction instr-id="1564" subinstr-id="28"/>
+                <instruction instr-id="1564" subinstr-id="30"/>
+                <instruction instr-id="1564" subinstr-id="32"/>
+                <instruction instr-id="1564" subinstr-id="34"/>
+                <instruction instr-id="1564" subinstr-id="36"/>
+                <instruction instr-id="1564" subinstr-id="38"/>
+                <instruction instr-id="1564" subinstr-id="40"/>
+                <instruction instr-id="1564" subinstr-id="42"/>
+                <instruction instr-id="1566" subinstr-id="0"/>
+                <instruction instr-id="1566" subinstr-id="2"/>
+                <instruction instr-id="1566" subinstr-id="4"/>
+                <instruction instr-id="1566" subinstr-id="6"/>
+                <instruction instr-id="1566" subinstr-id="8"/>
+                <instruction instr-id="1566" subinstr-id="10"/>
+                <instruction instr-id="1566" subinstr-id="12"/>
+                <instruction instr-id="1566" subinstr-id="14"/>
+                <instruction instr-id="1566" subinstr-id="16"/>
+                <instruction instr-id="1566" subinstr-id="18"/>
+                <instruction instr-id="1568" subinstr-id="0"/>
+                <instruction instr-id="1568" subinstr-id="2"/>
+                <instruction instr-id="1568" subinstr-id="4"/>
+                <instruction instr-id="1568" subinstr-id="6"/>
+                <instruction instr-id="1568" subinstr-id="8"/>
+                <instruction instr-id="1568" subinstr-id="12"/>
+                <instruction instr-id="1568" subinstr-id="14"/>
+                <instruction instr-id="1568" subinstr-id="16"/>
+                <instruction instr-id="1568" subinstr-id="18"/>
+                <instruction instr-id="1568" subinstr-id="20"/>
+                <instruction instr-id="1568" subinstr-id="22"/>
+                <instruction instr-id="1568" subinstr-id="24"/>
+                <instruction instr-id="1570" subinstr-id="0"/>
+                <instruction instr-id="1570" subinstr-id="2"/>
+                <instruction instr-id="1570" subinstr-id="4"/>
+                <instruction instr-id="1570" subinstr-id="6"/>
+                <instruction instr-id="1570" subinstr-id="8"/>
+                <instruction instr-id="1570" subinstr-id="10"/>
+                <instruction instr-id="1570" subinstr-id="12"/>
+                <instruction instr-id="1570" subinstr-id="14"/>
+                <instruction instr-id="1570" subinstr-id="16"/>
+                <instruction instr-id="1570" subinstr-id="18"/>
+                <instruction instr-id="1570" subinstr-id="20"/>
+                <instruction instr-id="1570" subinstr-id="24"/>
+                <instruction instr-id="1570" subinstr-id="26"/>
+                <instruction instr-id="1570" subinstr-id="30"/>
+                <instruction instr-id="1570" subinstr-id="32"/>
+                <instruction instr-id="1570" subinstr-id="34"/>
+                <instruction instr-id="1570" subinstr-id="36"/>
+                <instruction instr-id="1570" subinstr-id="38"/>
+                <instruction instr-id="1570" subinstr-id="40"/>
+                <instruction instr-id="1570" subinstr-id="42"/>
+                <instruction instr-id="1570" subinstr-id="44"/>
+                <instruction instr-id="1572" subinstr-id="0"/>
+                <instruction instr-id="1572" subinstr-id="2"/>
+                <instruction instr-id="1572" subinstr-id="4"/>
+                <instruction instr-id="1572" subinstr-id="6"/>
+                <instruction instr-id="1572" subinstr-id="8"/>
+                <instruction instr-id="1572" subinstr-id="10"/>
+                <instruction instr-id="1572" subinstr-id="12"/>
+                <instruction instr-id="1572" subinstr-id="14"/>
+                <instruction instr-id="1574" subinstr-id="0"/>
+                <instruction instr-id="1574" subinstr-id="2"/>
+                <instruction instr-id="1574" subinstr-id="4"/>
+                <instruction instr-id="1574" subinstr-id="6"/>
+                <instruction instr-id="1574" subinstr-id="8"/>
+                <instruction instr-id="1574" subinstr-id="10"/>
+                <instruction instr-id="1574" subinstr-id="12"/>
+                <instruction instr-id="1574" subinstr-id="14"/>
+                <instruction instr-id="1574" subinstr-id="16"/>
+                <instruction instr-id="1574" subinstr-id="18"/>
+                <instruction instr-id="1580" subinstr-id="0"/>
+                <instruction instr-id="1580" subinstr-id="2"/>
+                <instruction instr-id="1580" subinstr-id="4"/>
+                <instruction instr-id="1580" subinstr-id="6"/>
+                <instruction instr-id="1580" subinstr-id="8"/>
+                <instruction instr-id="1582"/>
+            </cell>
+            <cell id="23" start-col="0" start-row="6">
+                <bounding-box x1="14" x2="116" y1="225" y2="293"/>
+                <content>4) Were employer
+matching contributions
+made to all appropriate
+employees under the
+terms of the plan?
+(More)</content>
+                <instruction instr-id="1588" subinstr-id="0"/>
+                <instruction instr-id="1588" subinstr-id="2"/>
+                <instruction instr-id="1588" subinstr-id="6"/>
+                <instruction instr-id="1588" subinstr-id="8"/>
+                <instruction instr-id="1588" subinstr-id="10"/>
+                <instruction instr-id="1588" subinstr-id="12"/>
+                <instruction instr-id="1588" subinstr-id="14"/>
+                <instruction instr-id="1590" subinstr-id="0"/>
+                <instruction instr-id="1590" subinstr-id="2"/>
+                <instruction instr-id="1590" subinstr-id="4"/>
+                <instruction instr-id="1590" subinstr-id="6"/>
+                <instruction instr-id="1590" subinstr-id="8"/>
+                <instruction instr-id="1590" subinstr-id="10"/>
+                <instruction instr-id="1590" subinstr-id="12"/>
+                <instruction instr-id="1590" subinstr-id="16"/>
+                <instruction instr-id="1590" subinstr-id="18"/>
+                <instruction instr-id="1590" subinstr-id="20"/>
+                <instruction instr-id="1590" subinstr-id="22"/>
+                <instruction instr-id="1590" subinstr-id="24"/>
+                <instruction instr-id="1590" subinstr-id="26"/>
+                <instruction instr-id="1590" subinstr-id="28"/>
+                <instruction instr-id="1590" subinstr-id="30"/>
+                <instruction instr-id="1590" subinstr-id="32"/>
+                <instruction instr-id="1590" subinstr-id="34"/>
+                <instruction instr-id="1590" subinstr-id="36"/>
+                <instruction instr-id="1590" subinstr-id="38"/>
+                <instruction instr-id="1592" subinstr-id="0"/>
+                <instruction instr-id="1592" subinstr-id="2"/>
+                <instruction instr-id="1592" subinstr-id="6"/>
+                <instruction instr-id="1592" subinstr-id="8"/>
+                <instruction instr-id="1592" subinstr-id="10"/>
+                <instruction instr-id="1592" subinstr-id="12"/>
+                <instruction instr-id="1592" subinstr-id="14"/>
+                <instruction instr-id="1592" subinstr-id="16"/>
+                <instruction instr-id="1594" subinstr-id="0"/>
+                <instruction instr-id="1594" subinstr-id="2"/>
+                <instruction instr-id="1594" subinstr-id="4"/>
+                <instruction instr-id="1594" subinstr-id="6"/>
+                <instruction instr-id="1594" subinstr-id="10"/>
+                <instruction instr-id="1594" subinstr-id="12"/>
+                <instruction instr-id="1594" subinstr-id="16"/>
+                <instruction instr-id="1596" subinstr-id="0"/>
+                <instruction instr-id="1596" subinstr-id="2"/>
+                <instruction instr-id="1596" subinstr-id="4"/>
+                <instruction instr-id="1596" subinstr-id="6"/>
+                <instruction instr-id="1596" subinstr-id="10"/>
+                <instruction instr-id="1596" subinstr-id="12"/>
+                <instruction instr-id="1596" subinstr-id="14"/>
+                <instruction instr-id="1596" subinstr-id="16"/>
+                <instruction instr-id="1602" subinstr-id="0"/>
+                <instruction instr-id="1602" subinstr-id="2"/>
+                <instruction instr-id="1602" subinstr-id="4"/>
+                <instruction instr-id="1602" subinstr-id="6"/>
+                <instruction instr-id="1602" subinstr-id="8"/>
+                <instruction instr-id="1602" subinstr-id="10"/>
+            </cell>
+            <cell id="24" start-col="1" start-row="6">
+                <bounding-box x1="131" x2="234" y1="214" y2="293"/>
+                <content>Review the plan
+document to determine
+the correct matching
+contribution formula
+and compare it to what
+is used in operation.
+(More)</content>
+                <instruction instr-id="1608" subinstr-id="0"/>
+                <instruction instr-id="1608" subinstr-id="2"/>
+                <instruction instr-id="1608" subinstr-id="6"/>
+                <instruction instr-id="1608" subinstr-id="8"/>
+                <instruction instr-id="1608" subinstr-id="10"/>
+                <instruction instr-id="1608" subinstr-id="12"/>
+                <instruction instr-id="1610" subinstr-id="0"/>
+                <instruction instr-id="1610" subinstr-id="2"/>
+                <instruction instr-id="1610" subinstr-id="4"/>
+                <instruction instr-id="1610" subinstr-id="6"/>
+                <instruction instr-id="1610" subinstr-id="8"/>
+                <instruction instr-id="1610" subinstr-id="12"/>
+                <instruction instr-id="1610" subinstr-id="14"/>
+                <instruction instr-id="1610" subinstr-id="16"/>
+                <instruction instr-id="1610" subinstr-id="18"/>
+                <instruction instr-id="1612" subinstr-id="0"/>
+                <instruction instr-id="1612" subinstr-id="2"/>
+                <instruction instr-id="1612" subinstr-id="4"/>
+                <instruction instr-id="1612" subinstr-id="8"/>
+                <instruction instr-id="1612" subinstr-id="10"/>
+                <instruction instr-id="1612" subinstr-id="12"/>
+                <instruction instr-id="1612" subinstr-id="14"/>
+                <instruction instr-id="1612" subinstr-id="16"/>
+                <instruction instr-id="1612" subinstr-id="18"/>
+                <instruction instr-id="1612" subinstr-id="22"/>
+                <instruction instr-id="1612" subinstr-id="24"/>
+                <instruction instr-id="1612" subinstr-id="26"/>
+                <instruction instr-id="1612" subinstr-id="28"/>
+                <instruction instr-id="1612" subinstr-id="30"/>
+                <instruction instr-id="1612" subinstr-id="32"/>
+                <instruction instr-id="1612" subinstr-id="34"/>
+                <instruction instr-id="1612" subinstr-id="36"/>
+                <instruction instr-id="1614" subinstr-id="0"/>
+                <instruction instr-id="1614" subinstr-id="2"/>
+                <instruction instr-id="1614" subinstr-id="4"/>
+                <instruction instr-id="1614" subinstr-id="6"/>
+                <instruction instr-id="1614" subinstr-id="8"/>
+                <instruction instr-id="1614" subinstr-id="10"/>
+                <instruction instr-id="1614" subinstr-id="12"/>
+                <instruction instr-id="1614" subinstr-id="14"/>
+                <instruction instr-id="1614" subinstr-id="16"/>
+                <instruction instr-id="1614" subinstr-id="18"/>
+                <instruction instr-id="1614" subinstr-id="20"/>
+                <instruction instr-id="1614" subinstr-id="22"/>
+                <instruction instr-id="1614" subinstr-id="24"/>
+                <instruction instr-id="1616" subinstr-id="0"/>
+                <instruction instr-id="1616" subinstr-id="2"/>
+                <instruction instr-id="1616" subinstr-id="4"/>
+                <instruction instr-id="1616" subinstr-id="6"/>
+                <instruction instr-id="1616" subinstr-id="8"/>
+                <instruction instr-id="1616" subinstr-id="10"/>
+                <instruction instr-id="1616" subinstr-id="12"/>
+                <instruction instr-id="1616" subinstr-id="14"/>
+                <instruction instr-id="1616" subinstr-id="16"/>
+                <instruction instr-id="1616" subinstr-id="18"/>
+                <instruction instr-id="1616" subinstr-id="20"/>
+                <instruction instr-id="1616" subinstr-id="22"/>
+                <instruction instr-id="1618" subinstr-id="0"/>
+                <instruction instr-id="1618" subinstr-id="4"/>
+                <instruction instr-id="1618" subinstr-id="6"/>
+                <instruction instr-id="1618" subinstr-id="8"/>
+                <instruction instr-id="1618" subinstr-id="10"/>
+                <instruction instr-id="1618" subinstr-id="12"/>
+                <instruction instr-id="1618" subinstr-id="14"/>
+                <instruction instr-id="1618" subinstr-id="16"/>
+                <instruction instr-id="1618" subinstr-id="18"/>
+                <instruction instr-id="1618" subinstr-id="20"/>
+                <instruction instr-id="1624" subinstr-id="0"/>
+                <instruction instr-id="1624" subinstr-id="2"/>
+                <instruction instr-id="1624" subinstr-id="4"/>
+                <instruction instr-id="1624" subinstr-id="6"/>
+                <instruction instr-id="1624" subinstr-id="8"/>
+                <instruction instr-id="1624" subinstr-id="10"/>
+            </cell>
+            <cell id="25" start-col="2" start-row="6">
+                <bounding-box x1="248" x2="388" y1="225" y2="293"/>
+                <content>EPCRS
+Base correction upon the plan's
+terms and other applicable
+information at the time of the
+mistake.
+(More)</content>
+                <instruction instr-id="1630" subinstr-id="0"/>
+                <instruction instr-id="1630" subinstr-id="2"/>
+                <instruction instr-id="1630" subinstr-id="4"/>
+                <instruction instr-id="1632" subinstr-id="0"/>
+                <instruction instr-id="1632" subinstr-id="4"/>
+                <instruction instr-id="1632" subinstr-id="6"/>
+                <instruction instr-id="1632" subinstr-id="8"/>
+                <instruction instr-id="1632" subinstr-id="10"/>
+                <instruction instr-id="1632" subinstr-id="12"/>
+                <instruction instr-id="1632" subinstr-id="14"/>
+                <instruction instr-id="1632" subinstr-id="16"/>
+                <instruction instr-id="1632" subinstr-id="18"/>
+                <instruction instr-id="1632" subinstr-id="20"/>
+                <instruction instr-id="1632" subinstr-id="22"/>
+                <instruction instr-id="1632" subinstr-id="24"/>
+                <instruction instr-id="1632" subinstr-id="26"/>
+                <instruction instr-id="1632" subinstr-id="28"/>
+                <instruction instr-id="1634" subinstr-id="0"/>
+                <instruction instr-id="1634" subinstr-id="2"/>
+                <instruction instr-id="1634" subinstr-id="4"/>
+                <instruction instr-id="1634" subinstr-id="6"/>
+                <instruction instr-id="1634" subinstr-id="10"/>
+                <instruction instr-id="1634" subinstr-id="12"/>
+                <instruction instr-id="1634" subinstr-id="16"/>
+                <instruction instr-id="1634" subinstr-id="18"/>
+                <instruction instr-id="1634" subinstr-id="20"/>
+                <instruction instr-id="1634" subinstr-id="24"/>
+                <instruction instr-id="1634" subinstr-id="26"/>
+                <instruction instr-id="1634" subinstr-id="28"/>
+                <instruction instr-id="1634" subinstr-id="30"/>
+                <instruction instr-id="1634" subinstr-id="32"/>
+                <instruction instr-id="1634" subinstr-id="34"/>
+                <instruction instr-id="1634" subinstr-id="36"/>
+                <instruction instr-id="1636" subinstr-id="0"/>
+                <instruction instr-id="1636" subinstr-id="2"/>
+                <instruction instr-id="1636" subinstr-id="4"/>
+                <instruction instr-id="1636" subinstr-id="6"/>
+                <instruction instr-id="1636" subinstr-id="8"/>
+                <instruction instr-id="1636" subinstr-id="10"/>
+                <instruction instr-id="1636" subinstr-id="12"/>
+                <instruction instr-id="1636" subinstr-id="14"/>
+                <instruction instr-id="1636" subinstr-id="16"/>
+                <instruction instr-id="1636" subinstr-id="20"/>
+                <instruction instr-id="1636" subinstr-id="22"/>
+                <instruction instr-id="1636" subinstr-id="26"/>
+                <instruction instr-id="1636" subinstr-id="28"/>
+                <instruction instr-id="1636" subinstr-id="30"/>
+                <instruction instr-id="1636" subinstr-id="34"/>
+                <instruction instr-id="1636" subinstr-id="36"/>
+                <instruction instr-id="1636" subinstr-id="38"/>
+                <instruction instr-id="1636" subinstr-id="40"/>
+                <instruction instr-id="1636" subinstr-id="42"/>
+                <instruction instr-id="1638" subinstr-id="0"/>
+                <instruction instr-id="1638" subinstr-id="2"/>
+                <instruction instr-id="1638" subinstr-id="4"/>
+                <instruction instr-id="1638" subinstr-id="6"/>
+                <instruction instr-id="1638" subinstr-id="8"/>
+                <instruction instr-id="1638" subinstr-id="10"/>
+                <instruction instr-id="1644" subinstr-id="0"/>
+                <instruction instr-id="1644" subinstr-id="2"/>
+                <instruction instr-id="1644" subinstr-id="4"/>
+                <instruction instr-id="1644" subinstr-id="6"/>
+                <instruction instr-id="1644" subinstr-id="8"/>
+                <instruction instr-id="1646"/>
+            </cell>
+            <cell id="26" start-col="3" start-row="6">
+                <bounding-box x1="400" x2="446" y1="248" y2="293"/>
+                <content>SCP*
+VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="1652" subinstr-id="0"/>
+                <instruction instr-id="1652" subinstr-id="2"/>
+                <instruction instr-id="1652" subinstr-id="4"/>
+                <instruction instr-id="1654" subinstr-id="0"/>
+                <instruction instr-id="1654" subinstr-id="2"/>
+                <instruction instr-id="1654" subinstr-id="4"/>
+                <instruction instr-id="1656" subinstr-id="0"/>
+                <instruction instr-id="1656" subinstr-id="2"/>
+                <instruction instr-id="1656" subinstr-id="4"/>
+                <instruction instr-id="1656" subinstr-id="6"/>
+                <instruction instr-id="1656" subinstr-id="8"/>
+                <instruction instr-id="1656" subinstr-id="12"/>
+                <instruction instr-id="1656" subinstr-id="14"/>
+                <instruction instr-id="1656" subinstr-id="16"/>
+                <instruction instr-id="1662" subinstr-id="0"/>
+                <instruction instr-id="1662" subinstr-id="2"/>
+                <instruction instr-id="1662" subinstr-id="4"/>
+                <instruction instr-id="1662" subinstr-id="6"/>
+                <instruction instr-id="1662" subinstr-id="8"/>
+                <instruction instr-id="1662" subinstr-id="10"/>
+            </cell>
+            <cell id="27" start-col="4" start-row="6">
+                <bounding-box x1="473" x2="595" y1="213" y2="293"/>
+                <content>Contact plan administrators
+to ensure that they have
+adequate and sufficient
+employment and payroll
+records to make
+calculations.
+(More)</content>
+                <instruction instr-id="1668" subinstr-id="0"/>
+                <instruction instr-id="1668" subinstr-id="2"/>
+                <instruction instr-id="1668" subinstr-id="4"/>
+                <instruction instr-id="1668" subinstr-id="6"/>
+                <instruction instr-id="1668" subinstr-id="8"/>
+                <instruction instr-id="1668" subinstr-id="10"/>
+                <instruction instr-id="1668" subinstr-id="12"/>
+                <instruction instr-id="1668" subinstr-id="14"/>
+                <instruction instr-id="1668" subinstr-id="16"/>
+                <instruction instr-id="1668" subinstr-id="18"/>
+                <instruction instr-id="1670" subinstr-id="0"/>
+                <instruction instr-id="1670" subinstr-id="4"/>
+                <instruction instr-id="1670" subinstr-id="6"/>
+                <instruction instr-id="1670" subinstr-id="8"/>
+                <instruction instr-id="1670" subinstr-id="10"/>
+                <instruction instr-id="1670" subinstr-id="12"/>
+                <instruction instr-id="1670" subinstr-id="14"/>
+                <instruction instr-id="1670" subinstr-id="16"/>
+                <instruction instr-id="1670" subinstr-id="20"/>
+                <instruction instr-id="1670" subinstr-id="22"/>
+                <instruction instr-id="1670" subinstr-id="24"/>
+                <instruction instr-id="1670" subinstr-id="26"/>
+                <instruction instr-id="1670" subinstr-id="28"/>
+                <instruction instr-id="1672" subinstr-id="0"/>
+                <instruction instr-id="1672" subinstr-id="2"/>
+                <instruction instr-id="1672" subinstr-id="4"/>
+                <instruction instr-id="1672" subinstr-id="6"/>
+                <instruction instr-id="1672" subinstr-id="8"/>
+                <instruction instr-id="1672" subinstr-id="10"/>
+                <instruction instr-id="1672" subinstr-id="14"/>
+                <instruction instr-id="1672" subinstr-id="16"/>
+                <instruction instr-id="1672" subinstr-id="18"/>
+                <instruction instr-id="1674" subinstr-id="0"/>
+                <instruction instr-id="1674" subinstr-id="2"/>
+                <instruction instr-id="1674" subinstr-id="4"/>
+                <instruction instr-id="1674" subinstr-id="6"/>
+                <instruction instr-id="1674" subinstr-id="8"/>
+                <instruction instr-id="1674" subinstr-id="10"/>
+                <instruction instr-id="1674" subinstr-id="14"/>
+                <instruction instr-id="1674" subinstr-id="16"/>
+                <instruction instr-id="1674" subinstr-id="20"/>
+                <instruction instr-id="1674" subinstr-id="22"/>
+                <instruction instr-id="1674" subinstr-id="24"/>
+                <instruction instr-id="1674" subinstr-id="26"/>
+                <instruction instr-id="1674" subinstr-id="28"/>
+                <instruction instr-id="1676" subinstr-id="0"/>
+                <instruction instr-id="1676" subinstr-id="2"/>
+                <instruction instr-id="1676" subinstr-id="4"/>
+                <instruction instr-id="1676" subinstr-id="6"/>
+                <instruction instr-id="1676" subinstr-id="8"/>
+                <instruction instr-id="1676" subinstr-id="12"/>
+                <instruction instr-id="1676" subinstr-id="14"/>
+                <instruction instr-id="1676" subinstr-id="16"/>
+                <instruction instr-id="1676" subinstr-id="18"/>
+                <instruction instr-id="1676" subinstr-id="20"/>
+                <instruction instr-id="1676" subinstr-id="22"/>
+                <instruction instr-id="1678" subinstr-id="0"/>
+                <instruction instr-id="1678" subinstr-id="2"/>
+                <instruction instr-id="1678" subinstr-id="4"/>
+                <instruction instr-id="1678" subinstr-id="6"/>
+                <instruction instr-id="1678" subinstr-id="8"/>
+                <instruction instr-id="1684" subinstr-id="0"/>
+                <instruction instr-id="1684" subinstr-id="2"/>
+                <instruction instr-id="1684" subinstr-id="4"/>
+                <instruction instr-id="1684" subinstr-id="6"/>
+                <instruction instr-id="1684" subinstr-id="8"/>
+                <instruction instr-id="1686"/>
+            </cell>
+            <cell id="28" start-col="0" start-row="7">
+                <bounding-box x1="14" x2="116" y1="142" y2="200"/>
+                <content>5) Has the plan
+satisfied the 401(k)
+nondiscrimination tests
+(ADP and ACP)?
+More</content>
+                <instruction instr-id="1692" subinstr-id="0"/>
+                <instruction instr-id="1692" subinstr-id="2"/>
+                <instruction instr-id="1692" subinstr-id="6"/>
+                <instruction instr-id="1692" subinstr-id="8"/>
+                <instruction instr-id="1692" subinstr-id="10"/>
+                <instruction instr-id="1692" subinstr-id="14"/>
+                <instruction instr-id="1692" subinstr-id="16"/>
+                <instruction instr-id="1692" subinstr-id="20"/>
+                <instruction instr-id="1692" subinstr-id="22"/>
+                <instruction instr-id="1692" subinstr-id="24"/>
+                <instruction instr-id="1692" subinstr-id="26"/>
+                <instruction instr-id="1694" subinstr-id="0"/>
+                <instruction instr-id="1694" subinstr-id="2"/>
+                <instruction instr-id="1694" subinstr-id="4"/>
+                <instruction instr-id="1694" subinstr-id="6"/>
+                <instruction instr-id="1694" subinstr-id="8"/>
+                <instruction instr-id="1694" subinstr-id="10"/>
+                <instruction instr-id="1696" subinstr-id="0"/>
+                <instruction instr-id="1696" subinstr-id="2"/>
+                <instruction instr-id="1696" subinstr-id="4"/>
+                <instruction instr-id="1696" subinstr-id="6"/>
+                <instruction instr-id="1696" subinstr-id="8"/>
+                <instruction instr-id="1696" subinstr-id="10"/>
+                <instruction instr-id="1696" subinstr-id="12"/>
+                <instruction instr-id="1696" subinstr-id="14"/>
+                <instruction instr-id="1696" subinstr-id="16"/>
+                <instruction instr-id="1696" subinstr-id="18"/>
+                <instruction instr-id="1698" subinstr-id="0"/>
+                <instruction instr-id="1698" subinstr-id="2"/>
+                <instruction instr-id="1698" subinstr-id="4"/>
+                <instruction instr-id="1698" subinstr-id="6"/>
+                <instruction instr-id="1698" subinstr-id="8"/>
+                <instruction instr-id="1704"/>
+                <instruction instr-id="1707" subinstr-id="0"/>
+                <instruction instr-id="1707" subinstr-id="2"/>
+                <instruction instr-id="1707" subinstr-id="4"/>
+                <instruction instr-id="1707" subinstr-id="6"/>
+                <instruction instr-id="1710"/>
+            </cell>
+            <cell id="29" start-col="1" start-row="7">
+                <bounding-box x1="131" x2="236" y1="110" y2="200"/>
+                <content>Independent review to
+determine if highly
+compensated and
+nonhighly
+compensated
+employees are properly
+classified.
+(More)</content>
+                <instruction instr-id="1716" subinstr-id="0"/>
+                <instruction instr-id="1716" subinstr-id="2"/>
+                <instruction instr-id="1716" subinstr-id="4"/>
+                <instruction instr-id="1716" subinstr-id="6"/>
+                <instruction instr-id="1716" subinstr-id="8"/>
+                <instruction instr-id="1716" subinstr-id="10"/>
+                <instruction instr-id="1716" subinstr-id="12"/>
+                <instruction instr-id="1716" subinstr-id="16"/>
+                <instruction instr-id="1718" subinstr-id="0"/>
+                <instruction instr-id="1718" subinstr-id="2"/>
+                <instruction instr-id="1718" subinstr-id="4"/>
+                <instruction instr-id="1718" subinstr-id="6"/>
+                <instruction instr-id="1718" subinstr-id="8"/>
+                <instruction instr-id="1718" subinstr-id="10"/>
+                <instruction instr-id="1718" subinstr-id="12"/>
+                <instruction instr-id="1718" subinstr-id="14"/>
+                <instruction instr-id="1718" subinstr-id="16"/>
+                <instruction instr-id="1718" subinstr-id="18"/>
+                <instruction instr-id="1720" subinstr-id="0"/>
+                <instruction instr-id="1720" subinstr-id="2"/>
+                <instruction instr-id="1720" subinstr-id="4"/>
+                <instruction instr-id="1720" subinstr-id="6"/>
+                <instruction instr-id="1720" subinstr-id="8"/>
+                <instruction instr-id="1720" subinstr-id="10"/>
+                <instruction instr-id="1720" subinstr-id="12"/>
+                <instruction instr-id="1720" subinstr-id="14"/>
+                <instruction instr-id="1720" subinstr-id="18"/>
+                <instruction instr-id="1720" subinstr-id="20"/>
+                <instruction instr-id="1722" subinstr-id="0"/>
+                <instruction instr-id="1722" subinstr-id="2"/>
+                <instruction instr-id="1722" subinstr-id="4"/>
+                <instruction instr-id="1722" subinstr-id="6"/>
+                <instruction instr-id="1724" subinstr-id="0"/>
+                <instruction instr-id="1724" subinstr-id="2"/>
+                <instruction instr-id="1724" subinstr-id="4"/>
+                <instruction instr-id="1724" subinstr-id="6"/>
+                <instruction instr-id="1724" subinstr-id="8"/>
+                <instruction instr-id="1724" subinstr-id="10"/>
+                <instruction instr-id="1724" subinstr-id="12"/>
+                <instruction instr-id="1724" subinstr-id="14"/>
+                <instruction instr-id="1724" subinstr-id="16"/>
+                <instruction instr-id="1724" subinstr-id="18"/>
+                <instruction instr-id="1726" subinstr-id="0"/>
+                <instruction instr-id="1726" subinstr-id="2"/>
+                <instruction instr-id="1726" subinstr-id="4"/>
+                <instruction instr-id="1726" subinstr-id="6"/>
+                <instruction instr-id="1726" subinstr-id="8"/>
+                <instruction instr-id="1726" subinstr-id="12"/>
+                <instruction instr-id="1726" subinstr-id="14"/>
+                <instruction instr-id="1726" subinstr-id="16"/>
+                <instruction instr-id="1726" subinstr-id="20"/>
+                <instruction instr-id="1726" subinstr-id="22"/>
+                <instruction instr-id="1726" subinstr-id="24"/>
+                <instruction instr-id="1726" subinstr-id="26"/>
+                <instruction instr-id="1728" subinstr-id="0"/>
+                <instruction instr-id="1728" subinstr-id="2"/>
+                <instruction instr-id="1728" subinstr-id="4"/>
+                <instruction instr-id="1728" subinstr-id="6"/>
+                <instruction instr-id="1728" subinstr-id="8"/>
+                <instruction instr-id="1728" subinstr-id="10"/>
+                <instruction instr-id="1728" subinstr-id="12"/>
+                <instruction instr-id="1728" subinstr-id="14"/>
+                <instruction instr-id="1728" subinstr-id="16"/>
+                <instruction instr-id="1728" subinstr-id="18"/>
+                <instruction instr-id="1734" subinstr-id="0"/>
+                <instruction instr-id="1734" subinstr-id="2"/>
+                <instruction instr-id="1734" subinstr-id="4"/>
+                <instruction instr-id="1734" subinstr-id="6"/>
+                <instruction instr-id="1734" subinstr-id="8"/>
+                <instruction instr-id="1736"/>
+            </cell>
+            <cell id="30" start-col="2" start-row="7">
+                <bounding-box x1="248" x2="384" y1="87" y2="200"/>
+                <content>EPCRS
+Correction method for
+ADP/ACP test failures: Make
+qualified nonelective
+contributions (QNECs) on
+behalf of the nonhighly
+compensated employees
+Appendix B (section 2.01)
+One-to-one correction method.
+(More)</content>
+                <instruction instr-id="1742" subinstr-id="0"/>
+                <instruction instr-id="1742" subinstr-id="2"/>
+                <instruction instr-id="1742" subinstr-id="4"/>
+                <instruction instr-id="1742" subinstr-id="6"/>
+                <instruction instr-id="1742" subinstr-id="8"/>
+                <instruction instr-id="1744" subinstr-id="0"/>
+                <instruction instr-id="1744" subinstr-id="2"/>
+                <instruction instr-id="1744" subinstr-id="4"/>
+                <instruction instr-id="1744" subinstr-id="6"/>
+                <instruction instr-id="1744" subinstr-id="8"/>
+                <instruction instr-id="1744" subinstr-id="10"/>
+                <instruction instr-id="1744" subinstr-id="12"/>
+                <instruction instr-id="1744" subinstr-id="14"/>
+                <instruction instr-id="1746" subinstr-id="0"/>
+                <instruction instr-id="1746" subinstr-id="2"/>
+                <instruction instr-id="1746" subinstr-id="4"/>
+                <instruction instr-id="1746" subinstr-id="6"/>
+                <instruction instr-id="1746" subinstr-id="8"/>
+                <instruction instr-id="1746" subinstr-id="10"/>
+                <instruction instr-id="1746" subinstr-id="12"/>
+                <instruction instr-id="1746" subinstr-id="16"/>
+                <instruction instr-id="1746" subinstr-id="18"/>
+                <instruction instr-id="1746" subinstr-id="20"/>
+                <instruction instr-id="1746" subinstr-id="22"/>
+                <instruction instr-id="1746" subinstr-id="26"/>
+                <instruction instr-id="1746" subinstr-id="28"/>
+                <instruction instr-id="1746" subinstr-id="30"/>
+                <instruction instr-id="1746" subinstr-id="32"/>
+                <instruction instr-id="1746" subinstr-id="34"/>
+                <instruction instr-id="1746" subinstr-id="36"/>
+                <instruction instr-id="1746" subinstr-id="38"/>
+                <instruction instr-id="1746" subinstr-id="40"/>
+                <instruction instr-id="1746" subinstr-id="44"/>
+                <instruction instr-id="1746" subinstr-id="46"/>
+                <instruction instr-id="1746" subinstr-id="48"/>
+                <instruction instr-id="1746" subinstr-id="50"/>
+                <instruction instr-id="1748" subinstr-id="0"/>
+                <instruction instr-id="1748" subinstr-id="2"/>
+                <instruction instr-id="1748" subinstr-id="4"/>
+                <instruction instr-id="1748" subinstr-id="6"/>
+                <instruction instr-id="1748" subinstr-id="8"/>
+                <instruction instr-id="1748" subinstr-id="10"/>
+                <instruction instr-id="1750" subinstr-id="0"/>
+                <instruction instr-id="1750" subinstr-id="2"/>
+                <instruction instr-id="1750" subinstr-id="4"/>
+                <instruction instr-id="1750" subinstr-id="6"/>
+                <instruction instr-id="1750" subinstr-id="8"/>
+                <instruction instr-id="1750" subinstr-id="10"/>
+                <instruction instr-id="1750" subinstr-id="12"/>
+                <instruction instr-id="1750" subinstr-id="14"/>
+                <instruction instr-id="1750" subinstr-id="16"/>
+                <instruction instr-id="1750" subinstr-id="18"/>
+                <instruction instr-id="1750" subinstr-id="20"/>
+                <instruction instr-id="1750" subinstr-id="24"/>
+                <instruction instr-id="1750" subinstr-id="26"/>
+                <instruction instr-id="1750" subinstr-id="28"/>
+                <instruction instr-id="1750" subinstr-id="30"/>
+                <instruction instr-id="1750" subinstr-id="32"/>
+                <instruction instr-id="1750" subinstr-id="34"/>
+                <instruction instr-id="1750" subinstr-id="38"/>
+                <instruction instr-id="1750" subinstr-id="40"/>
+                <instruction instr-id="1752" subinstr-id="0"/>
+                <instruction instr-id="1752" subinstr-id="2"/>
+                <instruction instr-id="1752" subinstr-id="4"/>
+                <instruction instr-id="1752" subinstr-id="6"/>
+                <instruction instr-id="1752" subinstr-id="8"/>
+                <instruction instr-id="1752" subinstr-id="10"/>
+                <instruction instr-id="1752" subinstr-id="12"/>
+                <instruction instr-id="1752" subinstr-id="14"/>
+                <instruction instr-id="1752" subinstr-id="18"/>
+                <instruction instr-id="1752" subinstr-id="20"/>
+                <instruction instr-id="1752" subinstr-id="22"/>
+                <instruction instr-id="1752" subinstr-id="24"/>
+                <instruction instr-id="1752" subinstr-id="26"/>
+                <instruction instr-id="1754" subinstr-id="0"/>
+                <instruction instr-id="1754" subinstr-id="2"/>
+                <instruction instr-id="1754" subinstr-id="4"/>
+                <instruction instr-id="1754" subinstr-id="6"/>
+                <instruction instr-id="1754" subinstr-id="8"/>
+                <instruction instr-id="1754" subinstr-id="10"/>
+                <instruction instr-id="1754" subinstr-id="14"/>
+                <instruction instr-id="1754" subinstr-id="16"/>
+                <instruction instr-id="1754" subinstr-id="18"/>
+                <instruction instr-id="1754" subinstr-id="20"/>
+                <instruction instr-id="1754" subinstr-id="22"/>
+                <instruction instr-id="1756" subinstr-id="0"/>
+                <instruction instr-id="1756" subinstr-id="2"/>
+                <instruction instr-id="1756" subinstr-id="4"/>
+                <instruction instr-id="1756" subinstr-id="6"/>
+                <instruction instr-id="1756" subinstr-id="8"/>
+                <instruction instr-id="1756" subinstr-id="10"/>
+                <instruction instr-id="1756" subinstr-id="12"/>
+                <instruction instr-id="1756" subinstr-id="14"/>
+                <instruction instr-id="1756" subinstr-id="16"/>
+                <instruction instr-id="1756" subinstr-id="18"/>
+                <instruction instr-id="1756" subinstr-id="22"/>
+                <instruction instr-id="1756" subinstr-id="24"/>
+                <instruction instr-id="1756" subinstr-id="26"/>
+                <instruction instr-id="1758" subinstr-id="0"/>
+                <instruction instr-id="1758" subinstr-id="2"/>
+                <instruction instr-id="1758" subinstr-id="4"/>
+                <instruction instr-id="1758" subinstr-id="6"/>
+                <instruction instr-id="1758" subinstr-id="8"/>
+                <instruction instr-id="1758" subinstr-id="12"/>
+                <instruction instr-id="1758" subinstr-id="14"/>
+                <instruction instr-id="1758" subinstr-id="16"/>
+                <instruction instr-id="1758" subinstr-id="20"/>
+                <instruction instr-id="1758" subinstr-id="22"/>
+                <instruction instr-id="1764" subinstr-id="0"/>
+                <instruction instr-id="1764" subinstr-id="2"/>
+                <instruction instr-id="1764" subinstr-id="4"/>
+                <instruction instr-id="1764" subinstr-id="6"/>
+                <instruction instr-id="1764" subinstr-id="8"/>
+                <instruction instr-id="1766"/>
+            </cell>
+            <cell id="31" start-col="3" start-row="7">
+                <bounding-box x1="400" x2="446" y1="155" y2="200"/>
+                <content>SCP*
+VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="1772" subinstr-id="0"/>
+                <instruction instr-id="1772" subinstr-id="2"/>
+                <instruction instr-id="1772" subinstr-id="4"/>
+                <instruction instr-id="1774" subinstr-id="0"/>
+                <instruction instr-id="1774" subinstr-id="2"/>
+                <instruction instr-id="1774" subinstr-id="4"/>
+                <instruction instr-id="1776" subinstr-id="0"/>
+                <instruction instr-id="1776" subinstr-id="2"/>
+                <instruction instr-id="1776" subinstr-id="4"/>
+                <instruction instr-id="1776" subinstr-id="6"/>
+                <instruction instr-id="1776" subinstr-id="8"/>
+                <instruction instr-id="1776" subinstr-id="12"/>
+                <instruction instr-id="1776" subinstr-id="14"/>
+                <instruction instr-id="1776" subinstr-id="16"/>
+                <instruction instr-id="1782" subinstr-id="0"/>
+                <instruction instr-id="1782" subinstr-id="2"/>
+                <instruction instr-id="1782" subinstr-id="4"/>
+                <instruction instr-id="1782" subinstr-id="6"/>
+                <instruction instr-id="1782" subinstr-id="8"/>
+                <instruction instr-id="1784"/>
+            </cell>
+            <cell id="32" start-col="4" start-row="7">
+                <bounding-box x1="473" x2="597" y1="98" y2="200"/>
+                <content>Consider a safe harbor
+plan. Communicate with the
+plan administrator to
+ensure proper employee
+classification. Ensure both
+you and the plan
+administrators are familiar
+with the terms of the plan.
+(More)</content>
+                <instruction instr-id="1790" subinstr-id="0"/>
+                <instruction instr-id="1790" subinstr-id="2"/>
+                <instruction instr-id="1790" subinstr-id="4"/>
+                <instruction instr-id="1790" subinstr-id="6"/>
+                <instruction instr-id="1790" subinstr-id="8"/>
+                <instruction instr-id="1790" subinstr-id="10"/>
+                <instruction instr-id="1790" subinstr-id="12"/>
+                <instruction instr-id="1790" subinstr-id="14"/>
+                <instruction instr-id="1790" subinstr-id="16"/>
+                <instruction instr-id="1790" subinstr-id="18"/>
+                <instruction instr-id="1792" subinstr-id="0"/>
+                <instruction instr-id="1792" subinstr-id="2"/>
+                <instruction instr-id="1792" subinstr-id="6"/>
+                <instruction instr-id="1792" subinstr-id="8"/>
+                <instruction instr-id="1792" subinstr-id="10"/>
+                <instruction instr-id="1792" subinstr-id="12"/>
+                <instruction instr-id="1792" subinstr-id="14"/>
+                <instruction instr-id="1792" subinstr-id="16"/>
+                <instruction instr-id="1792" subinstr-id="18"/>
+                <instruction instr-id="1792" subinstr-id="22"/>
+                <instruction instr-id="1792" subinstr-id="24"/>
+                <instruction instr-id="1794" subinstr-id="0"/>
+                <instruction instr-id="1794" subinstr-id="2"/>
+                <instruction instr-id="1794" subinstr-id="4"/>
+                <instruction instr-id="1794" subinstr-id="6"/>
+                <instruction instr-id="1794" subinstr-id="8"/>
+                <instruction instr-id="1794" subinstr-id="10"/>
+                <instruction instr-id="1794" subinstr-id="12"/>
+                <instruction instr-id="1794" subinstr-id="14"/>
+                <instruction instr-id="1794" subinstr-id="16"/>
+                <instruction instr-id="1796" subinstr-id="0"/>
+                <instruction instr-id="1796" subinstr-id="2"/>
+                <instruction instr-id="1796" subinstr-id="4"/>
+                <instruction instr-id="1796" subinstr-id="6"/>
+                <instruction instr-id="1796" subinstr-id="8"/>
+                <instruction instr-id="1796" subinstr-id="10"/>
+                <instruction instr-id="1796" subinstr-id="12"/>
+                <instruction instr-id="1796" subinstr-id="14"/>
+                <instruction instr-id="1796" subinstr-id="18"/>
+                <instruction instr-id="1796" subinstr-id="20"/>
+                <instruction instr-id="1796" subinstr-id="22"/>
+                <instruction instr-id="1798" subinstr-id="0"/>
+                <instruction instr-id="1798" subinstr-id="2"/>
+                <instruction instr-id="1798" subinstr-id="4"/>
+                <instruction instr-id="1798" subinstr-id="6"/>
+                <instruction instr-id="1798" subinstr-id="8"/>
+                <instruction instr-id="1798" subinstr-id="10"/>
+                <instruction instr-id="1798" subinstr-id="12"/>
+                <instruction instr-id="1798" subinstr-id="14"/>
+                <instruction instr-id="1798" subinstr-id="16"/>
+                <instruction instr-id="1798" subinstr-id="18"/>
+                <instruction instr-id="1798" subinstr-id="20"/>
+                <instruction instr-id="1798" subinstr-id="22"/>
+                <instruction instr-id="1798" subinstr-id="24"/>
+                <instruction instr-id="1798" subinstr-id="26"/>
+                <instruction instr-id="1798" subinstr-id="28"/>
+                <instruction instr-id="1798" subinstr-id="32"/>
+                <instruction instr-id="1798" subinstr-id="34"/>
+                <instruction instr-id="1798" subinstr-id="36"/>
+                <instruction instr-id="1798" subinstr-id="38"/>
+                <instruction instr-id="1798" subinstr-id="40"/>
+                <instruction instr-id="1798" subinstr-id="42"/>
+                <instruction instr-id="1798" subinstr-id="44"/>
+                <instruction instr-id="1798" subinstr-id="46"/>
+                <instruction instr-id="1798" subinstr-id="48"/>
+                <instruction instr-id="1800" subinstr-id="0"/>
+                <instruction instr-id="1800" subinstr-id="2"/>
+                <instruction instr-id="1800" subinstr-id="4"/>
+                <instruction instr-id="1800" subinstr-id="6"/>
+                <instruction instr-id="1800" subinstr-id="8"/>
+                <instruction instr-id="1800" subinstr-id="10"/>
+                <instruction instr-id="1802" subinstr-id="0"/>
+                <instruction instr-id="1802" subinstr-id="2"/>
+                <instruction instr-id="1802" subinstr-id="4"/>
+                <instruction instr-id="1802" subinstr-id="6"/>
+                <instruction instr-id="1802" subinstr-id="8"/>
+                <instruction instr-id="1802" subinstr-id="10"/>
+                <instruction instr-id="1802" subinstr-id="12"/>
+                <instruction instr-id="1802" subinstr-id="14"/>
+                <instruction instr-id="1802" subinstr-id="18"/>
+                <instruction instr-id="1802" subinstr-id="20"/>
+                <instruction instr-id="1802" subinstr-id="22"/>
+                <instruction instr-id="1802" subinstr-id="24"/>
+                <instruction instr-id="1802" subinstr-id="26"/>
+                <instruction instr-id="1804" subinstr-id="0"/>
+                <instruction instr-id="1804" subinstr-id="2"/>
+                <instruction instr-id="1804" subinstr-id="4"/>
+                <instruction instr-id="1804" subinstr-id="8"/>
+                <instruction instr-id="1804" subinstr-id="10"/>
+                <instruction instr-id="1804" subinstr-id="12"/>
+                <instruction instr-id="1804" subinstr-id="14"/>
+                <instruction instr-id="1804" subinstr-id="16"/>
+                <instruction instr-id="1804" subinstr-id="18"/>
+                <instruction instr-id="1804" subinstr-id="20"/>
+                <instruction instr-id="1804" subinstr-id="22"/>
+                <instruction instr-id="1810" subinstr-id="0"/>
+                <instruction instr-id="1810" subinstr-id="2"/>
+                <instruction instr-id="1810" subinstr-id="4"/>
+                <instruction instr-id="1810" subinstr-id="6"/>
+                <instruction instr-id="1810" subinstr-id="8"/>
+                <instruction instr-id="1812"/>
+            </cell>
+        </region>
+        <region col-increment="0" id="1" page="3" row-increment="7">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="44" x2="84" y1="739" y2="749"/>
+                <content>--Trends</content>
+                <instruction instr-id="2271" subinstr-id="0"/>
+                <instruction instr-id="2271" subinstr-id="2"/>
+                <instruction instr-id="2271" subinstr-id="4"/>
+                <instruction instr-id="2271" subinstr-id="6"/>
+                <instruction instr-id="2271" subinstr-id="8"/>
+                <instruction instr-id="2271" subinstr-id="10"/>
+                <instruction instr-id="2271" subinstr-id="12"/>
+                <instruction instr-id="2271" subinstr-id="14"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="337" x2="364" y1="739" y2="749"/>
+                <content>-Tips-</content>
+                <instruction instr-id="2273" subinstr-id="0"/>
+                <instruction instr-id="2273" subinstr-id="2"/>
+                <instruction instr-id="2273" subinstr-id="4"/>
+                <instruction instr-id="2273" subinstr-id="6"/>
+                <instruction instr-id="2273" subinstr-id="8"/>
+                <instruction instr-id="2273" subinstr-id="10"/>
+            </cell>
+            <cell id="2" start-col="0" start-row="1">
+                <bounding-box x1="26" x2="108" y1="715" y2="725"/>
+                <content>Potential Mistake</content>
+                <instruction instr-id="2279" subinstr-id="0"/>
+                <instruction instr-id="2279" subinstr-id="2"/>
+                <instruction instr-id="2279" subinstr-id="4"/>
+                <instruction instr-id="2279" subinstr-id="6"/>
+                <instruction instr-id="2279" subinstr-id="8"/>
+                <instruction instr-id="2279" subinstr-id="10"/>
+                <instruction instr-id="2279" subinstr-id="12"/>
+            </cell>
+            <cell id="3" start-col="1" start-row="1">
+                <bounding-box x1="146" x2="221" y1="704" y2="725"/>
+                <content>How to Find the
+Mistake</content>
+                <instruction instr-id="2279" subinstr-id="16"/>
+                <instruction instr-id="2279" subinstr-id="18"/>
+                <instruction instr-id="2279" subinstr-id="20"/>
+                <instruction instr-id="2279" subinstr-id="22"/>
+                <instruction instr-id="2279" subinstr-id="24"/>
+                <instruction instr-id="2279" subinstr-id="26"/>
+                <instruction instr-id="2279" subinstr-id="28"/>
+                <instruction instr-id="2281" subinstr-id="0"/>
+                <instruction instr-id="2281" subinstr-id="2"/>
+                <instruction instr-id="2281" subinstr-id="4"/>
+            </cell>
+            <cell id="4" start-col="2" start-row="1">
+                <bounding-box x1="301" x2="409" y1="715" y2="725"/>
+                <content>How to Fix the Mistake</content>
+                <instruction instr-id="2283" subinstr-id="0"/>
+                <instruction instr-id="2283" subinstr-id="2"/>
+                <instruction instr-id="2283" subinstr-id="4"/>
+                <instruction instr-id="2283" subinstr-id="8"/>
+                <instruction instr-id="2283" subinstr-id="10"/>
+                <instruction instr-id="2283" subinstr-id="14"/>
+                <instruction instr-id="2283" subinstr-id="16"/>
+                <instruction instr-id="2283" subinstr-id="18"/>
+                <instruction instr-id="2283" subinstr-id="22"/>
+                <instruction instr-id="2283" subinstr-id="24"/>
+                <instruction instr-id="2283" subinstr-id="26"/>
+                <instruction instr-id="2283" subinstr-id="30"/>
+                <instruction instr-id="2283" subinstr-id="32"/>
+                <instruction instr-id="2283" subinstr-id="34"/>
+                <instruction instr-id="2283" subinstr-id="36"/>
+                <instruction instr-id="2283" subinstr-id="38"/>
+                <instruction instr-id="2283" subinstr-id="40"/>
+                <instruction instr-id="2283" subinstr-id="42"/>
+            </cell>
+            <cell id="5" start-col="4" start-row="1">
+                <bounding-box x1="474" x2="595" y1="715" y2="725"/>
+                <content>How to Avoid the Mistake</content>
+                <instruction instr-id="2283" subinstr-id="58"/>
+                <instruction instr-id="2283" subinstr-id="60"/>
+                <instruction instr-id="2283" subinstr-id="64"/>
+                <instruction instr-id="2283" subinstr-id="66"/>
+                <instruction instr-id="2283" subinstr-id="68"/>
+                <instruction instr-id="2283" subinstr-id="72"/>
+                <instruction instr-id="2283" subinstr-id="76"/>
+                <instruction instr-id="2283" subinstr-id="78"/>
+                <instruction instr-id="2283" subinstr-id="80"/>
+                <instruction instr-id="2283" subinstr-id="82"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="2">
+                <bounding-box x1="277" x2="360" y1="692" y2="702"/>
+                <content>Corrective Action</content>
+                <instruction instr-id="2285" subinstr-id="0"/>
+                <instruction instr-id="2285" subinstr-id="2"/>
+                <instruction instr-id="2285" subinstr-id="4"/>
+                <instruction instr-id="2285" subinstr-id="6"/>
+                <instruction instr-id="2285" subinstr-id="8"/>
+                <instruction instr-id="2285" subinstr-id="10"/>
+                <instruction instr-id="2285" subinstr-id="12"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="2">
+                <bounding-box x1="404" x2="458" y1="669" y2="702"/>
+                <content>Correction
+Program(s)
+Available</content>
+                <instruction instr-id="2285" subinstr-id="16"/>
+                <instruction instr-id="2285" subinstr-id="18"/>
+                <instruction instr-id="2285" subinstr-id="20"/>
+                <instruction instr-id="2285" subinstr-id="22"/>
+                <instruction instr-id="2287" subinstr-id="0"/>
+                <instruction instr-id="2287" subinstr-id="2"/>
+                <instruction instr-id="2287" subinstr-id="4"/>
+                <instruction instr-id="2287" subinstr-id="6"/>
+                <instruction instr-id="2287" subinstr-id="8"/>
+                <instruction instr-id="2287" subinstr-id="10"/>
+                <instruction instr-id="2287" subinstr-id="12"/>
+                <instruction instr-id="2287" subinstr-id="14"/>
+                <instruction instr-id="2287" subinstr-id="16"/>
+                <instruction instr-id="2289" subinstr-id="0"/>
+                <instruction instr-id="2289" subinstr-id="2"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="3">
+                <bounding-box x1="14" x2="116" y1="576" y2="667"/>
+                <content>6) Were alleligible
+employees identified
+and given the
+opportunity to make an
+elective deferral
+election (exclusion of
+eligible employees)?
+(More)</content>
+                <instruction instr-id="2292" subinstr-id="0"/>
+                <instruction instr-id="2292" subinstr-id="2"/>
+                <instruction instr-id="2292" subinstr-id="4"/>
+                <instruction instr-id="2292" subinstr-id="6"/>
+                <instruction instr-id="2292" subinstr-id="8"/>
+                <instruction instr-id="2292" subinstr-id="10"/>
+                <instruction instr-id="2292" subinstr-id="12"/>
+                <instruction instr-id="2292" subinstr-id="14"/>
+                <instruction instr-id="2292" subinstr-id="16"/>
+                <instruction instr-id="2294" subinstr-id="0"/>
+                <instruction instr-id="2294" subinstr-id="2"/>
+                <instruction instr-id="2294" subinstr-id="4"/>
+                <instruction instr-id="2294" subinstr-id="6"/>
+                <instruction instr-id="2296" subinstr-id="0"/>
+                <instruction instr-id="2296" subinstr-id="2"/>
+                <instruction instr-id="2296" subinstr-id="4"/>
+                <instruction instr-id="2298" subinstr-id="0"/>
+                <instruction instr-id="2298" subinstr-id="2"/>
+                <instruction instr-id="2298" subinstr-id="4"/>
+                <instruction instr-id="2298" subinstr-id="6"/>
+                <instruction instr-id="2298" subinstr-id="8"/>
+                <instruction instr-id="2298" subinstr-id="10"/>
+                <instruction instr-id="2298" subinstr-id="14"/>
+                <instruction instr-id="2298" subinstr-id="16"/>
+                <instruction instr-id="2298" subinstr-id="18"/>
+                <instruction instr-id="2300" subinstr-id="0"/>
+                <instruction instr-id="2300" subinstr-id="2"/>
+                <instruction instr-id="2300" subinstr-id="4"/>
+                <instruction instr-id="2300" subinstr-id="6"/>
+                <instruction instr-id="2300" subinstr-id="8"/>
+                <instruction instr-id="2300" subinstr-id="10"/>
+                <instruction instr-id="2300" subinstr-id="12"/>
+                <instruction instr-id="2302" subinstr-id="0"/>
+                <instruction instr-id="2302" subinstr-id="2"/>
+                <instruction instr-id="2302" subinstr-id="4"/>
+                <instruction instr-id="2302" subinstr-id="6"/>
+                <instruction instr-id="2302" subinstr-id="8"/>
+                <instruction instr-id="2302" subinstr-id="10"/>
+                <instruction instr-id="2302" subinstr-id="12"/>
+                <instruction instr-id="2302" subinstr-id="14"/>
+                <instruction instr-id="2302" subinstr-id="16"/>
+                <instruction instr-id="2304" subinstr-id="0"/>
+                <instruction instr-id="2304" subinstr-id="2"/>
+                <instruction instr-id="2304" subinstr-id="4"/>
+                <instruction instr-id="2304" subinstr-id="6"/>
+                <instruction instr-id="2304" subinstr-id="8"/>
+                <instruction instr-id="2304" subinstr-id="10"/>
+                <instruction instr-id="2304" subinstr-id="12"/>
+                <instruction instr-id="2304" subinstr-id="14"/>
+                <instruction instr-id="2310" subinstr-id="0"/>
+                <instruction instr-id="2310" subinstr-id="2"/>
+                <instruction instr-id="2310" subinstr-id="4"/>
+                <instruction instr-id="2310" subinstr-id="6"/>
+                <instruction instr-id="2310" subinstr-id="8"/>
+                <instruction instr-id="2310" subinstr-id="10"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="3">
+                <bounding-box x1="131" x2="232" y1="576" y2="667"/>
+                <content>Review plan document
+sections on eligibility
+and participation.
+Check with plan
+administrators to find
+out when employees
+are entering the plan.
+(More)</content>
+                <instruction instr-id="2316" subinstr-id="0"/>
+                <instruction instr-id="2316" subinstr-id="2"/>
+                <instruction instr-id="2316" subinstr-id="4"/>
+                <instruction instr-id="2316" subinstr-id="8"/>
+                <instruction instr-id="2316" subinstr-id="10"/>
+                <instruction instr-id="2316" subinstr-id="14"/>
+                <instruction instr-id="2316" subinstr-id="16"/>
+                <instruction instr-id="2316" subinstr-id="18"/>
+                <instruction instr-id="2318" subinstr-id="0"/>
+                <instruction instr-id="2318" subinstr-id="2"/>
+                <instruction instr-id="2318" subinstr-id="4"/>
+                <instruction instr-id="2318" subinstr-id="6"/>
+                <instruction instr-id="2318" subinstr-id="8"/>
+                <instruction instr-id="2318" subinstr-id="10"/>
+                <instruction instr-id="2318" subinstr-id="14"/>
+                <instruction instr-id="2318" subinstr-id="16"/>
+                <instruction instr-id="2318" subinstr-id="18"/>
+                <instruction instr-id="2318" subinstr-id="20"/>
+                <instruction instr-id="2318" subinstr-id="22"/>
+                <instruction instr-id="2318" subinstr-id="24"/>
+                <instruction instr-id="2318" subinstr-id="26"/>
+                <instruction instr-id="2318" subinstr-id="28"/>
+                <instruction instr-id="2320" subinstr-id="0"/>
+                <instruction instr-id="2320" subinstr-id="2"/>
+                <instruction instr-id="2320" subinstr-id="4"/>
+                <instruction instr-id="2320" subinstr-id="6"/>
+                <instruction instr-id="2322" subinstr-id="0"/>
+                <instruction instr-id="2322" subinstr-id="2"/>
+                <instruction instr-id="2322" subinstr-id="4"/>
+                <instruction instr-id="2322" subinstr-id="6"/>
+                <instruction instr-id="2322" subinstr-id="10"/>
+                <instruction instr-id="2322" subinstr-id="12"/>
+                <instruction instr-id="2322" subinstr-id="14"/>
+                <instruction instr-id="2322" subinstr-id="16"/>
+                <instruction instr-id="2322" subinstr-id="18"/>
+                <instruction instr-id="2322" subinstr-id="20"/>
+                <instruction instr-id="2322" subinstr-id="22"/>
+                <instruction instr-id="2324" subinstr-id="0"/>
+                <instruction instr-id="2324" subinstr-id="2"/>
+                <instruction instr-id="2324" subinstr-id="4"/>
+                <instruction instr-id="2324" subinstr-id="6"/>
+                <instruction instr-id="2324" subinstr-id="8"/>
+                <instruction instr-id="2324" subinstr-id="10"/>
+                <instruction instr-id="2324" subinstr-id="12"/>
+                <instruction instr-id="2324" subinstr-id="14"/>
+                <instruction instr-id="2326" subinstr-id="0"/>
+                <instruction instr-id="2326" subinstr-id="2"/>
+                <instruction instr-id="2326" subinstr-id="4"/>
+                <instruction instr-id="2326" subinstr-id="6"/>
+                <instruction instr-id="2326" subinstr-id="8"/>
+                <instruction instr-id="2326" subinstr-id="10"/>
+                <instruction instr-id="2326" subinstr-id="12"/>
+                <instruction instr-id="2328" subinstr-id="0"/>
+                <instruction instr-id="2328" subinstr-id="2"/>
+                <instruction instr-id="2328" subinstr-id="4"/>
+                <instruction instr-id="2328" subinstr-id="6"/>
+                <instruction instr-id="2328" subinstr-id="8"/>
+                <instruction instr-id="2328" subinstr-id="10"/>
+                <instruction instr-id="2328" subinstr-id="12"/>
+                <instruction instr-id="2334" subinstr-id="0"/>
+                <instruction instr-id="2334" subinstr-id="2"/>
+                <instruction instr-id="2334" subinstr-id="4"/>
+                <instruction instr-id="2334" subinstr-id="6"/>
+                <instruction instr-id="2334" subinstr-id="8"/>
+                <instruction instr-id="2336"/>
+            </cell>
+            <cell id="10" start-col="2" start-row="3">
+                <bounding-box x1="248" x2="388" y1="553" y2="667"/>
+                <content>EPCRS
+6.02(7), Appendix A (section
+.05), Appendix B (section 2.02)
+Employer must make a
+qualified nonelective
+contribution (QNEC) to the plan
+on behalf of the employee that
+compensates for the missed
+deferral opportunity.
+(More)</content>
+                <instruction instr-id="2342" subinstr-id="0"/>
+                <instruction instr-id="2342" subinstr-id="2"/>
+                <instruction instr-id="2342" subinstr-id="4"/>
+                <instruction instr-id="2344" subinstr-id="0"/>
+                <instruction instr-id="2344" subinstr-id="2"/>
+                <instruction instr-id="2344" subinstr-id="4"/>
+                <instruction instr-id="2344" subinstr-id="6"/>
+                <instruction instr-id="2344" subinstr-id="8"/>
+                <instruction instr-id="2344" subinstr-id="10"/>
+                <instruction instr-id="2344" subinstr-id="12"/>
+                <instruction instr-id="2344" subinstr-id="14"/>
+                <instruction instr-id="2344" subinstr-id="16"/>
+                <instruction instr-id="2344" subinstr-id="18"/>
+                <instruction instr-id="2344" subinstr-id="20"/>
+                <instruction instr-id="2344" subinstr-id="22"/>
+                <instruction instr-id="2344" subinstr-id="24"/>
+                <instruction instr-id="2344" subinstr-id="26"/>
+                <instruction instr-id="2344" subinstr-id="28"/>
+                <instruction instr-id="2344" subinstr-id="30"/>
+                <instruction instr-id="2344" subinstr-id="32"/>
+                <instruction instr-id="2344" subinstr-id="34"/>
+                <instruction instr-id="2346" subinstr-id="0"/>
+                <instruction instr-id="2346" subinstr-id="2"/>
+                <instruction instr-id="2346" subinstr-id="4"/>
+                <instruction instr-id="2346" subinstr-id="6"/>
+                <instruction instr-id="2346" subinstr-id="8"/>
+                <instruction instr-id="2346" subinstr-id="10"/>
+                <instruction instr-id="2346" subinstr-id="12"/>
+                <instruction instr-id="2346" subinstr-id="14"/>
+                <instruction instr-id="2346" subinstr-id="16"/>
+                <instruction instr-id="2346" subinstr-id="18"/>
+                <instruction instr-id="2346" subinstr-id="20"/>
+                <instruction instr-id="2348" subinstr-id="0"/>
+                <instruction instr-id="2348" subinstr-id="2"/>
+                <instruction instr-id="2348" subinstr-id="4"/>
+                <instruction instr-id="2348" subinstr-id="6"/>
+                <instruction instr-id="2348" subinstr-id="8"/>
+                <instruction instr-id="2348" subinstr-id="12"/>
+                <instruction instr-id="2348" subinstr-id="14"/>
+                <instruction instr-id="2348" subinstr-id="16"/>
+                <instruction instr-id="2348" subinstr-id="18"/>
+                <instruction instr-id="2348" subinstr-id="20"/>
+                <instruction instr-id="2348" subinstr-id="22"/>
+                <instruction instr-id="2348" subinstr-id="24"/>
+                <instruction instr-id="2350" subinstr-id="0"/>
+                <instruction instr-id="2350" subinstr-id="2"/>
+                <instruction instr-id="2350" subinstr-id="4"/>
+                <instruction instr-id="2350" subinstr-id="6"/>
+                <instruction instr-id="2350" subinstr-id="8"/>
+                <instruction instr-id="2350" subinstr-id="10"/>
+                <instruction instr-id="2352" subinstr-id="0"/>
+                <instruction instr-id="2352" subinstr-id="2"/>
+                <instruction instr-id="2352" subinstr-id="4"/>
+                <instruction instr-id="2352" subinstr-id="6"/>
+                <instruction instr-id="2352" subinstr-id="8"/>
+                <instruction instr-id="2352" subinstr-id="10"/>
+                <instruction instr-id="2352" subinstr-id="12"/>
+                <instruction instr-id="2352" subinstr-id="16"/>
+                <instruction instr-id="2352" subinstr-id="20"/>
+                <instruction instr-id="2352" subinstr-id="22"/>
+                <instruction instr-id="2354" subinstr-id="0"/>
+                <instruction instr-id="2354" subinstr-id="4"/>
+                <instruction instr-id="2354" subinstr-id="6"/>
+                <instruction instr-id="2354" subinstr-id="8"/>
+                <instruction instr-id="2354" subinstr-id="10"/>
+                <instruction instr-id="2354" subinstr-id="12"/>
+                <instruction instr-id="2354" subinstr-id="14"/>
+                <instruction instr-id="2354" subinstr-id="16"/>
+                <instruction instr-id="2354" subinstr-id="18"/>
+                <instruction instr-id="2354" subinstr-id="20"/>
+                <instruction instr-id="2354" subinstr-id="24"/>
+                <instruction instr-id="2354" subinstr-id="26"/>
+                <instruction instr-id="2356" subinstr-id="0"/>
+                <instruction instr-id="2356" subinstr-id="2"/>
+                <instruction instr-id="2356" subinstr-id="4"/>
+                <instruction instr-id="2356" subinstr-id="6"/>
+                <instruction instr-id="2356" subinstr-id="8"/>
+                <instruction instr-id="2356" subinstr-id="10"/>
+                <instruction instr-id="2356" subinstr-id="12"/>
+                <instruction instr-id="2356" subinstr-id="14"/>
+                <instruction instr-id="2356" subinstr-id="16"/>
+                <instruction instr-id="2356" subinstr-id="18"/>
+                <instruction instr-id="2356" subinstr-id="20"/>
+                <instruction instr-id="2356" subinstr-id="24"/>
+                <instruction instr-id="2356" subinstr-id="26"/>
+                <instruction instr-id="2356" subinstr-id="28"/>
+                <instruction instr-id="2356" subinstr-id="32"/>
+                <instruction instr-id="2356" subinstr-id="34"/>
+                <instruction instr-id="2356" subinstr-id="36"/>
+                <instruction instr-id="2356" subinstr-id="40"/>
+                <instruction instr-id="2356" subinstr-id="42"/>
+                <instruction instr-id="2356" subinstr-id="44"/>
+                <instruction instr-id="2356" subinstr-id="46"/>
+                <instruction instr-id="2356" subinstr-id="48"/>
+                <instruction instr-id="2356" subinstr-id="50"/>
+                <instruction instr-id="2358" subinstr-id="0"/>
+                <instruction instr-id="2358" subinstr-id="2"/>
+                <instruction instr-id="2358" subinstr-id="4"/>
+                <instruction instr-id="2358" subinstr-id="6"/>
+                <instruction instr-id="2358" subinstr-id="10"/>
+                <instruction instr-id="2358" subinstr-id="12"/>
+                <instruction instr-id="2358" subinstr-id="14"/>
+                <instruction instr-id="2358" subinstr-id="16"/>
+                <instruction instr-id="2358" subinstr-id="18"/>
+                <instruction instr-id="2358" subinstr-id="20"/>
+                <instruction instr-id="2358" subinstr-id="22"/>
+                <instruction instr-id="2358" subinstr-id="24"/>
+                <instruction instr-id="2364" subinstr-id="0"/>
+                <instruction instr-id="2364" subinstr-id="2"/>
+                <instruction instr-id="2364" subinstr-id="4"/>
+                <instruction instr-id="2364" subinstr-id="6"/>
+                <instruction instr-id="2364" subinstr-id="8"/>
+                <instruction instr-id="2366"/>
+            </cell>
+            <cell id="11" start-col="3" start-row="3">
+                <bounding-box x1="400" x2="446" y1="622" y2="667"/>
+                <content>SCP*
+VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="2372" subinstr-id="0"/>
+                <instruction instr-id="2372" subinstr-id="2"/>
+                <instruction instr-id="2372" subinstr-id="4"/>
+                <instruction instr-id="2374" subinstr-id="0"/>
+                <instruction instr-id="2374" subinstr-id="2"/>
+                <instruction instr-id="2374" subinstr-id="4"/>
+                <instruction instr-id="2376" subinstr-id="0"/>
+                <instruction instr-id="2376" subinstr-id="2"/>
+                <instruction instr-id="2376" subinstr-id="4"/>
+                <instruction instr-id="2376" subinstr-id="6"/>
+                <instruction instr-id="2376" subinstr-id="8"/>
+                <instruction instr-id="2376" subinstr-id="12"/>
+                <instruction instr-id="2376" subinstr-id="14"/>
+                <instruction instr-id="2376" subinstr-id="16"/>
+                <instruction instr-id="2382" subinstr-id="0"/>
+                <instruction instr-id="2382" subinstr-id="2"/>
+                <instruction instr-id="2382" subinstr-id="4"/>
+                <instruction instr-id="2382" subinstr-id="6"/>
+                <instruction instr-id="2382" subinstr-id="8"/>
+                <instruction instr-id="2384"/>
+            </cell>
+            <cell id="12" start-col="4" start-row="3">
+                <bounding-box x1="473" x2="593" y1="622" y2="667"/>
+                <content>Monitor census information
+and apply participation
+requirements.
+(More)</content>
+                <instruction instr-id="2390" subinstr-id="0"/>
+                <instruction instr-id="2390" subinstr-id="2"/>
+                <instruction instr-id="2390" subinstr-id="4"/>
+                <instruction instr-id="2390" subinstr-id="6"/>
+                <instruction instr-id="2390" subinstr-id="8"/>
+                <instruction instr-id="2390" subinstr-id="10"/>
+                <instruction instr-id="2390" subinstr-id="12"/>
+                <instruction instr-id="2392" subinstr-id="0"/>
+                <instruction instr-id="2392" subinstr-id="2"/>
+                <instruction instr-id="2392" subinstr-id="4"/>
+                <instruction instr-id="2392" subinstr-id="6"/>
+                <instruction instr-id="2392" subinstr-id="8"/>
+                <instruction instr-id="2392" subinstr-id="10"/>
+                <instruction instr-id="2392" subinstr-id="12"/>
+                <instruction instr-id="2392" subinstr-id="14"/>
+                <instruction instr-id="2392" subinstr-id="16"/>
+                <instruction instr-id="2392" subinstr-id="18"/>
+                <instruction instr-id="2394" subinstr-id="0"/>
+                <instruction instr-id="2394" subinstr-id="2"/>
+                <instruction instr-id="2394" subinstr-id="4"/>
+                <instruction instr-id="2394" subinstr-id="6"/>
+                <instruction instr-id="2394" subinstr-id="8"/>
+                <instruction instr-id="2394" subinstr-id="10"/>
+                <instruction instr-id="2394" subinstr-id="12"/>
+                <instruction instr-id="2394" subinstr-id="14"/>
+                <instruction instr-id="2394" subinstr-id="16"/>
+                <instruction instr-id="2394" subinstr-id="18"/>
+                <instruction instr-id="2394" subinstr-id="20"/>
+                <instruction instr-id="2394" subinstr-id="22"/>
+                <instruction instr-id="2394" subinstr-id="24"/>
+                <instruction instr-id="2400" subinstr-id="0"/>
+                <instruction instr-id="2400" subinstr-id="2"/>
+                <instruction instr-id="2400" subinstr-id="4"/>
+                <instruction instr-id="2400" subinstr-id="6"/>
+                <instruction instr-id="2400" subinstr-id="8"/>
+                <instruction instr-id="2402"/>
+            </cell>
+            <cell id="13" start-col="0" start-row="4">
+                <bounding-box x1="14" x2="119" y1="449" y2="540"/>
+                <content>7) Are elective
+deferrals limited to the
+amounts under IRC
+§402(g) for the
+calendar year and have
+any excess deferrals
+been distributed?
+(More)</content>
+                <instruction instr-id="2408" subinstr-id="0"/>
+                <instruction instr-id="2408" subinstr-id="4"/>
+                <instruction instr-id="2408" subinstr-id="8"/>
+                <instruction instr-id="2408" subinstr-id="10"/>
+                <instruction instr-id="2408" subinstr-id="12"/>
+                <instruction instr-id="2408" subinstr-id="14"/>
+                <instruction instr-id="2410" subinstr-id="0"/>
+                <instruction instr-id="2410" subinstr-id="2"/>
+                <instruction instr-id="2410" subinstr-id="4"/>
+                <instruction instr-id="2410" subinstr-id="6"/>
+                <instruction instr-id="2410" subinstr-id="8"/>
+                <instruction instr-id="2410" subinstr-id="10"/>
+                <instruction instr-id="2410" subinstr-id="14"/>
+                <instruction instr-id="2410" subinstr-id="16"/>
+                <instruction instr-id="2410" subinstr-id="18"/>
+                <instruction instr-id="2410" subinstr-id="20"/>
+                <instruction instr-id="2410" subinstr-id="22"/>
+                <instruction instr-id="2410" subinstr-id="26"/>
+                <instruction instr-id="2410" subinstr-id="30"/>
+                <instruction instr-id="2410" subinstr-id="32"/>
+                <instruction instr-id="2412" subinstr-id="0"/>
+                <instruction instr-id="2412" subinstr-id="2"/>
+                <instruction instr-id="2412" subinstr-id="4"/>
+                <instruction instr-id="2412" subinstr-id="6"/>
+                <instruction instr-id="2412" subinstr-id="8"/>
+                <instruction instr-id="2412" subinstr-id="10"/>
+                <instruction instr-id="2412" subinstr-id="14"/>
+                <instruction instr-id="2412" subinstr-id="16"/>
+                <instruction instr-id="2412" subinstr-id="18"/>
+                <instruction instr-id="2412" subinstr-id="20"/>
+                <instruction instr-id="2412" subinstr-id="24"/>
+                <instruction instr-id="2412" subinstr-id="26"/>
+                <instruction instr-id="2412" subinstr-id="28"/>
+                <instruction instr-id="2414" subinstr-id="0"/>
+                <instruction instr-id="2414" subinstr-id="2"/>
+                <instruction instr-id="2414" subinstr-id="4"/>
+                <instruction instr-id="2414" subinstr-id="6"/>
+                <instruction instr-id="2414" subinstr-id="8"/>
+                <instruction instr-id="2414" subinstr-id="10"/>
+                <instruction instr-id="2414" subinstr-id="14"/>
+                <instruction instr-id="2414" subinstr-id="16"/>
+                <instruction instr-id="2414" subinstr-id="18"/>
+                <instruction instr-id="2414" subinstr-id="22"/>
+                <instruction instr-id="2414" subinstr-id="24"/>
+                <instruction instr-id="2414" subinstr-id="26"/>
+                <instruction instr-id="2416" subinstr-id="0"/>
+                <instruction instr-id="2416" subinstr-id="2"/>
+                <instruction instr-id="2416" subinstr-id="4"/>
+                <instruction instr-id="2416" subinstr-id="8"/>
+                <instruction instr-id="2416" subinstr-id="10"/>
+                <instruction instr-id="2416" subinstr-id="12"/>
+                <instruction instr-id="2416" subinstr-id="14"/>
+                <instruction instr-id="2418" subinstr-id="0"/>
+                <instruction instr-id="2418" subinstr-id="2"/>
+                <instruction instr-id="2418" subinstr-id="4"/>
+                <instruction instr-id="2418" subinstr-id="6"/>
+                <instruction instr-id="2418" subinstr-id="8"/>
+                <instruction instr-id="2418" subinstr-id="10"/>
+                <instruction instr-id="2418" subinstr-id="12"/>
+                <instruction instr-id="2418" subinstr-id="16"/>
+                <instruction instr-id="2418" subinstr-id="18"/>
+                <instruction instr-id="2418" subinstr-id="20"/>
+                <instruction instr-id="2418" subinstr-id="22"/>
+                <instruction instr-id="2418" subinstr-id="24"/>
+                <instruction instr-id="2418" subinstr-id="26"/>
+                <instruction instr-id="2420" subinstr-id="0"/>
+                <instruction instr-id="2420" subinstr-id="2"/>
+                <instruction instr-id="2420" subinstr-id="4"/>
+                <instruction instr-id="2420" subinstr-id="6"/>
+                <instruction instr-id="2420" subinstr-id="8"/>
+                <instruction instr-id="2420" subinstr-id="10"/>
+                <instruction instr-id="2420" subinstr-id="12"/>
+                <instruction instr-id="2420" subinstr-id="14"/>
+                <instruction instr-id="2420" subinstr-id="16"/>
+                <instruction instr-id="2420" subinstr-id="18"/>
+                <instruction instr-id="2426" subinstr-id="0"/>
+                <instruction instr-id="2426" subinstr-id="2"/>
+                <instruction instr-id="2426" subinstr-id="4"/>
+                <instruction instr-id="2426" subinstr-id="6"/>
+                <instruction instr-id="2426" subinstr-id="8"/>
+                <instruction instr-id="2428"/>
+            </cell>
+            <cell id="14" start-col="1" start-row="4">
+                <bounding-box x1="131" x2="236" y1="472" y2="540"/>
+                <content>Inspect deferral
+amounts for plan
+participants to ensure
+that the employee has
+not exceeded the limits.
+(More)</content>
+                <instruction instr-id="2434" subinstr-id="0"/>
+                <instruction instr-id="2434" subinstr-id="2"/>
+                <instruction instr-id="2434" subinstr-id="4"/>
+                <instruction instr-id="2434" subinstr-id="6"/>
+                <instruction instr-id="2434" subinstr-id="8"/>
+                <instruction instr-id="2434" subinstr-id="10"/>
+                <instruction instr-id="2434" subinstr-id="14"/>
+                <instruction instr-id="2434" subinstr-id="16"/>
+                <instruction instr-id="2434" subinstr-id="18"/>
+                <instruction instr-id="2434" subinstr-id="20"/>
+                <instruction instr-id="2434" subinstr-id="22"/>
+                <instruction instr-id="2434" subinstr-id="24"/>
+                <instruction instr-id="2434" subinstr-id="26"/>
+                <instruction instr-id="2434" subinstr-id="28"/>
+                <instruction instr-id="2436" subinstr-id="0"/>
+                <instruction instr-id="2436" subinstr-id="2"/>
+                <instruction instr-id="2436" subinstr-id="4"/>
+                <instruction instr-id="2436" subinstr-id="6"/>
+                <instruction instr-id="2436" subinstr-id="8"/>
+                <instruction instr-id="2436" subinstr-id="10"/>
+                <instruction instr-id="2436" subinstr-id="14"/>
+                <instruction instr-id="2436" subinstr-id="16"/>
+                <instruction instr-id="2436" subinstr-id="20"/>
+                <instruction instr-id="2436" subinstr-id="22"/>
+                <instruction instr-id="2436" subinstr-id="24"/>
+                <instruction instr-id="2438" subinstr-id="0"/>
+                <instruction instr-id="2438" subinstr-id="2"/>
+                <instruction instr-id="2438" subinstr-id="4"/>
+                <instruction instr-id="2438" subinstr-id="6"/>
+                <instruction instr-id="2438" subinstr-id="8"/>
+                <instruction instr-id="2438" subinstr-id="10"/>
+                <instruction instr-id="2438" subinstr-id="12"/>
+                <instruction instr-id="2438" subinstr-id="14"/>
+                <instruction instr-id="2438" subinstr-id="16"/>
+                <instruction instr-id="2438" subinstr-id="18"/>
+                <instruction instr-id="2438" subinstr-id="20"/>
+                <instruction instr-id="2438" subinstr-id="22"/>
+                <instruction instr-id="2438" subinstr-id="24"/>
+                <instruction instr-id="2440" subinstr-id="0"/>
+                <instruction instr-id="2440" subinstr-id="2"/>
+                <instruction instr-id="2440" subinstr-id="4"/>
+                <instruction instr-id="2440" subinstr-id="6"/>
+                <instruction instr-id="2440" subinstr-id="8"/>
+                <instruction instr-id="2442" subinstr-id="0"/>
+                <instruction instr-id="2442" subinstr-id="2"/>
+                <instruction instr-id="2442" subinstr-id="4"/>
+                <instruction instr-id="2442" subinstr-id="6"/>
+                <instruction instr-id="2442" subinstr-id="8"/>
+                <instruction instr-id="2442" subinstr-id="10"/>
+                <instruction instr-id="2442" subinstr-id="12"/>
+                <instruction instr-id="2442" subinstr-id="16"/>
+                <instruction instr-id="2442" subinstr-id="20"/>
+                <instruction instr-id="2442" subinstr-id="22"/>
+                <instruction instr-id="2442" subinstr-id="24"/>
+                <instruction instr-id="2448" subinstr-id="0"/>
+                <instruction instr-id="2448" subinstr-id="2"/>
+                <instruction instr-id="2448" subinstr-id="4"/>
+                <instruction instr-id="2448" subinstr-id="6"/>
+                <instruction instr-id="2448" subinstr-id="8"/>
+                <instruction instr-id="2448" subinstr-id="10"/>
+            </cell>
+            <cell id="15" start-col="2" start-row="4">
+                <bounding-box x1="248" x2="369" y1="495" y2="540"/>
+                <content>EPCRS
+Appendix A (section.04)
+Distribute excess deferrals.
+(More)</content>
+                <instruction instr-id="2454" subinstr-id="0"/>
+                <instruction instr-id="2454" subinstr-id="2"/>
+                <instruction instr-id="2454" subinstr-id="4"/>
+                <instruction instr-id="2456" subinstr-id="0"/>
+                <instruction instr-id="2456" subinstr-id="2"/>
+                <instruction instr-id="2456" subinstr-id="4"/>
+                <instruction instr-id="2456" subinstr-id="6"/>
+                <instruction instr-id="2456" subinstr-id="8"/>
+                <instruction instr-id="2456" subinstr-id="12"/>
+                <instruction instr-id="2456" subinstr-id="16"/>
+                <instruction instr-id="2456" subinstr-id="18"/>
+                <instruction instr-id="2456" subinstr-id="20"/>
+                <instruction instr-id="2456" subinstr-id="22"/>
+                <instruction instr-id="2456" subinstr-id="24"/>
+                <instruction instr-id="2456" subinstr-id="26"/>
+                <instruction instr-id="2456" subinstr-id="28"/>
+                <instruction instr-id="2456" subinstr-id="30"/>
+                <instruction instr-id="2458" subinstr-id="0"/>
+                <instruction instr-id="2458" subinstr-id="2"/>
+                <instruction instr-id="2458" subinstr-id="4"/>
+                <instruction instr-id="2458" subinstr-id="6"/>
+                <instruction instr-id="2458" subinstr-id="10"/>
+                <instruction instr-id="2458" subinstr-id="12"/>
+                <instruction instr-id="2458" subinstr-id="14"/>
+                <instruction instr-id="2458" subinstr-id="16"/>
+                <instruction instr-id="2458" subinstr-id="18"/>
+                <instruction instr-id="2464" subinstr-id="0"/>
+                <instruction instr-id="2464" subinstr-id="2"/>
+                <instruction instr-id="2464" subinstr-id="4"/>
+                <instruction instr-id="2464" subinstr-id="6"/>
+                <instruction instr-id="2464" subinstr-id="8"/>
+                <instruction instr-id="2464" subinstr-id="10"/>
+            </cell>
+            <cell id="16" start-col="3" start-row="4">
+                <bounding-box x1="400" x2="446" y1="495" y2="540"/>
+                <content>SCP*
+VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="2470" subinstr-id="0"/>
+                <instruction instr-id="2470" subinstr-id="2"/>
+                <instruction instr-id="2470" subinstr-id="4"/>
+                <instruction instr-id="2472" subinstr-id="0"/>
+                <instruction instr-id="2472" subinstr-id="2"/>
+                <instruction instr-id="2472" subinstr-id="4"/>
+                <instruction instr-id="2474" subinstr-id="0"/>
+                <instruction instr-id="2474" subinstr-id="2"/>
+                <instruction instr-id="2474" subinstr-id="4"/>
+                <instruction instr-id="2474" subinstr-id="6"/>
+                <instruction instr-id="2474" subinstr-id="8"/>
+                <instruction instr-id="2474" subinstr-id="12"/>
+                <instruction instr-id="2474" subinstr-id="14"/>
+                <instruction instr-id="2474" subinstr-id="16"/>
+                <instruction instr-id="2480" subinstr-id="0"/>
+                <instruction instr-id="2480" subinstr-id="2"/>
+                <instruction instr-id="2480" subinstr-id="4"/>
+                <instruction instr-id="2480" subinstr-id="6"/>
+                <instruction instr-id="2480" subinstr-id="8"/>
+                <instruction instr-id="2480" subinstr-id="10"/>
+            </cell>
+            <cell id="17" start-col="4" start-row="4">
+                <bounding-box x1="473" x2="593" y1="461" y2="540"/>
+                <content>Work with plan
+administrators to ensure
+that they have sufficient
+payroll information to verify
+the deferral limitations of
+§402(g) were satisfied.
+(More)</content>
+                <instruction instr-id="2486" subinstr-id="0"/>
+                <instruction instr-id="2486" subinstr-id="2"/>
+                <instruction instr-id="2486" subinstr-id="4"/>
+                <instruction instr-id="2486" subinstr-id="6"/>
+                <instruction instr-id="2486" subinstr-id="10"/>
+                <instruction instr-id="2486" subinstr-id="12"/>
+                <instruction instr-id="2486" subinstr-id="16"/>
+                <instruction instr-id="2486" subinstr-id="18"/>
+                <instruction instr-id="2486" subinstr-id="20"/>
+                <instruction instr-id="2488" subinstr-id="0"/>
+                <instruction instr-id="2488" subinstr-id="2"/>
+                <instruction instr-id="2488" subinstr-id="4"/>
+                <instruction instr-id="2488" subinstr-id="6"/>
+                <instruction instr-id="2488" subinstr-id="8"/>
+                <instruction instr-id="2488" subinstr-id="10"/>
+                <instruction instr-id="2488" subinstr-id="12"/>
+                <instruction instr-id="2488" subinstr-id="14"/>
+                <instruction instr-id="2488" subinstr-id="16"/>
+                <instruction instr-id="2490" subinstr-id="0"/>
+                <instruction instr-id="2490" subinstr-id="2"/>
+                <instruction instr-id="2490" subinstr-id="4"/>
+                <instruction instr-id="2490" subinstr-id="8"/>
+                <instruction instr-id="2490" subinstr-id="10"/>
+                <instruction instr-id="2490" subinstr-id="12"/>
+                <instruction instr-id="2490" subinstr-id="16"/>
+                <instruction instr-id="2490" subinstr-id="18"/>
+                <instruction instr-id="2490" subinstr-id="20"/>
+                <instruction instr-id="2490" subinstr-id="22"/>
+                <instruction instr-id="2490" subinstr-id="24"/>
+                <instruction instr-id="2490" subinstr-id="26"/>
+                <instruction instr-id="2490" subinstr-id="28"/>
+                <instruction instr-id="2490" subinstr-id="30"/>
+                <instruction instr-id="2490" subinstr-id="32"/>
+                <instruction instr-id="2490" subinstr-id="34"/>
+                <instruction instr-id="2490" subinstr-id="36"/>
+                <instruction instr-id="2490" subinstr-id="38"/>
+                <instruction instr-id="2492" subinstr-id="0"/>
+                <instruction instr-id="2492" subinstr-id="2"/>
+                <instruction instr-id="2492" subinstr-id="4"/>
+                <instruction instr-id="2492" subinstr-id="6"/>
+                <instruction instr-id="2492" subinstr-id="10"/>
+                <instruction instr-id="2492" subinstr-id="12"/>
+                <instruction instr-id="2492" subinstr-id="14"/>
+                <instruction instr-id="2492" subinstr-id="16"/>
+                <instruction instr-id="2492" subinstr-id="18"/>
+                <instruction instr-id="2492" subinstr-id="22"/>
+                <instruction instr-id="2492" subinstr-id="26"/>
+                <instruction instr-id="2492" subinstr-id="28"/>
+                <instruction instr-id="2492" subinstr-id="30"/>
+                <instruction instr-id="2494" subinstr-id="0"/>
+                <instruction instr-id="2494" subinstr-id="2"/>
+                <instruction instr-id="2494" subinstr-id="4"/>
+                <instruction instr-id="2494" subinstr-id="6"/>
+                <instruction instr-id="2494" subinstr-id="8"/>
+                <instruction instr-id="2494" subinstr-id="10"/>
+                <instruction instr-id="2494" subinstr-id="12"/>
+                <instruction instr-id="2494" subinstr-id="14"/>
+                <instruction instr-id="2494" subinstr-id="16"/>
+                <instruction instr-id="2494" subinstr-id="18"/>
+                <instruction instr-id="2494" subinstr-id="20"/>
+                <instruction instr-id="2494" subinstr-id="24"/>
+                <instruction instr-id="2494" subinstr-id="26"/>
+                <instruction instr-id="2496" subinstr-id="0"/>
+                <instruction instr-id="2496" subinstr-id="2"/>
+                <instruction instr-id="2496" subinstr-id="4"/>
+                <instruction instr-id="2496" subinstr-id="6"/>
+                <instruction instr-id="2496" subinstr-id="8"/>
+                <instruction instr-id="2496" subinstr-id="12"/>
+                <instruction instr-id="2496" subinstr-id="14"/>
+                <instruction instr-id="2496" subinstr-id="16"/>
+                <instruction instr-id="2496" subinstr-id="20"/>
+                <instruction instr-id="2496" subinstr-id="22"/>
+                <instruction instr-id="2496" subinstr-id="24"/>
+                <instruction instr-id="2496" subinstr-id="26"/>
+                <instruction instr-id="2496" subinstr-id="28"/>
+                <instruction instr-id="2496" subinstr-id="30"/>
+                <instruction instr-id="2496" subinstr-id="32"/>
+                <instruction instr-id="2496" subinstr-id="34"/>
+                <instruction instr-id="2502" subinstr-id="0"/>
+                <instruction instr-id="2502" subinstr-id="2"/>
+                <instruction instr-id="2502" subinstr-id="4"/>
+                <instruction instr-id="2502" subinstr-id="6"/>
+                <instruction instr-id="2502" subinstr-id="8"/>
+                <instruction instr-id="2504"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="5">
+                <bounding-box x1="14" x2="104" y1="391" y2="436"/>
+                <content>8) Have you timely
+deposited employee
+elective deferrals?
+(More)</content>
+                <instruction instr-id="2510" subinstr-id="0"/>
+                <instruction instr-id="2510" subinstr-id="4"/>
+                <instruction instr-id="2510" subinstr-id="6"/>
+                <instruction instr-id="2510" subinstr-id="10"/>
+                <instruction instr-id="2510" subinstr-id="12"/>
+                <instruction instr-id="2510" subinstr-id="14"/>
+                <instruction instr-id="2510" subinstr-id="16"/>
+                <instruction instr-id="2510" subinstr-id="18"/>
+                <instruction instr-id="2510" subinstr-id="20"/>
+                <instruction instr-id="2512" subinstr-id="0"/>
+                <instruction instr-id="2512" subinstr-id="2"/>
+                <instruction instr-id="2512" subinstr-id="4"/>
+                <instruction instr-id="2512" subinstr-id="6"/>
+                <instruction instr-id="2512" subinstr-id="8"/>
+                <instruction instr-id="2512" subinstr-id="10"/>
+                <instruction instr-id="2514" subinstr-id="0"/>
+                <instruction instr-id="2514" subinstr-id="2"/>
+                <instruction instr-id="2514" subinstr-id="4"/>
+                <instruction instr-id="2514" subinstr-id="6"/>
+                <instruction instr-id="2514" subinstr-id="8"/>
+                <instruction instr-id="2514" subinstr-id="10"/>
+                <instruction instr-id="2514" subinstr-id="12"/>
+                <instruction instr-id="2514" subinstr-id="14"/>
+                <instruction instr-id="2520" subinstr-id="0"/>
+                <instruction instr-id="2520" subinstr-id="2"/>
+                <instruction instr-id="2520" subinstr-id="4"/>
+                <instruction instr-id="2520" subinstr-id="6"/>
+                <instruction instr-id="2520" subinstr-id="8"/>
+                <instruction instr-id="2520" subinstr-id="10"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="5">
+                <bounding-box x1="131" x2="236" y1="334" y2="436"/>
+                <content>Determine the earliest
+date you can segregate
+deferrals from general
+assets; compare that
+date with the actual
+deposit dates and any
+plan document
+requirements.
+(More)</content>
+                <instruction instr-id="2526" subinstr-id="0"/>
+                <instruction instr-id="2526" subinstr-id="2"/>
+                <instruction instr-id="2526" subinstr-id="4"/>
+                <instruction instr-id="2526" subinstr-id="6"/>
+                <instruction instr-id="2526" subinstr-id="10"/>
+                <instruction instr-id="2526" subinstr-id="12"/>
+                <instruction instr-id="2526" subinstr-id="14"/>
+                <instruction instr-id="2526" subinstr-id="16"/>
+                <instruction instr-id="2526" subinstr-id="18"/>
+                <instruction instr-id="2528" subinstr-id="0"/>
+                <instruction instr-id="2528" subinstr-id="2"/>
+                <instruction instr-id="2528" subinstr-id="4"/>
+                <instruction instr-id="2528" subinstr-id="6"/>
+                <instruction instr-id="2528" subinstr-id="8"/>
+                <instruction instr-id="2528" subinstr-id="10"/>
+                <instruction instr-id="2528" subinstr-id="12"/>
+                <instruction instr-id="2528" subinstr-id="14"/>
+                <instruction instr-id="2528" subinstr-id="18"/>
+                <instruction instr-id="2528" subinstr-id="20"/>
+                <instruction instr-id="2528" subinstr-id="22"/>
+                <instruction instr-id="2528" subinstr-id="24"/>
+                <instruction instr-id="2528" subinstr-id="26"/>
+                <instruction instr-id="2528" subinstr-id="28"/>
+                <instruction instr-id="2528" subinstr-id="30"/>
+                <instruction instr-id="2528" subinstr-id="32"/>
+                <instruction instr-id="2530" subinstr-id="0"/>
+                <instruction instr-id="2530" subinstr-id="2"/>
+                <instruction instr-id="2530" subinstr-id="4"/>
+                <instruction instr-id="2530" subinstr-id="6"/>
+                <instruction instr-id="2530" subinstr-id="8"/>
+                <instruction instr-id="2530" subinstr-id="12"/>
+                <instruction instr-id="2530" subinstr-id="14"/>
+                <instruction instr-id="2530" subinstr-id="18"/>
+                <instruction instr-id="2530" subinstr-id="20"/>
+                <instruction instr-id="2530" subinstr-id="22"/>
+                <instruction instr-id="2530" subinstr-id="24"/>
+                <instruction instr-id="2532" subinstr-id="0"/>
+                <instruction instr-id="2532" subinstr-id="2"/>
+                <instruction instr-id="2532" subinstr-id="4"/>
+                <instruction instr-id="2532" subinstr-id="6"/>
+                <instruction instr-id="2532" subinstr-id="8"/>
+                <instruction instr-id="2532" subinstr-id="10"/>
+                <instruction instr-id="2532" subinstr-id="12"/>
+                <instruction instr-id="2532" subinstr-id="14"/>
+                <instruction instr-id="2532" subinstr-id="16"/>
+                <instruction instr-id="2534" subinstr-id="0"/>
+                <instruction instr-id="2534" subinstr-id="2"/>
+                <instruction instr-id="2534" subinstr-id="4"/>
+                <instruction instr-id="2534" subinstr-id="6"/>
+                <instruction instr-id="2534" subinstr-id="8"/>
+                <instruction instr-id="2534" subinstr-id="10"/>
+                <instruction instr-id="2534" subinstr-id="12"/>
+                <instruction instr-id="2536" subinstr-id="0"/>
+                <instruction instr-id="2536" subinstr-id="2"/>
+                <instruction instr-id="2536" subinstr-id="4"/>
+                <instruction instr-id="2536" subinstr-id="6"/>
+                <instruction instr-id="2536" subinstr-id="8"/>
+                <instruction instr-id="2536" subinstr-id="12"/>
+                <instruction instr-id="2536" subinstr-id="14"/>
+                <instruction instr-id="2538" subinstr-id="0"/>
+                <instruction instr-id="2538" subinstr-id="2"/>
+                <instruction instr-id="2538" subinstr-id="4"/>
+                <instruction instr-id="2538" subinstr-id="6"/>
+                <instruction instr-id="2538" subinstr-id="8"/>
+                <instruction instr-id="2538" subinstr-id="10"/>
+                <instruction instr-id="2538" subinstr-id="12"/>
+                <instruction instr-id="2540" subinstr-id="0"/>
+                <instruction instr-id="2540" subinstr-id="2"/>
+                <instruction instr-id="2540" subinstr-id="4"/>
+                <instruction instr-id="2540" subinstr-id="6"/>
+                <instruction instr-id="2540" subinstr-id="8"/>
+                <instruction instr-id="2540" subinstr-id="10"/>
+                <instruction instr-id="2540" subinstr-id="12"/>
+                <instruction instr-id="2540" subinstr-id="14"/>
+                <instruction instr-id="2540" subinstr-id="16"/>
+                <instruction instr-id="2540" subinstr-id="18"/>
+                <instruction instr-id="2540" subinstr-id="20"/>
+                <instruction instr-id="2540" subinstr-id="22"/>
+                <instruction instr-id="2540" subinstr-id="24"/>
+                <instruction instr-id="2546" subinstr-id="0"/>
+                <instruction instr-id="2546" subinstr-id="2"/>
+                <instruction instr-id="2546" subinstr-id="4"/>
+                <instruction instr-id="2546" subinstr-id="6"/>
+                <instruction instr-id="2546" subinstr-id="8"/>
+                <instruction instr-id="2548"/>
+            </cell>
+            <cell id="20" start-col="2" start-row="5">
+                <bounding-box x1="248" x2="385" y1="311" y2="436"/>
+                <content>Usually DOL through VFCP for
+prohibited transaction. May
+also be EPCRS.
+
+For both VFCP and EPCRS,
+deposit into the plan's trust all
+elective deferrals withheld and
+applicable earnings resulting
+from the late deposit of
+amounts to the trust.
+(More)</content>
+                <instruction instr-id="2554" subinstr-id="0"/>
+                <instruction instr-id="2554" subinstr-id="2"/>
+                <instruction instr-id="2554" subinstr-id="6"/>
+                <instruction instr-id="2554" subinstr-id="8"/>
+                <instruction instr-id="2554" subinstr-id="10"/>
+                <instruction instr-id="2554" subinstr-id="12"/>
+                <instruction instr-id="2554" subinstr-id="14"/>
+                <instruction instr-id="2554" subinstr-id="18"/>
+                <instruction instr-id="2554" subinstr-id="20"/>
+                <instruction instr-id="2556" subinstr-id="0"/>
+                <instruction instr-id="2556" subinstr-id="2"/>
+                <instruction instr-id="2556" subinstr-id="4"/>
+                <instruction instr-id="2556" subinstr-id="6"/>
+                <instruction instr-id="2556" subinstr-id="8"/>
+                <instruction instr-id="2556" subinstr-id="10"/>
+                <instruction instr-id="2556" subinstr-id="12"/>
+                <instruction instr-id="2556" subinstr-id="14"/>
+                <instruction instr-id="2556" subinstr-id="16"/>
+                <instruction instr-id="2556" subinstr-id="18"/>
+                <instruction instr-id="2558" subinstr-id="0"/>
+                <instruction instr-id="2558" subinstr-id="2"/>
+                <instruction instr-id="2558" subinstr-id="4"/>
+                <instruction instr-id="2558" subinstr-id="6"/>
+                <instruction instr-id="2558" subinstr-id="8"/>
+                <instruction instr-id="2558" subinstr-id="10"/>
+                <instruction instr-id="2558" subinstr-id="14"/>
+                <instruction instr-id="2558" subinstr-id="16"/>
+                <instruction instr-id="2558" subinstr-id="18"/>
+                <instruction instr-id="2558" subinstr-id="20"/>
+                <instruction instr-id="2558" subinstr-id="22"/>
+                <instruction instr-id="2558" subinstr-id="24"/>
+                <instruction instr-id="2560" subinstr-id="0"/>
+                <instruction instr-id="2560" subinstr-id="2"/>
+                <instruction instr-id="2560" subinstr-id="6"/>
+                <instruction instr-id="2560" subinstr-id="8"/>
+                <instruction instr-id="2560" subinstr-id="10"/>
+                <instruction instr-id="2560" subinstr-id="12"/>
+                <instruction instr-id="2560" subinstr-id="14"/>
+                <instruction instr-id="2560" subinstr-id="16"/>
+                <instruction instr-id="2560" subinstr-id="18"/>
+                <instruction instr-id="2560" subinstr-id="20"/>
+                <instruction instr-id="2560" subinstr-id="22"/>
+                <instruction instr-id="2560" subinstr-id="26"/>
+                <instruction instr-id="2560" subinstr-id="28"/>
+                <instruction instr-id="2560" subinstr-id="30"/>
+                <instruction instr-id="2560" subinstr-id="32"/>
+                <instruction instr-id="2560" subinstr-id="34"/>
+                <instruction instr-id="2562" subinstr-id="0"/>
+                <instruction instr-id="2562" subinstr-id="2"/>
+                <instruction instr-id="2562" subinstr-id="4"/>
+                <instruction instr-id="2562" subinstr-id="6"/>
+                <instruction instr-id="2562" subinstr-id="8"/>
+                <instruction instr-id="2562" subinstr-id="10"/>
+                <instruction instr-id="2562" subinstr-id="12"/>
+                <instruction instr-id="2562" subinstr-id="14"/>
+                <instruction instr-id="2562" subinstr-id="16"/>
+                <instruction instr-id="2562" subinstr-id="20"/>
+                <instruction instr-id="2562" subinstr-id="22"/>
+                <instruction instr-id="2562" subinstr-id="24"/>
+                <instruction instr-id="2562" subinstr-id="26"/>
+                <instruction instr-id="2562" subinstr-id="28"/>
+                <instruction instr-id="2564" subinstr-id="0"/>
+                <instruction instr-id="2564" subinstr-id="2"/>
+                <instruction instr-id="2564" subinstr-id="4"/>
+                <instruction instr-id="2564" subinstr-id="6"/>
+                <instruction instr-id="2564" subinstr-id="8"/>
+                <instruction instr-id="2564" subinstr-id="10"/>
+                <instruction instr-id="2564" subinstr-id="12"/>
+                <instruction instr-id="2564" subinstr-id="14"/>
+                <instruction instr-id="2564" subinstr-id="16"/>
+                <instruction instr-id="2566" subinstr-id="0"/>
+                <instruction instr-id="2566" subinstr-id="2"/>
+                <instruction instr-id="2566" subinstr-id="4"/>
+                <instruction instr-id="2566" subinstr-id="6"/>
+                <instruction instr-id="2566" subinstr-id="8"/>
+                <instruction instr-id="2566" subinstr-id="10"/>
+                <instruction instr-id="2566" subinstr-id="12"/>
+                <instruction instr-id="2566" subinstr-id="14"/>
+                <instruction instr-id="2566" subinstr-id="16"/>
+                <instruction instr-id="2566" subinstr-id="18"/>
+                <instruction instr-id="2566" subinstr-id="20"/>
+                <instruction instr-id="2568" subinstr-id="0"/>
+                <instruction instr-id="2568" subinstr-id="2"/>
+                <instruction instr-id="2568" subinstr-id="4"/>
+                <instruction instr-id="2568" subinstr-id="6"/>
+                <instruction instr-id="2568" subinstr-id="8"/>
+                <instruction instr-id="2568" subinstr-id="10"/>
+                <instruction instr-id="2568" subinstr-id="12"/>
+                <instruction instr-id="2568" subinstr-id="14"/>
+                <instruction instr-id="2568" subinstr-id="16"/>
+                <instruction instr-id="2568" subinstr-id="18"/>
+                <instruction instr-id="2568" subinstr-id="20"/>
+                <instruction instr-id="2568" subinstr-id="22"/>
+                <instruction instr-id="2568" subinstr-id="24"/>
+                <instruction instr-id="2570" subinstr-id="0"/>
+                <instruction instr-id="2570" subinstr-id="2"/>
+                <instruction instr-id="2570" subinstr-id="4"/>
+                <instruction instr-id="2570" subinstr-id="6"/>
+                <instruction instr-id="2570" subinstr-id="8"/>
+                <instruction instr-id="2570" subinstr-id="10"/>
+                <instruction instr-id="2576" subinstr-id="0"/>
+                <instruction instr-id="2576" subinstr-id="2"/>
+                <instruction instr-id="2576" subinstr-id="4"/>
+                <instruction instr-id="2576" subinstr-id="6"/>
+                <instruction instr-id="2576" subinstr-id="8"/>
+                <instruction instr-id="2578"/>
+            </cell>
+            <cell id="21" start-col="3" start-row="5">
+                <bounding-box x1="400" x2="446" y1="391" y2="436"/>
+                <content>SCP*
+VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="2584" subinstr-id="0"/>
+                <instruction instr-id="2584" subinstr-id="2"/>
+                <instruction instr-id="2584" subinstr-id="4"/>
+                <instruction instr-id="2586" subinstr-id="0"/>
+                <instruction instr-id="2586" subinstr-id="2"/>
+                <instruction instr-id="2586" subinstr-id="4"/>
+                <instruction instr-id="2588" subinstr-id="0"/>
+                <instruction instr-id="2588" subinstr-id="2"/>
+                <instruction instr-id="2588" subinstr-id="4"/>
+                <instruction instr-id="2588" subinstr-id="6"/>
+                <instruction instr-id="2588" subinstr-id="8"/>
+                <instruction instr-id="2588" subinstr-id="12"/>
+                <instruction instr-id="2588" subinstr-id="14"/>
+                <instruction instr-id="2588" subinstr-id="16"/>
+                <instruction instr-id="2594" subinstr-id="0"/>
+                <instruction instr-id="2594" subinstr-id="2"/>
+                <instruction instr-id="2594" subinstr-id="4"/>
+                <instruction instr-id="2594" subinstr-id="6"/>
+                <instruction instr-id="2594" subinstr-id="8"/>
+                <instruction instr-id="2594" subinstr-id="10"/>
+            </cell>
+            <cell id="22" start-col="4" start-row="5">
+                <bounding-box x1="473" x2="592" y1="322" y2="436"/>
+                <content>Coordinate closely with
+payroll provider to
+determine the earliest date
+you can reasonably
+segregate the deferral
+deposits from general
+assets. Set up procedures
+to ensure you make
+deposits by that date.
+(More)</content>
+                <instruction instr-id="2600" subinstr-id="0"/>
+                <instruction instr-id="2600" subinstr-id="2"/>
+                <instruction instr-id="2600" subinstr-id="4"/>
+                <instruction instr-id="2600" subinstr-id="6"/>
+                <instruction instr-id="2600" subinstr-id="8"/>
+                <instruction instr-id="2600" subinstr-id="10"/>
+                <instruction instr-id="2600" subinstr-id="12"/>
+                <instruction instr-id="2600" subinstr-id="14"/>
+                <instruction instr-id="2600" subinstr-id="16"/>
+                <instruction instr-id="2602" subinstr-id="0"/>
+                <instruction instr-id="2602" subinstr-id="2"/>
+                <instruction instr-id="2602" subinstr-id="4"/>
+                <instruction instr-id="2602" subinstr-id="8"/>
+                <instruction instr-id="2602" subinstr-id="10"/>
+                <instruction instr-id="2602" subinstr-id="12"/>
+                <instruction instr-id="2602" subinstr-id="14"/>
+                <instruction instr-id="2602" subinstr-id="16"/>
+                <instruction instr-id="2602" subinstr-id="18"/>
+                <instruction instr-id="2604" subinstr-id="0"/>
+                <instruction instr-id="2604" subinstr-id="2"/>
+                <instruction instr-id="2604" subinstr-id="4"/>
+                <instruction instr-id="2604" subinstr-id="8"/>
+                <instruction instr-id="2604" subinstr-id="10"/>
+                <instruction instr-id="2604" subinstr-id="12"/>
+                <instruction instr-id="2606" subinstr-id="0"/>
+                <instruction instr-id="2606" subinstr-id="2"/>
+                <instruction instr-id="2606" subinstr-id="4"/>
+                <instruction instr-id="2606" subinstr-id="6"/>
+                <instruction instr-id="2606" subinstr-id="8"/>
+                <instruction instr-id="2606" subinstr-id="10"/>
+                <instruction instr-id="2606" subinstr-id="12"/>
+                <instruction instr-id="2606" subinstr-id="14"/>
+                <instruction instr-id="2606" subinstr-id="16"/>
+                <instruction instr-id="2606" subinstr-id="18"/>
+                <instruction instr-id="2608" subinstr-id="0"/>
+                <instruction instr-id="2608" subinstr-id="2"/>
+                <instruction instr-id="2608" subinstr-id="4"/>
+                <instruction instr-id="2608" subinstr-id="6"/>
+                <instruction instr-id="2608" subinstr-id="8"/>
+                <instruction instr-id="2608" subinstr-id="12"/>
+                <instruction instr-id="2608" subinstr-id="14"/>
+                <instruction instr-id="2608" subinstr-id="16"/>
+                <instruction instr-id="2608" subinstr-id="18"/>
+                <instruction instr-id="2610" subinstr-id="0"/>
+                <instruction instr-id="2610" subinstr-id="2"/>
+                <instruction instr-id="2610" subinstr-id="4"/>
+                <instruction instr-id="2610" subinstr-id="6"/>
+                <instruction instr-id="2610" subinstr-id="10"/>
+                <instruction instr-id="2610" subinstr-id="12"/>
+                <instruction instr-id="2612" subinstr-id="0"/>
+                <instruction instr-id="2612" subinstr-id="2"/>
+                <instruction instr-id="2612" subinstr-id="4"/>
+                <instruction instr-id="2612" subinstr-id="6"/>
+                <instruction instr-id="2612" subinstr-id="8"/>
+                <instruction instr-id="2612" subinstr-id="10"/>
+                <instruction instr-id="2612" subinstr-id="12"/>
+                <instruction instr-id="2612" subinstr-id="16"/>
+                <instruction instr-id="2612" subinstr-id="18"/>
+                <instruction instr-id="2612" subinstr-id="20"/>
+                <instruction instr-id="2612" subinstr-id="22"/>
+                <instruction instr-id="2612" subinstr-id="24"/>
+                <instruction instr-id="2612" subinstr-id="26"/>
+                <instruction instr-id="2614" subinstr-id="0"/>
+                <instruction instr-id="2614" subinstr-id="2"/>
+                <instruction instr-id="2614" subinstr-id="4"/>
+                <instruction instr-id="2614" subinstr-id="6"/>
+                <instruction instr-id="2614" subinstr-id="8"/>
+                <instruction instr-id="2614" subinstr-id="12"/>
+                <instruction instr-id="2616" subinstr-id="0"/>
+                <instruction instr-id="2616" subinstr-id="2"/>
+                <instruction instr-id="2616" subinstr-id="4"/>
+                <instruction instr-id="2616" subinstr-id="6"/>
+                <instruction instr-id="2616" subinstr-id="8"/>
+                <instruction instr-id="2616" subinstr-id="12"/>
+                <instruction instr-id="2616" subinstr-id="14"/>
+                <instruction instr-id="2616" subinstr-id="16"/>
+                <instruction instr-id="2616" subinstr-id="18"/>
+                <instruction instr-id="2616" subinstr-id="20"/>
+                <instruction instr-id="2616" subinstr-id="22"/>
+                <instruction instr-id="2616" subinstr-id="24"/>
+                <instruction instr-id="2616" subinstr-id="26"/>
+                <instruction instr-id="2622" subinstr-id="0"/>
+                <instruction instr-id="2622" subinstr-id="2"/>
+                <instruction instr-id="2622" subinstr-id="4"/>
+                <instruction instr-id="2622" subinstr-id="6"/>
+                <instruction instr-id="2622" subinstr-id="8"/>
+                <instruction instr-id="2624"/>
+            </cell>
+            <cell id="23" start-col="0" start-row="6">
+                <bounding-box x1="14" x2="119" y1="230" y2="297"/>
+                <content>9) Do participant loans
+conform to the
+requirements of the
+plan document and IRC
+§72(p)?
+(More)</content>
+                <instruction instr-id="2630" subinstr-id="0"/>
+                <instruction instr-id="2630" subinstr-id="2"/>
+                <instruction instr-id="2630" subinstr-id="4"/>
+                <instruction instr-id="2630" subinstr-id="6"/>
+                <instruction instr-id="2630" subinstr-id="8"/>
+                <instruction instr-id="2630" subinstr-id="10"/>
+                <instruction instr-id="2630" subinstr-id="12"/>
+                <instruction instr-id="2630" subinstr-id="14"/>
+                <instruction instr-id="2630" subinstr-id="16"/>
+                <instruction instr-id="2630" subinstr-id="18"/>
+                <instruction instr-id="2632" subinstr-id="0"/>
+                <instruction instr-id="2632" subinstr-id="2"/>
+                <instruction instr-id="2632" subinstr-id="4"/>
+                <instruction instr-id="2632" subinstr-id="6"/>
+                <instruction instr-id="2632" subinstr-id="8"/>
+                <instruction instr-id="2632" subinstr-id="10"/>
+                <instruction instr-id="2632" subinstr-id="12"/>
+                <instruction instr-id="2634" subinstr-id="0"/>
+                <instruction instr-id="2634" subinstr-id="2"/>
+                <instruction instr-id="2634" subinstr-id="4"/>
+                <instruction instr-id="2634" subinstr-id="6"/>
+                <instruction instr-id="2634" subinstr-id="8"/>
+                <instruction instr-id="2634" subinstr-id="10"/>
+                <instruction instr-id="2634" subinstr-id="12"/>
+                <instruction instr-id="2634" subinstr-id="14"/>
+                <instruction instr-id="2634" subinstr-id="16"/>
+                <instruction instr-id="2634" subinstr-id="20"/>
+                <instruction instr-id="2634" subinstr-id="22"/>
+                <instruction instr-id="2636" subinstr-id="0"/>
+                <instruction instr-id="2636" subinstr-id="2"/>
+                <instruction instr-id="2636" subinstr-id="4"/>
+                <instruction instr-id="2636" subinstr-id="6"/>
+                <instruction instr-id="2636" subinstr-id="8"/>
+                <instruction instr-id="2636" subinstr-id="10"/>
+                <instruction instr-id="2636" subinstr-id="12"/>
+                <instruction instr-id="2636" subinstr-id="16"/>
+                <instruction instr-id="2636" subinstr-id="18"/>
+                <instruction instr-id="2636" subinstr-id="20"/>
+                <instruction instr-id="2636" subinstr-id="22"/>
+                <instruction instr-id="2638" subinstr-id="0"/>
+                <instruction instr-id="2638" subinstr-id="2"/>
+                <instruction instr-id="2638" subinstr-id="4"/>
+                <instruction instr-id="2638" subinstr-id="6"/>
+                <instruction instr-id="2644" subinstr-id="0"/>
+                <instruction instr-id="2644" subinstr-id="2"/>
+                <instruction instr-id="2644" subinstr-id="4"/>
+                <instruction instr-id="2644" subinstr-id="6"/>
+                <instruction instr-id="2644" subinstr-id="8"/>
+                <instruction instr-id="2644" subinstr-id="10"/>
+            </cell>
+            <cell id="24" start-col="1" start-row="6">
+                <bounding-box x1="131" x2="229" y1="184" y2="297"/>
+                <content>Review the plan
+document and all
+outstanding loans to
+ensure the loans
+comply with the plan's
+terms and that the
+employees are
+repaying their loans
+timely.
+(More)</content>
+                <instruction instr-id="2650" subinstr-id="0"/>
+                <instruction instr-id="2650" subinstr-id="2"/>
+                <instruction instr-id="2650" subinstr-id="6"/>
+                <instruction instr-id="2650" subinstr-id="8"/>
+                <instruction instr-id="2650" subinstr-id="10"/>
+                <instruction instr-id="2650" subinstr-id="12"/>
+                <instruction instr-id="2652" subinstr-id="0"/>
+                <instruction instr-id="2652" subinstr-id="2"/>
+                <instruction instr-id="2652" subinstr-id="4"/>
+                <instruction instr-id="2652" subinstr-id="6"/>
+                <instruction instr-id="2652" subinstr-id="8"/>
+                <instruction instr-id="2652" subinstr-id="10"/>
+                <instruction instr-id="2652" subinstr-id="12"/>
+                <instruction instr-id="2654" subinstr-id="0"/>
+                <instruction instr-id="2654" subinstr-id="2"/>
+                <instruction instr-id="2654" subinstr-id="4"/>
+                <instruction instr-id="2654" subinstr-id="6"/>
+                <instruction instr-id="2654" subinstr-id="8"/>
+                <instruction instr-id="2654" subinstr-id="10"/>
+                <instruction instr-id="2654" subinstr-id="14"/>
+                <instruction instr-id="2654" subinstr-id="16"/>
+                <instruction instr-id="2654" subinstr-id="18"/>
+                <instruction instr-id="2654" subinstr-id="20"/>
+                <instruction instr-id="2654" subinstr-id="22"/>
+                <instruction instr-id="2656" subinstr-id="0"/>
+                <instruction instr-id="2656" subinstr-id="2"/>
+                <instruction instr-id="2656" subinstr-id="4"/>
+                <instruction instr-id="2656" subinstr-id="6"/>
+                <instruction instr-id="2656" subinstr-id="10"/>
+                <instruction instr-id="2656" subinstr-id="12"/>
+                <instruction instr-id="2656" subinstr-id="14"/>
+                <instruction instr-id="2658" subinstr-id="0"/>
+                <instruction instr-id="2658" subinstr-id="2"/>
+                <instruction instr-id="2658" subinstr-id="4"/>
+                <instruction instr-id="2658" subinstr-id="6"/>
+                <instruction instr-id="2658" subinstr-id="8"/>
+                <instruction instr-id="2658" subinstr-id="10"/>
+                <instruction instr-id="2658" subinstr-id="12"/>
+                <instruction instr-id="2658" subinstr-id="14"/>
+                <instruction instr-id="2658" subinstr-id="16"/>
+                <instruction instr-id="2658" subinstr-id="18"/>
+                <instruction instr-id="2658" subinstr-id="20"/>
+                <instruction instr-id="2660" subinstr-id="0"/>
+                <instruction instr-id="2660" subinstr-id="2"/>
+                <instruction instr-id="2660" subinstr-id="4"/>
+                <instruction instr-id="2660" subinstr-id="6"/>
+                <instruction instr-id="2660" subinstr-id="8"/>
+                <instruction instr-id="2660" subinstr-id="12"/>
+                <instruction instr-id="2660" subinstr-id="14"/>
+                <instruction instr-id="2660" subinstr-id="16"/>
+                <instruction instr-id="2660" subinstr-id="20"/>
+                <instruction instr-id="2660" subinstr-id="22"/>
+                <instruction instr-id="2660" subinstr-id="24"/>
+                <instruction instr-id="2660" subinstr-id="26"/>
+                <instruction instr-id="2660" subinstr-id="30"/>
+                <instruction instr-id="2660" subinstr-id="32"/>
+                <instruction instr-id="2660" subinstr-id="34"/>
+                <instruction instr-id="2662" subinstr-id="0"/>
+                <instruction instr-id="2662" subinstr-id="2"/>
+                <instruction instr-id="2662" subinstr-id="4"/>
+                <instruction instr-id="2662" subinstr-id="6"/>
+                <instruction instr-id="2662" subinstr-id="8"/>
+                <instruction instr-id="2662" subinstr-id="10"/>
+                <instruction instr-id="2662" subinstr-id="12"/>
+                <instruction instr-id="2662" subinstr-id="14"/>
+                <instruction instr-id="2664" subinstr-id="0"/>
+                <instruction instr-id="2664" subinstr-id="2"/>
+                <instruction instr-id="2664" subinstr-id="4"/>
+                <instruction instr-id="2664" subinstr-id="8"/>
+                <instruction instr-id="2664" subinstr-id="10"/>
+                <instruction instr-id="2664" subinstr-id="12"/>
+                <instruction instr-id="2664" subinstr-id="14"/>
+                <instruction instr-id="2666" subinstr-id="0"/>
+                <instruction instr-id="2666" subinstr-id="2"/>
+                <instruction instr-id="2666" subinstr-id="4"/>
+                <instruction instr-id="2666" subinstr-id="6"/>
+                <instruction instr-id="2666" subinstr-id="8"/>
+                <instruction instr-id="2666" subinstr-id="10"/>
+                <instruction instr-id="2666" subinstr-id="12"/>
+                <instruction instr-id="2672" subinstr-id="0"/>
+                <instruction instr-id="2672" subinstr-id="2"/>
+                <instruction instr-id="2672" subinstr-id="4"/>
+                <instruction instr-id="2672" subinstr-id="6"/>
+                <instruction instr-id="2672" subinstr-id="8"/>
+                <instruction instr-id="2674"/>
+            </cell>
+            <cell id="25" start-col="2" start-row="6">
+                <bounding-box x1="248" x2="383" y1="218" y2="297"/>
+                <content>EPCRS
+6.07, Appendix F (Schedule 5)
+Some failures may be
+corrected by corrective
+repayment and/or modification
+of loan terms.
+(More)</content>
+                <instruction instr-id="2680" subinstr-id="0"/>
+                <instruction instr-id="2680" subinstr-id="2"/>
+                <instruction instr-id="2680" subinstr-id="4"/>
+                <instruction instr-id="2682" subinstr-id="0"/>
+                <instruction instr-id="2682" subinstr-id="2"/>
+                <instruction instr-id="2682" subinstr-id="4"/>
+                <instruction instr-id="2682" subinstr-id="6"/>
+                <instruction instr-id="2682" subinstr-id="8"/>
+                <instruction instr-id="2682" subinstr-id="12"/>
+                <instruction instr-id="2682" subinstr-id="14"/>
+                <instruction instr-id="2682" subinstr-id="18"/>
+                <instruction instr-id="2684" subinstr-id="0"/>
+                <instruction instr-id="2684" subinstr-id="2"/>
+                <instruction instr-id="2684" subinstr-id="4"/>
+                <instruction instr-id="2684" subinstr-id="6"/>
+                <instruction instr-id="2684" subinstr-id="10"/>
+                <instruction instr-id="2684" subinstr-id="12"/>
+                <instruction instr-id="2684" subinstr-id="14"/>
+                <instruction instr-id="2684" subinstr-id="16"/>
+                <instruction instr-id="2684" subinstr-id="18"/>
+                <instruction instr-id="2684" subinstr-id="20"/>
+                <instruction instr-id="2684" subinstr-id="22"/>
+                <instruction instr-id="2684" subinstr-id="24"/>
+                <instruction instr-id="2684" subinstr-id="28"/>
+                <instruction instr-id="2684" subinstr-id="30"/>
+                <instruction instr-id="2684" subinstr-id="32"/>
+                <instruction instr-id="2684" subinstr-id="36"/>
+                <instruction instr-id="2684" subinstr-id="38"/>
+                <instruction instr-id="2686" subinstr-id="0"/>
+                <instruction instr-id="2686" subinstr-id="2"/>
+                <instruction instr-id="2686" subinstr-id="4"/>
+                <instruction instr-id="2686" subinstr-id="6"/>
+                <instruction instr-id="2686" subinstr-id="8"/>
+                <instruction instr-id="2686" subinstr-id="10"/>
+                <instruction instr-id="2686" subinstr-id="12"/>
+                <instruction instr-id="2686" subinstr-id="14"/>
+                <instruction instr-id="2686" subinstr-id="16"/>
+                <instruction instr-id="2686" subinstr-id="18"/>
+                <instruction instr-id="2688" subinstr-id="0"/>
+                <instruction instr-id="2688" subinstr-id="2"/>
+                <instruction instr-id="2688" subinstr-id="4"/>
+                <instruction instr-id="2688" subinstr-id="6"/>
+                <instruction instr-id="2688" subinstr-id="8"/>
+                <instruction instr-id="2688" subinstr-id="10"/>
+                <instruction instr-id="2688" subinstr-id="12"/>
+                <instruction instr-id="2688" subinstr-id="14"/>
+                <instruction instr-id="2688" subinstr-id="16"/>
+                <instruction instr-id="2690" subinstr-id="0"/>
+                <instruction instr-id="2690" subinstr-id="2"/>
+                <instruction instr-id="2690" subinstr-id="4"/>
+                <instruction instr-id="2690" subinstr-id="6"/>
+                <instruction instr-id="2696" subinstr-id="0"/>
+                <instruction instr-id="2696" subinstr-id="2"/>
+                <instruction instr-id="2696" subinstr-id="4"/>
+                <instruction instr-id="2696" subinstr-id="6"/>
+                <instruction instr-id="2696" subinstr-id="8"/>
+                <instruction instr-id="2698"/>
+            </cell>
+            <cell id="26" start-col="3" start-row="6">
+                <bounding-box x1="400" x2="446" y1="264" y2="297"/>
+                <content>VCP
+Audit CAP
+(More)</content>
+                <instruction instr-id="2704" subinstr-id="0"/>
+                <instruction instr-id="2704" subinstr-id="2"/>
+                <instruction instr-id="2704" subinstr-id="4"/>
+                <instruction instr-id="2706" subinstr-id="0"/>
+                <instruction instr-id="2706" subinstr-id="2"/>
+                <instruction instr-id="2706" subinstr-id="4"/>
+                <instruction instr-id="2706" subinstr-id="6"/>
+                <instruction instr-id="2706" subinstr-id="8"/>
+                <instruction instr-id="2706" subinstr-id="12"/>
+                <instruction instr-id="2706" subinstr-id="14"/>
+                <instruction instr-id="2706" subinstr-id="16"/>
+                <instruction instr-id="2712" subinstr-id="0"/>
+                <instruction instr-id="2712" subinstr-id="2"/>
+                <instruction instr-id="2712" subinstr-id="4"/>
+                <instruction instr-id="2712" subinstr-id="6"/>
+                <instruction instr-id="2712" subinstr-id="8"/>
+                <instruction instr-id="2712" subinstr-id="10"/>
+            </cell>
+            <cell id="27" start-col="4" start-row="6">
+                <bounding-box x1="473" x2="594" y1="184" y2="297"/>
+                <content>Review and follow the plan
+provisions relating to
+making loans, including the
+amount of loan, term of the
+loan and repayment terms.
+Make sure there are
+procedures in place to
+prevent loans that are
+prohibited transactions.
+(More)</content>
+                <instruction instr-id="2718" subinstr-id="0"/>
+                <instruction instr-id="2718" subinstr-id="2"/>
+                <instruction instr-id="2718" subinstr-id="4"/>
+                <instruction instr-id="2718" subinstr-id="8"/>
+                <instruction instr-id="2718" subinstr-id="10"/>
+                <instruction instr-id="2718" subinstr-id="12"/>
+                <instruction instr-id="2718" subinstr-id="14"/>
+                <instruction instr-id="2718" subinstr-id="16"/>
+                <instruction instr-id="2718" subinstr-id="18"/>
+                <instruction instr-id="2718" subinstr-id="20"/>
+                <instruction instr-id="2718" subinstr-id="22"/>
+                <instruction instr-id="2718" subinstr-id="24"/>
+                <instruction instr-id="2720" subinstr-id="0"/>
+                <instruction instr-id="2720" subinstr-id="2"/>
+                <instruction instr-id="2720" subinstr-id="4"/>
+                <instruction instr-id="2720" subinstr-id="6"/>
+                <instruction instr-id="2720" subinstr-id="10"/>
+                <instruction instr-id="2720" subinstr-id="12"/>
+                <instruction instr-id="2720" subinstr-id="14"/>
+                <instruction instr-id="2720" subinstr-id="16"/>
+                <instruction instr-id="2722" subinstr-id="0"/>
+                <instruction instr-id="2722" subinstr-id="2"/>
+                <instruction instr-id="2722" subinstr-id="4"/>
+                <instruction instr-id="2722" subinstr-id="6"/>
+                <instruction instr-id="2722" subinstr-id="8"/>
+                <instruction instr-id="2722" subinstr-id="10"/>
+                <instruction instr-id="2722" subinstr-id="12"/>
+                <instruction instr-id="2722" subinstr-id="14"/>
+                <instruction instr-id="2722" subinstr-id="16"/>
+                <instruction instr-id="2722" subinstr-id="18"/>
+                <instruction instr-id="2722" subinstr-id="20"/>
+                <instruction instr-id="2722" subinstr-id="24"/>
+                <instruction instr-id="2722" subinstr-id="26"/>
+                <instruction instr-id="2724" subinstr-id="0"/>
+                <instruction instr-id="2724" subinstr-id="2"/>
+                <instruction instr-id="2724" subinstr-id="4"/>
+                <instruction instr-id="2724" subinstr-id="6"/>
+                <instruction instr-id="2724" subinstr-id="8"/>
+                <instruction instr-id="2724" subinstr-id="12"/>
+                <instruction instr-id="2724" subinstr-id="14"/>
+                <instruction instr-id="2724" subinstr-id="16"/>
+                <instruction instr-id="2724" subinstr-id="18"/>
+                <instruction instr-id="2724" subinstr-id="20"/>
+                <instruction instr-id="2724" subinstr-id="22"/>
+                <instruction instr-id="2724" subinstr-id="24"/>
+                <instruction instr-id="2724" subinstr-id="26"/>
+                <instruction instr-id="2724" subinstr-id="28"/>
+                <instruction instr-id="2724" subinstr-id="30"/>
+                <instruction instr-id="2724" subinstr-id="32"/>
+                <instruction instr-id="2724" subinstr-id="34"/>
+                <instruction instr-id="2724" subinstr-id="36"/>
+                <instruction instr-id="2724" subinstr-id="38"/>
+                <instruction instr-id="2726" subinstr-id="0"/>
+                <instruction instr-id="2726" subinstr-id="2"/>
+                <instruction instr-id="2726" subinstr-id="4"/>
+                <instruction instr-id="2726" subinstr-id="6"/>
+                <instruction instr-id="2726" subinstr-id="8"/>
+                <instruction instr-id="2726" subinstr-id="10"/>
+                <instruction instr-id="2726" subinstr-id="12"/>
+                <instruction instr-id="2726" subinstr-id="14"/>
+                <instruction instr-id="2726" subinstr-id="16"/>
+                <instruction instr-id="2726" subinstr-id="18"/>
+                <instruction instr-id="2728" subinstr-id="0"/>
+                <instruction instr-id="2728" subinstr-id="2"/>
+                <instruction instr-id="2728" subinstr-id="4"/>
+                <instruction instr-id="2728" subinstr-id="6"/>
+                <instruction instr-id="2728" subinstr-id="8"/>
+                <instruction instr-id="2728" subinstr-id="10"/>
+                <instruction instr-id="2728" subinstr-id="14"/>
+                <instruction instr-id="2728" subinstr-id="16"/>
+                <instruction instr-id="2728" subinstr-id="18"/>
+                <instruction instr-id="2728" subinstr-id="22"/>
+                <instruction instr-id="2728" subinstr-id="24"/>
+                <instruction instr-id="2728" subinstr-id="26"/>
+                <instruction instr-id="2730" subinstr-id="0"/>
+                <instruction instr-id="2730" subinstr-id="2"/>
+                <instruction instr-id="2730" subinstr-id="4"/>
+                <instruction instr-id="2730" subinstr-id="6"/>
+                <instruction instr-id="2730" subinstr-id="8"/>
+                <instruction instr-id="2730" subinstr-id="12"/>
+                <instruction instr-id="2730" subinstr-id="14"/>
+                <instruction instr-id="2732" subinstr-id="0"/>
+                <instruction instr-id="2732" subinstr-id="2"/>
+                <instruction instr-id="2732" subinstr-id="4"/>
+                <instruction instr-id="2732" subinstr-id="6"/>
+                <instruction instr-id="2732" subinstr-id="8"/>
+                <instruction instr-id="2732" subinstr-id="10"/>
+                <instruction instr-id="2732" subinstr-id="12"/>
+                <instruction instr-id="2732" subinstr-id="14"/>
+                <instruction instr-id="2732" subinstr-id="16"/>
+                <instruction instr-id="2732" subinstr-id="18"/>
+                <instruction instr-id="2732" subinstr-id="20"/>
+                <instruction instr-id="2732" subinstr-id="24"/>
+                <instruction instr-id="2732" subinstr-id="26"/>
+                <instruction instr-id="2734" subinstr-id="0"/>
+                <instruction instr-id="2734" subinstr-id="2"/>
+                <instruction instr-id="2734" subinstr-id="4"/>
+                <instruction instr-id="2734" subinstr-id="6"/>
+                <instruction instr-id="2734" subinstr-id="8"/>
+                <instruction instr-id="2734" subinstr-id="10"/>
+                <instruction instr-id="2734" subinstr-id="12"/>
+                <instruction instr-id="2734" subinstr-id="14"/>
+                <instruction instr-id="2734" subinstr-id="16"/>
+                <instruction instr-id="2734" subinstr-id="18"/>
+                <instruction instr-id="2740" subinstr-id="0"/>
+                <instruction instr-id="2740" subinstr-id="2"/>
+                <instruction instr-id="2740" subinstr-id="4"/>
+                <instruction instr-id="2740" subinstr-id="6"/>
+                <instruction instr-id="2740" subinstr-id="8"/>
+                <instruction instr-id="2742"/>
+            </cell>
+        </region>
+    </table>
+</document>

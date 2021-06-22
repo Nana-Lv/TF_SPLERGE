@@ -1,0 +1,86 @@
+                                                                                                                                                                                    EURO AREA
+                                                                                                                                                                                    STATISTICS
+                                                                                                                                                                                           Financial
+                                                                                                                                                                                            markets
+
+
+
+
+ 4.7 Euro area yield curves 1)
+            (AAA-rated euro area central government bonds; end of period; rates in percentages per annum; spreads in percentage points)
+
+                                                                     Spot rates                                                                     Instantaneous forward rates
+                  3 months         1 year        2 years         5 years            7 years       10 years      10 years    10 years           1 year       2 years        5 years      10 years
+                                                                                                             - 3 months     - 2 years
+                                                                                                                (spread)    (spread)
+                         1              2                3              4                5              6              7            8              9             10            11               12
+ 2009                 0.38           0.81             1.38           2.64             3.20           3.76           3.38        2.38            1.41           2.44          4.27             5.20
+ 2010                 0.49           0.60             0.93           2.15             2.78           3.36           2.87        2.43            0.85           1.70          3.99             4.69
+ 2011                 0.00           0.09             0.41           1.56             2.13           2.65           2.65        2.24            0.32           1.15          3.24             3.84
+ 2010 Q4              0.49           0.60             0.93           2.15             2.78           3.36           2.87        2.43            0.85           1.70          3.99             4.69
+ 2011 Q1              0.87           1.30             1.79           2.83             3.26           3.66           2.79        1.87            1.84           2.69          4.12             4.63
+      Q2              1.24           1.39             1.65           2.50             2.94           3.41           2.17        1.75            1.63           2.22          3.76             4.60
+      Q3              0.27           0.47             0.75           1.55             1.99           2.48           2.21        1.74            0.74           1.31          2.77             3.79
+      Q4              0.00           0.09             0.41           1.56             2.13           2.65           2.65        2.24            0.32           1.15          3.24             3.84
+ 2011 Feb.            0.69           1.08             1.53           2.55             3.02           3.49           2.80        1.96            1.56           2.37          3.91             4.67
+      Mar.            0.87           1.30             1.79           2.83             3.26           3.66           2.79        1.87            1.84           2.69          4.12             4.63
+      Apr.            1.02           1.41             1.86           2.80             3.19           3.55           2.53        1.70            1.90           2.67          3.96             4.46
+      May             1.03           1.32             1.67           2.52             2.93           3.37           2.34        1.69            1.69           2.34          3.69             4.51
+      June            1.24           1.39             1.65           2.50             2.94           3.41           2.17        1.75            1.63           2.22          3.76             4.60
+      July            1.01           1.11             1.32           2.09             2.55           3.06           2.05        1.74            1.28           1.79          3.34             4.39
+      Aug.            0.61           0.67             0.86           1.69             2.21           2.76           2.15        1.90            0.80           1.33          3.09             4.22
+      Sep.            0.27           0.47             0.75           1.55             1.99           2.48           2.21        1.74            0.74           1.31          2.77             3.79
+      Oct.            0.38           0.54             0.81           1.71             2.22           2.79           2.41        1.98            0.78           1.39          3.12             4.29
+      Nov.            0.20           0.38             0.74           1.92             2.51           3.07           2.87        2.33            0.69           1.53          3.64             4.41
+      Dec.            0.00           0.09             0.41           1.56             2.13           2.65           2.65        2.24            0.32           1.15          3.24             3.84
+ 2012 Jan.            0.11           0.21             0.45           1.44             2.03           2.67           2.55        2.22            0.39           1.03          3.07             4.26
+      Feb.            0.11           0.15             0.37           1.39             1.99           2.59           2.49        2.22            0.29           0.95          3.06             4.06
+
+
+
+
+ C25 Euro area spot yield curves 2)                                                                    C26 Euro area spot rates and spreads 2)
+ (percentages per annum; end of period)                                                                (daily data; rates in percentages per annum; spreads in percentage points)
+
+                                                                                                                    1-year rate (left-hand scale)
+                   February 2012
+                                                                                                                    10-year rate (left-hand scale)
+                   January 2012
+                                                                                                                    spread between 10-year and 3-month rates (right-hand scale)
+                   December 2011
+                                                                                                                    spread between 10-year and 2-year rates (right-hand scale)
+  4.5                                                                                                4.5                                                                                     4.5
+
+  4.0                                                                                                4.0                                                                                     4.0
+
+  3.5                                                                                                3.5                                                                                     3.5
+
+  3.0                                                                                                3.0                                                                                     3.0
+
+  2.5                                                                                                2.5                                                                                     2.5
+
+  2.0                                                                                                2.0                                                                                     2.0
+
+  1.5                                                                                                1.5                                                                                     1.5
+
+  1.0                                                                                                1.0                                                                                     1.0
+
+  0.5                                                                                                0.5                                                                                     0.5
+
+  0.0                                                                                                0.0                                                                                     0.0
+        0           5yrs         10yrs        15yrs          20yrs          25yrs         30yrs            2009                         2010                       2011
+
+
+
+
+Sources: ECB calculations based on underlying data provided by EuroMTS and ratings provided by Fitch Ratings.
+1) Data refer to the changing composition of the euro area. For further information, see the General Notes.
+2) Data cover AAA-rated euro area central government bonds.
+
+
+
+
+                                                                                                                                                                                    ECB
+                                                                                                                                                                        Monthly Bulletin
+                                                                                                                                                                            March 2012     S 45
+

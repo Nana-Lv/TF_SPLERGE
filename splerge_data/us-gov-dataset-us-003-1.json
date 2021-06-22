@@ -1,0 +1,8 @@
+{"merge_info": [0, -1, 0, -1], "bbox_info": [80, 0, 102, 10]}
+{"merge_info": [0, -1, 1, -1], "bbox_info": [214, 0, 248, 10]}
+{"merge_info": [1, -1, 0, -1], "bbox_info": [0, 23, 180, 32]}
+{"merge_info": [1, -1, 1, -1], "bbox_info": [202, 23, 256, 32]}
+{"merge_info": [2, -1, 0, -1], "bbox_info": [0, 34, 68, 44]}
+{"merge_info": [2, -1, 1, -1], "bbox_info": [221, 34, 257, 44]}
+{"merge_info": [3, -1, 0, -1], "bbox_info": [0, 45, 95, 55]}
+{"merge_info": [3, -1, 1, -1], "bbox_info": [213, 45, 256, 55]}

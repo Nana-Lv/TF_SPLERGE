@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-009.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-region-model.xsd">
+    <table id="0">
+        <region id="0" page="2">
+            <instruction instr-id="998"/>
+            <instruction instr-id="1000"/>
+            <instruction instr-id="1002"/>
+            <instruction instr-id="1004"/>
+            <instruction instr-id="1006"/>
+            <instruction instr-id="1008"/>
+            <instruction instr-id="1010"/>
+            <instruction instr-id="1012"/>
+            <instruction instr-id="1014"/>
+            <instruction instr-id="1016"/>
+            <instruction instr-id="1018"/>
+            <instruction instr-id="1020"/>
+            <instruction instr-id="1044" subinstr-id="0"/>
+            <instruction instr-id="1044" subinstr-id="2"/>
+            <instruction instr-id="1044" subinstr-id="4"/>
+            <instruction instr-id="1044" subinstr-id="6"/>
+            <instruction instr-id="1046"/>
+            <instruction instr-id="1062" subinstr-id="0"/>
+            <instruction instr-id="1062" subinstr-id="2"/>
+            <instruction instr-id="1062" subinstr-id="4"/>
+            <instruction instr-id="1064" subinstr-id="0"/>
+            <instruction instr-id="1064" subinstr-id="2"/>
+            <bounding-box x1="399" x2="567" y1="584" y2="635"/>
+        </region>
+    </table>
+</document>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-007.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="1" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="323" x2="383" y1="482" y2="491"/>
+                <content>Payroll Period</content>
+                <instruction instr-id="274" subinstr-id="0"/>
+                <instruction instr-id="274" subinstr-id="2"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="487" x2="559" y1="482" y2="502"/>
+                <content>One Withholding
+Allowance</content>
+                <instruction instr-id="268" subinstr-id="0"/>
+                <instruction instr-id="268" subinstr-id="2"/>
+                <instruction instr-id="276"/>
+            </cell>
+            <cell id="2" start-col="0" start-row="1">
+                <bounding-box x1="323" x2="352" y1="466" y2="475"/>
+                <content>Weekly</content>
+                <instruction instr-id="282"/>
+            </cell>
+            <cell id="3" start-col="1" start-row="1">
+                <bounding-box x1="500" x2="536" y1="466" y2="475"/>
+                <content>$ 71.15</content>
+                <instruction instr-id="284" subinstr-id="0"/>
+                <instruction instr-id="284" subinstr-id="2"/>
+                <instruction instr-id="284" subinstr-id="4"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="2">
+                <bounding-box x1="323" x2="358" y1="450" y2="459"/>
+                <content>Biweekly</content>
+                <instruction instr-id="288"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="2">
+                <bounding-box x1="509" x2="536" y1="450" y2="459"/>
+                <content>142.31</content>
+                <instruction instr-id="290" subinstr-id="0"/>
+                <instruction instr-id="290" subinstr-id="2"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="3">
+                <bounding-box x1="323" x2="375" y1="433" y2="442"/>
+                <content>Semimonthly</content>
+                <instruction instr-id="294"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="3">
+                <bounding-box x1="509" x2="536" y1="433" y2="442"/>
+                <content>154.17</content>
+                <instruction instr-id="296" subinstr-id="0"/>
+                <instruction instr-id="296" subinstr-id="2"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="4">
+                <bounding-box x1="323" x2="354" y1="417" y2="426"/>
+                <content>Monthly</content>
+                <instruction instr-id="302"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="4">
+                <bounding-box x1="509" x2="536" y1="417" y2="426"/>
+                <content>308.33</content>
+                <instruction instr-id="304" subinstr-id="0"/>
+                <instruction instr-id="304" subinstr-id="2"/>
+            </cell>
+            <cell id="10" start-col="0" start-row="5">
+                <bounding-box x1="323" x2="360" y1="400" y2="409"/>
+                <content>Quarterly</content>
+                <instruction instr-id="308"/>
+            </cell>
+            <cell id="11" start-col="1" start-row="5">
+                <bounding-box x1="509" x2="536" y1="400" y2="409"/>
+                <content>925.00</content>
+                <instruction instr-id="310" subinstr-id="0"/>
+                <instruction instr-id="310" subinstr-id="2"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="6">
+                <bounding-box x1="323" x2="377" y1="384" y2="393"/>
+                <content>Semiannually</content>
+                <instruction instr-id="314"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="6">
+                <bounding-box x1="501" x2="536" y1="384" y2="393"/>
+                <content>1,850.00</content>
+                <instruction instr-id="316" subinstr-id="0"/>
+                <instruction instr-id="316" subinstr-id="2"/>
+            </cell>
+            <cell id="14" start-col="0" start-row="7">
+                <bounding-box x1="323" x2="357" y1="368" y2="377"/>
+                <content>Annually</content>
+                <instruction instr-id="320"/>
+            </cell>
+            <cell id="15" start-col="1" start-row="7">
+                <bounding-box x1="501" x2="536" y1="368" y2="377"/>
+                <content>3,700.00</content>
+                <instruction instr-id="322" subinstr-id="0"/>
+                <instruction instr-id="322" subinstr-id="2"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="8">
+                <bounding-box x1="323" x2="456" y1="340" y2="360"/>
+                <content>Daily or Miscellaneous
+(each day of the payroll period)</content>
+                <instruction instr-id="328" subinstr-id="0"/>
+                <instruction instr-id="328" subinstr-id="2"/>
+                <instruction instr-id="328" subinstr-id="4"/>
+                <instruction instr-id="328" subinstr-id="6"/>
+                <instruction instr-id="334" subinstr-id="0"/>
+                <instruction instr-id="334" subinstr-id="2"/>
+                <instruction instr-id="334" subinstr-id="4"/>
+                <instruction instr-id="334" subinstr-id="6"/>
+                <instruction instr-id="334" subinstr-id="10"/>
+                <instruction instr-id="334" subinstr-id="12"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="8">
+                <bounding-box x1="514" x2="536" y1="351" y2="360"/>
+                <content>14.23</content>
+                <instruction instr-id="330"/>
+            </cell>
+        </region>
+    </table>
+    <table id="1">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="47" x2="107" y1="589" y2="598"/>
+                <content>Payroll Period</content>
+                <instruction instr-id="493" subinstr-id="0"/>
+                <instruction instr-id="493" subinstr-id="2"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="212" x2="276" y1="589" y2="598"/>
+                <content>Add Additional</content>
+                <instruction instr-id="495" subinstr-id="0"/>
+                <instruction instr-id="495" subinstr-id="2"/>
+            </cell>
+            <cell id="2" start-col="0" start-row="1">
+                <bounding-box x1="47" x2="76" y1="572" y2="581"/>
+                <content>Weekly</content>
+                <instruction instr-id="498"/>
+            </cell>
+            <cell id="3" start-col="1" start-row="1">
+                <bounding-box x1="224" x2="260" y1="572" y2="581"/>
+                <content>$ 40.40</content>
+                <instruction instr-id="500" subinstr-id="0"/>
+                <instruction instr-id="500" subinstr-id="2"/>
+                <instruction instr-id="500" subinstr-id="4"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="2">
+                <bounding-box x1="47" x2="82" y1="556" y2="565"/>
+                <content>Biweekly</content>
+                <instruction instr-id="502"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="2">
+                <bounding-box x1="238" x2="260" y1="556" y2="565"/>
+                <content>80.80</content>
+                <instruction instr-id="504"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="3">
+                <bounding-box x1="47" x2="99" y1="540" y2="549"/>
+                <content>Semimonthly</content>
+                <instruction instr-id="506"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="3">
+                <bounding-box x1="238" x2="260" y1="540" y2="549"/>
+                <content>87.50</content>
+                <instruction instr-id="508"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="4">
+                <bounding-box x1="47" x2="78" y1="523" y2="532"/>
+                <content>Monthly</content>
+                <instruction instr-id="510"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="4">
+                <bounding-box x1="233" x2="260" y1="523" y2="532"/>
+                <content>175.00</content>
+                <instruction instr-id="512" subinstr-id="0"/>
+                <instruction instr-id="512" subinstr-id="2"/>
+            </cell>
+            <cell id="10" start-col="0" start-row="5">
+                <bounding-box x1="47" x2="84" y1="507" y2="516"/>
+                <content>Quarterly</content>
+                <instruction instr-id="514"/>
+            </cell>
+            <cell id="11" start-col="1" start-row="5">
+                <bounding-box x1="233" x2="260" y1="507" y2="516"/>
+                <content>525.00</content>
+                <instruction instr-id="516" subinstr-id="0"/>
+                <instruction instr-id="516" subinstr-id="2"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="6">
+                <bounding-box x1="47" x2="101" y1="490" y2="499"/>
+                <content>Semiannually</content>
+                <instruction instr-id="518"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="6">
+                <bounding-box x1="225" x2="260" y1="490" y2="499"/>
+                <content>1,050.00</content>
+                <instruction instr-id="520" subinstr-id="0"/>
+                <instruction instr-id="520" subinstr-id="2"/>
+            </cell>
+            <cell id="14" start-col="0" start-row="7">
+                <bounding-box x1="47" x2="81" y1="474" y2="483"/>
+                <content>Annually</content>
+                <instruction instr-id="522"/>
+            </cell>
+            <cell id="15" start-col="1" start-row="7">
+                <bounding-box x1="225" x2="260" y1="474" y2="483"/>
+                <content>2,100.00</content>
+                <instruction instr-id="524" subinstr-id="0"/>
+                <instruction instr-id="524" subinstr-id="2"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="8">
+                <bounding-box x1="47" x2="180" y1="447" y2="467"/>
+                <content>Daily or Miscellaneous
+(each day ofthe payroll period)</content>
+                <instruction instr-id="526" subinstr-id="0"/>
+                <instruction instr-id="526" subinstr-id="2"/>
+                <instruction instr-id="526" subinstr-id="4"/>
+                <instruction instr-id="526" subinstr-id="6"/>
+                <instruction instr-id="530" subinstr-id="0"/>
+                <instruction instr-id="530" subinstr-id="2"/>
+                <instruction instr-id="530" subinstr-id="4"/>
+                <instruction instr-id="530" subinstr-id="6"/>
+                <instruction instr-id="530" subinstr-id="10"/>
+                <instruction instr-id="530" subinstr-id="12"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="8">
+                <bounding-box x1="243" x2="260" y1="458" y2="467"/>
+                <content>8.10</content>
+                <instruction instr-id="528"/>
+            </cell>
+        </region>
+    </table>
+</document>

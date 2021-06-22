@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-026.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="3" row-increment="0">
+            <cell id="0" start-col="1" start-row="0">
+                <bounding-box x1="412" x2="458" y1="612" y2="628"/>
+                <content>in year-on-year 
+terms</content>
+                <instruction instr-id="15371"/>
+                <instruction instr-id="15375"/>
+            </cell>
+            <cell id="1" start-col="2" start-row="0">
+                <bounding-box x1="470" x2="535" y1="612" y2="628"/>
+                <content>in quarter-on-quarter
+terms</content>
+                <instruction instr-id="15379"/>
+                <instruction instr-id="15383"/>
+            </cell>
+            <cell id="2" start-col="0" start-row="1">
+                <bounding-box x1="354" x2="380" y1="599" y2="606"/>
+                <content>Germany</content>
+                <instruction instr-id="15390" subinstr-id="0"/>
+            </cell>
+            <cell id="3" start-col="1" start-row="1">
+                <bounding-box x1="446" x2="458" y1="599" y2="606"/>
+                <content>0.34</content>
+                <instruction instr-id="15390" subinstr-id="2"/>
+            </cell>
+            <cell id="4" start-col="2" start-row="1">
+                <bounding-box x1="523" x2="535" y1="599" y2="606"/>
+                <content>0.18</content>
+                <instruction instr-id="15390" subinstr-id="4"/>
+            </cell>
+            <cell id="5" start-col="0" start-row="2">
+                <bounding-box x1="354" x2="370" y1="590" y2="597"/>
+                <content>Spain</content>
+                <instruction instr-id="15394" subinstr-id="0"/>
+            </cell>
+            <cell id="6" start-col="1" start-row="2">
+                <bounding-box x1="446" x2="458" y1="590" y2="597"/>
+                <content>0.75</content>
+                <instruction instr-id="15394" subinstr-id="2"/>
+            </cell>
+            <cell id="7" start-col="2" start-row="2">
+                <bounding-box x1="523" x2="535" y1="590" y2="597"/>
+                <content>0.70</content>
+                <instruction instr-id="15394" subinstr-id="4"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="3">
+                <bounding-box x1="354" x2="373" y1="581" y2="588"/>
+                <content>France</content>
+                <instruction instr-id="15398" subinstr-id="0"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="3">
+                <bounding-box x1="446" x2="458" y1="581" y2="588"/>
+                <content>0.63</content>
+                <instruction instr-id="15398" subinstr-id="2"/>
+            </cell>
+            <cell id="10" start-col="2" start-row="3">
+                <bounding-box x1="523" x2="535" y1="581" y2="588"/>
+                <content>0.37</content>
+                <instruction instr-id="15398" subinstr-id="4"/>
+            </cell>
+            <cell id="11" start-col="0" start-row="4">
+                <bounding-box x1="354" x2="367" y1="572" y2="579"/>
+                <content>Italy</content>
+                <instruction instr-id="15402" subinstr-id="0"/>
+            </cell>
+            <cell id="12" start-col="1" start-row="4">
+                <bounding-box x1="446" x2="458" y1="572" y2="579"/>
+                <content>0.60</content>
+                <instruction instr-id="15402" subinstr-id="2"/>
+            </cell>
+            <cell id="13" start-col="2" start-row="4">
+                <bounding-box x1="523" x2="535" y1="572" y2="579"/>
+                <content>0.38</content>
+                <instruction instr-id="15402" subinstr-id="4"/>
+            </cell>
+            <cell id="14" start-col="0" start-row="5">
+                <bounding-box x1="354" x2="381" y1="561" y2="568"/>
+                <content>Euro area</content>
+                <instruction instr-id="15406" subinstr-id="0"/>
+            </cell>
+            <cell id="15" start-col="1" start-row="5">
+                <bounding-box x1="446" x2="458" y1="561" y2="568"/>
+                <content>0.72</content>
+                <instruction instr-id="15406" subinstr-id="2"/>
+            </cell>
+            <cell id="16" start-col="2" start-row="5">
+                <bounding-box x1="523" x2="535" y1="561" y2="568"/>
+                <content>0.49</content>
+                <instruction instr-id="15406" subinstr-id="4"/>
+            </cell>
+        </region>
+    </table>
+</document>

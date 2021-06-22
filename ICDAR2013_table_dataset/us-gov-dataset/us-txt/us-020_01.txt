@@ -1,0 +1,52 @@
+                                                          Notes to the Principal Financial Statements
+                                                                      September 30, 2011, and 2010
+
+Q. Use of Estimates
+Management has made certain estimates and assumptions when reporting assets, liabilities, revenues, and
+expenses, and also in the note disclosures. Estimates underlying the accompanying financial statements
+include accounting for grants, contracts, accounts payable, payroll, and PP&E. Actual results may differ
+from these estimates, and the difference will be adjusted for and included in the financial statements of
+the following fiscal year.
+
+
+Note 2. Fund Balance With Treasury
+Fund Balance With Treasury (FBWT) consisted of the following components as of September 30, 2011
+and 2010:
+
+(Amounts in Thousands)                                                  2011
+                                              Appropriated      Donated      Earmarked
+                                                Funds            Funds         Funds             Total
+Obligated                                    $ 11,684,724 $        45,845 $     266,999 $      11,997,568
+Unobligated Available                              13,409          52,242        59,959           125,610
+Unobligated Unavailable                           102,227              93           970           103,290
+
+Less: Budgetary Non-FBWT                                  -        (51,380)             -         (51,380)
+Total FBWT                                   $   11,800,360 $       46,800 $      327,928 $    12,175,088
+
+(Amounts in Thousands)                                                   2010
+                                              Appropriated      Donated     Earmarked
+                                                Funds            Funds        Funds              Total
+Obligated                                    $ 11,974,777 $        34,174 $    287,886 $       12,296,837
+Unobligated Available                              12,451          45,625       47,026            105,102
+Unobligated Unavailable                            98,304               4        3,124            101,432
+
+Less: Budgetary Non-FBWT                                  -        (44,683)             -         (44,683)
+Total FBWT                                   $   12,085,532 $       35,120 $      338,036 $    12,458,688
+
+The Donations Account includes amounts donated to NSF from all sources. Funds in the Donations
+Account may be used to further one or more of the general purposes of the Foundation. The donated
+funds are held as FBWT or as non-FBWT with budgetary resources, which represent cash held outside of
+Treasury at commercial banks in interest-bearing accounts. These funds are collateralized up to $53.5
+million by the bank, through the Federal Reserve Bank of St. Louis, in accordance with Treasury
+Financial Manual Volume 1, Chapter 6-9000. Unobligated Unavailable balances include recoveries of
+prior year obligations and other unobligated expired funds that are unavailable for new obligations.
+
+In FY 1999, in accordance with P.L. 105-277, a special fund named H-1B Nonimmigrant Petitioner Fees
+Account was established in the general fund of the U.S. Treasury. These funds are considered Earmarked
+Funds and are not included in Appropriated Funds. The funds represent fees collected for each petition for
+nonimmigrant status. Under the law, NSF was prescribed a percentage of these fees for specific programs.
+
+
+
+                                                  II-31
+

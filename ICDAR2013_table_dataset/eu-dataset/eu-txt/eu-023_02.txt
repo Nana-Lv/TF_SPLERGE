@@ -1,0 +1,58 @@
+         The trade weights are revised and updated every three years to provide an accurate picture of
+         trade patterns. Owing to limitations of data availability, the calculations occur with a time lag.
+         In the most recent update carried out in January 2012, trade weights were added for the period
+         from 2007 to 2009.1
+
+         The EERs are constructed by applying the weights to the bilateral nominal exchange rates of
+         the euro against the currencies of selected trading partners. Real EER indices are derived by
+         adjusting the nominal indices for relative price and cost developments between the euro area
+         and its trading partners.2 The trade weights combine information on exports and imports,
+         excluding intra-euro area trade. Import weights consist of each trading partner’s simple share in
+         total euro area imports. Export weights, on the other hand, are double-weighted to account for
+         “third-market effects”. Speciﬁcally, they capture the effect of competition faced by euro area
+         exporters in foreign markets not only from domestic producers, but also from exporters from
+         third countries. The overall weight of each partner country is obtained as the weighted average
+         of the export and import weights.3
+
+         The table presents the trade weights over all available periods for each of the countries included
+         in the broad EER-40 (listed in the order of their average trade weight over all periods).4 Advanced
+         economies continue to account for a sizeable share of euro area trade, although the weight
+         of the largest advanced economies in the EER-40 of the euro has been declining over time.
+         Between 1995 and 2009 the two individual countries with the largest weights were, on average,
+         the United States and the United Kingdom, which together accounted for almost a third of the
+         EER-40. These countries, together with Japan, were also the three largest individual trading
+         partners of the euro area in the period 1995-2000, with a combined weight of, on average, around
+         45% of the EER-40 basket. However, for the period 2007-09 their combined share in the basket
+         of the EER-40 declined to around 30%.
+
+         The decrease in the share of the largest advanced economies in the EER-40 basket is not due to
+         a decline in trade with the euro area, but instead reﬂects the rising importance of other regions,
+         in particular emerging market economies, in the global economy. As a consequence, the
+         combined weight of trading partners from emerging Asia in the EER-40 rose from below 19%
+         in the period 1995-97 to above 27% in the period 2007-09. This rise resulted mainly from
+         a substantial increase in the weight of China, which became the euro area’s largest individual
+         trading partner in the period 2007-09. The share of other emerging Asian economies has
+         remained broadly unchanged over time, as can be seen in Chart A, which presents developments
+         in the trade weights of major regions of the world economy, as well as of some of the euro area’s
+         largest individual trading partners.
+
+         1 The weights are based on bilateral trade data on manufactured goods, as deﬁned in Sections 5-8 of the Standard International Trade
+           Classiﬁcation for the periods 1995-97, 1998-2000, 2001-03, 2004-06 and 2007-09. Manufacturing goods are chosen as the trade basis
+           for the weights as these are typically most responsive to changes in competitiveness.
+         2 The real EERs are calculated on the basis of consumer price indices, producer price indices, GDP deﬂators and unit labour cost
+           indices – the latter for the total economy as well as the manufacturing sector.
+         3 See Buldorini, L., Makrydakis, S. and Thimann, C., “The effective exchange rates of the euro”, Occasional Paper Series, No 2, ECB, 2002.
+         4 The ECB publishes nominal and real EERs of the euro against three groups of trading partners: the EER-12, comprising Australia,
+           Canada, Denmark, Hong Kong, Japan, Norway, Singapore, South Korea, Sweden, Switzerland, the United Kingdom and the
+           United States; the EER-20, consisting of the EER-12 plus China and the seven non-euro area EU Member States not included in the
+           EER-12; and the EER-40, comprising the EER-20 plus 20 additional relevant trading partners (see the table for the complete list).
+           The trade weights are calculated for the EER-40 group of trading partners. For the EER-12 and EER-20 groups, they are obtained by
+           proportionally rescaling the corresponding countries’ trade weights in such a way that they add up to 100.
+
+
+
+
+     ECB
+     Monthly Bulletin
+18   March 2012
+

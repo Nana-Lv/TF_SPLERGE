@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-017.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="192" x2="222" y1="337" y2="346"/>
+                <content>Project</content>
+                <instruction instr-id="1774" subinstr-id="0"/>
+                <instruction instr-id="1774" subinstr-id="2"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="343" x2="375" y1="337" y2="346"/>
+                <content>Agency</content>
+                <instruction instr-id="1781"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="442" x2="486" y1="337" y2="346"/>
+                <content>Institution</content>
+                <instruction instr-id="1788"/>
+            </cell>
+            <cell id="3" start-col="0" start-row="1">
+                <bounding-box x1="97" x2="223" y1="315" y2="324"/>
+                <content>Nanotechnology and its publics</content>
+                <instruction instr-id="1795"/>
+            </cell>
+            <cell id="4" start-col="1" start-row="1">
+                <bounding-box x1="350" x2="368" y1="315" y2="324"/>
+                <content>NSF</content>
+                <instruction instr-id="1802"/>
+            </cell>
+            <cell id="5" start-col="2" start-row="1">
+                <bounding-box x1="401" x2="520" y1="315" y2="324"/>
+                <content>Pennsylvania State University</content>
+                <instruction instr-id="1809" subinstr-id="0"/>
+                <instruction instr-id="1809" subinstr-id="2"/>
+                <instruction instr-id="1809" subinstr-id="4"/>
+                <instruction instr-id="1809" subinstr-id="6"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="2">
+                <bounding-box x1="97" x2="317" y1="286" y2="305"/>
+                <content>Public information and deliberation in nanoscience and
+nanotechnology policy (SGER)</content>
+                <instruction instr-id="1816"/>
+                <instruction instr-id="1823" subinstr-id="0"/>
+                <instruction instr-id="1823" subinstr-id="2"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="2">
+                <bounding-box x1="336" x2="382" y1="291" y2="300"/>
+                <content>Interagency</content>
+                <instruction instr-id="1830" subinstr-id="0"/>
+                <instruction instr-id="1830" subinstr-id="2"/>
+            </cell>
+            <cell id="8" start-col="2" start-row="2">
+                <bounding-box x1="401" x2="483" y1="286" y2="305"/>
+                <content>North Carolina State
+University</content>
+                <instruction instr-id="1837"/>
+                <instruction instr-id="1844" subinstr-id="0"/>
+                <instruction instr-id="1844" subinstr-id="2"/>
+                <instruction instr-id="1844" subinstr-id="4"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="3">
+                <bounding-box x1="97" x2="308" y1="260" y2="279"/>
+                <content>Social and ethical research and education in agrifood
+nanotechnology (NIRT)</content>
+                <instruction instr-id="1851"/>
+                <instruction instr-id="1858" subinstr-id="0"/>
+                <instruction instr-id="1858" subinstr-id="2"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="3">
+                <bounding-box x1="350" x2="368" y1="265" y2="274"/>
+                <content>NSF</content>
+                <instruction instr-id="1865"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="3">
+                <bounding-box x1="401" x2="505" y1="265" y2="274"/>
+                <content>Michigan State University</content>
+                <instruction instr-id="1872" subinstr-id="0"/>
+                <instruction instr-id="1872" subinstr-id="2"/>
+                <instruction instr-id="1872" subinstr-id="4"/>
+                <instruction instr-id="1872" subinstr-id="6"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="4">
+                <bounding-box x1="97" x2="315" y1="234" y2="253"/>
+                <content>From laboratory to society: developing an informed
+approach to nanoscale science and engineering (NIRT)</content>
+                <instruction instr-id="1879" subinstr-id="0"/>
+                <instruction instr-id="1879" subinstr-id="2"/>
+                <instruction instr-id="1879" subinstr-id="4"/>
+                <instruction instr-id="1886" subinstr-id="0"/>
+                <instruction instr-id="1886" subinstr-id="2"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="4">
+                <bounding-box x1="350" x2="368" y1="239" y2="248"/>
+                <content>NSF</content>
+                <instruction instr-id="1893"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="4">
+                <bounding-box x1="401" x2="515" y1="239" y2="248"/>
+                <content>University of South Carolina</content>
+                <instruction instr-id="1900" subinstr-id="0"/>
+                <instruction instr-id="1900" subinstr-id="2"/>
+                <instruction instr-id="1900" subinstr-id="4"/>
+            </cell>
+            <cell id="15" start-col="0" start-row="5">
+                <bounding-box x1="97" x2="310" y1="215" y2="224"/>
+                <content>Database and innovation timeline for nanotechnology</content>
+                <instruction instr-id="1907" subinstr-id="0"/>
+                <instruction instr-id="1907" subinstr-id="2"/>
+                <instruction instr-id="1907" subinstr-id="4"/>
+            </cell>
+            <cell id="16" start-col="1" start-row="5">
+                <bounding-box x1="350" x2="368" y1="215" y2="224"/>
+                <content>NSF</content>
+                <instruction instr-id="1914"/>
+            </cell>
+            <cell id="17" start-col="2" start-row="5">
+                <bounding-box x1="401" x2="428" y1="215" y2="224"/>
+                <content>UCLA</content>
+                <instruction instr-id="1921"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="6">
+                <bounding-box x1="97" x2="292" y1="193" y2="202"/>
+                <content>Social and ethical dimensions of nanotechnology</content>
+                <instruction instr-id="1928"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="6">
+                <bounding-box x1="350" x2="368" y1="193" y2="202"/>
+                <content>NSF</content>
+                <instruction instr-id="1935"/>
+            </cell>
+            <cell id="20" start-col="2" start-row="6">
+                <bounding-box x1="401" x2="487" y1="193" y2="202"/>
+                <content>University of Virginia</content>
+                <instruction instr-id="1942" subinstr-id="0"/>
+                <instruction instr-id="1942" subinstr-id="2"/>
+                <instruction instr-id="1942" subinstr-id="4"/>
+                <instruction instr-id="1942" subinstr-id="6"/>
+                <instruction instr-id="1942" subinstr-id="8"/>
+                <instruction instr-id="1942" subinstr-id="10"/>
+            </cell>
+            <cell id="21" start-col="0" start-row="7">
+                <bounding-box x1="97" x2="276" y1="164" y2="183"/>
+                <content>Undergraduate exploration of nanoscience,
+applications and societal implications (NUE)</content>
+                <instruction instr-id="1949" subinstr-id="0"/>
+                <instruction instr-id="1949" subinstr-id="2"/>
+                <instruction instr-id="1949" subinstr-id="4"/>
+                <instruction instr-id="1956"/>
+            </cell>
+            <cell id="22" start-col="1" start-row="7">
+                <bounding-box x1="350" x2="368" y1="169" y2="178"/>
+                <content>NSF</content>
+                <instruction instr-id="1963"/>
+            </cell>
+            <cell id="23" start-col="2" start-row="7">
+                <bounding-box x1="401" x2="497" y1="164" y2="183"/>
+                <content>Michigan TechnologicalUniversity</content>
+                <instruction instr-id="1970" subinstr-id="0"/>
+                <instruction instr-id="1970" subinstr-id="2"/>
+                <instruction instr-id="1970" subinstr-id="4"/>
+                <instruction instr-id="1970" subinstr-id="6"/>
+                <instruction instr-id="1977" subinstr-id="0"/>
+                <instruction instr-id="1977" subinstr-id="2"/>
+                <instruction instr-id="1977" subinstr-id="4"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="8">
+                <bounding-box x1="97" x2="269" y1="138" y2="157"/>
+                <content>Ethics and belief inside the development of
+nanotechnology (CAREER)</content>
+                <instruction instr-id="1984" subinstr-id="0"/>
+                <instruction instr-id="1984" subinstr-id="2"/>
+                <instruction instr-id="1984" subinstr-id="4"/>
+                <instruction instr-id="1991"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="8">
+                <bounding-box x1="350" x2="368" y1="143" y2="152"/>
+                <content>NSF</content>
+                <instruction instr-id="1998"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="8">
+                <bounding-box x1="401" x2="487" y1="143" y2="152"/>
+                <content>University ofVirginia</content>
+                <instruction instr-id="2005" subinstr-id="0"/>
+                <instruction instr-id="2005" subinstr-id="2"/>
+                <instruction instr-id="2005" subinstr-id="4"/>
+                <instruction instr-id="2005" subinstr-id="6"/>
+                <instruction instr-id="2005" subinstr-id="8"/>
+                <instruction instr-id="2005" subinstr-id="10"/>
+            </cell>
+            <cell id="27" start-col="0" start-row="9">
+                <bounding-box x1="97" x2="271" y1="107" y2="126"/>
+                <content>All centers, NNINand NCN have a societal
+implications components</content>
+                <instruction instr-id="2012" subinstr-id="0"/>
+                <instruction instr-id="2012" subinstr-id="2"/>
+                <instruction instr-id="2012" subinstr-id="4"/>
+                <instruction instr-id="2019"/>
+            </cell>
+            <cell id="28" start-col="1" start-row="9">
+                <bounding-box x1="328" x2="389" y1="107" y2="126"/>
+                <content>NSF, DOE,
+DOD, and NIH</content>
+                <instruction instr-id="2026" subinstr-id="0"/>
+                <instruction instr-id="2026" subinstr-id="2"/>
+                <instruction instr-id="2033"/>
+            </cell>
+            <cell id="29" start-col="2" start-row="9">
+                <bounding-box x1="401" x2="510" y1="107" y2="126"/>
+                <content>All nanotechnology centers
+and networks</content>
+                <instruction instr-id="2040"/>
+                <instruction instr-id="2047" subinstr-id="0"/>
+                <instruction instr-id="2047" subinstr-id="2"/>
+            </cell>
+        </region>
+    </table>
+</document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="1.0"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" >
+    <xsd:element name="document">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element minOccurs="0" maxOccurs="unbounded" name="table"> <!-- a document can contain 0 or more tables -->
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="region" maxOccurs="unbounded" nillable="false"> <!-- each table must contain 1 or more regions -->
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="instruction" minOccurs="0" maxOccurs="unbounded"> <!-- the instructions are optional -->
+                                            <xsd:complexType>
+                                                <xsd:attribute name="instr-id" type="xsd:integer" use="required"/>
+                                                <xsd:attribute name="subinstr-id" type="xsd:integer"/>
+                                            <!--<xsd:attribute name="text" type="xsd:string" use="required"/>
+                                                <xsd:attribute name="x1" type="xsd:integer" use="required"/>
+                                                <xsd:attribute name="y1" type="xsd:integer" use="required"/>
+                                                <xsd:attribute name="x2" type="xsd:integer" use="required"/>
+                                                <xsd:attribute name="y2" type="xsd:integer" use="required"/>-->
+                                            </xsd:complexType>
+                                        </xsd:element>
+                                        <xsd:element name="bounding-box"> <!-- each region contains one bounding box -->
+                                            <xsd:complexType>
+                                                <xsd:attribute name="x1" type="xsd:integer" use="required"/>
+                                                <xsd:attribute name="y1" type="xsd:integer" use="required"/>
+                                                <xsd:attribute name="x2" type="xsd:integer" use="required"/>
+                                                <xsd:attribute name="y2" type="xsd:integer" use="required"/>
+                                            </xsd:complexType>
+                                        </xsd:element>
+                                    </xsd:sequence>
+                                    <xsd:attribute name="id" type="xsd:nonNegativeInteger" use="required"/>
+                                    <xsd:attribute name="page" type="xsd:positiveInteger" use="required"/>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                        <xsd:attribute name="id" type="xsd:nonNegativeInteger" use="required"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+            <xsd:attribute name="filename" type="xsd:string" use="required"/>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

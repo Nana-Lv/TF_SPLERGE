@@ -1,0 +1,74 @@
+         Chart B Government bond yield spreads vis-à-vis German government bonds
+
+         (daily data; basis points)
+
+                        Italy               Spain                                       Greece
+                        Belgium             France                                      Portugal
+                        Austria             Finland                                     Ireland
+                        Netherlands
+          600                                                        600   4,500                                                    4,500
+
+                                                                           4,000                                                    4,000
+          500                                                        500
+                                                                           3,500                                                    3,500
+
+          400                                                        400   3,000                                                    3,000
+
+                                                                           2,500                                                    2,500
+          300                                                        300
+                                                                           2,000                                                    2,000
+
+          200                                                        200   1,500                                                    1,500
+
+                                                                           1,000                                                    1,000
+          100                                                        100
+                                                                            500                                                     500
+
+             0                                                       0         0                                                    0
+                    2008         2009       2010         2011                        2008          2009     2010        2011
+
+         Sources: Bloomberg, Thomson Reuters and ECB calculations.
+         Note: Data refer to government bonds with a ten-year maturity.
+
+
+         The spreads between the yields on long-term government bonds of euro area countries and those
+         on corresponding German bonds widened signiﬁcantly in 2011. This is illustrated in Chart B,
+         which shows the spreads vis-à-vis Germany. Spreads were at their highest in November 2011,
+         and have contracted for most countries since
+         then. However, spreads for a number of           Chart C Liquidity premia for German
+         countries remain high, indicating continued      government bonds
+         risk and uncertainty.
+                                                                            (daily data; basis points)
+
+         The differences between government bond                                       10-year
+                                                                                       5-year
+         yields across euro area countries ultimately                                  2-year
+         reﬂect differences in credit risk and liquidity                   125                                                          125
+         premia. German bonds are generally regarded as
+         the most liquid of all the euro area government
+         bonds. Consequently, they attract considerable                    100                                                          100
+
+         demand from investors seeking high-quality
+         liquid assets in times of heightened uncertainty                    75                                                         75
+         and market tensions. This partly explains why
+         sovereign spreads vis-à-vis Germany have
+                                                                             50                                                         50
+         widened even for countries perceived to have
+         similar ﬁscal fundamentals. This factor is also
+         demonstrated by a substantial increase in the                       25                                                         25
+         liquidity premia that depress yields on German
+         government bonds vis-à-vis yields on debt
+                                                                              0                                                         0
+         issued under German government guarantees                                   2008          2009       2010         2011
+         (see Chart C). Since early 2012 liquidity                          Sources: Bloomberg and ECB calculations.
+         premia have started to come down amid lower                        Note: Data refer to zero-coupon spreads between yields on bonds
+                                                                            issued by a government-guaranteed agency (Kreditanstalt für
+         market tensions.                                                   Wiederaufbau) and government bonds.
+
+
+
+
+     ECB
+     Monthly Bulletin
+46   March 2012
+

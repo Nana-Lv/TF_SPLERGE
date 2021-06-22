@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-016.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-region-model.xsd">
+    <table id="0">
+        <region id="0" page="1">
+            <instruction instr-id="2221"/>
+            <instruction instr-id="2228"/>
+            <instruction instr-id="2235"/>
+            <instruction instr-id="2242"/>
+            <instruction instr-id="2249"/>
+            <instruction instr-id="2256"/>
+            <instruction instr-id="2263"/>
+            <instruction instr-id="2270"/>
+            <instruction instr-id="2277"/>
+            <instruction instr-id="2284"/>
+            <instruction instr-id="2291" subinstr-id="0"/>
+            <instruction instr-id="2291" subinstr-id="2"/>
+            <instruction instr-id="2298"/>
+            <instruction instr-id="2305"/>
+            <instruction instr-id="2312"/>
+            <instruction instr-id="2319"/>
+            <instruction instr-id="2326"/>
+            <instruction instr-id="2333"/>
+            <instruction instr-id="2340"/>
+            <instruction instr-id="2347"/>
+            <instruction instr-id="2354"/>
+            <instruction instr-id="2361"/>
+            <instruction instr-id="2368"/>
+            <instruction instr-id="2375"/>
+            <instruction instr-id="2382"/>
+            <instruction instr-id="2389"/>
+            <instruction instr-id="2396"/>
+            <instruction instr-id="2403"/>
+            <instruction instr-id="2410"/>
+            <instruction instr-id="2417"/>
+            <instruction instr-id="2424"/>
+            <instruction instr-id="2431"/>
+            <instruction instr-id="2438"/>
+            <instruction instr-id="2445"/>
+            <instruction instr-id="2452"/>
+            <instruction instr-id="2459"/>
+            <instruction instr-id="2466"/>
+            <instruction instr-id="2473"/>
+            <instruction instr-id="2480"/>
+            <instruction instr-id="2487"/>
+            <instruction instr-id="2494"/>
+            <instruction instr-id="2501"/>
+            <instruction instr-id="2508"/>
+            <instruction instr-id="2515"/>
+            <instruction instr-id="2522"/>
+            <instruction instr-id="2529"/>
+            <instruction instr-id="2536"/>
+            <instruction instr-id="2543"/>
+            <instruction instr-id="2550"/>
+            <instruction instr-id="2557"/>
+            <instruction instr-id="2564"/>
+            <instruction instr-id="2571" subinstr-id="0"/>
+            <instruction instr-id="2571" subinstr-id="2"/>
+            <instruction instr-id="2585"/>
+            <instruction instr-id="2599"/>
+            <instruction instr-id="2613"/>
+            <instruction instr-id="2627"/>
+            <instruction instr-id="2641"/>
+            <instruction instr-id="2655"/>
+            <instruction instr-id="2669"/>
+            <instruction instr-id="2690"/>
+            <instruction instr-id="2704"/>
+            <instruction instr-id="2578" subinstr-id="0"/>
+            <instruction instr-id="2578" subinstr-id="2"/>
+            <instruction instr-id="2578" subinstr-id="4"/>
+            <instruction instr-id="2592"/>
+            <instruction instr-id="2606"/>
+            <instruction instr-id="2620"/>
+            <instruction instr-id="2634"/>
+            <instruction instr-id="2648"/>
+            <instruction instr-id="2662"/>
+            <instruction instr-id="2683"/>
+            <instruction instr-id="2697"/>
+            <instruction instr-id="2711"/>
+            <bounding-box x1="87" x2="510" y1="547" y2="653"/>
+        </region>
+    </table>
+</document>

@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-028.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="1" row-increment="0">
+            <cell id="0" start-col="1" start-row="0">
+                <bounding-box x1="299" x2="351" y1="616" y2="623"/>
+                <content>10 February 2012</content>
+                <instruction instr-id="181" subinstr-id="0"/>
+            </cell>
+            <cell id="1" start-col="2" start-row="0">
+                <bounding-box x1="362" x2="415" y1="616" y2="623"/>
+                <content>17 February 2012</content>
+                <instruction instr-id="181" subinstr-id="2"/>
+            </cell>
+            <cell id="2" start-col="3" start-row="0">
+                <bounding-box x1="426" x2="478" y1="616" y2="623"/>
+                <content>24 February 2012</content>
+                <instruction instr-id="181" subinstr-id="4"/>
+            </cell>
+            <cell id="3" start-col="4" start-row="0">
+                <bounding-box x1="498" x2="539" y1="616" y2="623"/>
+                <content>2 March 2012</content>
+                <instruction instr-id="181" subinstr-id="6"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="1">
+                <bounding-box x1="29" x2="106" y1="600" y2="607"/>
+                <content>Gold and gold receivables</content>
+                <instruction instr-id="193"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="1">
+                <bounding-box x1="328" x2="351" y1="600" y2="607"/>
+                <content>423,446</content>
+                <instruction instr-id="198" subinstr-id="0"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="1">
+                <bounding-box x1="392" x2="414" y1="600" y2="607"/>
+                <content>423,445</content>
+                <instruction instr-id="198" subinstr-id="2"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="1">
+                <bounding-box x1="455" x2="478" y1="600" y2="607"/>
+                <content>423,445</content>
+                <instruction instr-id="198" subinstr-id="4"/>
+            </cell>
+            <cell id="8" start-col="4" start-row="1">
+                <bounding-box x1="515" x2="538" y1="600" y2="607"/>
+                <content>423,445</content>
+                <instruction instr-id="198" subinstr-id="6"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="2">
+                <bounding-box x1="29" x2="190" y1="592" y2="599"/>
+                <content>Claims on non-euro area residents in foreign currency</content>
+                <instruction instr-id="207"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="2">
+                <bounding-box x1="328" x2="351" y1="592" y2="599"/>
+                <content>245,107</content>
+                <instruction instr-id="212" subinstr-id="0"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="2">
+                <bounding-box x1="392" x2="414" y1="592" y2="599"/>
+                <content>245,805</content>
+                <instruction instr-id="212" subinstr-id="2"/>
+            </cell>
+            <cell id="12" start-col="3" start-row="2">
+                <bounding-box x1="455" x2="478" y1="592" y2="599"/>
+                <content>245,278</content>
+                <instruction instr-id="212" subinstr-id="4"/>
+            </cell>
+            <cell id="13" start-col="4" start-row="2">
+                <bounding-box x1="515" x2="538" y1="592" y2="599"/>
+                <content>246,981</content>
+                <instruction instr-id="212" subinstr-id="6"/>
+            </cell>
+            <cell id="14" start-col="0" start-row="3">
+                <bounding-box x1="29" x2="177" y1="584" y2="591"/>
+                <content>Claims on euro area residents in foreign currency</content>
+                <instruction instr-id="221"/>
+            </cell>
+            <cell id="15" start-col="1" start-row="3">
+                <bounding-box x1="328" x2="351" y1="584" y2="591"/>
+                <content>100,629</content>
+                <instruction instr-id="226" subinstr-id="0"/>
+            </cell>
+            <cell id="16" start-col="2" start-row="3">
+                <bounding-box x1="395" x2="414" y1="584" y2="591"/>
+                <content>99,629</content>
+                <instruction instr-id="226" subinstr-id="2"/>
+            </cell>
+            <cell id="17" start-col="3" start-row="3">
+                <bounding-box x1="458" x2="478" y1="584" y2="591"/>
+                <content>99,874</content>
+                <instruction instr-id="226" subinstr-id="4"/>
+            </cell>
+            <cell id="18" start-col="4" start-row="3">
+                <bounding-box x1="519" x2="538" y1="584" y2="591"/>
+                <content>72,110</content>
+                <instruction instr-id="226" subinstr-id="6"/>
+            </cell>
+            <cell id="19" start-col="0" start-row="4">
+                <bounding-box x1="29" x2="154" y1="575" y2="582"/>
+                <content>Claims on non-euro area residents in euro</content>
+                <instruction instr-id="235"/>
+            </cell>
+            <cell id="20" start-col="1" start-row="4">
+                <bounding-box x1="332" x2="351" y1="575" y2="582"/>
+                <content>23,936</content>
+                <instruction instr-id="240" subinstr-id="0"/>
+            </cell>
+            <cell id="21" start-col="2" start-row="4">
+                <bounding-box x1="395" x2="414" y1="575" y2="582"/>
+                <content>23,512</content>
+                <instruction instr-id="240" subinstr-id="2"/>
+            </cell>
+            <cell id="22" start-col="3" start-row="4">
+                <bounding-box x1="458" x2="478" y1="575" y2="582"/>
+                <content>23,801</content>
+                <instruction instr-id="240" subinstr-id="4"/>
+            </cell>
+            <cell id="23" start-col="4" start-row="4">
+                <bounding-box x1="519" x2="538" y1="575" y2="582"/>
+                <content>23,269</content>
+                <instruction instr-id="240" subinstr-id="6"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="5">
+                <bounding-box x1="29" x2="169" y1="567" y2="574"/>
+                <content>Lending to euro area credit institutions in euro</content>
+                <instruction instr-id="249"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="5">
+                <bounding-box x1="328" x2="351" y1="567" y2="574"/>
+                <content>787,255</content>
+                <instruction instr-id="254" subinstr-id="0"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="5">
+                <bounding-box x1="392" x2="414" y1="567" y2="574"/>
+                <content>796,332</content>
+                <instruction instr-id="254" subinstr-id="2"/>
+            </cell>
+            <cell id="27" start-col="3" start-row="5">
+                <bounding-box x1="455" x2="478" y1="567" y2="574"/>
+                <content>819,682</content>
+                <instruction instr-id="254" subinstr-id="4"/>
+            </cell>
+            <cell id="28" start-col="4" start-row="5">
+                <bounding-box x1="510" x2="538" y1="567" y2="574"/>
+                <content>1,130,352</content>
+                <instruction instr-id="254" subinstr-id="6"/>
+            </cell>
+            <cell id="29" start-col="0" start-row="6">
+                <bounding-box x1="35" x2="114" y1="559" y2="566"/>
+                <content>Main refinancing operations</content>
+                <instruction instr-id="258" subinstr-id="2"/>
+            </cell>
+            <cell id="30" start-col="1" start-row="6">
+                <bounding-box x1="328" x2="351" y1="559" y2="566"/>
+                <content>109,462</content>
+                <instruction instr-id="258" subinstr-id="4"/>
+            </cell>
+            <cell id="31" start-col="2" start-row="6">
+                <bounding-box x1="392" x2="414" y1="559" y2="566"/>
+                <content>142,751</content>
+                <instruction instr-id="258" subinstr-id="6"/>
+            </cell>
+            <cell id="32" start-col="3" start-row="6">
+                <bounding-box x1="455" x2="478" y1="559" y2="566"/>
+                <content>166,490</content>
+                <instruction instr-id="258" subinstr-id="8"/>
+            </cell>
+            <cell id="33" start-col="4" start-row="6">
+                <bounding-box x1="519" x2="538" y1="559" y2="566"/>
+                <content>29,469</content>
+                <instruction instr-id="258" subinstr-id="10"/>
+            </cell>
+            <cell id="34" start-col="0" start-row="7">
+                <bounding-box x1="35" x2="135" y1="550" y2="557"/>
+                <content>Longer-term refinancing operations</content>
+                <instruction instr-id="261" subinstr-id="2"/>
+            </cell>
+            <cell id="35" start-col="1" start-row="7">
+                <bounding-box x1="328" x2="351" y1="550" y2="557"/>
+                <content>676,505</content>
+                <instruction instr-id="261" subinstr-id="4"/>
+            </cell>
+            <cell id="36" start-col="2" start-row="7">
+                <bounding-box x1="392" x2="414" y1="550" y2="557"/>
+                <content>652,097</content>
+                <instruction instr-id="261" subinstr-id="6"/>
+            </cell>
+            <cell id="37" start-col="3" start-row="7">
+                <bounding-box x1="455" x2="478" y1="550" y2="557"/>
+                <content>652,097</content>
+                <instruction instr-id="261" subinstr-id="8"/>
+            </cell>
+            <cell id="38" start-col="4" start-row="7">
+                <bounding-box x1="510" x2="538" y1="550" y2="557"/>
+                <content>1,100,076</content>
+                <instruction instr-id="261" subinstr-id="10"/>
+            </cell>
+            <cell id="39" start-col="0" start-row="8">
+                <bounding-box x1="35" x2="120" y1="542" y2="549"/>
+                <content>Fine-tuning reverse operations</content>
+                <instruction instr-id="264" subinstr-id="2"/>
+            </cell>
+            <cell id="40" start-col="1" start-row="8">
+                <bounding-box x1="347" x2="351" y1="542" y2="549"/>
+                <content>0</content>
+                <instruction instr-id="269" subinstr-id="0"/>
+            </cell>
+            <cell id="41" start-col="2" start-row="8">
+                <bounding-box x1="411" x2="414" y1="542" y2="549"/>
+                <content>0</content>
+                <instruction instr-id="269" subinstr-id="0"/>
+            </cell>
+            <cell id="42" start-col="3" start-row="8">
+                <bounding-box x1="474" x2="478" y1="542" y2="549"/>
+                <content>0</content>
+                <instruction instr-id="269" subinstr-id="0"/>
+            </cell>
+            <cell id="43" start-col="4" start-row="8">
+                <bounding-box x1="535" x2="538" y1="542" y2="549"/>
+                <content>0</content>
+                <instruction instr-id="269" subinstr-id="2"/>
+            </cell>
+            <cell id="44" start-col="0" start-row="9">
+                <bounding-box x1="35" x2="115" y1="533" y2="540"/>
+                <content>Structural reverse operations</content>
+                <instruction instr-id="275" subinstr-id="2"/>
+            </cell>
+            <cell id="45" start-col="1" start-row="9">
+                <bounding-box x1="347" x2="351" y1="533" y2="540"/>
+                <content>0</content>
+                <instruction instr-id="281" subinstr-id="0"/>
+            </cell>
+            <cell id="46" start-col="2" start-row="9">
+                <bounding-box x1="411" x2="414" y1="533" y2="540"/>
+                <content>0</content>
+                <instruction instr-id="281" subinstr-id="0"/>
+            </cell>
+            <cell id="47" start-col="3" start-row="9">
+                <bounding-box x1="474" x2="478" y1="533" y2="540"/>
+                <content>0</content>
+                <instruction instr-id="281" subinstr-id="0"/>
+            </cell>
+            <cell id="48" start-col="4" start-row="9">
+                <bounding-box x1="535" x2="538" y1="533" y2="540"/>
+                <content>0</content>
+                <instruction instr-id="281" subinstr-id="2"/>
+            </cell>
+            <cell id="49" start-col="0" start-row="10">
+                <bounding-box x1="35" x2="105" y1="525" y2="532"/>
+                <content>Marginal lending facility</content>
+                <instruction instr-id="287" subinstr-id="2"/>
+            </cell>
+            <cell id="50" start-col="1" start-row="10">
+                <bounding-box x1="335" x2="351" y1="525" y2="532"/>
+                <content>1,213</content>
+                <instruction instr-id="293" subinstr-id="0"/>
+            </cell>
+            <cell id="51" start-col="2" start-row="10">
+                <bounding-box x1="399" x2="414" y1="525" y2="532"/>
+                <content>1,436</content>
+                <instruction instr-id="293" subinstr-id="2"/>
+            </cell>
+            <cell id="52" start-col="3" start-row="10">
+                <bounding-box x1="462" x2="478" y1="525" y2="532"/>
+                <content>1,020</content>
+                <instruction instr-id="293" subinstr-id="4"/>
+            </cell>
+            <cell id="53" start-col="4" start-row="10">
+                <bounding-box x1="528" x2="538" y1="525" y2="532"/>
+                <content>783</content>
+                <instruction instr-id="293" subinstr-id="6"/>
+            </cell>
+            <cell id="54" start-col="0" start-row="11">
+                <bounding-box x1="35" x2="119" y1="517" y2="524"/>
+                <content>Credits related to margin calls</content>
+                <instruction instr-id="299" subinstr-id="2"/>
+            </cell>
+            <cell id="55" start-col="1" start-row="11">
+                <bounding-box x1="344" x2="351" y1="517" y2="524"/>
+                <content>74</content>
+                <instruction instr-id="305" subinstr-id="0"/>
+            </cell>
+            <cell id="56" start-col="2" start-row="11">
+                <bounding-box x1="407" x2="414" y1="517" y2="524"/>
+                <content>48</content>
+                <instruction instr-id="305" subinstr-id="2"/>
+            </cell>
+            <cell id="57" start-col="3" start-row="11">
+                <bounding-box x1="471" x2="478" y1="517" y2="524"/>
+                <content>75</content>
+                <instruction instr-id="305" subinstr-id="4"/>
+            </cell>
+            <cell id="58" start-col="4" start-row="11">
+                <bounding-box x1="531" x2="538" y1="517" y2="524"/>
+                <content>24</content>
+                <instruction instr-id="305" subinstr-id="6"/>
+            </cell>
+            <cell id="59" start-col="0" start-row="12">
+                <bounding-box x1="29" x2="184" y1="509" y2="515"/>
+                <content>Other claims on euro area credit institutions in euro</content>
+                <instruction instr-id="314"/>
+            </cell>
+            <cell id="60" start-col="1" start-row="12">
+                <bounding-box x1="332" x2="351" y1="509" y2="515"/>
+                <content>70,338</content>
+                <instruction instr-id="319" subinstr-id="0"/>
+            </cell>
+            <cell id="61" start-col="2" start-row="12">
+                <bounding-box x1="395" x2="414" y1="509" y2="515"/>
+                <content>69,197</content>
+                <instruction instr-id="319" subinstr-id="2"/>
+            </cell>
+            <cell id="62" start-col="3" start-row="12">
+                <bounding-box x1="458" x2="478" y1="509" y2="515"/>
+                <content>64,663</content>
+                <instruction instr-id="319" subinstr-id="4"/>
+            </cell>
+            <cell id="63" start-col="4" start-row="12">
+                <bounding-box x1="519" x2="538" y1="509" y2="515"/>
+                <content>59,261</content>
+                <instruction instr-id="319" subinstr-id="6"/>
+            </cell>
+            <cell id="64" start-col="0" start-row="13">
+                <bounding-box x1="29" x2="147" y1="500" y2="507"/>
+                <content>Securities of euro area residents in euro</content>
+                <instruction instr-id="328"/>
+            </cell>
+            <cell id="65" start-col="1" start-row="13">
+                <bounding-box x1="328" x2="351" y1="500" y2="507"/>
+                <content>624,299</content>
+                <instruction instr-id="333" subinstr-id="0"/>
+            </cell>
+            <cell id="66" start-col="2" start-row="13">
+                <bounding-box x1="392" x2="414" y1="500" y2="507"/>
+                <content>624,679</content>
+                <instruction instr-id="333" subinstr-id="2"/>
+            </cell>
+            <cell id="67" start-col="3" start-row="13">
+                <bounding-box x1="455" x2="478" y1="500" y2="507"/>
+                <content>626,474</content>
+                <instruction instr-id="333" subinstr-id="4"/>
+            </cell>
+            <cell id="68" start-col="4" start-row="13">
+                <bounding-box x1="515" x2="538" y1="500" y2="507"/>
+                <content>631,714</content>
+                <instruction instr-id="333" subinstr-id="6"/>
+            </cell>
+            <cell id="69" start-col="0" start-row="14">
+                <bounding-box x1="35" x2="160" y1="492" y2="499"/>
+                <content>Securities held for monetary policy purposes</content>
+                <instruction instr-id="337" subinstr-id="2"/>
+            </cell>
+            <cell id="70" start-col="1" start-row="14">
+                <bounding-box x1="328" x2="351" y1="492" y2="499"/>
+                <content>282,686</content>
+                <instruction instr-id="337" subinstr-id="4"/>
+            </cell>
+            <cell id="71" start-col="2" start-row="14">
+                <bounding-box x1="392" x2="414" y1="492" y2="499"/>
+                <content>283,029</content>
+                <instruction instr-id="337" subinstr-id="6"/>
+            </cell>
+            <cell id="72" start-col="3" start-row="14">
+                <bounding-box x1="455" x2="478" y1="492" y2="499"/>
+                <content>283,609</content>
+                <instruction instr-id="337" subinstr-id="8"/>
+            </cell>
+            <cell id="73" start-col="4" start-row="14">
+                <bounding-box x1="515" x2="538" y1="492" y2="499"/>
+                <content>284,080</content>
+                <instruction instr-id="337" subinstr-id="10"/>
+            </cell>
+            <cell id="74" start-col="0" start-row="15">
+                <bounding-box x1="35" x2="79" y1="484" y2="491"/>
+                <content>Other securities</content>
+                <instruction instr-id="343" subinstr-id="0"/>
+                <instruction instr-id="343" subinstr-id="2"/>
+            </cell>
+            <cell id="75" start-col="1" start-row="15">
+                <bounding-box x1="328" x2="351" y1="484" y2="491"/>
+                <content>341,613</content>
+                <instruction instr-id="349" subinstr-id="0"/>
+            </cell>
+            <cell id="76" start-col="2" start-row="15">
+                <bounding-box x1="392" x2="414" y1="484" y2="491"/>
+                <content>341,649</content>
+                <instruction instr-id="349" subinstr-id="2"/>
+            </cell>
+            <cell id="77" start-col="3" start-row="15">
+                <bounding-box x1="455" x2="478" y1="484" y2="491"/>
+                <content>342,865</content>
+                <instruction instr-id="349" subinstr-id="4"/>
+            </cell>
+            <cell id="78" start-col="4" start-row="15">
+                <bounding-box x1="515" x2="538" y1="484" y2="491"/>
+                <content>347,633</content>
+                <instruction instr-id="349" subinstr-id="6"/>
+            </cell>
+            <cell id="79" start-col="0" start-row="16">
+                <bounding-box x1="29" x2="128" y1="475" y2="482"/>
+                <content>General government debt in euro</content>
+                <instruction instr-id="358"/>
+            </cell>
+            <cell id="80" start-col="1" start-row="16">
+                <bounding-box x1="332" x2="351" y1="475" y2="482"/>
+                <content>31,176</content>
+                <instruction instr-id="363" subinstr-id="0"/>
+            </cell>
+            <cell id="81" start-col="2" start-row="16">
+                <bounding-box x1="395" x2="414" y1="475" y2="482"/>
+                <content>31,176</content>
+                <instruction instr-id="363" subinstr-id="2"/>
+            </cell>
+            <cell id="82" start-col="3" start-row="16">
+                <bounding-box x1="458" x2="478" y1="475" y2="482"/>
+                <content>31,176</content>
+                <instruction instr-id="363" subinstr-id="4"/>
+            </cell>
+            <cell id="83" start-col="4" start-row="16">
+                <bounding-box x1="519" x2="538" y1="475" y2="482"/>
+                <content>31,176</content>
+                <instruction instr-id="363" subinstr-id="6"/>
+            </cell>
+            <cell id="84" start-col="0" start-row="17">
+                <bounding-box x1="29" x2="66" y1="467" y2="474"/>
+                <content>Other assets</content>
+                <instruction instr-id="372"/>
+            </cell>
+            <cell id="85" start-col="1" start-row="17">
+                <bounding-box x1="328" x2="351" y1="467" y2="474"/>
+                <content>349,598</content>
+                <instruction instr-id="377" subinstr-id="0"/>
+            </cell>
+            <cell id="86" start-col="2" start-row="17">
+                <bounding-box x1="392" x2="414" y1="467" y2="474"/>
+                <content>349,488</content>
+                <instruction instr-id="377" subinstr-id="2"/>
+            </cell>
+            <cell id="87" start-col="3" start-row="17">
+                <bounding-box x1="455" x2="478" y1="467" y2="474"/>
+                <content>358,205</content>
+                <instruction instr-id="377" subinstr-id="4"/>
+            </cell>
+            <cell id="88" start-col="4" start-row="17">
+                <bounding-box x1="515" x2="538" y1="467" y2="474"/>
+                <content>404,851</content>
+                <instruction instr-id="377" subinstr-id="6"/>
+            </cell>
+            <cell id="89" start-col="0" start-row="18">
+                <bounding-box x1="29" x2="64" y1="451" y2="458"/>
+                <content>Total assets</content>
+                <instruction instr-id="388"/>
+            </cell>
+            <cell id="90" start-col="1" start-row="18">
+                <bounding-box x1="323" x2="351" y1="451" y2="458"/>
+                <content>2,655,784</content>
+                <instruction instr-id="395" subinstr-id="0"/>
+            </cell>
+            <cell id="91" start-col="2" start-row="18">
+                <bounding-box x1="386" x2="414" y1="451" y2="458"/>
+                <content>2,663,261</content>
+                <instruction instr-id="395" subinstr-id="2"/>
+            </cell>
+            <cell id="92" start-col="3" start-row="18">
+                <bounding-box x1="450" x2="478" y1="451" y2="458"/>
+                <content>2,692,598</content>
+                <instruction instr-id="395" subinstr-id="4"/>
+            </cell>
+            <cell id="93" start-col="4" start-row="18">
+                <bounding-box x1="510" x2="538" y1="451" y2="458"/>
+                <content>3,023,159</content>
+                <instruction instr-id="395" subinstr-id="6"/>
+            </cell>
+        </region>
+    </table>
+    <table id="1">
+        <region col-increment="0" id="0" page="1" row-increment="0">
+            <cell id="0" start-col="1" start-row="0">
+                <bounding-box x1="299" x2="351" y1="405" y2="412"/>
+                <content>10 February 2012</content>
+                <instruction instr-id="438" subinstr-id="0"/>
+            </cell>
+            <cell id="1" start-col="2" start-row="0">
+                <bounding-box x1="362" x2="415" y1="405" y2="412"/>
+                <content>17 February 2012</content>
+                <instruction instr-id="438" subinstr-id="2"/>
+            </cell>
+            <cell id="2" start-col="3" start-row="0">
+                <bounding-box x1="426" x2="478" y1="405" y2="412"/>
+                <content>24 February 2012</content>
+                <instruction instr-id="438" subinstr-id="4"/>
+            </cell>
+            <cell id="3" start-col="4" start-row="0">
+                <bounding-box x1="498" x2="539" y1="405" y2="412"/>
+                <content>2 March 2012</content>
+                <instruction instr-id="438" subinstr-id="6"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="1">
+                <bounding-box x1="29" x2="102" y1="390" y2="397"/>
+                <content>Banknotes in circulation</content>
+                <instruction instr-id="450"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="1">
+                <bounding-box x1="328" x2="351" y1="390" y2="397"/>
+                <content>869,974</content>
+                <instruction instr-id="455" subinstr-id="0"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="1">
+                <bounding-box x1="392" x2="414" y1="390" y2="397"/>
+                <content>869,355</content>
+                <instruction instr-id="455" subinstr-id="2"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="1">
+                <bounding-box x1="455" x2="478" y1="390" y2="397"/>
+                <content>867,396</content>
+                <instruction instr-id="455" subinstr-id="4"/>
+            </cell>
+            <cell id="8" start-col="4" start-row="1">
+                <bounding-box x1="515" x2="538" y1="390" y2="397"/>
+                <content>870,556</content>
+                <instruction instr-id="455" subinstr-id="6"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="2">
+                <bounding-box x1="29" x2="174" y1="382" y2="389"/>
+                <content>Liabilities to euro area credit institutions in euro</content>
+                <instruction instr-id="464"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="2">
+                <bounding-box x1="328" x2="351" y1="382" y2="389"/>
+                <content>812,062</content>
+                <instruction instr-id="469" subinstr-id="0"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="2">
+                <bounding-box x1="392" x2="414" y1="382" y2="389"/>
+                <content>807,200</content>
+                <instruction instr-id="469" subinstr-id="2"/>
+            </cell>
+            <cell id="12" start-col="3" start-row="2">
+                <bounding-box x1="455" x2="478" y1="382" y2="389"/>
+                <content>793,399</content>
+                <instruction instr-id="469" subinstr-id="4"/>
+            </cell>
+            <cell id="13" start-col="4" start-row="2">
+                <bounding-box x1="510" x2="538" y1="382" y2="389"/>
+                <content>1,148,864</content>
+                <instruction instr-id="469" subinstr-id="6"/>
+            </cell>
+            <cell id="14" start-col="0" start-row="3">
+                <bounding-box x1="35" x2="195" y1="373" y2="380"/>
+                <content>Current accounts (covering the minimum reserve system)</content>
+                <instruction instr-id="473" subinstr-id="2"/>
+            </cell>
+            <cell id="15" start-col="1" start-row="3">
+                <bounding-box x1="332" x2="351" y1="373" y2="380"/>
+                <content>83,209</content>
+                <instruction instr-id="473" subinstr-id="4"/>
+            </cell>
+            <cell id="16" start-col="2" start-row="3">
+                <bounding-box x1="392" x2="414" y1="373" y2="380"/>
+                <content>132,473</content>
+                <instruction instr-id="473" subinstr-id="6"/>
+            </cell>
+            <cell id="17" start-col="3" start-row="3">
+                <bounding-box x1="458" x2="478" y1="373" y2="380"/>
+                <content>93,676</content>
+                <instruction instr-id="473" subinstr-id="8"/>
+            </cell>
+            <cell id="18" start-col="4" start-row="3">
+                <bounding-box x1="519" x2="538" y1="373" y2="380"/>
+                <content>91,402</content>
+                <instruction instr-id="473" subinstr-id="10"/>
+            </cell>
+            <cell id="19" start-col="0" start-row="4">
+                <bounding-box x1="35" x2="78" y1="365" y2="372"/>
+                <content>Deposit facility</content>
+                <instruction instr-id="478" subinstr-id="0"/>
+                <instruction instr-id="478" subinstr-id="2"/>
+            </cell>
+            <cell id="20" start-col="1" start-row="4">
+                <bounding-box x1="328" x2="351" y1="365" y2="372"/>
+                <content>507,876</content>
+                <instruction instr-id="484" subinstr-id="0"/>
+            </cell>
+            <cell id="21" start-col="2" start-row="4">
+                <bounding-box x1="392" x2="414" y1="365" y2="372"/>
+                <content>454,356</content>
+                <instruction instr-id="484" subinstr-id="2"/>
+            </cell>
+            <cell id="22" start-col="3" start-row="4">
+                <bounding-box x1="455" x2="478" y1="365" y2="372"/>
+                <content>477,324</content>
+                <instruction instr-id="484" subinstr-id="4"/>
+            </cell>
+            <cell id="23" start-col="4" start-row="4">
+                <bounding-box x1="515" x2="538" y1="365" y2="372"/>
+                <content>820,819</content>
+                <instruction instr-id="484" subinstr-id="6"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="5">
+                <bounding-box x1="35" x2="91" y1="357" y2="364"/>
+                <content>Fixed-term deposits</content>
+                <instruction instr-id="490" subinstr-id="0"/>
+                <instruction instr-id="490" subinstr-id="2"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="5">
+                <bounding-box x1="328" x2="351" y1="357" y2="364"/>
+                <content>219,000</content>
+                <instruction instr-id="496" subinstr-id="0"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="5">
+                <bounding-box x1="392" x2="414" y1="357" y2="364"/>
+                <content>219,500</content>
+                <instruction instr-id="496" subinstr-id="2"/>
+            </cell>
+            <cell id="27" start-col="3" start-row="5">
+                <bounding-box x1="455" x2="478" y1="357" y2="364"/>
+                <content>219,500</content>
+                <instruction instr-id="496" subinstr-id="4"/>
+            </cell>
+            <cell id="28" start-col="4" start-row="5">
+                <bounding-box x1="515" x2="538" y1="357" y2="364"/>
+                <content>219,500</content>
+                <instruction instr-id="496" subinstr-id="6"/>
+            </cell>
+            <cell id="29" start-col="0" start-row="6">
+                <bounding-box x1="35" x2="120" y1="348" y2="355"/>
+                <content>Fine-tuning reverse operations</content>
+                <instruction instr-id="500" subinstr-id="2"/>
+            </cell>
+            <cell id="30" start-col="1" start-row="6">
+                <bounding-box x1="347" x2="351" y1="348" y2="355"/>
+                <content>0</content>
+                <instruction instr-id="505" subinstr-id="0"/>
+            </cell>
+            <cell id="31" start-col="2" start-row="6">
+                <bounding-box x1="411" x2="414" y1="348" y2="355"/>
+                <content>0</content>
+                <instruction instr-id="505" subinstr-id="0"/>
+            </cell>
+            <cell id="32" start-col="3" start-row="6">
+                <bounding-box x1="474" x2="478" y1="348" y2="355"/>
+                <content>0</content>
+                <instruction instr-id="505" subinstr-id="0"/>
+            </cell>
+            <cell id="33" start-col="4" start-row="6">
+                <bounding-box x1="535" x2="538" y1="348" y2="355"/>
+                <content>0</content>
+                <instruction instr-id="505" subinstr-id="2"/>
+            </cell>
+            <cell id="34" start-col="0" start-row="7">
+                <bounding-box x1="35" x2="124" y1="340" y2="347"/>
+                <content>Deposits related to margin calls</content>
+                <instruction instr-id="510" subinstr-id="2"/>
+            </cell>
+            <cell id="35" start-col="1" start-row="7">
+                <bounding-box x1="335" x2="351" y1="340" y2="347"/>
+                <content>1,977</content>
+                <instruction instr-id="510" subinstr-id="4"/>
+            </cell>
+            <cell id="36" start-col="2" start-row="7">
+                <bounding-box x1="404" x2="414" y1="340" y2="347"/>
+                <content>871</content>
+                <instruction instr-id="510" subinstr-id="6"/>
+            </cell>
+            <cell id="37" start-col="3" start-row="7">
+                <bounding-box x1="462" x2="478" y1="340" y2="347"/>
+                <content>2,899</content>
+                <instruction instr-id="510" subinstr-id="8"/>
+            </cell>
+            <cell id="38" start-col="4" start-row="7">
+                <bounding-box x1="519" x2="538" y1="340" y2="347"/>
+                <content>17,143</content>
+                <instruction instr-id="510" subinstr-id="10"/>
+            </cell>
+            <cell id="39" start-col="0" start-row="8">
+                <bounding-box x1="29" x2="191" y1="332" y2="339"/>
+                <content>Other liabilities to euro area credit institutions in euro</content>
+                <instruction instr-id="518"/>
+            </cell>
+            <cell id="40" start-col="1" start-row="8">
+                <bounding-box x1="335" x2="351" y1="332" y2="339"/>
+                <content>2,215</content>
+                <instruction instr-id="523" subinstr-id="0"/>
+            </cell>
+            <cell id="41" start-col="2" start-row="8">
+                <bounding-box x1="399" x2="414" y1="332" y2="339"/>
+                <content>1,931</content>
+                <instruction instr-id="523" subinstr-id="2"/>
+            </cell>
+            <cell id="42" start-col="3" start-row="8">
+                <bounding-box x1="462" x2="478" y1="332" y2="339"/>
+                <content>2,329</content>
+                <instruction instr-id="523" subinstr-id="4"/>
+            </cell>
+            <cell id="43" start-col="4" start-row="8">
+                <bounding-box x1="522" x2="538" y1="332" y2="339"/>
+                <content>7,368</content>
+                <instruction instr-id="523" subinstr-id="6"/>
+            </cell>
+            <cell id="44" start-col="0" start-row="9">
+                <bounding-box x1="29" x2="98" y1="323" y2="330"/>
+                <content>Debt certificates issued</content>
+                <instruction instr-id="532"/>
+            </cell>
+            <cell id="45" start-col="1" start-row="9">
+                <bounding-box x1="347" x2="351" y1="323" y2="330"/>
+                <content>0</content>
+                <instruction instr-id="538" subinstr-id="0"/>
+            </cell>
+            <cell id="46" start-col="2" start-row="9">
+                <bounding-box x1="411" x2="414" y1="323" y2="330"/>
+                <content>0</content>
+                <instruction instr-id="538" subinstr-id="0"/>
+            </cell>
+            <cell id="47" start-col="3" start-row="9">
+                <bounding-box x1="474" x2="478" y1="323" y2="330"/>
+                <content>0</content>
+                <instruction instr-id="538" subinstr-id="0"/>
+            </cell>
+            <cell id="48" start-col="4" start-row="9">
+                <bounding-box x1="535" x2="538" y1="323" y2="330"/>
+                <content>0</content>
+                <instruction instr-id="538" subinstr-id="2"/>
+            </cell>
+            <cell id="49" start-col="0" start-row="10">
+                <bounding-box x1="29" x2="166" y1="315" y2="322"/>
+                <content>Liabilities to other euro area residents in euro</content>
+                <instruction instr-id="548"/>
+            </cell>
+            <cell id="50" start-col="1" start-row="10">
+                <bounding-box x1="332" x2="351" y1="315" y2="322"/>
+                <content>94,255</content>
+                <instruction instr-id="553" subinstr-id="0"/>
+            </cell>
+            <cell id="51" start-col="2" start-row="10">
+                <bounding-box x1="392" x2="414" y1="315" y2="322"/>
+                <content>110,572</content>
+                <instruction instr-id="553" subinstr-id="2"/>
+            </cell>
+            <cell id="52" start-col="3" start-row="10">
+                <bounding-box x1="455" x2="478" y1="315" y2="322"/>
+                <content>153,640</content>
+                <instruction instr-id="553" subinstr-id="4"/>
+            </cell>
+            <cell id="53" start-col="4" start-row="10">
+                <bounding-box x1="515" x2="538" y1="315" y2="322"/>
+                <content>147,146</content>
+                <instruction instr-id="553" subinstr-id="6"/>
+            </cell>
+            <cell id="54" start-col="0" start-row="11">
+                <bounding-box x1="29" x2="162" y1="307" y2="314"/>
+                <content>Liabilities to non-euro area residents in euro</content>
+                <instruction instr-id="562"/>
+            </cell>
+            <cell id="55" start-col="1" start-row="11">
+                <bounding-box x1="328" x2="351" y1="307" y2="314"/>
+                <content>118,781</content>
+                <instruction instr-id="567" subinstr-id="0"/>
+            </cell>
+            <cell id="56" start-col="2" start-row="11">
+                <bounding-box x1="392" x2="414" y1="307" y2="314"/>
+                <content>118,157</content>
+                <instruction instr-id="567" subinstr-id="2"/>
+            </cell>
+            <cell id="57" start-col="3" start-row="11">
+                <bounding-box x1="455" x2="478" y1="307" y2="314"/>
+                <content>115,851</content>
+                <instruction instr-id="567" subinstr-id="4"/>
+            </cell>
+            <cell id="58" start-col="4" start-row="11">
+                <bounding-box x1="519" x2="538" y1="307" y2="314"/>
+                <content>90,890</content>
+                <instruction instr-id="567" subinstr-id="6"/>
+            </cell>
+            <cell id="59" start-col="0" start-row="12">
+                <bounding-box x1="29" x2="184" y1="298" y2="305"/>
+                <content>Liabilities to euro area residents in foreign currency</content>
+                <instruction instr-id="576"/>
+            </cell>
+            <cell id="60" start-col="1" start-row="12">
+                <bounding-box x1="335" x2="351" y1="298" y2="305"/>
+                <content>5,014</content>
+                <instruction instr-id="581" subinstr-id="0"/>
+            </cell>
+            <cell id="61" start-col="2" start-row="12">
+                <bounding-box x1="399" x2="414" y1="298" y2="305"/>
+                <content>4,701</content>
+                <instruction instr-id="581" subinstr-id="2"/>
+            </cell>
+            <cell id="62" start-col="3" start-row="12">
+                <bounding-box x1="462" x2="478" y1="298" y2="305"/>
+                <content>4,771</content>
+                <instruction instr-id="581" subinstr-id="4"/>
+            </cell>
+            <cell id="63" start-col="4" start-row="12">
+                <bounding-box x1="522" x2="538" y1="298" y2="305"/>
+                <content>4,413</content>
+                <instruction instr-id="581" subinstr-id="6"/>
+            </cell>
+            <cell id="64" start-col="0" start-row="13">
+                <bounding-box x1="29" x2="198" y1="290" y2="297"/>
+                <content>Liabilities to non-euro area residents in foreign currency</content>
+                <instruction instr-id="590"/>
+            </cell>
+            <cell id="65" start-col="1" start-row="13">
+                <bounding-box x1="335" x2="351" y1="290" y2="297"/>
+                <content>7,319</content>
+                <instruction instr-id="595" subinstr-id="0"/>
+            </cell>
+            <cell id="66" start-col="2" start-row="13">
+                <bounding-box x1="399" x2="414" y1="290" y2="297"/>
+                <content>7,401</content>
+                <instruction instr-id="595" subinstr-id="2"/>
+            </cell>
+            <cell id="67" start-col="3" start-row="13">
+                <bounding-box x1="462" x2="478" y1="290" y2="297"/>
+                <content>7,337</content>
+                <instruction instr-id="595" subinstr-id="4"/>
+            </cell>
+            <cell id="68" start-col="4" start-row="13">
+                <bounding-box x1="522" x2="538" y1="290" y2="297"/>
+                <content>7,861</content>
+                <instruction instr-id="595" subinstr-id="6"/>
+            </cell>
+            <cell id="69" start-col="0" start-row="14">
+                <bounding-box x1="29" x2="206" y1="281" y2="288"/>
+                <content>Counterpart of special drawing rights allocated by the IMF</content>
+                <instruction instr-id="604"/>
+            </cell>
+            <cell id="70" start-col="1" start-row="14">
+                <bounding-box x1="332" x2="351" y1="281" y2="288"/>
+                <content>55,942</content>
+                <instruction instr-id="609" subinstr-id="0"/>
+            </cell>
+            <cell id="71" start-col="2" start-row="14">
+                <bounding-box x1="395" x2="414" y1="281" y2="288"/>
+                <content>55,942</content>
+                <instruction instr-id="609" subinstr-id="2"/>
+            </cell>
+            <cell id="72" start-col="3" start-row="14">
+                <bounding-box x1="458" x2="478" y1="281" y2="288"/>
+                <content>55,942</content>
+                <instruction instr-id="609" subinstr-id="4"/>
+            </cell>
+            <cell id="73" start-col="4" start-row="14">
+                <bounding-box x1="519" x2="538" y1="281" y2="288"/>
+                <content>55,942</content>
+                <instruction instr-id="609" subinstr-id="6"/>
+            </cell>
+            <cell id="74" start-col="0" start-row="15">
+                <bounding-box x1="29" x2="76" y1="273" y2="280"/>
+                <content>Other liabilities</content>
+                <instruction instr-id="620"/>
+            </cell>
+            <cell id="75" start-col="1" start-row="15">
+                <bounding-box x1="328" x2="351" y1="273" y2="280"/>
+                <content>214,318</content>
+                <instruction instr-id="627" subinstr-id="0"/>
+            </cell>
+            <cell id="76" start-col="2" start-row="15">
+                <bounding-box x1="392" x2="414" y1="273" y2="280"/>
+                <content>212,316</content>
+                <instruction instr-id="627" subinstr-id="2"/>
+            </cell>
+            <cell id="77" start-col="3" start-row="15">
+                <bounding-box x1="455" x2="478" y1="273" y2="280"/>
+                <content>215,914</content>
+                <instruction instr-id="627" subinstr-id="4"/>
+            </cell>
+            <cell id="78" start-col="4" start-row="15">
+                <bounding-box x1="515" x2="538" y1="273" y2="280"/>
+                <content>213,100</content>
+                <instruction instr-id="627" subinstr-id="6"/>
+            </cell>
+            <cell id="79" start-col="0" start-row="16">
+                <bounding-box x1="29" x2="93" y1="265" y2="272"/>
+                <content>Revaluation accounts</content>
+                <instruction instr-id="636"/>
+            </cell>
+            <cell id="80" start-col="1" start-row="16">
+                <bounding-box x1="328" x2="351" y1="265" y2="272"/>
+                <content>394,028</content>
+                <instruction instr-id="641" subinstr-id="0"/>
+            </cell>
+            <cell id="81" start-col="2" start-row="16">
+                <bounding-box x1="392" x2="414" y1="265" y2="272"/>
+                <content>394,029</content>
+                <instruction instr-id="641" subinstr-id="2"/>
+            </cell>
+            <cell id="82" start-col="3" start-row="16">
+                <bounding-box x1="455" x2="478" y1="265" y2="272"/>
+                <content>394,029</content>
+                <instruction instr-id="641" subinstr-id="4"/>
+            </cell>
+            <cell id="83" start-col="4" start-row="16">
+                <bounding-box x1="515" x2="538" y1="265" y2="272"/>
+                <content>394,029</content>
+                <instruction instr-id="641" subinstr-id="6"/>
+            </cell>
+            <cell id="84" start-col="0" start-row="17">
+                <bounding-box x1="29" x2="90" y1="257" y2="263"/>
+                <content>Capital and reserves</content>
+                <instruction instr-id="650"/>
+            </cell>
+            <cell id="85" start-col="1" start-row="17">
+                <bounding-box x1="332" x2="351" y1="257" y2="263"/>
+                <content>81,877</content>
+                <instruction instr-id="655" subinstr-id="0"/>
+            </cell>
+            <cell id="86" start-col="2" start-row="17">
+                <bounding-box x1="395" x2="414" y1="257" y2="263"/>
+                <content>81,657</content>
+                <instruction instr-id="655" subinstr-id="2"/>
+            </cell>
+            <cell id="87" start-col="3" start-row="17">
+                <bounding-box x1="458" x2="478" y1="257" y2="263"/>
+                <content>81,990</content>
+                <instruction instr-id="655" subinstr-id="4"/>
+            </cell>
+            <cell id="88" start-col="4" start-row="17">
+                <bounding-box x1="519" x2="538" y1="257" y2="263"/>
+                <content>82,990</content>
+                <instruction instr-id="655" subinstr-id="6"/>
+            </cell>
+            <cell id="89" start-col="0" start-row="18">
+                <bounding-box x1="29" x2="74" y1="241" y2="248"/>
+                <content>Total liabilities</content>
+                <instruction instr-id="668"/>
+            </cell>
+            <cell id="90" start-col="1" start-row="18">
+                <bounding-box x1="323" x2="351" y1="241" y2="248"/>
+                <content>2,655,784</content>
+                <instruction instr-id="677" subinstr-id="0"/>
+            </cell>
+            <cell id="91" start-col="2" start-row="18">
+                <bounding-box x1="386" x2="414" y1="241" y2="248"/>
+                <content>2,663,261</content>
+                <instruction instr-id="677" subinstr-id="2"/>
+            </cell>
+            <cell id="92" start-col="3" start-row="18">
+                <bounding-box x1="450" x2="478" y1="241" y2="248"/>
+                <content>2,692,598</content>
+                <instruction instr-id="677" subinstr-id="4"/>
+            </cell>
+            <cell id="93" start-col="4" start-row="18">
+                <bounding-box x1="510" x2="538" y1="241" y2="248"/>
+                <content>3,023,159</content>
+                <instruction instr-id="677" subinstr-id="6"/>
+            </cell>
+        </region>
+    </table>
+</document>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-008.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="1" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="221" x2="275" y1="270" y2="322"/>
+                <content>Total Number
+of Parking
+spaces
+Provided
+(per lot)</content>
+                <instruction instr-id="5255" subinstr-id="0"/>
+                <instruction instr-id="5255" subinstr-id="2"/>
+                <instruction instr-id="5259"/>
+                <instruction instr-id="5263"/>
+                <instruction instr-id="5267"/>
+                <instruction instr-id="5272"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="301" x2="370" y1="270" y2="322"/>
+                <content>Total Minimum
+Number of
+Accessible
+Parking Spaces
+(60” &amp; 96” aisles)</content>
+                <instruction instr-id="5231" subinstr-id="0"/>
+                <instruction instr-id="5231" subinstr-id="2"/>
+                <instruction instr-id="5236"/>
+                <instruction instr-id="5240"/>
+                <instruction instr-id="5245"/>
+                <instruction instr-id="5250"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="390" x2="457" y1="270" y2="322"/>
+                <content>Van Accessible
+Parking Spaces
+with min. 96”
+wide access
+aisle</content>
+                <instruction instr-id="5301" subinstr-id="0"/>
+                <instruction instr-id="5301" subinstr-id="2"/>
+                <instruction instr-id="5306"/>
+                <instruction instr-id="5311"/>
+                <instruction instr-id="5316"/>
+                <instruction instr-id="5320"/>
+            </cell>
+            <cell id="3" start-col="3" start-row="0">
+                <bounding-box x1="486" x2="544" y1="270" y2="322"/>
+                <content>Accessible
+Parking
+Spaces with
+min. 60” wide
+access aisle</content>
+                <instruction instr-id="5277"/>
+                <instruction instr-id="5281"/>
+                <instruction instr-id="5286"/>
+                <instruction instr-id="5291"/>
+                <instruction instr-id="5296"/>
+            </cell>
+            <cell id="4" start-col="1" start-row="2">
+                <bounding-box x1="311" x2="351" y1="248" y2="257"/>
+                <content>Column A</content>
+                <instruction instr-id="5397"/>
+            </cell>
+            <cell id="5" start-col="0" start-row="3">
+                <bounding-box x1="220" x2="248" y1="232" y2="241"/>
+                <content>1 to 25</content>
+                <instruction instr-id="42" subinstr-id="0"/>
+            </cell>
+            <cell id="6" start-col="1" start-row="3">
+                <bounding-box x1="333" x2="338" y1="232" y2="241"/>
+                <content>1</content>
+                <instruction instr-id="42" subinstr-id="2"/>
+            </cell>
+            <cell id="7" start-col="2" start-row="3">
+                <bounding-box x1="423" x2="428" y1="232" y2="241"/>
+                <content>1</content>
+                <instruction instr-id="48"/>
+            </cell>
+            <cell id="8" start-col="3" start-row="3">
+                <bounding-box x1="514" x2="520" y1="232" y2="241"/>
+                <content>0</content>
+                <instruction instr-id="48"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="4">
+                <bounding-box x1="220" x2="253" y1="221" y2="230"/>
+                <content>26 to 50</content>
+                <instruction instr-id="55" subinstr-id="0"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="4">
+                <bounding-box x1="333" x2="338" y1="221" y2="230"/>
+                <content>2</content>
+                <instruction instr-id="55" subinstr-id="2"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="4">
+                <bounding-box x1="423" x2="428" y1="221" y2="230"/>
+                <content>1</content>
+                <instruction instr-id="61"/>
+            </cell>
+            <cell id="12" start-col="3" start-row="4">
+                <bounding-box x1="514" x2="520" y1="221" y2="230"/>
+                <content>1</content>
+                <instruction instr-id="61"/>
+            </cell>
+            <cell id="13" start-col="0" start-row="5">
+                <bounding-box x1="220" x2="253" y1="210" y2="219"/>
+                <content>51 to 75</content>
+                <instruction instr-id="67" subinstr-id="0"/>
+            </cell>
+            <cell id="14" start-col="1" start-row="5">
+                <bounding-box x1="333" x2="338" y1="210" y2="219"/>
+                <content>3</content>
+                <instruction instr-id="67" subinstr-id="2"/>
+            </cell>
+            <cell id="15" start-col="2" start-row="5">
+                <bounding-box x1="423" x2="428" y1="210" y2="219"/>
+                <content>1</content>
+                <instruction instr-id="73"/>
+            </cell>
+            <cell id="16" start-col="3" start-row="5">
+                <bounding-box x1="514" x2="520" y1="210" y2="219"/>
+                <content>2</content>
+                <instruction instr-id="73"/>
+            </cell>
+            <cell id="17" start-col="0" start-row="6">
+                <bounding-box x1="220" x2="258" y1="199" y2="208"/>
+                <content>76 to 100</content>
+                <instruction instr-id="79" subinstr-id="0"/>
+            </cell>
+            <cell id="18" start-col="1" start-row="6">
+                <bounding-box x1="333" x2="338" y1="199" y2="208"/>
+                <content>4</content>
+                <instruction instr-id="79" subinstr-id="2"/>
+            </cell>
+            <cell id="19" start-col="2" start-row="6">
+                <bounding-box x1="423" x2="428" y1="199" y2="208"/>
+                <content>1</content>
+                <instruction instr-id="85"/>
+            </cell>
+            <cell id="20" start-col="3" start-row="6">
+                <bounding-box x1="514" x2="520" y1="199" y2="208"/>
+                <content>3</content>
+                <instruction instr-id="85"/>
+            </cell>
+            <cell id="21" start-col="0" start-row="7">
+                <bounding-box x1="220" x2="263" y1="188" y2="197"/>
+                <content>101 to 150</content>
+                <instruction instr-id="91" subinstr-id="0"/>
+            </cell>
+            <cell id="22" start-col="1" start-row="7">
+                <bounding-box x1="333" x2="338" y1="188" y2="197"/>
+                <content>5</content>
+                <instruction instr-id="91" subinstr-id="2"/>
+            </cell>
+            <cell id="23" start-col="2" start-row="7">
+                <bounding-box x1="423" x2="428" y1="188" y2="197"/>
+                <content>1</content>
+                <instruction instr-id="97"/>
+            </cell>
+            <cell id="24" start-col="3" start-row="7">
+                <bounding-box x1="514" x2="520" y1="188" y2="197"/>
+                <content>4</content>
+                <instruction instr-id="97"/>
+            </cell>
+            <cell id="25" start-col="0" start-row="8">
+                <bounding-box x1="220" x2="263" y1="177" y2="186"/>
+                <content>151 to 200</content>
+                <instruction instr-id="103" subinstr-id="0"/>
+            </cell>
+            <cell id="26" start-col="1" start-row="8">
+                <bounding-box x1="333" x2="338" y1="177" y2="186"/>
+                <content>6</content>
+                <instruction instr-id="103" subinstr-id="2"/>
+            </cell>
+            <cell id="27" start-col="2" start-row="8">
+                <bounding-box x1="423" x2="428" y1="177" y2="186"/>
+                <content>1</content>
+                <instruction instr-id="109"/>
+            </cell>
+            <cell id="28" start-col="3" start-row="8">
+                <bounding-box x1="514" x2="520" y1="177" y2="186"/>
+                <content>5</content>
+                <instruction instr-id="109"/>
+            </cell>
+            <cell id="29" start-col="0" start-row="9">
+                <bounding-box x1="220" x2="263" y1="166" y2="175"/>
+                <content>201 to 300</content>
+                <instruction instr-id="115" subinstr-id="0"/>
+            </cell>
+            <cell id="30" start-col="1" start-row="9">
+                <bounding-box x1="333" x2="338" y1="166" y2="175"/>
+                <content>7</content>
+                <instruction instr-id="115" subinstr-id="2"/>
+            </cell>
+            <cell id="31" start-col="2" start-row="9">
+                <bounding-box x1="423" x2="428" y1="166" y2="175"/>
+                <content>1</content>
+                <instruction instr-id="121"/>
+            </cell>
+            <cell id="32" start-col="3" start-row="9">
+                <bounding-box x1="514" x2="520" y1="166" y2="175"/>
+                <content>6</content>
+                <instruction instr-id="121"/>
+            </cell>
+            <cell id="33" start-col="0" start-row="10">
+                <bounding-box x1="220" x2="263" y1="155" y2="164"/>
+                <content>301 to 400</content>
+                <instruction instr-id="127" subinstr-id="0"/>
+            </cell>
+            <cell id="34" start-col="1" start-row="10">
+                <bounding-box x1="333" x2="338" y1="155" y2="164"/>
+                <content>8</content>
+                <instruction instr-id="127" subinstr-id="2"/>
+            </cell>
+            <cell id="35" start-col="2" start-row="10">
+                <bounding-box x1="423" x2="428" y1="155" y2="164"/>
+                <content>1</content>
+                <instruction instr-id="133"/>
+            </cell>
+            <cell id="36" start-col="3" start-row="10">
+                <bounding-box x1="514" x2="520" y1="155" y2="164"/>
+                <content>7</content>
+                <instruction instr-id="133"/>
+            </cell>
+            <cell id="37" start-col="0" start-row="11">
+                <bounding-box x1="220" x2="263" y1="144" y2="153"/>
+                <content>401 to 500</content>
+                <instruction instr-id="139" subinstr-id="0"/>
+            </cell>
+            <cell id="38" start-col="1" start-row="11">
+                <bounding-box x1="333" x2="338" y1="144" y2="153"/>
+                <content>9</content>
+                <instruction instr-id="139" subinstr-id="2"/>
+            </cell>
+            <cell id="39" start-col="2" start-row="11">
+                <bounding-box x1="423" x2="428" y1="144" y2="153"/>
+                <content>2</content>
+                <instruction instr-id="145"/>
+            </cell>
+            <cell id="40" start-col="3" start-row="11">
+                <bounding-box x1="514" x2="520" y1="144" y2="153"/>
+                <content>7</content>
+                <instruction instr-id="145"/>
+            </cell>
+            <cell id="41" start-col="0" start-row="12">
+                <bounding-box x1="220" x2="268" y1="133" y2="142"/>
+                <content>501 to 1000</content>
+                <instruction instr-id="151" subinstr-id="0"/>
+            </cell>
+            <cell id="42" start-col="1" start-row="12">
+                <bounding-box x1="302" x2="368" y1="111" y2="142"/>
+                <content>2% of total
+parking provided
+in each lot</content>
+                <instruction instr-id="151" subinstr-id="2"/>
+                <instruction instr-id="155"/>
+                <instruction instr-id="167"/>
+            </cell>
+            <cell id="43" start-col="2" start-row="12">
+                <bounding-box x1="389" x2="461" y1="122" y2="131"/>
+                <content>1/8 of Column A*</content>
+                <instruction instr-id="161" subinstr-id="0"/>
+                <instruction instr-id="161" subinstr-id="2"/>
+            </cell>
+            <cell id="44" start-col="3" start-row="12">
+                <bounding-box x1="480" x2="554" y1="122" y2="131"/>
+                <content>7/8 of Column A**</content>
+                <instruction instr-id="161" subinstr-id="4"/>
+                <instruction instr-id="161" subinstr-id="6"/>
+            </cell>
+            <cell id="45" start-col="0" start-row="13">
+                <bounding-box x1="220" x2="278" y1="100" y2="109"/>
+                <content>1001 and over</content>
+                <instruction instr-id="171" subinstr-id="0"/>
+            </cell>
+            <cell id="46" start-col="1" start-row="13">
+                <bounding-box x1="310" x2="360" y1="78" y2="109"/>
+                <content>20 plus 1 for
+each 100
+over 1000</content>
+                <instruction instr-id="171" subinstr-id="2"/>
+                <instruction instr-id="176"/>
+                <instruction instr-id="188"/>
+            </cell>
+            <cell id="47" start-col="2" start-row="13">
+                <bounding-box x1="389" x2="461" y1="89" y2="98"/>
+                <content>1/8 of ColumnA*</content>
+                <instruction instr-id="182" subinstr-id="0"/>
+                <instruction instr-id="182" subinstr-id="2"/>
+            </cell>
+            <cell id="48" start-col="3" start-row="13">
+                <bounding-box x1="480" x2="554" y1="89" y2="98"/>
+                <content>7/8 of Column A**</content>
+                <instruction instr-id="182" subinstr-id="4"/>
+                <instruction instr-id="182" subinstr-id="6"/>
+            </cell>
+        </region>
+    </table>
+</document>

@@ -1,0 +1,61 @@
+                                                                                Contract number – REM 01
+                                                                                             Final Report
+
+
+2.3.1.3          Accuracy
+Furthermore, the accuracy of the study data was calculated as part of the
+qualitative analysis. The complete results, shown in Annex 7, established that the
+consistency and reliability of the study results are excellent or high in 20 out of the
+33 countries analysed in this study, representing 87,15% of the total number of
+researchers in Europe.
+
+
+
+2.3.1.4          Weights
+Another aspect considered during the qualitative analysis of the survey results, has
+been the possible impact that the distribution of responses per level of experience
+may have on the calculation of each country average. Thus, a set of weights per
+level of experience has been defined, considering the number of responses obtained
+in the study. These weights, as presented in the table below, have also been
+applied to the results, producing the weighted averages.
+
+                           0-4 years 5-7 years 8-10 years 11-15 years > 15 years TOTAL
+     Number of responses         1.528       1.058         729            787        2.008      6.110
+          Weights              25,01%      17,32%      11,93%         12,88%       32,86%
+
+                       Table 6 – Weights applied per level of experience
+
+In a similar way, weights per level of experience and gender have been calculated
+and applied. These weights are presented in the table below.
+
+                       0-4 years    5-7 years    8-10 years      11-15 years    > 15 years     TOTAL
+
+    Number of            695             400          260           260            451          2.066
+responses- Female
+     Weights            33,64%       19,36%          12,58%        12,58%        21,83%
+     Number of
+                         859             683          483           537           1562          4124
+  responses- Male
+      Weights           20,83%       16,56%          11,71%        13,02%        37,88%
+
+                  Table 7 – Weights applied per level of experience and gender
+
+
+
+2.3.2            Quantitative analysis
+The quantitative analysis process presents the obtained results in a structured
+manner, enabling the extraction of conclusions. As a result, the following set of
+survey indicators (SI) were defined, grouped within two indicator categories:
+ -       Survey Indicator 1 (SI1), presenting the total number of received responses,
+         distributed by: country, gender, level of experience, sector of activity and
+         scientific domain.
+ -       Survey Indicator 2 (SI2), presenting the results of the survey concerning
+         salaries in the different countries for the different fields (seniority, gender)
+         and the number of received responses for other advantages
+SI1: Total number of responses: It classifies the responses received, as follows:
+     o    SI1.1:% distribution per country (QC: response to question 1 of the
+          questionnaire)
+
+
+CARSA                                                                                     Page 41 of 211
+

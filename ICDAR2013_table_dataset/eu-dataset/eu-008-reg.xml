@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-008.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-region-model.xsd">
+    <table id="0">
+        <region id="0" page="1">
+            <instruction instr-id="51" subinstr-id="0"/>
+            <instruction instr-id="51" subinstr-id="2"/>
+            <instruction instr-id="51" subinstr-id="4"/>
+            <instruction instr-id="51" subinstr-id="6"/>
+            <instruction instr-id="71" subinstr-id="0"/>
+            <instruction instr-id="71" subinstr-id="2"/>
+            <instruction instr-id="85" subinstr-id="0"/>
+            <instruction instr-id="85" subinstr-id="2"/>
+            <instruction instr-id="99" subinstr-id="0"/>
+            <instruction instr-id="99" subinstr-id="2"/>
+            <instruction instr-id="115" subinstr-id="0"/>
+            <instruction instr-id="115" subinstr-id="2"/>
+            <instruction instr-id="130" subinstr-id="0"/>
+            <instruction instr-id="130" subinstr-id="2"/>
+            <instruction instr-id="144" subinstr-id="0"/>
+            <instruction instr-id="144" subinstr-id="2"/>
+            <instruction instr-id="158" subinstr-id="0"/>
+            <instruction instr-id="158" subinstr-id="2"/>
+            <instruction instr-id="172" subinstr-id="0"/>
+            <instruction instr-id="172" subinstr-id="2"/>
+            <instruction instr-id="186" subinstr-id="0"/>
+            <instruction instr-id="186" subinstr-id="2"/>
+            <instruction instr-id="202" subinstr-id="0"/>
+            <instruction instr-id="202" subinstr-id="2"/>
+            <instruction instr-id="216" subinstr-id="0"/>
+            <instruction instr-id="216" subinstr-id="2"/>
+            <instruction instr-id="230" subinstr-id="0"/>
+            <instruction instr-id="230" subinstr-id="2"/>
+            <instruction instr-id="244" subinstr-id="0"/>
+            <instruction instr-id="244" subinstr-id="2"/>
+            <bounding-box x1="164" x2="354" y1="493" y2="750"/>
+        </region>
+    </table>
+</document>

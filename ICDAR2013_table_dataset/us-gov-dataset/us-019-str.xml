@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-019.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="79" x2="107" y1="646" y2="656"/>
+                <content>Assets</content>
+                <instruction instr-id="400" subinstr-id="0"/>
+                <instruction instr-id="400" subinstr-id="2"/>
+                <instruction instr-id="400" subinstr-id="4"/>
+                <instruction instr-id="400" subinstr-id="6"/>
+                <instruction instr-id="400" subinstr-id="8"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="387" x2="407" y1="646" y2="656"/>
+                <content>2011</content>
+                <instruction instr-id="402" subinstr-id="0"/>
+                <instruction instr-id="402" subinstr-id="2"/>
+                <instruction instr-id="402" subinstr-id="4"/>
+                <instruction instr-id="402" subinstr-id="6"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="469" x2="489" y1="646" y2="656"/>
+                <content>2010</content>
+                <instruction instr-id="402" subinstr-id="10"/>
+                <instruction instr-id="402" subinstr-id="12"/>
+                <instruction instr-id="402" subinstr-id="14"/>
+                <instruction instr-id="402" subinstr-id="16"/>
+            </cell>
+            <cell id="3" start-col="0" start-row="1">
+                <bounding-box x1="93" x2="189" y1="621" y2="630"/>
+                <content>Intragovernmental Assets</content>
+                <instruction instr-id="405" subinstr-id="0"/>
+                <instruction instr-id="405" subinstr-id="2"/>
+                <instruction instr-id="405" subinstr-id="4"/>
+                <instruction instr-id="405" subinstr-id="6"/>
+                <instruction instr-id="405" subinstr-id="8"/>
+                <instruction instr-id="405" subinstr-id="10"/>
+                <instruction instr-id="405" subinstr-id="12"/>
+                <instruction instr-id="405" subinstr-id="14"/>
+                <instruction instr-id="405" subinstr-id="16"/>
+                <instruction instr-id="405" subinstr-id="18"/>
+                <instruction instr-id="405" subinstr-id="20"/>
+                <instruction instr-id="405" subinstr-id="22"/>
+                <instruction instr-id="405" subinstr-id="24"/>
+                <instruction instr-id="405" subinstr-id="26"/>
+                <instruction instr-id="405" subinstr-id="30"/>
+                <instruction instr-id="405" subinstr-id="32"/>
+                <instruction instr-id="405" subinstr-id="34"/>
+                <instruction instr-id="405" subinstr-id="36"/>
+                <instruction instr-id="405" subinstr-id="38"/>
+                <instruction instr-id="405" subinstr-id="40"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="2">
+                <bounding-box x1="107" x2="249" y1="608" y2="618"/>
+                <content>Fund Balance With Treasury (Note 2)</content>
+                <instruction instr-id="417" subinstr-id="0"/>
+                <instruction instr-id="417" subinstr-id="2"/>
+                <instruction instr-id="417" subinstr-id="4"/>
+                <instruction instr-id="417" subinstr-id="6"/>
+                <instruction instr-id="417" subinstr-id="10"/>
+                <instruction instr-id="417" subinstr-id="12"/>
+                <instruction instr-id="417" subinstr-id="14"/>
+                <instruction instr-id="417" subinstr-id="16"/>
+                <instruction instr-id="417" subinstr-id="18"/>
+                <instruction instr-id="417" subinstr-id="20"/>
+                <instruction instr-id="417" subinstr-id="24"/>
+                <instruction instr-id="417" subinstr-id="26"/>
+                <instruction instr-id="417" subinstr-id="28"/>
+                <instruction instr-id="417" subinstr-id="30"/>
+                <instruction instr-id="417" subinstr-id="34"/>
+                <instruction instr-id="417" subinstr-id="36"/>
+                <instruction instr-id="417" subinstr-id="38"/>
+                <instruction instr-id="417" subinstr-id="40"/>
+                <instruction instr-id="417" subinstr-id="42"/>
+                <instruction instr-id="417" subinstr-id="44"/>
+                <instruction instr-id="417" subinstr-id="48"/>
+                <instruction instr-id="417" subinstr-id="50"/>
+                <instruction instr-id="417" subinstr-id="52"/>
+                <instruction instr-id="417" subinstr-id="54"/>
+                <instruction instr-id="417" subinstr-id="58"/>
+                <instruction instr-id="417" subinstr-id="60"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="2">
+                <bounding-box x1="356" x2="428" y1="608" y2="618"/>
+                <content>$ 12,175,088</content>
+                <instruction instr-id="435" subinstr-id="0"/>
+                <instruction instr-id="435" subinstr-id="2"/>
+                <instruction instr-id="435" subinstr-id="4"/>
+                <instruction instr-id="435" subinstr-id="6"/>
+                <instruction instr-id="435" subinstr-id="8"/>
+                <instruction instr-id="435" subinstr-id="10"/>
+                <instruction instr-id="435" subinstr-id="12"/>
+                <instruction instr-id="435" subinstr-id="14"/>
+                <instruction instr-id="435" subinstr-id="16"/>
+                <instruction instr-id="435" subinstr-id="18"/>
+                <instruction instr-id="435" subinstr-id="20"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="2">
+                <bounding-box x1="435" x2="511" y1="608" y2="618"/>
+                <content>$ 12,458,688</content>
+                <instruction instr-id="443" subinstr-id="0"/>
+                <instruction instr-id="443" subinstr-id="2"/>
+                <instruction instr-id="443" subinstr-id="4"/>
+                <instruction instr-id="443" subinstr-id="6"/>
+                <instruction instr-id="443" subinstr-id="8"/>
+                <instruction instr-id="443" subinstr-id="10"/>
+                <instruction instr-id="443" subinstr-id="12"/>
+                <instruction instr-id="443" subinstr-id="14"/>
+                <instruction instr-id="443" subinstr-id="16"/>
+                <instruction instr-id="443" subinstr-id="18"/>
+                <instruction instr-id="443" subinstr-id="20"/>
+            </cell>
+            <cell id="7" start-col="0" start-row="3">
+                <bounding-box x1="107" x2="186" y1="596" y2="605"/>
+                <content>Accounts Receivable</content>
+                <instruction instr-id="429" subinstr-id="0"/>
+                <instruction instr-id="429" subinstr-id="2"/>
+                <instruction instr-id="429" subinstr-id="4"/>
+                <instruction instr-id="429" subinstr-id="6"/>
+                <instruction instr-id="429" subinstr-id="8"/>
+                <instruction instr-id="429" subinstr-id="10"/>
+                <instruction instr-id="429" subinstr-id="12"/>
+                <instruction instr-id="429" subinstr-id="14"/>
+                <instruction instr-id="429" subinstr-id="18"/>
+                <instruction instr-id="429" subinstr-id="20"/>
+                <instruction instr-id="429" subinstr-id="22"/>
+                <instruction instr-id="429" subinstr-id="24"/>
+                <instruction instr-id="429" subinstr-id="26"/>
+                <instruction instr-id="429" subinstr-id="28"/>
+                <instruction instr-id="429" subinstr-id="30"/>
+                <instruction instr-id="429" subinstr-id="32"/>
+                <instruction instr-id="429" subinstr-id="34"/>
+            </cell>
+            <cell id="8" start-col="1" start-row="3">
+                <bounding-box x1="404" x2="428" y1="596" y2="605"/>
+                <content>10,726</content>
+                <instruction instr-id="437" subinstr-id="0"/>
+                <instruction instr-id="437" subinstr-id="2"/>
+                <instruction instr-id="437" subinstr-id="4"/>
+                <instruction instr-id="437" subinstr-id="6"/>
+                <instruction instr-id="437" subinstr-id="8"/>
+                <instruction instr-id="437" subinstr-id="10"/>
+            </cell>
+            <cell id="9" start-col="2" start-row="3">
+                <bounding-box x1="487" x2="511" y1="596" y2="605"/>
+                <content>14,390</content>
+                <instruction instr-id="445" subinstr-id="0"/>
+                <instruction instr-id="445" subinstr-id="2"/>
+                <instruction instr-id="445" subinstr-id="4"/>
+                <instruction instr-id="445" subinstr-id="6"/>
+                <instruction instr-id="445" subinstr-id="8"/>
+                <instruction instr-id="445" subinstr-id="10"/>
+            </cell>
+            <cell id="10" start-col="0" start-row="4">
+                <bounding-box x1="107" x2="144" y1="583" y2="592"/>
+                <content>Advances</content>
+                <instruction instr-id="431" subinstr-id="0"/>
+                <instruction instr-id="431" subinstr-id="2"/>
+                <instruction instr-id="431" subinstr-id="4"/>
+                <instruction instr-id="431" subinstr-id="6"/>
+                <instruction instr-id="431" subinstr-id="8"/>
+                <instruction instr-id="431" subinstr-id="10"/>
+                <instruction instr-id="431" subinstr-id="12"/>
+                <instruction instr-id="431" subinstr-id="14"/>
+            </cell>
+            <cell id="11" start-col="1" start-row="4">
+                <bounding-box x1="404" x2="428" y1="583" y2="592"/>
+                <content>69,228</content>
+                <instruction instr-id="439" subinstr-id="0"/>
+                <instruction instr-id="439" subinstr-id="2"/>
+                <instruction instr-id="439" subinstr-id="4"/>
+                <instruction instr-id="439" subinstr-id="6"/>
+                <instruction instr-id="439" subinstr-id="8"/>
+                <instruction instr-id="439" subinstr-id="10"/>
+            </cell>
+            <cell id="12" start-col="2" start-row="4">
+                <bounding-box x1="491" x2="511" y1="583" y2="592"/>
+                <content>9,782</content>
+                <instruction instr-id="447" subinstr-id="0"/>
+                <instruction instr-id="447" subinstr-id="2"/>
+                <instruction instr-id="447" subinstr-id="4"/>
+                <instruction instr-id="447" subinstr-id="6"/>
+                <instruction instr-id="447" subinstr-id="8"/>
+            </cell>
+            <cell id="13" start-col="0" start-row="5">
+                <bounding-box x1="93" x2="210" y1="570" y2="580"/>
+                <content>Total Intragovernmental Assets</content>
+                <instruction instr-id="433" subinstr-id="0"/>
+                <instruction instr-id="433" subinstr-id="2"/>
+                <instruction instr-id="433" subinstr-id="4"/>
+                <instruction instr-id="433" subinstr-id="6"/>
+                <instruction instr-id="433" subinstr-id="8"/>
+                <instruction instr-id="433" subinstr-id="12"/>
+                <instruction instr-id="433" subinstr-id="14"/>
+                <instruction instr-id="433" subinstr-id="16"/>
+                <instruction instr-id="433" subinstr-id="18"/>
+                <instruction instr-id="433" subinstr-id="20"/>
+                <instruction instr-id="433" subinstr-id="22"/>
+                <instruction instr-id="433" subinstr-id="24"/>
+                <instruction instr-id="433" subinstr-id="26"/>
+                <instruction instr-id="433" subinstr-id="28"/>
+                <instruction instr-id="433" subinstr-id="30"/>
+                <instruction instr-id="433" subinstr-id="32"/>
+                <instruction instr-id="433" subinstr-id="34"/>
+                <instruction instr-id="433" subinstr-id="36"/>
+                <instruction instr-id="433" subinstr-id="38"/>
+                <instruction instr-id="433" subinstr-id="42"/>
+                <instruction instr-id="433" subinstr-id="44"/>
+                <instruction instr-id="433" subinstr-id="46"/>
+                <instruction instr-id="433" subinstr-id="48"/>
+                <instruction instr-id="433" subinstr-id="50"/>
+                <instruction instr-id="433" subinstr-id="52"/>
+            </cell>
+            <cell id="14" start-col="1" start-row="5">
+                <bounding-box x1="389" x2="428" y1="570" y2="580"/>
+                <content>12,255,042</content>
+                <instruction instr-id="441" subinstr-id="0"/>
+                <instruction instr-id="441" subinstr-id="2"/>
+                <instruction instr-id="441" subinstr-id="4"/>
+                <instruction instr-id="441" subinstr-id="6"/>
+                <instruction instr-id="441" subinstr-id="8"/>
+                <instruction instr-id="441" subinstr-id="10"/>
+                <instruction instr-id="441" subinstr-id="12"/>
+                <instruction instr-id="441" subinstr-id="14"/>
+                <instruction instr-id="441" subinstr-id="16"/>
+                <instruction instr-id="441" subinstr-id="18"/>
+            </cell>
+            <cell id="15" start-col="2" start-row="5">
+                <bounding-box x1="471" x2="511" y1="570" y2="580"/>
+                <content>12,482,860</content>
+                <instruction instr-id="449" subinstr-id="0"/>
+                <instruction instr-id="449" subinstr-id="2"/>
+                <instruction instr-id="449" subinstr-id="4"/>
+                <instruction instr-id="449" subinstr-id="6"/>
+                <instruction instr-id="449" subinstr-id="8"/>
+                <instruction instr-id="449" subinstr-id="10"/>
+                <instruction instr-id="449" subinstr-id="12"/>
+                <instruction instr-id="449" subinstr-id="14"/>
+                <instruction instr-id="449" subinstr-id="16"/>
+                <instruction instr-id="449" subinstr-id="18"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="6">
+                <bounding-box x1="93" x2="218" y1="545" y2="555"/>
+                <content>Cash and Other Monetary Assets</content>
+                <instruction instr-id="451" subinstr-id="0"/>
+                <instruction instr-id="451" subinstr-id="2"/>
+                <instruction instr-id="451" subinstr-id="4"/>
+                <instruction instr-id="451" subinstr-id="8"/>
+                <instruction instr-id="451" subinstr-id="10"/>
+                <instruction instr-id="451" subinstr-id="12"/>
+                <instruction instr-id="451" subinstr-id="16"/>
+                <instruction instr-id="451" subinstr-id="18"/>
+                <instruction instr-id="451" subinstr-id="20"/>
+                <instruction instr-id="451" subinstr-id="22"/>
+                <instruction instr-id="451" subinstr-id="24"/>
+                <instruction instr-id="451" subinstr-id="26"/>
+                <instruction instr-id="451" subinstr-id="28"/>
+                <instruction instr-id="451" subinstr-id="30"/>
+                <instruction instr-id="451" subinstr-id="32"/>
+                <instruction instr-id="451" subinstr-id="34"/>
+                <instruction instr-id="451" subinstr-id="36"/>
+                <instruction instr-id="451" subinstr-id="38"/>
+                <instruction instr-id="451" subinstr-id="42"/>
+                <instruction instr-id="451" subinstr-id="44"/>
+                <instruction instr-id="451" subinstr-id="46"/>
+                <instruction instr-id="451" subinstr-id="48"/>
+                <instruction instr-id="451" subinstr-id="50"/>
+                <instruction instr-id="451" subinstr-id="52"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="6">
+                <bounding-box x1="404" x2="428" y1="545" y2="555"/>
+                <content>51,380</content>
+                <instruction instr-id="463" subinstr-id="0"/>
+                <instruction instr-id="463" subinstr-id="2"/>
+                <instruction instr-id="463" subinstr-id="4"/>
+                <instruction instr-id="463" subinstr-id="6"/>
+                <instruction instr-id="463" subinstr-id="8"/>
+                <instruction instr-id="463" subinstr-id="10"/>
+            </cell>
+            <cell id="18" start-col="2" start-row="6">
+                <bounding-box x1="487" x2="511" y1="545" y2="555"/>
+                <content>44,683</content>
+                <instruction instr-id="473" subinstr-id="0"/>
+                <instruction instr-id="473" subinstr-id="2"/>
+                <instruction instr-id="473" subinstr-id="4"/>
+                <instruction instr-id="473" subinstr-id="6"/>
+                <instruction instr-id="473" subinstr-id="8"/>
+                <instruction instr-id="473" subinstr-id="10"/>
+            </cell>
+            <cell id="19" start-col="0" start-row="7">
+                <bounding-box x1="93" x2="191" y1="532" y2="542"/>
+                <content>Accounts Receivable, Net</content>
+                <instruction instr-id="453" subinstr-id="0"/>
+                <instruction instr-id="453" subinstr-id="2"/>
+                <instruction instr-id="453" subinstr-id="4"/>
+                <instruction instr-id="453" subinstr-id="6"/>
+                <instruction instr-id="453" subinstr-id="8"/>
+                <instruction instr-id="453" subinstr-id="10"/>
+                <instruction instr-id="453" subinstr-id="12"/>
+                <instruction instr-id="453" subinstr-id="14"/>
+                <instruction instr-id="453" subinstr-id="18"/>
+                <instruction instr-id="453" subinstr-id="20"/>
+                <instruction instr-id="453" subinstr-id="22"/>
+                <instruction instr-id="453" subinstr-id="24"/>
+                <instruction instr-id="453" subinstr-id="26"/>
+                <instruction instr-id="453" subinstr-id="28"/>
+                <instruction instr-id="453" subinstr-id="30"/>
+                <instruction instr-id="453" subinstr-id="32"/>
+                <instruction instr-id="453" subinstr-id="34"/>
+                <instruction instr-id="453" subinstr-id="36"/>
+                <instruction instr-id="453" subinstr-id="40"/>
+                <instruction instr-id="453" subinstr-id="42"/>
+                <instruction instr-id="453" subinstr-id="44"/>
+            </cell>
+            <cell id="20" start-col="1" start-row="7">
+                <bounding-box x1="414" x2="428" y1="532" y2="542"/>
+                <content>186</content>
+                <instruction instr-id="465" subinstr-id="0"/>
+                <instruction instr-id="465" subinstr-id="2"/>
+                <instruction instr-id="465" subinstr-id="4"/>
+            </cell>
+            <cell id="21" start-col="2" start-row="7">
+                <bounding-box x1="497" x2="511" y1="532" y2="542"/>
+                <content>126</content>
+                <instruction instr-id="475" subinstr-id="0"/>
+                <instruction instr-id="475" subinstr-id="2"/>
+                <instruction instr-id="475" subinstr-id="4"/>
+            </cell>
+            <cell id="22" start-col="0" start-row="8">
+                <bounding-box x1="93" x2="317" y1="520" y2="529"/>
+                <content>General Property, Plant and Equipment, Net (Notes 3 and 4)</content>
+                <instruction instr-id="455" subinstr-id="0"/>
+                <instruction instr-id="455" subinstr-id="2"/>
+                <instruction instr-id="455" subinstr-id="4"/>
+                <instruction instr-id="455" subinstr-id="6"/>
+                <instruction instr-id="455" subinstr-id="8"/>
+                <instruction instr-id="455" subinstr-id="10"/>
+                <instruction instr-id="455" subinstr-id="14"/>
+                <instruction instr-id="455" subinstr-id="16"/>
+                <instruction instr-id="455" subinstr-id="18"/>
+                <instruction instr-id="455" subinstr-id="20"/>
+                <instruction instr-id="455" subinstr-id="22"/>
+                <instruction instr-id="455" subinstr-id="24"/>
+                <instruction instr-id="455" subinstr-id="26"/>
+                <instruction instr-id="455" subinstr-id="30"/>
+                <instruction instr-id="455" subinstr-id="32"/>
+                <instruction instr-id="455" subinstr-id="34"/>
+                <instruction instr-id="455" subinstr-id="36"/>
+                <instruction instr-id="455" subinstr-id="38"/>
+                <instruction instr-id="455" subinstr-id="42"/>
+                <instruction instr-id="455" subinstr-id="44"/>
+                <instruction instr-id="455" subinstr-id="46"/>
+                <instruction instr-id="455" subinstr-id="50"/>
+                <instruction instr-id="455" subinstr-id="52"/>
+                <instruction instr-id="455" subinstr-id="54"/>
+                <instruction instr-id="455" subinstr-id="56"/>
+                <instruction instr-id="455" subinstr-id="58"/>
+                <instruction instr-id="455" subinstr-id="60"/>
+                <instruction instr-id="455" subinstr-id="62"/>
+                <instruction instr-id="455" subinstr-id="64"/>
+                <instruction instr-id="455" subinstr-id="66"/>
+                <instruction instr-id="455" subinstr-id="68"/>
+                <instruction instr-id="455" subinstr-id="72"/>
+                <instruction instr-id="455" subinstr-id="74"/>
+                <instruction instr-id="455" subinstr-id="76"/>
+                <instruction instr-id="455" subinstr-id="80"/>
+                <instruction instr-id="455" subinstr-id="82"/>
+                <instruction instr-id="455" subinstr-id="84"/>
+                <instruction instr-id="455" subinstr-id="86"/>
+                <instruction instr-id="455" subinstr-id="88"/>
+                <instruction instr-id="455" subinstr-id="92"/>
+                <instruction instr-id="455" subinstr-id="96"/>
+                <instruction instr-id="455" subinstr-id="98"/>
+                <instruction instr-id="455" subinstr-id="100"/>
+                <instruction instr-id="455" subinstr-id="104"/>
+                <instruction instr-id="455" subinstr-id="106"/>
+            </cell>
+            <cell id="23" start-col="1" start-row="8">
+                <bounding-box x1="399" x2="428" y1="520" y2="529"/>
+                <content>278,126</content>
+                <instruction instr-id="467" subinstr-id="0"/>
+                <instruction instr-id="467" subinstr-id="2"/>
+                <instruction instr-id="467" subinstr-id="4"/>
+                <instruction instr-id="467" subinstr-id="6"/>
+                <instruction instr-id="467" subinstr-id="8"/>
+                <instruction instr-id="467" subinstr-id="10"/>
+                <instruction instr-id="467" subinstr-id="12"/>
+            </cell>
+            <cell id="24" start-col="2" start-row="8">
+                <bounding-box x1="482" x2="511" y1="520" y2="529"/>
+                <content>276,754</content>
+                <instruction instr-id="477" subinstr-id="0"/>
+                <instruction instr-id="477" subinstr-id="2"/>
+                <instruction instr-id="477" subinstr-id="4"/>
+                <instruction instr-id="477" subinstr-id="6"/>
+                <instruction instr-id="477" subinstr-id="8"/>
+                <instruction instr-id="477" subinstr-id="10"/>
+                <instruction instr-id="477" subinstr-id="12"/>
+            </cell>
+            <cell id="25" start-col="0" start-row="9">
+                <bounding-box x1="79" x2="131" y1="503" y2="513"/>
+                <content>Total Assets</content>
+                <instruction instr-id="458" subinstr-id="0"/>
+                <instruction instr-id="458" subinstr-id="2"/>
+                <instruction instr-id="458" subinstr-id="4"/>
+                <instruction instr-id="458" subinstr-id="8"/>
+                <instruction instr-id="458" subinstr-id="10"/>
+                <instruction instr-id="458" subinstr-id="12"/>
+                <instruction instr-id="458" subinstr-id="14"/>
+                <instruction instr-id="458" subinstr-id="16"/>
+            </cell>
+            <cell id="26" start-col="1" start-row="9">
+                <bounding-box x1="355" x2="427" y1="503" y2="513"/>
+                <content>$ 12,584,734</content>
+                <instruction instr-id="460"/>
+                <instruction instr-id="470" subinstr-id="0"/>
+                <instruction instr-id="470" subinstr-id="2"/>
+                <instruction instr-id="470" subinstr-id="4"/>
+                <instruction instr-id="470" subinstr-id="6"/>
+                <instruction instr-id="470" subinstr-id="8"/>
+                <instruction instr-id="470" subinstr-id="10"/>
+                <instruction instr-id="470" subinstr-id="12"/>
+                <instruction instr-id="470" subinstr-id="14"/>
+                <instruction instr-id="470" subinstr-id="16"/>
+                <instruction instr-id="470" subinstr-id="18"/>
+            </cell>
+            <cell id="27" start-col="2" start-row="9">
+                <bounding-box x1="435" x2="510" y1="503" y2="513"/>
+                <content>$ 12,804,423</content>
+                <instruction instr-id="470" subinstr-id="22"/>
+                <instruction instr-id="480" subinstr-id="0"/>
+                <instruction instr-id="480" subinstr-id="2"/>
+                <instruction instr-id="480" subinstr-id="4"/>
+                <instruction instr-id="480" subinstr-id="6"/>
+                <instruction instr-id="480" subinstr-id="8"/>
+                <instruction instr-id="480" subinstr-id="10"/>
+                <instruction instr-id="480" subinstr-id="12"/>
+                <instruction instr-id="480" subinstr-id="14"/>
+                <instruction instr-id="480" subinstr-id="16"/>
+                <instruction instr-id="480" subinstr-id="18"/>
+            </cell>
+            <cell id="28" start-col="0" start-row="10">
+                <bounding-box x1="79" x2="120" y1="477" y2="486"/>
+                <content>Liabilities</content>
+                <instruction instr-id="482" subinstr-id="0"/>
+                <instruction instr-id="482" subinstr-id="2"/>
+                <instruction instr-id="482" subinstr-id="4"/>
+                <instruction instr-id="482" subinstr-id="6"/>
+                <instruction instr-id="482" subinstr-id="8"/>
+                <instruction instr-id="482" subinstr-id="10"/>
+                <instruction instr-id="482" subinstr-id="12"/>
+                <instruction instr-id="482" subinstr-id="14"/>
+                <instruction instr-id="482" subinstr-id="16"/>
+            </cell>
+            <cell id="29" start-col="0" start-row="11">
+                <bounding-box x1="93" x2="198" y1="452" y2="461"/>
+                <content>Intragovernmental Liabilities</content>
+                <instruction instr-id="485" subinstr-id="0"/>
+                <instruction instr-id="485" subinstr-id="2"/>
+                <instruction instr-id="485" subinstr-id="4"/>
+                <instruction instr-id="485" subinstr-id="6"/>
+                <instruction instr-id="485" subinstr-id="8"/>
+                <instruction instr-id="485" subinstr-id="10"/>
+                <instruction instr-id="485" subinstr-id="12"/>
+                <instruction instr-id="485" subinstr-id="14"/>
+                <instruction instr-id="485" subinstr-id="16"/>
+                <instruction instr-id="485" subinstr-id="18"/>
+                <instruction instr-id="485" subinstr-id="20"/>
+                <instruction instr-id="485" subinstr-id="22"/>
+                <instruction instr-id="485" subinstr-id="24"/>
+                <instruction instr-id="485" subinstr-id="26"/>
+                <instruction instr-id="485" subinstr-id="30"/>
+                <instruction instr-id="485" subinstr-id="32"/>
+                <instruction instr-id="485" subinstr-id="34"/>
+                <instruction instr-id="485" subinstr-id="36"/>
+                <instruction instr-id="485" subinstr-id="38"/>
+                <instruction instr-id="485" subinstr-id="40"/>
+                <instruction instr-id="485" subinstr-id="42"/>
+                <instruction instr-id="485" subinstr-id="44"/>
+                <instruction instr-id="485" subinstr-id="46"/>
+                <instruction instr-id="485" subinstr-id="48"/>
+                <instruction instr-id="485" subinstr-id="50"/>
+            </cell>
+            <cell id="30" start-col="0" start-row="12">
+                <bounding-box x1="107" x2="194" y1="439" y2="448"/>
+                <content>Advances From Others</content>
+                <instruction instr-id="487" subinstr-id="0"/>
+                <instruction instr-id="487" subinstr-id="2"/>
+                <instruction instr-id="487" subinstr-id="4"/>
+                <instruction instr-id="487" subinstr-id="6"/>
+                <instruction instr-id="487" subinstr-id="8"/>
+                <instruction instr-id="487" subinstr-id="10"/>
+                <instruction instr-id="487" subinstr-id="12"/>
+                <instruction instr-id="487" subinstr-id="14"/>
+                <instruction instr-id="487" subinstr-id="18"/>
+                <instruction instr-id="487" subinstr-id="20"/>
+                <instruction instr-id="487" subinstr-id="22"/>
+                <instruction instr-id="487" subinstr-id="26"/>
+                <instruction instr-id="487" subinstr-id="28"/>
+                <instruction instr-id="487" subinstr-id="30"/>
+                <instruction instr-id="487" subinstr-id="32"/>
+                <instruction instr-id="487" subinstr-id="34"/>
+            </cell>
+            <cell id="31" start-col="1" start-row="12">
+                <bounding-box x1="356" x2="428" y1="439" y2="448"/>
+                <content>$ 20,773</content>
+                <instruction instr-id="497" subinstr-id="0"/>
+                <instruction instr-id="497" subinstr-id="2"/>
+                <instruction instr-id="497" subinstr-id="4"/>
+                <instruction instr-id="497" subinstr-id="6"/>
+                <instruction instr-id="497" subinstr-id="8"/>
+                <instruction instr-id="497" subinstr-id="10"/>
+                <instruction instr-id="497" subinstr-id="12"/>
+            </cell>
+            <cell id="32" start-col="2" start-row="12">
+                <bounding-box x1="435" x2="511" y1="439" y2="448"/>
+                <content>$ 42,224</content>
+                <instruction instr-id="507" subinstr-id="0"/>
+                <instruction instr-id="507" subinstr-id="2"/>
+                <instruction instr-id="507" subinstr-id="4"/>
+                <instruction instr-id="507" subinstr-id="6"/>
+                <instruction instr-id="507" subinstr-id="8"/>
+                <instruction instr-id="507" subinstr-id="10"/>
+                <instruction instr-id="507" subinstr-id="12"/>
+            </cell>
+            <cell id="33" start-col="0" start-row="13">
+                <bounding-box x1="107" x2="194" y1="426" y2="436"/>
+                <content>Employer Contributions</content>
+                <instruction instr-id="489" subinstr-id="0"/>
+                <instruction instr-id="489" subinstr-id="2"/>
+                <instruction instr-id="489" subinstr-id="4"/>
+                <instruction instr-id="489" subinstr-id="6"/>
+                <instruction instr-id="489" subinstr-id="8"/>
+                <instruction instr-id="489" subinstr-id="10"/>
+                <instruction instr-id="489" subinstr-id="12"/>
+                <instruction instr-id="489" subinstr-id="14"/>
+                <instruction instr-id="489" subinstr-id="16"/>
+                <instruction instr-id="489" subinstr-id="18"/>
+                <instruction instr-id="489" subinstr-id="20"/>
+                <instruction instr-id="489" subinstr-id="22"/>
+                <instruction instr-id="489" subinstr-id="24"/>
+                <instruction instr-id="489" subinstr-id="26"/>
+                <instruction instr-id="489" subinstr-id="28"/>
+                <instruction instr-id="489" subinstr-id="30"/>
+                <instruction instr-id="489" subinstr-id="32"/>
+                <instruction instr-id="489" subinstr-id="34"/>
+                <instruction instr-id="489" subinstr-id="36"/>
+            </cell>
+            <cell id="34" start-col="1" start-row="13">
+                <bounding-box x1="414" x2="428" y1="426" y2="436"/>
+                <content>550</content>
+                <instruction instr-id="499" subinstr-id="0"/>
+                <instruction instr-id="499" subinstr-id="2"/>
+                <instruction instr-id="499" subinstr-id="4"/>
+            </cell>
+            <cell id="35" start-col="2" start-row="13">
+                <bounding-box x1="491" x2="511" y1="426" y2="436"/>
+                <content>1,612</content>
+                <instruction instr-id="509" subinstr-id="0"/>
+                <instruction instr-id="509" subinstr-id="2"/>
+                <instruction instr-id="509" subinstr-id="4"/>
+                <instruction instr-id="509" subinstr-id="6"/>
+                <instruction instr-id="509" subinstr-id="8"/>
+            </cell>
+            <cell id="36" start-col="0" start-row="14">
+                <bounding-box x1="107" x2="204" y1="414" y2="423"/>
+                <content>FECA Employee Benefits</content>
+                <instruction instr-id="491" subinstr-id="0"/>
+                <instruction instr-id="491" subinstr-id="2"/>
+                <instruction instr-id="491" subinstr-id="4"/>
+                <instruction instr-id="491" subinstr-id="8"/>
+                <instruction instr-id="491" subinstr-id="10"/>
+                <instruction instr-id="491" subinstr-id="12"/>
+                <instruction instr-id="491" subinstr-id="14"/>
+                <instruction instr-id="491" subinstr-id="16"/>
+                <instruction instr-id="491" subinstr-id="18"/>
+                <instruction instr-id="491" subinstr-id="20"/>
+                <instruction instr-id="491" subinstr-id="22"/>
+                <instruction instr-id="491" subinstr-id="26"/>
+                <instruction instr-id="491" subinstr-id="28"/>
+                <instruction instr-id="491" subinstr-id="30"/>
+                <instruction instr-id="491" subinstr-id="32"/>
+                <instruction instr-id="491" subinstr-id="34"/>
+                <instruction instr-id="491" subinstr-id="36"/>
+            </cell>
+            <cell id="37" start-col="1" start-row="14">
+                <bounding-box x1="414" x2="428" y1="414" y2="423"/>
+                <content>345</content>
+                <instruction instr-id="501" subinstr-id="0"/>
+                <instruction instr-id="501" subinstr-id="2"/>
+                <instruction instr-id="501" subinstr-id="4"/>
+            </cell>
+            <cell id="38" start-col="2" start-row="14">
+                <bounding-box x1="497" x2="511" y1="414" y2="423"/>
+                <content>340</content>
+                <instruction instr-id="511" subinstr-id="0"/>
+                <instruction instr-id="511" subinstr-id="2"/>
+                <instruction instr-id="511" subinstr-id="4"/>
+            </cell>
+            <cell id="39" start-col="0" start-row="15">
+                <bounding-box x1="107" x2="236" y1="401" y2="410"/>
+                <content>Other Intragovernmental Liabilities</content>
+                <instruction instr-id="493" subinstr-id="0"/>
+                <instruction instr-id="493" subinstr-id="2"/>
+                <instruction instr-id="493" subinstr-id="4"/>
+                <instruction instr-id="493" subinstr-id="6"/>
+                <instruction instr-id="493" subinstr-id="8"/>
+                <instruction instr-id="493" subinstr-id="10"/>
+                <instruction instr-id="493" subinstr-id="12"/>
+                <instruction instr-id="493" subinstr-id="14"/>
+                <instruction instr-id="493" subinstr-id="16"/>
+                <instruction instr-id="493" subinstr-id="18"/>
+                <instruction instr-id="493" subinstr-id="20"/>
+                <instruction instr-id="493" subinstr-id="22"/>
+                <instruction instr-id="493" subinstr-id="24"/>
+                <instruction instr-id="493" subinstr-id="26"/>
+                <instruction instr-id="493" subinstr-id="28"/>
+                <instruction instr-id="493" subinstr-id="30"/>
+                <instruction instr-id="493" subinstr-id="32"/>
+                <instruction instr-id="493" subinstr-id="34"/>
+                <instruction instr-id="493" subinstr-id="36"/>
+                <instruction instr-id="493" subinstr-id="40"/>
+                <instruction instr-id="493" subinstr-id="42"/>
+                <instruction instr-id="493" subinstr-id="44"/>
+                <instruction instr-id="493" subinstr-id="46"/>
+                <instruction instr-id="493" subinstr-id="48"/>
+                <instruction instr-id="493" subinstr-id="50"/>
+                <instruction instr-id="493" subinstr-id="52"/>
+                <instruction instr-id="493" subinstr-id="54"/>
+                <instruction instr-id="493" subinstr-id="56"/>
+                <instruction instr-id="493" subinstr-id="58"/>
+                <instruction instr-id="493" subinstr-id="60"/>
+            </cell>
+            <cell id="40" start-col="1" start-row="15">
+                <bounding-box x1="414" x2="428" y1="401" y2="410"/>
+                <content>984</content>
+                <instruction instr-id="503" subinstr-id="0"/>
+                <instruction instr-id="503" subinstr-id="2"/>
+                <instruction instr-id="503" subinstr-id="4"/>
+            </cell>
+            <cell id="41" start-col="2" start-row="15">
+                <bounding-box x1="491" x2="511" y1="401" y2="410"/>
+                <content>3,000</content>
+                <instruction instr-id="513" subinstr-id="0"/>
+                <instruction instr-id="513" subinstr-id="2"/>
+                <instruction instr-id="513" subinstr-id="4"/>
+                <instruction instr-id="513" subinstr-id="6"/>
+                <instruction instr-id="513" subinstr-id="8"/>
+            </cell>
+            <cell id="42" start-col="0" start-row="16">
+                <bounding-box x1="93" x2="220" y1="388" y2="398"/>
+                <content>Total Intragovernmental Liabilities</content>
+                <instruction instr-id="495" subinstr-id="0"/>
+                <instruction instr-id="495" subinstr-id="2"/>
+                <instruction instr-id="495" subinstr-id="4"/>
+                <instruction instr-id="495" subinstr-id="6"/>
+                <instruction instr-id="495" subinstr-id="8"/>
+                <instruction instr-id="495" subinstr-id="12"/>
+                <instruction instr-id="495" subinstr-id="14"/>
+                <instruction instr-id="495" subinstr-id="16"/>
+                <instruction instr-id="495" subinstr-id="18"/>
+                <instruction instr-id="495" subinstr-id="20"/>
+                <instruction instr-id="495" subinstr-id="22"/>
+                <instruction instr-id="495" subinstr-id="24"/>
+                <instruction instr-id="495" subinstr-id="26"/>
+                <instruction instr-id="495" subinstr-id="28"/>
+                <instruction instr-id="495" subinstr-id="30"/>
+                <instruction instr-id="495" subinstr-id="32"/>
+                <instruction instr-id="495" subinstr-id="34"/>
+                <instruction instr-id="495" subinstr-id="36"/>
+                <instruction instr-id="495" subinstr-id="38"/>
+                <instruction instr-id="495" subinstr-id="42"/>
+                <instruction instr-id="495" subinstr-id="44"/>
+                <instruction instr-id="495" subinstr-id="46"/>
+                <instruction instr-id="495" subinstr-id="48"/>
+                <instruction instr-id="495" subinstr-id="50"/>
+                <instruction instr-id="495" subinstr-id="52"/>
+                <instruction instr-id="495" subinstr-id="54"/>
+                <instruction instr-id="495" subinstr-id="56"/>
+                <instruction instr-id="495" subinstr-id="58"/>
+                <instruction instr-id="495" subinstr-id="60"/>
+                <instruction instr-id="495" subinstr-id="62"/>
+            </cell>
+            <cell id="43" start-col="1" start-row="16">
+                <bounding-box x1="404" x2="428" y1="388" y2="398"/>
+                <content>22,652</content>
+                <instruction instr-id="505" subinstr-id="0"/>
+                <instruction instr-id="505" subinstr-id="2"/>
+                <instruction instr-id="505" subinstr-id="4"/>
+                <instruction instr-id="505" subinstr-id="6"/>
+                <instruction instr-id="505" subinstr-id="8"/>
+                <instruction instr-id="505" subinstr-id="10"/>
+            </cell>
+            <cell id="44" start-col="2" start-row="17">
+                <bounding-box x1="487" x2="511" y1="388" y2="398"/>
+                <content>47,176</content>
+                <instruction instr-id="515" subinstr-id="0"/>
+                <instruction instr-id="515" subinstr-id="2"/>
+                <instruction instr-id="515" subinstr-id="4"/>
+                <instruction instr-id="515" subinstr-id="6"/>
+                <instruction instr-id="515" subinstr-id="8"/>
+                <instruction instr-id="515" subinstr-id="10"/>
+            </cell>
+            <cell id="45" start-col="0" start-row="18">
+                <bounding-box x1="93" x2="161" y1="363" y2="373"/>
+                <content>Accounts Payable</content>
+                <instruction instr-id="517" subinstr-id="0"/>
+                <instruction instr-id="517" subinstr-id="2"/>
+                <instruction instr-id="517" subinstr-id="4"/>
+                <instruction instr-id="517" subinstr-id="6"/>
+                <instruction instr-id="517" subinstr-id="8"/>
+                <instruction instr-id="517" subinstr-id="10"/>
+                <instruction instr-id="517" subinstr-id="12"/>
+                <instruction instr-id="517" subinstr-id="14"/>
+                <instruction instr-id="517" subinstr-id="18"/>
+                <instruction instr-id="517" subinstr-id="20"/>
+                <instruction instr-id="517" subinstr-id="22"/>
+                <instruction instr-id="517" subinstr-id="24"/>
+                <instruction instr-id="517" subinstr-id="26"/>
+                <instruction instr-id="517" subinstr-id="28"/>
+                <instruction instr-id="517" subinstr-id="30"/>
+            </cell>
+            <cell id="46" start-col="1" start-row="19">
+                <bounding-box x1="404" x2="428" y1="363" y2="373"/>
+                <content>54,016</content>
+                <instruction instr-id="533" subinstr-id="0"/>
+                <instruction instr-id="533" subinstr-id="2"/>
+                <instruction instr-id="533" subinstr-id="4"/>
+                <instruction instr-id="533" subinstr-id="6"/>
+                <instruction instr-id="533" subinstr-id="8"/>
+                <instruction instr-id="533" subinstr-id="10"/>
+            </cell>
+            <cell id="47" start-col="2" start-row="19">
+                <bounding-box x1="487" x2="511" y1="363" y2="373"/>
+                <content>55,709</content>
+                <instruction instr-id="547" subinstr-id="0"/>
+                <instruction instr-id="547" subinstr-id="2"/>
+                <instruction instr-id="547" subinstr-id="4"/>
+                <instruction instr-id="547" subinstr-id="6"/>
+                <instruction instr-id="547" subinstr-id="8"/>
+                <instruction instr-id="547" subinstr-id="10"/>
+            </cell>
+            <cell id="48" start-col="0" start-row="20">
+                <bounding-box x1="93" x2="190" y1="350" y2="360"/>
+                <content>FECA Employee Benefits</content>
+                <instruction instr-id="519" subinstr-id="0"/>
+                <instruction instr-id="519" subinstr-id="2"/>
+                <instruction instr-id="519" subinstr-id="4"/>
+                <instruction instr-id="519" subinstr-id="8"/>
+                <instruction instr-id="519" subinstr-id="10"/>
+                <instruction instr-id="519" subinstr-id="12"/>
+                <instruction instr-id="519" subinstr-id="14"/>
+                <instruction instr-id="519" subinstr-id="16"/>
+                <instruction instr-id="519" subinstr-id="18"/>
+                <instruction instr-id="519" subinstr-id="20"/>
+                <instruction instr-id="519" subinstr-id="22"/>
+                <instruction instr-id="519" subinstr-id="26"/>
+                <instruction instr-id="519" subinstr-id="28"/>
+                <instruction instr-id="519" subinstr-id="30"/>
+                <instruction instr-id="519" subinstr-id="32"/>
+                <instruction instr-id="519" subinstr-id="34"/>
+                <instruction instr-id="519" subinstr-id="36"/>
+            </cell>
+            <cell id="49" start-col="1" start-row="20">
+                <bounding-box x1="408" x2="428" y1="350" y2="360"/>
+                <content>1,272</content>
+                <instruction instr-id="535" subinstr-id="0"/>
+                <instruction instr-id="535" subinstr-id="2"/>
+                <instruction instr-id="535" subinstr-id="4"/>
+                <instruction instr-id="535" subinstr-id="6"/>
+                <instruction instr-id="535" subinstr-id="8"/>
+            </cell>
+            <cell id="50" start-col="2" start-row="20">
+                <bounding-box x1="491" x2="511" y1="350" y2="360"/>
+                <content>1,356</content>
+                <instruction instr-id="549" subinstr-id="0"/>
+                <instruction instr-id="549" subinstr-id="2"/>
+                <instruction instr-id="549" subinstr-id="4"/>
+                <instruction instr-id="549" subinstr-id="6"/>
+                <instruction instr-id="549" subinstr-id="8"/>
+            </cell>
+            <cell id="51" start-col="0" start-row="21">
+                <bounding-box x1="93" x2="196" y1="338" y2="347"/>
+                <content>Accrued Liabilities - Grants</content>
+                <instruction instr-id="521" subinstr-id="0"/>
+                <instruction instr-id="521" subinstr-id="2"/>
+                <instruction instr-id="521" subinstr-id="4"/>
+                <instruction instr-id="521" subinstr-id="6"/>
+                <instruction instr-id="521" subinstr-id="8"/>
+                <instruction instr-id="521" subinstr-id="10"/>
+                <instruction instr-id="521" subinstr-id="14"/>
+                <instruction instr-id="521" subinstr-id="16"/>
+                <instruction instr-id="521" subinstr-id="18"/>
+                <instruction instr-id="521" subinstr-id="20"/>
+                <instruction instr-id="521" subinstr-id="22"/>
+                <instruction instr-id="521" subinstr-id="24"/>
+                <instruction instr-id="521" subinstr-id="26"/>
+                <instruction instr-id="521" subinstr-id="28"/>
+                <instruction instr-id="521" subinstr-id="30"/>
+                <instruction instr-id="521" subinstr-id="32"/>
+                <instruction instr-id="521" subinstr-id="34"/>
+                <instruction instr-id="521" subinstr-id="38"/>
+                <instruction instr-id="521" subinstr-id="40"/>
+                <instruction instr-id="521" subinstr-id="42"/>
+                <instruction instr-id="521" subinstr-id="44"/>
+                <instruction instr-id="521" subinstr-id="46"/>
+                <instruction instr-id="521" subinstr-id="48"/>
+            </cell>
+            <cell id="52" start-col="1" start-row="21">
+                <bounding-box x1="399" x2="428" y1="338" y2="347"/>
+                <content>437,269</content>
+                <instruction instr-id="537" subinstr-id="0"/>
+                <instruction instr-id="537" subinstr-id="2"/>
+                <instruction instr-id="537" subinstr-id="4"/>
+                <instruction instr-id="537" subinstr-id="6"/>
+                <instruction instr-id="537" subinstr-id="8"/>
+                <instruction instr-id="537" subinstr-id="10"/>
+                <instruction instr-id="537" subinstr-id="12"/>
+            </cell>
+            <cell id="53" start-col="2" start-row="21">
+                <bounding-box x1="482" x2="511" y1="338" y2="347"/>
+                <content>440,796</content>
+                <instruction instr-id="551" subinstr-id="0"/>
+                <instruction instr-id="551" subinstr-id="2"/>
+                <instruction instr-id="551" subinstr-id="4"/>
+                <instruction instr-id="551" subinstr-id="6"/>
+                <instruction instr-id="551" subinstr-id="8"/>
+                <instruction instr-id="551" subinstr-id="10"/>
+                <instruction instr-id="551" subinstr-id="12"/>
+            </cell>
+            <cell id="54" start-col="0" start-row="22">
+                <bounding-box x1="93" x2="252" y1="325" y2="335"/>
+                <content>Accrued Liabilities - Contracts and Payroll</content>
+                <instruction instr-id="523" subinstr-id="0"/>
+                <instruction instr-id="523" subinstr-id="2"/>
+                <instruction instr-id="523" subinstr-id="4"/>
+                <instruction instr-id="523" subinstr-id="6"/>
+                <instruction instr-id="523" subinstr-id="8"/>
+                <instruction instr-id="523" subinstr-id="10"/>
+                <instruction instr-id="523" subinstr-id="14"/>
+                <instruction instr-id="523" subinstr-id="16"/>
+                <instruction instr-id="523" subinstr-id="18"/>
+                <instruction instr-id="523" subinstr-id="20"/>
+                <instruction instr-id="523" subinstr-id="22"/>
+                <instruction instr-id="523" subinstr-id="24"/>
+                <instruction instr-id="523" subinstr-id="26"/>
+                <instruction instr-id="523" subinstr-id="28"/>
+                <instruction instr-id="523" subinstr-id="30"/>
+                <instruction instr-id="523" subinstr-id="32"/>
+                <instruction instr-id="523" subinstr-id="34"/>
+                <instruction instr-id="523" subinstr-id="38"/>
+                <instruction instr-id="523" subinstr-id="40"/>
+                <instruction instr-id="523" subinstr-id="42"/>
+                <instruction instr-id="523" subinstr-id="44"/>
+                <instruction instr-id="523" subinstr-id="46"/>
+                <instruction instr-id="523" subinstr-id="48"/>
+                <instruction instr-id="523" subinstr-id="50"/>
+                <instruction instr-id="523" subinstr-id="52"/>
+                <instruction instr-id="523" subinstr-id="56"/>
+                <instruction instr-id="523" subinstr-id="58"/>
+                <instruction instr-id="523" subinstr-id="60"/>
+                <instruction instr-id="523" subinstr-id="64"/>
+                <instruction instr-id="523" subinstr-id="66"/>
+                <instruction instr-id="523" subinstr-id="68"/>
+                <instruction instr-id="523" subinstr-id="70"/>
+                <instruction instr-id="523" subinstr-id="72"/>
+                <instruction instr-id="523" subinstr-id="74"/>
+            </cell>
+            <cell id="55" start-col="1" start-row="22">
+                <bounding-box x1="404" x2="428" y1="325" y2="335"/>
+                <content>48,645</content>
+                <instruction instr-id="539" subinstr-id="0"/>
+                <instruction instr-id="539" subinstr-id="2"/>
+                <instruction instr-id="539" subinstr-id="4"/>
+                <instruction instr-id="539" subinstr-id="6"/>
+                <instruction instr-id="539" subinstr-id="8"/>
+                <instruction instr-id="539" subinstr-id="10"/>
+            </cell>
+            <cell id="56" start-col="2" start-row="22">
+                <bounding-box x1="487" x2="511" y1="325" y2="335"/>
+                <content>33,560</content>
+                <instruction instr-id="553" subinstr-id="0"/>
+                <instruction instr-id="553" subinstr-id="2"/>
+                <instruction instr-id="553" subinstr-id="4"/>
+                <instruction instr-id="553" subinstr-id="6"/>
+                <instruction instr-id="553" subinstr-id="8"/>
+                <instruction instr-id="553" subinstr-id="10"/>
+            </cell>
+            <cell id="57" start-col="0" start-row="23">
+                <bounding-box x1="93" x2="180" y1="312" y2="322"/>
+                <content>Accrued Annual Leave</content>
+                <instruction instr-id="525" subinstr-id="0"/>
+                <instruction instr-id="525" subinstr-id="2"/>
+                <instruction instr-id="525" subinstr-id="4"/>
+                <instruction instr-id="525" subinstr-id="6"/>
+                <instruction instr-id="525" subinstr-id="8"/>
+                <instruction instr-id="525" subinstr-id="10"/>
+                <instruction instr-id="525" subinstr-id="14"/>
+                <instruction instr-id="525" subinstr-id="16"/>
+                <instruction instr-id="525" subinstr-id="18"/>
+                <instruction instr-id="525" subinstr-id="20"/>
+                <instruction instr-id="525" subinstr-id="22"/>
+                <instruction instr-id="525" subinstr-id="24"/>
+                <instruction instr-id="525" subinstr-id="28"/>
+                <instruction instr-id="525" subinstr-id="30"/>
+                <instruction instr-id="525" subinstr-id="32"/>
+                <instruction instr-id="525" subinstr-id="34"/>
+                <instruction instr-id="525" subinstr-id="36"/>
+            </cell>
+            <cell id="58" start-col="1" start-row="23">
+                <bounding-box x1="404" x2="428" y1="312" y2="322"/>
+                <content>17,269</content>
+                <instruction instr-id="541" subinstr-id="0"/>
+                <instruction instr-id="541" subinstr-id="2"/>
+                <instruction instr-id="541" subinstr-id="4"/>
+                <instruction instr-id="541" subinstr-id="6"/>
+                <instruction instr-id="541" subinstr-id="8"/>
+                <instruction instr-id="541" subinstr-id="10"/>
+            </cell>
+            <cell id="59" start-col="2" start-row="23">
+                <bounding-box x1="486" x2="511" y1="312" y2="322"/>
+                <content>17,413</content>
+                <instruction instr-id="555" subinstr-id="0"/>
+                <instruction instr-id="555" subinstr-id="2"/>
+                <instruction instr-id="555" subinstr-id="4"/>
+                <instruction instr-id="555" subinstr-id="6"/>
+                <instruction instr-id="555" subinstr-id="8"/>
+                <instruction instr-id="555" subinstr-id="10"/>
+            </cell>
+            <cell id="60" start-col="0" start-row="24">
+                <bounding-box x1="79" x2="144" y1="296" y2="306"/>
+                <content>Total Liabilities</content>
+                <instruction instr-id="528" subinstr-id="0"/>
+                <instruction instr-id="528" subinstr-id="2"/>
+                <instruction instr-id="528" subinstr-id="4"/>
+                <instruction instr-id="528" subinstr-id="8"/>
+                <instruction instr-id="528" subinstr-id="10"/>
+                <instruction instr-id="528" subinstr-id="12"/>
+                <instruction instr-id="528" subinstr-id="14"/>
+                <instruction instr-id="528" subinstr-id="16"/>
+                <instruction instr-id="528" subinstr-id="18"/>
+                <instruction instr-id="528" subinstr-id="20"/>
+                <instruction instr-id="528" subinstr-id="22"/>
+                <instruction instr-id="528" subinstr-id="24"/>
+            </cell>
+            <cell id="61" start-col="1" start-row="24">
+                <bounding-box x1="355" x2="427" y1="296" y2="306"/>
+                <content>$ 581,123</content>
+                <instruction instr-id="530"/>
+                <instruction instr-id="544" subinstr-id="0"/>
+                <instruction instr-id="544" subinstr-id="2"/>
+                <instruction instr-id="544" subinstr-id="4"/>
+                <instruction instr-id="544" subinstr-id="6"/>
+                <instruction instr-id="544" subinstr-id="8"/>
+                <instruction instr-id="544" subinstr-id="10"/>
+                <instruction instr-id="544" subinstr-id="12"/>
+            </cell>
+            <cell id="62" start-col="2" start-row="24">
+                <bounding-box x1="435" x2="510" y1="296" y2="306"/>
+                <content>$ 596,010</content>
+                <instruction instr-id="544" subinstr-id="16"/>
+                <instruction instr-id="558" subinstr-id="0"/>
+                <instruction instr-id="558" subinstr-id="2"/>
+                <instruction instr-id="558" subinstr-id="4"/>
+                <instruction instr-id="558" subinstr-id="6"/>
+                <instruction instr-id="558" subinstr-id="8"/>
+                <instruction instr-id="558" subinstr-id="10"/>
+                <instruction instr-id="558" subinstr-id="12"/>
+            </cell>
+            <cell id="63" start-col="0" start-row="25">
+                <bounding-box x1="79" x2="131" y1="258" y2="268"/>
+                <content>Net Position</content>
+                <instruction instr-id="560" subinstr-id="0"/>
+                <instruction instr-id="560" subinstr-id="2"/>
+                <instruction instr-id="560" subinstr-id="4"/>
+                <instruction instr-id="560" subinstr-id="6"/>
+                <instruction instr-id="560" subinstr-id="8"/>
+                <instruction instr-id="560" subinstr-id="10"/>
+                <instruction instr-id="560" subinstr-id="12"/>
+                <instruction instr-id="560" subinstr-id="14"/>
+                <instruction instr-id="560" subinstr-id="16"/>
+                <instruction instr-id="560" subinstr-id="18"/>
+            </cell>
+            <cell id="64" start-col="0" start-row="26">
+                <bounding-box x1="93" x2="251" y1="233" y2="242"/>
+                <content>UnexpendedAppropriations - Other Funds</content>
+                <instruction instr-id="563" subinstr-id="0"/>
+                <instruction instr-id="563" subinstr-id="2"/>
+                <instruction instr-id="563" subinstr-id="4"/>
+                <instruction instr-id="563" subinstr-id="6"/>
+                <instruction instr-id="563" subinstr-id="8"/>
+                <instruction instr-id="563" subinstr-id="10"/>
+                <instruction instr-id="563" subinstr-id="12"/>
+                <instruction instr-id="563" subinstr-id="14"/>
+                <instruction instr-id="563" subinstr-id="16"/>
+                <instruction instr-id="563" subinstr-id="18"/>
+                <instruction instr-id="563" subinstr-id="22"/>
+                <instruction instr-id="563" subinstr-id="24"/>
+                <instruction instr-id="563" subinstr-id="26"/>
+                <instruction instr-id="563" subinstr-id="28"/>
+                <instruction instr-id="563" subinstr-id="30"/>
+                <instruction instr-id="563" subinstr-id="32"/>
+                <instruction instr-id="563" subinstr-id="34"/>
+                <instruction instr-id="563" subinstr-id="36"/>
+                <instruction instr-id="563" subinstr-id="38"/>
+                <instruction instr-id="563" subinstr-id="40"/>
+                <instruction instr-id="563" subinstr-id="42"/>
+                <instruction instr-id="563" subinstr-id="44"/>
+                <instruction instr-id="563" subinstr-id="48"/>
+                <instruction instr-id="563" subinstr-id="50"/>
+                <instruction instr-id="563" subinstr-id="52"/>
+                <instruction instr-id="563" subinstr-id="54"/>
+                <instruction instr-id="563" subinstr-id="56"/>
+                <instruction instr-id="563" subinstr-id="58"/>
+                <instruction instr-id="563" subinstr-id="60"/>
+                <instruction instr-id="563" subinstr-id="62"/>
+                <instruction instr-id="563" subinstr-id="64"/>
+                <instruction instr-id="563" subinstr-id="66"/>
+                <instruction instr-id="563" subinstr-id="68"/>
+            </cell>
+            <cell id="65" start-col="1" start-row="26">
+                <bounding-box x1="356" x2="428" y1="233" y2="242"/>
+                <content>$ 11,330,889</content>
+                <instruction instr-id="573" subinstr-id="0"/>
+                <instruction instr-id="573" subinstr-id="2"/>
+                <instruction instr-id="573" subinstr-id="4"/>
+                <instruction instr-id="573" subinstr-id="6"/>
+                <instruction instr-id="573" subinstr-id="8"/>
+                <instruction instr-id="573" subinstr-id="10"/>
+                <instruction instr-id="573" subinstr-id="12"/>
+                <instruction instr-id="573" subinstr-id="14"/>
+                <instruction instr-id="573" subinstr-id="16"/>
+                <instruction instr-id="573" subinstr-id="18"/>
+                <instruction instr-id="573" subinstr-id="20"/>
+            </cell>
+            <cell id="66" start-col="2" start-row="26">
+                <bounding-box x1="435" x2="511" y1="233" y2="242"/>
+                <content>$ 11,548,234</content>
+                <instruction instr-id="581" subinstr-id="0"/>
+                <instruction instr-id="581" subinstr-id="2"/>
+                <instruction instr-id="581" subinstr-id="4"/>
+                <instruction instr-id="581" subinstr-id="6"/>
+                <instruction instr-id="581" subinstr-id="8"/>
+                <instruction instr-id="581" subinstr-id="10"/>
+                <instruction instr-id="581" subinstr-id="12"/>
+                <instruction instr-id="581" subinstr-id="14"/>
+                <instruction instr-id="581" subinstr-id="16"/>
+                <instruction instr-id="581" subinstr-id="18"/>
+                <instruction instr-id="581" subinstr-id="20"/>
+            </cell>
+            <cell id="67" start-col="0" start-row="27">
+                <bounding-box x1="93" x2="326" y1="220" y2="230"/>
+                <content>Cumulative Results of Operations - Earmarked Funds (Note 6)</content>
+                <instruction instr-id="565" subinstr-id="0"/>
+                <instruction instr-id="565" subinstr-id="2"/>
+                <instruction instr-id="565" subinstr-id="4"/>
+                <instruction instr-id="565" subinstr-id="6"/>
+                <instruction instr-id="565" subinstr-id="8"/>
+                <instruction instr-id="565" subinstr-id="10"/>
+                <instruction instr-id="565" subinstr-id="12"/>
+                <instruction instr-id="565" subinstr-id="14"/>
+                <instruction instr-id="565" subinstr-id="16"/>
+                <instruction instr-id="565" subinstr-id="20"/>
+                <instruction instr-id="565" subinstr-id="22"/>
+                <instruction instr-id="565" subinstr-id="24"/>
+                <instruction instr-id="565" subinstr-id="26"/>
+                <instruction instr-id="565" subinstr-id="28"/>
+                <instruction instr-id="565" subinstr-id="30"/>
+                <instruction instr-id="565" subinstr-id="34"/>
+                <instruction instr-id="565" subinstr-id="36"/>
+                <instruction instr-id="565" subinstr-id="38"/>
+                <instruction instr-id="565" subinstr-id="40"/>
+                <instruction instr-id="565" subinstr-id="42"/>
+                <instruction instr-id="565" subinstr-id="44"/>
+                <instruction instr-id="565" subinstr-id="46"/>
+                <instruction instr-id="565" subinstr-id="48"/>
+                <instruction instr-id="565" subinstr-id="50"/>
+                <instruction instr-id="565" subinstr-id="52"/>
+                <instruction instr-id="565" subinstr-id="54"/>
+                <instruction instr-id="565" subinstr-id="58"/>
+                <instruction instr-id="565" subinstr-id="60"/>
+                <instruction instr-id="565" subinstr-id="62"/>
+                <instruction instr-id="565" subinstr-id="64"/>
+                <instruction instr-id="565" subinstr-id="66"/>
+                <instruction instr-id="565" subinstr-id="68"/>
+                <instruction instr-id="565" subinstr-id="70"/>
+                <instruction instr-id="565" subinstr-id="72"/>
+                <instruction instr-id="565" subinstr-id="76"/>
+                <instruction instr-id="565" subinstr-id="78"/>
+                <instruction instr-id="565" subinstr-id="80"/>
+                <instruction instr-id="565" subinstr-id="82"/>
+                <instruction instr-id="565" subinstr-id="84"/>
+                <instruction instr-id="565" subinstr-id="88"/>
+                <instruction instr-id="565" subinstr-id="90"/>
+                <instruction instr-id="565" subinstr-id="92"/>
+                <instruction instr-id="565" subinstr-id="94"/>
+                <instruction instr-id="565" subinstr-id="98"/>
+                <instruction instr-id="565" subinstr-id="100"/>
+            </cell>
+            <cell id="68" start-col="1" start-row="27">
+                <bounding-box x1="399" x2="428" y1="220" y2="230"/>
+                <content>324,083</content>
+                <instruction instr-id="575" subinstr-id="0"/>
+                <instruction instr-id="575" subinstr-id="2"/>
+                <instruction instr-id="575" subinstr-id="4"/>
+                <instruction instr-id="575" subinstr-id="6"/>
+                <instruction instr-id="575" subinstr-id="8"/>
+                <instruction instr-id="575" subinstr-id="10"/>
+                <instruction instr-id="575" subinstr-id="12"/>
+            </cell>
+            <cell id="69" start-col="2" start-row="27">
+                <bounding-box x1="482" x2="511" y1="220" y2="230"/>
+                <content>335,454</content>
+                <instruction instr-id="583" subinstr-id="0"/>
+                <instruction instr-id="583" subinstr-id="2"/>
+                <instruction instr-id="583" subinstr-id="4"/>
+                <instruction instr-id="583" subinstr-id="6"/>
+                <instruction instr-id="583" subinstr-id="8"/>
+                <instruction instr-id="583" subinstr-id="10"/>
+                <instruction instr-id="583" subinstr-id="12"/>
+            </cell>
+            <cell id="70" start-col="0" start-row="28">
+                <bounding-box x1="93" x2="272" y1="208" y2="217"/>
+                <content>Cumulative Results of Operations - Other Funds</content>
+                <instruction instr-id="567" subinstr-id="0"/>
+                <instruction instr-id="567" subinstr-id="2"/>
+                <instruction instr-id="567" subinstr-id="4"/>
+                <instruction instr-id="567" subinstr-id="6"/>
+                <instruction instr-id="567" subinstr-id="8"/>
+                <instruction instr-id="567" subinstr-id="10"/>
+                <instruction instr-id="567" subinstr-id="12"/>
+                <instruction instr-id="567" subinstr-id="14"/>
+                <instruction instr-id="567" subinstr-id="16"/>
+                <instruction instr-id="567" subinstr-id="20"/>
+                <instruction instr-id="567" subinstr-id="22"/>
+                <instruction instr-id="567" subinstr-id="24"/>
+                <instruction instr-id="567" subinstr-id="26"/>
+                <instruction instr-id="567" subinstr-id="28"/>
+                <instruction instr-id="567" subinstr-id="30"/>
+                <instruction instr-id="567" subinstr-id="34"/>
+                <instruction instr-id="567" subinstr-id="36"/>
+                <instruction instr-id="567" subinstr-id="38"/>
+                <instruction instr-id="567" subinstr-id="40"/>
+                <instruction instr-id="567" subinstr-id="42"/>
+                <instruction instr-id="567" subinstr-id="44"/>
+                <instruction instr-id="567" subinstr-id="46"/>
+                <instruction instr-id="567" subinstr-id="48"/>
+                <instruction instr-id="567" subinstr-id="50"/>
+                <instruction instr-id="567" subinstr-id="52"/>
+                <instruction instr-id="567" subinstr-id="54"/>
+                <instruction instr-id="567" subinstr-id="58"/>
+                <instruction instr-id="567" subinstr-id="60"/>
+                <instruction instr-id="567" subinstr-id="62"/>
+                <instruction instr-id="567" subinstr-id="64"/>
+                <instruction instr-id="567" subinstr-id="66"/>
+                <instruction instr-id="567" subinstr-id="68"/>
+                <instruction instr-id="567" subinstr-id="70"/>
+                <instruction instr-id="567" subinstr-id="72"/>
+                <instruction instr-id="567" subinstr-id="74"/>
+                <instruction instr-id="567" subinstr-id="76"/>
+                <instruction instr-id="567" subinstr-id="78"/>
+            </cell>
+            <cell id="71" start-col="1" start-row="28">
+                <bounding-box x1="399" x2="428" y1="208" y2="217"/>
+                <content>348,639</content>
+                <instruction instr-id="577" subinstr-id="0"/>
+                <instruction instr-id="577" subinstr-id="2"/>
+                <instruction instr-id="577" subinstr-id="4"/>
+                <instruction instr-id="577" subinstr-id="6"/>
+                <instruction instr-id="577" subinstr-id="8"/>
+                <instruction instr-id="577" subinstr-id="10"/>
+                <instruction instr-id="577" subinstr-id="12"/>
+            </cell>
+            <cell id="72" start-col="2" start-row="28">
+                <bounding-box x1="482" x2="511" y1="208" y2="217"/>
+                <content>324,725</content>
+                <instruction instr-id="585" subinstr-id="0"/>
+                <instruction instr-id="585" subinstr-id="2"/>
+                <instruction instr-id="585" subinstr-id="4"/>
+                <instruction instr-id="585" subinstr-id="6"/>
+                <instruction instr-id="585" subinstr-id="8"/>
+                <instruction instr-id="585" subinstr-id="10"/>
+                <instruction instr-id="585" subinstr-id="12"/>
+            </cell>
+            <cell id="73" start-col="0" start-row="29">
+                <bounding-box x1="79" x2="155" y1="191" y2="201"/>
+                <content>Total Net Position</content>
+                <instruction instr-id="570" subinstr-id="0"/>
+                <instruction instr-id="570" subinstr-id="2"/>
+                <instruction instr-id="570" subinstr-id="4"/>
+                <instruction instr-id="570" subinstr-id="8"/>
+                <instruction instr-id="570" subinstr-id="10"/>
+                <instruction instr-id="570" subinstr-id="12"/>
+                <instruction instr-id="570" subinstr-id="14"/>
+                <instruction instr-id="570" subinstr-id="16"/>
+                <instruction instr-id="570" subinstr-id="18"/>
+                <instruction instr-id="570" subinstr-id="20"/>
+                <instruction instr-id="570" subinstr-id="22"/>
+                <instruction instr-id="570" subinstr-id="24"/>
+                <instruction instr-id="570" subinstr-id="26"/>
+            </cell>
+            <cell id="74" start-col="1" start-row="29">
+                <bounding-box x1="389" x2="428" y1="191" y2="201"/>
+                <content>12,003,611</content>
+                <instruction instr-id="579" subinstr-id="0"/>
+                <instruction instr-id="579" subinstr-id="2"/>
+                <instruction instr-id="579" subinstr-id="4"/>
+                <instruction instr-id="579" subinstr-id="6"/>
+                <instruction instr-id="579" subinstr-id="8"/>
+                <instruction instr-id="579" subinstr-id="10"/>
+                <instruction instr-id="579" subinstr-id="12"/>
+                <instruction instr-id="579" subinstr-id="14"/>
+                <instruction instr-id="579" subinstr-id="16"/>
+                <instruction instr-id="579" subinstr-id="18"/>
+            </cell>
+            <cell id="75" start-col="2" start-row="29">
+                <bounding-box x1="471" x2="511" y1="191" y2="201"/>
+                <content>12,208,413</content>
+                <instruction instr-id="587" subinstr-id="0"/>
+                <instruction instr-id="587" subinstr-id="2"/>
+                <instruction instr-id="587" subinstr-id="4"/>
+                <instruction instr-id="587" subinstr-id="6"/>
+                <instruction instr-id="587" subinstr-id="8"/>
+                <instruction instr-id="587" subinstr-id="10"/>
+                <instruction instr-id="587" subinstr-id="12"/>
+                <instruction instr-id="587" subinstr-id="14"/>
+                <instruction instr-id="587" subinstr-id="16"/>
+                <instruction instr-id="587" subinstr-id="18"/>
+            </cell>
+            <cell id="76" start-col="0" start-row="30">
+                <bounding-box x1="79" x2="215" y1="166" y2="175"/>
+                <content>Total Liabilities and Net Position</content>
+                <instruction instr-id="590" subinstr-id="0"/>
+                <instruction instr-id="590" subinstr-id="2"/>
+                <instruction instr-id="590" subinstr-id="4"/>
+                <instruction instr-id="590" subinstr-id="8"/>
+                <instruction instr-id="590" subinstr-id="10"/>
+                <instruction instr-id="590" subinstr-id="12"/>
+                <instruction instr-id="590" subinstr-id="14"/>
+                <instruction instr-id="590" subinstr-id="16"/>
+                <instruction instr-id="590" subinstr-id="18"/>
+                <instruction instr-id="590" subinstr-id="20"/>
+                <instruction instr-id="590" subinstr-id="22"/>
+                <instruction instr-id="590" subinstr-id="24"/>
+                <instruction instr-id="590" subinstr-id="28"/>
+                <instruction instr-id="590" subinstr-id="30"/>
+                <instruction instr-id="590" subinstr-id="32"/>
+                <instruction instr-id="590" subinstr-id="36"/>
+                <instruction instr-id="590" subinstr-id="38"/>
+                <instruction instr-id="590" subinstr-id="40"/>
+                <instruction instr-id="590" subinstr-id="42"/>
+                <instruction instr-id="590" subinstr-id="44"/>
+                <instruction instr-id="590" subinstr-id="46"/>
+                <instruction instr-id="590" subinstr-id="48"/>
+                <instruction instr-id="590" subinstr-id="50"/>
+                <instruction instr-id="590" subinstr-id="52"/>
+                <instruction instr-id="590" subinstr-id="54"/>
+            </cell>
+            <cell id="77" start-col="1" start-row="30">
+                <bounding-box x1="355" x2="427" y1="166" y2="175"/>
+                <content>$ 12,584,734</content>
+                <instruction instr-id="592" subinstr-id="0"/>
+                <instruction instr-id="592" subinstr-id="2"/>
+                <instruction instr-id="592" subinstr-id="4"/>
+                <instruction instr-id="592" subinstr-id="6"/>
+                <instruction instr-id="592" subinstr-id="8"/>
+                <instruction instr-id="592" subinstr-id="10"/>
+                <instruction instr-id="592" subinstr-id="12"/>
+                <instruction instr-id="592" subinstr-id="14"/>
+                <instruction instr-id="592" subinstr-id="16"/>
+                <instruction instr-id="592" subinstr-id="18"/>
+                <instruction instr-id="592" subinstr-id="20"/>
+            </cell>
+            <cell id="78" start-col="2" start-row="30">
+                <bounding-box x1="435" x2="510" y1="166" y2="175"/>
+                <content>$ 12,804,423</content>
+                <instruction instr-id="592" subinstr-id="24"/>
+                <instruction instr-id="592" subinstr-id="26"/>
+                <instruction instr-id="592" subinstr-id="28"/>
+                <instruction instr-id="592" subinstr-id="30"/>
+                <instruction instr-id="592" subinstr-id="32"/>
+                <instruction instr-id="592" subinstr-id="34"/>
+                <instruction instr-id="592" subinstr-id="36"/>
+                <instruction instr-id="592" subinstr-id="38"/>
+                <instruction instr-id="592" subinstr-id="40"/>
+                <instruction instr-id="592" subinstr-id="42"/>
+                <instruction instr-id="592" subinstr-id="44"/>
+            </cell>
+        </region>
+    </table>
+    <table id="1">
+        <region col-increment="0" id="0" page="3" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="88" x2="146" y1="649" y2="658"/>
+                <content>Program Costs</content>
+                <instruction instr-id="897" subinstr-id="0"/>
+                <instruction instr-id="897" subinstr-id="2"/>
+                <instruction instr-id="897" subinstr-id="4"/>
+                <instruction instr-id="897" subinstr-id="6"/>
+                <instruction instr-id="897" subinstr-id="8"/>
+                <instruction instr-id="897" subinstr-id="10"/>
+                <instruction instr-id="897" subinstr-id="12"/>
+                <instruction instr-id="897" subinstr-id="16"/>
+                <instruction instr-id="897" subinstr-id="18"/>
+                <instruction instr-id="897" subinstr-id="20"/>
+                <instruction instr-id="897" subinstr-id="22"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="384" x2="403" y1="649" y2="658"/>
+                <content>2011</content>
+                <instruction instr-id="899" subinstr-id="0"/>
+                <instruction instr-id="899" subinstr-id="2"/>
+                <instruction instr-id="899" subinstr-id="4"/>
+                <instruction instr-id="899" subinstr-id="6"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="462" x2="482" y1="649" y2="658"/>
+                <content>2010</content>
+                <instruction instr-id="899" subinstr-id="10"/>
+                <instruction instr-id="899" subinstr-id="12"/>
+                <instruction instr-id="899" subinstr-id="14"/>
+                <instruction instr-id="899" subinstr-id="16"/>
+            </cell>
+            <cell id="3" start-col="0" start-row="1">
+                <bounding-box x1="101" x2="216" y1="625" y2="634"/>
+                <content>Research and Related Activities</content>
+                <instruction instr-id="902" subinstr-id="0"/>
+                <instruction instr-id="902" subinstr-id="2"/>
+                <instruction instr-id="902" subinstr-id="4"/>
+                <instruction instr-id="902" subinstr-id="6"/>
+                <instruction instr-id="902" subinstr-id="8"/>
+                <instruction instr-id="902" subinstr-id="10"/>
+                <instruction instr-id="902" subinstr-id="14"/>
+                <instruction instr-id="902" subinstr-id="16"/>
+                <instruction instr-id="902" subinstr-id="18"/>
+                <instruction instr-id="902" subinstr-id="22"/>
+                <instruction instr-id="902" subinstr-id="24"/>
+                <instruction instr-id="902" subinstr-id="26"/>
+                <instruction instr-id="902" subinstr-id="28"/>
+                <instruction instr-id="902" subinstr-id="30"/>
+                <instruction instr-id="902" subinstr-id="32"/>
+                <instruction instr-id="902" subinstr-id="36"/>
+                <instruction instr-id="902" subinstr-id="38"/>
+                <instruction instr-id="902" subinstr-id="40"/>
+                <instruction instr-id="902" subinstr-id="42"/>
+                <instruction instr-id="902" subinstr-id="44"/>
+                <instruction instr-id="902" subinstr-id="46"/>
+                <instruction instr-id="902" subinstr-id="48"/>
+                <instruction instr-id="902" subinstr-id="50"/>
+                <instruction instr-id="902" subinstr-id="52"/>
+                <instruction instr-id="902" subinstr-id="54"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="2">
+                <bounding-box x1="114" x2="157" y1="612" y2="622"/>
+                <content>Gross Costs</content>
+                <instruction instr-id="904" subinstr-id="0"/>
+                <instruction instr-id="904" subinstr-id="2"/>
+                <instruction instr-id="904" subinstr-id="4"/>
+                <instruction instr-id="904" subinstr-id="6"/>
+                <instruction instr-id="904" subinstr-id="10"/>
+                <instruction instr-id="904" subinstr-id="12"/>
+                <instruction instr-id="904" subinstr-id="14"/>
+                <instruction instr-id="904" subinstr-id="16"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="2">
+                <bounding-box x1="353" x2="423" y1="612" y2="622"/>
+                <content>$ 6,004,357</content>
+                <instruction instr-id="906" subinstr-id="0"/>
+                <instruction instr-id="906" subinstr-id="2"/>
+                <instruction instr-id="906" subinstr-id="4"/>
+                <instruction instr-id="906" subinstr-id="6"/>
+                <instruction instr-id="906" subinstr-id="8"/>
+                <instruction instr-id="906" subinstr-id="10"/>
+                <instruction instr-id="906" subinstr-id="12"/>
+                <instruction instr-id="906" subinstr-id="14"/>
+                <instruction instr-id="906" subinstr-id="16"/>
+                <instruction instr-id="906" subinstr-id="18"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="2">
+                <bounding-box x1="430" x2="503" y1="612" y2="622"/>
+                <content>$ 5,871,545</content>
+                <instruction instr-id="906" subinstr-id="22"/>
+                <instruction instr-id="906" subinstr-id="24"/>
+                <instruction instr-id="906" subinstr-id="26"/>
+                <instruction instr-id="906" subinstr-id="28"/>
+                <instruction instr-id="906" subinstr-id="30"/>
+                <instruction instr-id="906" subinstr-id="32"/>
+                <instruction instr-id="906" subinstr-id="34"/>
+                <instruction instr-id="906" subinstr-id="36"/>
+                <instruction instr-id="906" subinstr-id="38"/>
+                <instruction instr-id="906" subinstr-id="40"/>
+            </cell>
+            <cell id="7" start-col="0" start-row="3">
+                <bounding-box x1="114" x2="204" y1="600" y2="609"/>
+                <content>Less: Earned Revenues</content>
+                <instruction instr-id="908" subinstr-id="0"/>
+                <instruction instr-id="908" subinstr-id="2"/>
+                <instruction instr-id="908" subinstr-id="4"/>
+                <instruction instr-id="908" subinstr-id="6"/>
+                <instruction instr-id="908" subinstr-id="8"/>
+                <instruction instr-id="908" subinstr-id="12"/>
+                <instruction instr-id="908" subinstr-id="14"/>
+                <instruction instr-id="908" subinstr-id="16"/>
+                <instruction instr-id="908" subinstr-id="18"/>
+                <instruction instr-id="908" subinstr-id="20"/>
+                <instruction instr-id="908" subinstr-id="24"/>
+                <instruction instr-id="908" subinstr-id="26"/>
+                <instruction instr-id="908" subinstr-id="28"/>
+                <instruction instr-id="908" subinstr-id="30"/>
+                <instruction instr-id="908" subinstr-id="32"/>
+                <instruction instr-id="908" subinstr-id="34"/>
+                <instruction instr-id="908" subinstr-id="36"/>
+            </cell>
+            <cell id="8" start-col="1" start-row="3">
+                <bounding-box x1="392" x2="426" y1="600" y2="609"/>
+                <content>(110,458)</content>
+                <instruction instr-id="910" subinstr-id="0"/>
+                <instruction instr-id="910" subinstr-id="2"/>
+                <instruction instr-id="910" subinstr-id="4"/>
+                <instruction instr-id="910" subinstr-id="6"/>
+                <instruction instr-id="910" subinstr-id="8"/>
+                <instruction instr-id="910" subinstr-id="10"/>
+                <instruction instr-id="910" subinstr-id="12"/>
+                <instruction instr-id="910" subinstr-id="14"/>
+            </cell>
+            <cell id="9" start-col="2" start-row="3">
+                <bounding-box x1="476" x2="506" y1="600" y2="609"/>
+                <content>(93,667)</content>
+                <instruction instr-id="910" subinstr-id="18"/>
+                <instruction instr-id="910" subinstr-id="20"/>
+                <instruction instr-id="910" subinstr-id="22"/>
+                <instruction instr-id="910" subinstr-id="24"/>
+                <instruction instr-id="910" subinstr-id="26"/>
+                <instruction instr-id="910" subinstr-id="28"/>
+                <instruction instr-id="910" subinstr-id="30"/>
+            </cell>
+            <cell id="10" start-col="0" start-row="4">
+                <bounding-box x1="101" x2="246" y1="588" y2="597"/>
+                <content>Net Research and Related Activities</content>
+                <instruction instr-id="913" subinstr-id="0"/>
+                <instruction instr-id="913" subinstr-id="2"/>
+                <instruction instr-id="913" subinstr-id="4"/>
+                <instruction instr-id="913" subinstr-id="6"/>
+                <instruction instr-id="913" subinstr-id="8"/>
+                <instruction instr-id="913" subinstr-id="10"/>
+                <instruction instr-id="913" subinstr-id="12"/>
+                <instruction instr-id="913" subinstr-id="14"/>
+                <instruction instr-id="913" subinstr-id="16"/>
+                <instruction instr-id="913" subinstr-id="18"/>
+                <instruction instr-id="913" subinstr-id="20"/>
+                <instruction instr-id="913" subinstr-id="24"/>
+                <instruction instr-id="913" subinstr-id="26"/>
+                <instruction instr-id="913" subinstr-id="28"/>
+                <instruction instr-id="913" subinstr-id="32"/>
+                <instruction instr-id="913" subinstr-id="34"/>
+                <instruction instr-id="913" subinstr-id="36"/>
+                <instruction instr-id="913" subinstr-id="38"/>
+                <instruction instr-id="913" subinstr-id="40"/>
+                <instruction instr-id="913" subinstr-id="42"/>
+                <instruction instr-id="913" subinstr-id="46"/>
+                <instruction instr-id="913" subinstr-id="48"/>
+                <instruction instr-id="913" subinstr-id="50"/>
+                <instruction instr-id="913" subinstr-id="52"/>
+                <instruction instr-id="913" subinstr-id="54"/>
+                <instruction instr-id="913" subinstr-id="56"/>
+                <instruction instr-id="913" subinstr-id="58"/>
+                <instruction instr-id="913" subinstr-id="60"/>
+            </cell>
+            <cell id="11" start-col="1" start-row="4">
+                <bounding-box x1="384" x2="422" y1="588" y2="597"/>
+                <content>5,893,899</content>
+                <instruction instr-id="915" subinstr-id="0"/>
+                <instruction instr-id="915" subinstr-id="2"/>
+                <instruction instr-id="915" subinstr-id="4"/>
+                <instruction instr-id="915" subinstr-id="6"/>
+                <instruction instr-id="915" subinstr-id="8"/>
+                <instruction instr-id="915" subinstr-id="10"/>
+                <instruction instr-id="915" subinstr-id="12"/>
+                <instruction instr-id="915" subinstr-id="14"/>
+                <instruction instr-id="915" subinstr-id="16"/>
+            </cell>
+            <cell id="12" start-col="2" start-row="4">
+                <bounding-box x1="464" x2="502" y1="588" y2="597"/>
+                <content>5,777,878</content>
+                <instruction instr-id="915" subinstr-id="20"/>
+                <instruction instr-id="915" subinstr-id="22"/>
+                <instruction instr-id="915" subinstr-id="24"/>
+                <instruction instr-id="915" subinstr-id="26"/>
+                <instruction instr-id="915" subinstr-id="28"/>
+                <instruction instr-id="915" subinstr-id="30"/>
+                <instruction instr-id="915" subinstr-id="32"/>
+                <instruction instr-id="915" subinstr-id="34"/>
+                <instruction instr-id="915" subinstr-id="36"/>
+            </cell>
+            <cell id="13" start-col="0" start-row="5">
+                <bounding-box x1="101" x2="220" y1="564" y2="573"/>
+                <content>Education and Human Resources</content>
+                <instruction instr-id="918" subinstr-id="0"/>
+                <instruction instr-id="918" subinstr-id="2"/>
+                <instruction instr-id="918" subinstr-id="4"/>
+                <instruction instr-id="918" subinstr-id="6"/>
+                <instruction instr-id="918" subinstr-id="8"/>
+                <instruction instr-id="918" subinstr-id="10"/>
+                <instruction instr-id="918" subinstr-id="12"/>
+                <instruction instr-id="918" subinstr-id="14"/>
+                <instruction instr-id="918" subinstr-id="16"/>
+                <instruction instr-id="918" subinstr-id="20"/>
+                <instruction instr-id="918" subinstr-id="22"/>
+                <instruction instr-id="918" subinstr-id="24"/>
+                <instruction instr-id="918" subinstr-id="28"/>
+                <instruction instr-id="918" subinstr-id="30"/>
+                <instruction instr-id="918" subinstr-id="32"/>
+                <instruction instr-id="918" subinstr-id="34"/>
+                <instruction instr-id="918" subinstr-id="36"/>
+                <instruction instr-id="918" subinstr-id="40"/>
+                <instruction instr-id="918" subinstr-id="42"/>
+                <instruction instr-id="918" subinstr-id="44"/>
+                <instruction instr-id="918" subinstr-id="46"/>
+                <instruction instr-id="918" subinstr-id="48"/>
+                <instruction instr-id="918" subinstr-id="50"/>
+                <instruction instr-id="918" subinstr-id="52"/>
+            </cell>
+            <cell id="14" start-col="0" start-row="6">
+                <bounding-box x1="114" x2="157" y1="552" y2="561"/>
+                <content>Gross Costs</content>
+                <instruction instr-id="920" subinstr-id="0"/>
+                <instruction instr-id="920" subinstr-id="2"/>
+                <instruction instr-id="920" subinstr-id="4"/>
+                <instruction instr-id="920" subinstr-id="6"/>
+                <instruction instr-id="920" subinstr-id="10"/>
+                <instruction instr-id="920" subinstr-id="12"/>
+                <instruction instr-id="920" subinstr-id="14"/>
+                <instruction instr-id="920" subinstr-id="16"/>
+            </cell>
+            <cell id="15" start-col="1" start-row="6">
+                <bounding-box x1="353" x2="423" y1="552" y2="561"/>
+                <content>$ 836,755</content>
+                <instruction instr-id="922" subinstr-id="0"/>
+                <instruction instr-id="922" subinstr-id="2"/>
+                <instruction instr-id="922" subinstr-id="4"/>
+                <instruction instr-id="922" subinstr-id="6"/>
+                <instruction instr-id="922" subinstr-id="8"/>
+                <instruction instr-id="922" subinstr-id="10"/>
+                <instruction instr-id="922" subinstr-id="12"/>
+                <instruction instr-id="922" subinstr-id="14"/>
+            </cell>
+            <cell id="16" start-col="2" start-row="6">
+                <bounding-box x1="430" x2="503" y1="552" y2="561"/>
+                <content>$ 775,422</content>
+                <instruction instr-id="922" subinstr-id="18"/>
+                <instruction instr-id="922" subinstr-id="20"/>
+                <instruction instr-id="922" subinstr-id="22"/>
+                <instruction instr-id="922" subinstr-id="24"/>
+                <instruction instr-id="922" subinstr-id="26"/>
+                <instruction instr-id="922" subinstr-id="28"/>
+                <instruction instr-id="922" subinstr-id="30"/>
+                <instruction instr-id="922" subinstr-id="32"/>
+            </cell>
+            <cell id="17" start-col="0" start-row="7">
+                <bounding-box x1="114" x2="204" y1="539" y2="549"/>
+                <content>Less: Earned Revenues</content>
+                <instruction instr-id="924" subinstr-id="0"/>
+                <instruction instr-id="924" subinstr-id="2"/>
+                <instruction instr-id="924" subinstr-id="4"/>
+                <instruction instr-id="924" subinstr-id="6"/>
+                <instruction instr-id="924" subinstr-id="8"/>
+                <instruction instr-id="924" subinstr-id="12"/>
+                <instruction instr-id="924" subinstr-id="14"/>
+                <instruction instr-id="924" subinstr-id="16"/>
+                <instruction instr-id="924" subinstr-id="18"/>
+                <instruction instr-id="924" subinstr-id="20"/>
+                <instruction instr-id="924" subinstr-id="24"/>
+                <instruction instr-id="924" subinstr-id="26"/>
+                <instruction instr-id="924" subinstr-id="28"/>
+                <instruction instr-id="924" subinstr-id="30"/>
+                <instruction instr-id="924" subinstr-id="32"/>
+                <instruction instr-id="924" subinstr-id="34"/>
+                <instruction instr-id="924" subinstr-id="36"/>
+            </cell>
+            <cell id="18" start-col="1" start-row="7">
+                <bounding-box x1="401" x2="426" y1="539" y2="549"/>
+                <content>(8,350)</content>
+                <instruction instr-id="926" subinstr-id="0"/>
+                <instruction instr-id="926" subinstr-id="2"/>
+                <instruction instr-id="926" subinstr-id="4"/>
+                <instruction instr-id="926" subinstr-id="6"/>
+                <instruction instr-id="926" subinstr-id="8"/>
+                <instruction instr-id="926" subinstr-id="10"/>
+            </cell>
+            <cell id="19" start-col="2" start-row="7">
+                <bounding-box x1="481" x2="506" y1="539" y2="549"/>
+                <content>(8,859)</content>
+                <instruction instr-id="926" subinstr-id="14"/>
+                <instruction instr-id="926" subinstr-id="16"/>
+                <instruction instr-id="926" subinstr-id="18"/>
+                <instruction instr-id="926" subinstr-id="20"/>
+                <instruction instr-id="926" subinstr-id="22"/>
+                <instruction instr-id="926" subinstr-id="24"/>
+            </cell>
+            <cell id="20" start-col="0" start-row="8">
+                <bounding-box x1="101" x2="249" y1="527" y2="536"/>
+                <content>Net Education and Human Resources</content>
+                <instruction instr-id="929" subinstr-id="0"/>
+                <instruction instr-id="929" subinstr-id="2"/>
+                <instruction instr-id="929" subinstr-id="4"/>
+                <instruction instr-id="929" subinstr-id="6"/>
+                <instruction instr-id="929" subinstr-id="8"/>
+                <instruction instr-id="929" subinstr-id="10"/>
+                <instruction instr-id="929" subinstr-id="12"/>
+                <instruction instr-id="929" subinstr-id="14"/>
+                <instruction instr-id="929" subinstr-id="16"/>
+                <instruction instr-id="929" subinstr-id="18"/>
+                <instruction instr-id="929" subinstr-id="22"/>
+                <instruction instr-id="929" subinstr-id="24"/>
+                <instruction instr-id="929" subinstr-id="26"/>
+                <instruction instr-id="929" subinstr-id="30"/>
+                <instruction instr-id="929" subinstr-id="32"/>
+                <instruction instr-id="929" subinstr-id="34"/>
+                <instruction instr-id="929" subinstr-id="36"/>
+                <instruction instr-id="929" subinstr-id="38"/>
+                <instruction instr-id="929" subinstr-id="42"/>
+                <instruction instr-id="929" subinstr-id="44"/>
+                <instruction instr-id="929" subinstr-id="46"/>
+                <instruction instr-id="929" subinstr-id="48"/>
+                <instruction instr-id="929" subinstr-id="50"/>
+                <instruction instr-id="929" subinstr-id="52"/>
+                <instruction instr-id="929" subinstr-id="54"/>
+                <instruction instr-id="929" subinstr-id="56"/>
+                <instruction instr-id="929" subinstr-id="58"/>
+            </cell>
+            <cell id="21" start-col="1" start-row="8">
+                <bounding-box x1="391" x2="422" y1="527" y2="536"/>
+                <content>828,405</content>
+                <instruction instr-id="931" subinstr-id="0"/>
+                <instruction instr-id="931" subinstr-id="2"/>
+                <instruction instr-id="931" subinstr-id="4"/>
+                <instruction instr-id="931" subinstr-id="6"/>
+                <instruction instr-id="931" subinstr-id="8"/>
+                <instruction instr-id="931" subinstr-id="10"/>
+                <instruction instr-id="931" subinstr-id="12"/>
+            </cell>
+            <cell id="22" start-col="2" start-row="8">
+                <bounding-box x1="471" x2="502" y1="527" y2="536"/>
+                <content>766,563</content>
+                <instruction instr-id="931" subinstr-id="16"/>
+                <instruction instr-id="931" subinstr-id="18"/>
+                <instruction instr-id="931" subinstr-id="20"/>
+                <instruction instr-id="931" subinstr-id="22"/>
+                <instruction instr-id="931" subinstr-id="24"/>
+                <instruction instr-id="931" subinstr-id="26"/>
+                <instruction instr-id="931" subinstr-id="28"/>
+            </cell>
+            <cell id="23" start-col="0" start-row="9">
+                <bounding-box x1="101" x2="295" y1="503" y2="512"/>
+                <content>Major Research Equipment and Facilities Construction</content>
+                <instruction instr-id="934" subinstr-id="0"/>
+                <instruction instr-id="934" subinstr-id="2"/>
+                <instruction instr-id="934" subinstr-id="4"/>
+                <instruction instr-id="934" subinstr-id="6"/>
+                <instruction instr-id="934" subinstr-id="8"/>
+                <instruction instr-id="934" subinstr-id="10"/>
+                <instruction instr-id="934" subinstr-id="12"/>
+                <instruction instr-id="934" subinstr-id="14"/>
+                <instruction instr-id="934" subinstr-id="16"/>
+                <instruction instr-id="934" subinstr-id="18"/>
+                <instruction instr-id="934" subinstr-id="20"/>
+                <instruction instr-id="934" subinstr-id="24"/>
+                <instruction instr-id="934" subinstr-id="26"/>
+                <instruction instr-id="934" subinstr-id="28"/>
+                <instruction instr-id="934" subinstr-id="30"/>
+                <instruction instr-id="934" subinstr-id="32"/>
+                <instruction instr-id="934" subinstr-id="34"/>
+                <instruction instr-id="934" subinstr-id="36"/>
+                <instruction instr-id="934" subinstr-id="38"/>
+                <instruction instr-id="934" subinstr-id="40"/>
+                <instruction instr-id="934" subinstr-id="44"/>
+                <instruction instr-id="934" subinstr-id="46"/>
+                <instruction instr-id="934" subinstr-id="48"/>
+                <instruction instr-id="934" subinstr-id="52"/>
+                <instruction instr-id="934" subinstr-id="54"/>
+                <instruction instr-id="934" subinstr-id="56"/>
+                <instruction instr-id="934" subinstr-id="58"/>
+                <instruction instr-id="934" subinstr-id="60"/>
+                <instruction instr-id="934" subinstr-id="62"/>
+                <instruction instr-id="934" subinstr-id="64"/>
+                <instruction instr-id="934" subinstr-id="66"/>
+                <instruction instr-id="934" subinstr-id="68"/>
+                <instruction instr-id="934" subinstr-id="70"/>
+                <instruction instr-id="934" subinstr-id="74"/>
+                <instruction instr-id="934" subinstr-id="76"/>
+                <instruction instr-id="934" subinstr-id="78"/>
+                <instruction instr-id="934" subinstr-id="80"/>
+                <instruction instr-id="934" subinstr-id="82"/>
+                <instruction instr-id="934" subinstr-id="84"/>
+                <instruction instr-id="934" subinstr-id="86"/>
+                <instruction instr-id="934" subinstr-id="88"/>
+                <instruction instr-id="934" subinstr-id="90"/>
+                <instruction instr-id="934" subinstr-id="92"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="10">
+                <bounding-box x1="114" x2="157" y1="491" y2="500"/>
+                <content>Gross Costs</content>
+                <instruction instr-id="936" subinstr-id="0"/>
+                <instruction instr-id="936" subinstr-id="2"/>
+                <instruction instr-id="936" subinstr-id="4"/>
+                <instruction instr-id="936" subinstr-id="6"/>
+                <instruction instr-id="936" subinstr-id="10"/>
+                <instruction instr-id="936" subinstr-id="12"/>
+                <instruction instr-id="936" subinstr-id="14"/>
+                <instruction instr-id="936" subinstr-id="16"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="10">
+                <bounding-box x1="353" x2="423" y1="491" y2="500"/>
+                <content>$ 261,705</content>
+                <instruction instr-id="938" subinstr-id="0"/>
+                <instruction instr-id="938" subinstr-id="2"/>
+                <instruction instr-id="938" subinstr-id="4"/>
+                <instruction instr-id="938" subinstr-id="6"/>
+                <instruction instr-id="938" subinstr-id="8"/>
+                <instruction instr-id="938" subinstr-id="10"/>
+                <instruction instr-id="938" subinstr-id="12"/>
+                <instruction instr-id="938" subinstr-id="14"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="10">
+                <bounding-box x1="430" x2="503" y1="491" y2="500"/>
+                <content>$ 178,840</content>
+                <instruction instr-id="938" subinstr-id="18"/>
+                <instruction instr-id="938" subinstr-id="20"/>
+                <instruction instr-id="938" subinstr-id="22"/>
+                <instruction instr-id="938" subinstr-id="24"/>
+                <instruction instr-id="938" subinstr-id="26"/>
+                <instruction instr-id="938" subinstr-id="28"/>
+                <instruction instr-id="938" subinstr-id="30"/>
+                <instruction instr-id="938" subinstr-id="32"/>
+            </cell>
+            <cell id="27" start-col="0" start-row="11">
+                <bounding-box x1="114" x2="204" y1="479" y2="488"/>
+                <content>Less: EarnedRevenues</content>
+                <instruction instr-id="940" subinstr-id="0"/>
+                <instruction instr-id="940" subinstr-id="2"/>
+                <instruction instr-id="940" subinstr-id="4"/>
+                <instruction instr-id="940" subinstr-id="6"/>
+                <instruction instr-id="940" subinstr-id="8"/>
+                <instruction instr-id="940" subinstr-id="12"/>
+                <instruction instr-id="940" subinstr-id="14"/>
+                <instruction instr-id="940" subinstr-id="16"/>
+                <instruction instr-id="940" subinstr-id="18"/>
+                <instruction instr-id="940" subinstr-id="20"/>
+                <instruction instr-id="940" subinstr-id="24"/>
+                <instruction instr-id="940" subinstr-id="26"/>
+                <instruction instr-id="940" subinstr-id="28"/>
+                <instruction instr-id="940" subinstr-id="30"/>
+                <instruction instr-id="940" subinstr-id="32"/>
+                <instruction instr-id="940" subinstr-id="34"/>
+                <instruction instr-id="940" subinstr-id="36"/>
+            </cell>
+            <cell id="28" start-col="1" start-row="11">
+                <bounding-box x1="420" x2="423" y1="479" y2="488"/>
+                <content>-</content>
+                <instruction instr-id="942" subinstr-id="0"/>
+            </cell>
+            <cell id="29" start-col="2" start-row="11">
+                <bounding-box x1="499" x2="503" y1="479" y2="488"/>
+                <content>-</content>
+                <instruction instr-id="942" subinstr-id="2"/>
+            </cell>
+            <cell id="30" start-col="0" start-row="12">
+                <bounding-box x1="101" x2="337" y1="466" y2="476"/>
+                <content>Net Major Research Equipment and Facilities Construction</content>
+                <instruction instr-id="945" subinstr-id="0"/>
+                <instruction instr-id="945" subinstr-id="2"/>
+                <instruction instr-id="945" subinstr-id="4"/>
+                <instruction instr-id="945" subinstr-id="6"/>
+                <instruction instr-id="945" subinstr-id="8"/>
+                <instruction instr-id="945" subinstr-id="10"/>
+                <instruction instr-id="945" subinstr-id="12"/>
+                <instruction instr-id="945" subinstr-id="14"/>
+                <instruction instr-id="945" subinstr-id="18"/>
+                <instruction instr-id="945" subinstr-id="20"/>
+                <instruction instr-id="945" subinstr-id="22"/>
+                <instruction instr-id="945" subinstr-id="24"/>
+                <instruction instr-id="945" subinstr-id="26"/>
+                <instruction instr-id="945" subinstr-id="28"/>
+                <instruction instr-id="945" subinstr-id="30"/>
+                <instruction instr-id="945" subinstr-id="32"/>
+                <instruction instr-id="945" subinstr-id="36"/>
+                <instruction instr-id="945" subinstr-id="38"/>
+                <instruction instr-id="945" subinstr-id="40"/>
+                <instruction instr-id="945" subinstr-id="42"/>
+                <instruction instr-id="945" subinstr-id="44"/>
+                <instruction instr-id="945" subinstr-id="46"/>
+                <instruction instr-id="945" subinstr-id="48"/>
+                <instruction instr-id="945" subinstr-id="50"/>
+                <instruction instr-id="945" subinstr-id="52"/>
+                <instruction instr-id="945" subinstr-id="54"/>
+                <instruction instr-id="945" subinstr-id="56"/>
+                <instruction instr-id="945" subinstr-id="60"/>
+                <instruction instr-id="945" subinstr-id="62"/>
+                <instruction instr-id="945" subinstr-id="64"/>
+                <instruction instr-id="945" subinstr-id="66"/>
+                <instruction instr-id="945" subinstr-id="68"/>
+                <instruction instr-id="945" subinstr-id="70"/>
+                <instruction instr-id="945" subinstr-id="72"/>
+                <instruction instr-id="945" subinstr-id="74"/>
+                <instruction instr-id="945" subinstr-id="76"/>
+                <instruction instr-id="945" subinstr-id="80"/>
+                <instruction instr-id="945" subinstr-id="82"/>
+                <instruction instr-id="945" subinstr-id="84"/>
+                <instruction instr-id="945" subinstr-id="86"/>
+                <instruction instr-id="945" subinstr-id="88"/>
+                <instruction instr-id="945" subinstr-id="90"/>
+                <instruction instr-id="945" subinstr-id="92"/>
+                <instruction instr-id="945" subinstr-id="94"/>
+                <instruction instr-id="945" subinstr-id="96"/>
+                <instruction instr-id="945" subinstr-id="98"/>
+            </cell>
+            <cell id="31" start-col="1" start-row="12">
+                <bounding-box x1="391" x2="422" y1="466" y2="476"/>
+                <content>261,705</content>
+                <instruction instr-id="945" subinstr-id="102"/>
+                <instruction instr-id="945" subinstr-id="104"/>
+                <instruction instr-id="945" subinstr-id="106"/>
+                <instruction instr-id="945" subinstr-id="108"/>
+                <instruction instr-id="945" subinstr-id="110"/>
+                <instruction instr-id="945" subinstr-id="112"/>
+                <instruction instr-id="945" subinstr-id="114"/>
+            </cell>
+            <cell id="32" start-col="2" start-row="12">
+                <bounding-box x1="471" x2="502" y1="466" y2="476"/>
+                <content>178,840</content>
+                <instruction instr-id="947" subinstr-id="0"/>
+                <instruction instr-id="947" subinstr-id="2"/>
+                <instruction instr-id="947" subinstr-id="4"/>
+                <instruction instr-id="947" subinstr-id="6"/>
+                <instruction instr-id="947" subinstr-id="8"/>
+                <instruction instr-id="947" subinstr-id="10"/>
+                <instruction instr-id="947" subinstr-id="12"/>
+            </cell>
+            <cell id="33" start-col="0" start-row="13">
+                <bounding-box x1="101" x2="241" y1="442" y2="451"/>
+                <content>Costs Not Assigned to Other Programs</content>
+                <instruction instr-id="950" subinstr-id="0"/>
+                <instruction instr-id="950" subinstr-id="2"/>
+                <instruction instr-id="950" subinstr-id="4"/>
+                <instruction instr-id="950" subinstr-id="6"/>
+                <instruction instr-id="950" subinstr-id="10"/>
+                <instruction instr-id="950" subinstr-id="12"/>
+                <instruction instr-id="950" subinstr-id="14"/>
+                <instruction instr-id="950" subinstr-id="18"/>
+                <instruction instr-id="950" subinstr-id="20"/>
+                <instruction instr-id="950" subinstr-id="22"/>
+                <instruction instr-id="950" subinstr-id="24"/>
+                <instruction instr-id="950" subinstr-id="26"/>
+                <instruction instr-id="950" subinstr-id="28"/>
+                <instruction instr-id="950" subinstr-id="30"/>
+                <instruction instr-id="950" subinstr-id="32"/>
+                <instruction instr-id="950" subinstr-id="36"/>
+                <instruction instr-id="950" subinstr-id="38"/>
+                <instruction instr-id="950" subinstr-id="42"/>
+                <instruction instr-id="950" subinstr-id="44"/>
+                <instruction instr-id="950" subinstr-id="46"/>
+                <instruction instr-id="950" subinstr-id="48"/>
+                <instruction instr-id="950" subinstr-id="50"/>
+                <instruction instr-id="950" subinstr-id="52"/>
+                <instruction instr-id="950" subinstr-id="54"/>
+                <instruction instr-id="950" subinstr-id="56"/>
+                <instruction instr-id="950" subinstr-id="58"/>
+                <instruction instr-id="950" subinstr-id="60"/>
+                <instruction instr-id="950" subinstr-id="62"/>
+            </cell>
+            <cell id="34" start-col="0" start-row="14">
+                <bounding-box x1="114" x2="157" y1="430" y2="439"/>
+                <content>Gross Costs</content>
+                <instruction instr-id="952" subinstr-id="0"/>
+                <instruction instr-id="952" subinstr-id="2"/>
+                <instruction instr-id="952" subinstr-id="4"/>
+                <instruction instr-id="952" subinstr-id="6"/>
+                <instruction instr-id="952" subinstr-id="10"/>
+                <instruction instr-id="952" subinstr-id="12"/>
+                <instruction instr-id="952" subinstr-id="14"/>
+                <instruction instr-id="952" subinstr-id="16"/>
+            </cell>
+            <cell id="35" start-col="1" start-row="14">
+                <bounding-box x1="353" x2="423" y1="430" y2="439"/>
+                <content>$ 155,985</content>
+                <instruction instr-id="954" subinstr-id="0"/>
+                <instruction instr-id="954" subinstr-id="2"/>
+                <instruction instr-id="954" subinstr-id="4"/>
+                <instruction instr-id="954" subinstr-id="6"/>
+                <instruction instr-id="954" subinstr-id="8"/>
+                <instruction instr-id="954" subinstr-id="10"/>
+                <instruction instr-id="954" subinstr-id="12"/>
+                <instruction instr-id="954" subinstr-id="14"/>
+            </cell>
+            <cell id="36" start-col="2" start-row="14">
+                <bounding-box x1="430" x2="503" y1="430" y2="439"/>
+                <content>$ 171,825</content>
+                <instruction instr-id="954" subinstr-id="18"/>
+                <instruction instr-id="954" subinstr-id="20"/>
+                <instruction instr-id="954" subinstr-id="22"/>
+                <instruction instr-id="954" subinstr-id="24"/>
+                <instruction instr-id="954" subinstr-id="26"/>
+                <instruction instr-id="954" subinstr-id="28"/>
+                <instruction instr-id="954" subinstr-id="30"/>
+                <instruction instr-id="954" subinstr-id="32"/>
+            </cell>
+            <cell id="37" start-col="0" start-row="15">
+                <bounding-box x1="114" x2="204" y1="418" y2="427"/>
+                <content>Less: Earned Revenues</content>
+                <instruction instr-id="956" subinstr-id="0"/>
+                <instruction instr-id="956" subinstr-id="2"/>
+                <instruction instr-id="956" subinstr-id="4"/>
+                <instruction instr-id="956" subinstr-id="6"/>
+                <instruction instr-id="956" subinstr-id="8"/>
+                <instruction instr-id="956" subinstr-id="12"/>
+                <instruction instr-id="956" subinstr-id="14"/>
+                <instruction instr-id="956" subinstr-id="16"/>
+                <instruction instr-id="956" subinstr-id="18"/>
+                <instruction instr-id="956" subinstr-id="20"/>
+                <instruction instr-id="956" subinstr-id="24"/>
+                <instruction instr-id="956" subinstr-id="26"/>
+                <instruction instr-id="956" subinstr-id="28"/>
+                <instruction instr-id="956" subinstr-id="30"/>
+                <instruction instr-id="956" subinstr-id="32"/>
+                <instruction instr-id="956" subinstr-id="34"/>
+                <instruction instr-id="956" subinstr-id="36"/>
+            </cell>
+            <cell id="38" start-col="1" start-row="15">
+                <bounding-box x1="420" x2="423" y1="418" y2="427"/>
+                <content>-</content>
+                <instruction instr-id="958" subinstr-id="0"/>
+            </cell>
+            <cell id="39" start-col="2" start-row="15">
+                <bounding-box x1="499" x2="502" y1="418" y2="427"/>
+                <content>-</content>
+                <instruction instr-id="958" subinstr-id="2"/>
+            </cell>
+            <cell id="40" start-col="0" start-row="16">
+                <bounding-box x1="101" x2="274" y1="406" y2="415"/>
+                <content>Net Costs Not Assigned to Other Programs</content>
+                <instruction instr-id="961" subinstr-id="0"/>
+                <instruction instr-id="961" subinstr-id="2"/>
+                <instruction instr-id="961" subinstr-id="4"/>
+                <instruction instr-id="961" subinstr-id="6"/>
+                <instruction instr-id="961" subinstr-id="8"/>
+                <instruction instr-id="961" subinstr-id="10"/>
+                <instruction instr-id="961" subinstr-id="12"/>
+                <instruction instr-id="961" subinstr-id="16"/>
+                <instruction instr-id="961" subinstr-id="18"/>
+                <instruction instr-id="961" subinstr-id="20"/>
+                <instruction instr-id="961" subinstr-id="22"/>
+                <instruction instr-id="961" subinstr-id="24"/>
+                <instruction instr-id="961" subinstr-id="26"/>
+                <instruction instr-id="961" subinstr-id="28"/>
+                <instruction instr-id="961" subinstr-id="30"/>
+                <instruction instr-id="961" subinstr-id="32"/>
+                <instruction instr-id="961" subinstr-id="34"/>
+                <instruction instr-id="961" subinstr-id="36"/>
+                <instruction instr-id="961" subinstr-id="40"/>
+                <instruction instr-id="961" subinstr-id="44"/>
+                <instruction instr-id="961" subinstr-id="46"/>
+                <instruction instr-id="961" subinstr-id="48"/>
+                <instruction instr-id="961" subinstr-id="50"/>
+                <instruction instr-id="961" subinstr-id="54"/>
+                <instruction instr-id="961" subinstr-id="56"/>
+                <instruction instr-id="961" subinstr-id="58"/>
+                <instruction instr-id="961" subinstr-id="60"/>
+                <instruction instr-id="961" subinstr-id="62"/>
+                <instruction instr-id="961" subinstr-id="64"/>
+                <instruction instr-id="961" subinstr-id="66"/>
+                <instruction instr-id="961" subinstr-id="68"/>
+            </cell>
+            <cell id="41" start-col="1" start-row="16">
+                <bounding-box x1="391" x2="422" y1="406" y2="415"/>
+                <content>155,985</content>
+                <instruction instr-id="963" subinstr-id="0"/>
+                <instruction instr-id="963" subinstr-id="2"/>
+                <instruction instr-id="963" subinstr-id="4"/>
+                <instruction instr-id="963" subinstr-id="6"/>
+                <instruction instr-id="963" subinstr-id="8"/>
+                <instruction instr-id="963" subinstr-id="10"/>
+                <instruction instr-id="963" subinstr-id="12"/>
+            </cell>
+            <cell id="42" start-col="2" start-row="16">
+                <bounding-box x1="471" x2="502" y1="406" y2="415"/>
+                <content>171,825</content>
+                <instruction instr-id="963" subinstr-id="16"/>
+                <instruction instr-id="963" subinstr-id="18"/>
+                <instruction instr-id="963" subinstr-id="20"/>
+                <instruction instr-id="963" subinstr-id="22"/>
+                <instruction instr-id="963" subinstr-id="24"/>
+                <instruction instr-id="963" subinstr-id="26"/>
+                <instruction instr-id="963" subinstr-id="28"/>
+            </cell>
+            <cell id="43" start-col="0" start-row="17">
+                <bounding-box x1="88" x2="248" y1="381" y2="390"/>
+                <content>Net Cost of Operations (Notes 7 and 13)</content>
+                <instruction instr-id="965" subinstr-id="0"/>
+                <instruction instr-id="965" subinstr-id="2"/>
+                <instruction instr-id="965" subinstr-id="4"/>
+                <instruction instr-id="965" subinstr-id="6"/>
+                <instruction instr-id="965" subinstr-id="8"/>
+                <instruction instr-id="965" subinstr-id="10"/>
+                <instruction instr-id="965" subinstr-id="12"/>
+                <instruction instr-id="965" subinstr-id="14"/>
+                <instruction instr-id="965" subinstr-id="16"/>
+                <instruction instr-id="965" subinstr-id="20"/>
+                <instruction instr-id="965" subinstr-id="22"/>
+                <instruction instr-id="965" subinstr-id="24"/>
+                <instruction instr-id="965" subinstr-id="26"/>
+                <instruction instr-id="965" subinstr-id="28"/>
+                <instruction instr-id="965" subinstr-id="30"/>
+                <instruction instr-id="965" subinstr-id="32"/>
+                <instruction instr-id="965" subinstr-id="34"/>
+                <instruction instr-id="965" subinstr-id="36"/>
+                <instruction instr-id="965" subinstr-id="40"/>
+                <instruction instr-id="965" subinstr-id="42"/>
+                <instruction instr-id="965" subinstr-id="44"/>
+                <instruction instr-id="965" subinstr-id="46"/>
+                <instruction instr-id="965" subinstr-id="50"/>
+                <instruction instr-id="965" subinstr-id="54"/>
+                <instruction instr-id="965" subinstr-id="56"/>
+                <instruction instr-id="965" subinstr-id="58"/>
+                <instruction instr-id="965" subinstr-id="62"/>
+                <instruction instr-id="965" subinstr-id="64"/>
+                <instruction instr-id="965" subinstr-id="66"/>
+            </cell>
+            <cell id="44" start-col="1" start-row="17">
+                <bounding-box x1="353" x2="422" y1="381" y2="390"/>
+                <content>$ 7,139,994</content>
+                <instruction instr-id="967" subinstr-id="0"/>
+                <instruction instr-id="967" subinstr-id="2"/>
+                <instruction instr-id="967" subinstr-id="4"/>
+                <instruction instr-id="967" subinstr-id="6"/>
+                <instruction instr-id="967" subinstr-id="8"/>
+                <instruction instr-id="967" subinstr-id="10"/>
+                <instruction instr-id="967" subinstr-id="12"/>
+                <instruction instr-id="967" subinstr-id="14"/>
+                <instruction instr-id="967" subinstr-id="16"/>
+                <instruction instr-id="967" subinstr-id="18"/>
+            </cell>
+            <cell id="45" start-col="2" start-row="17">
+                <bounding-box x1="429" x2="502" y1="381" y2="390"/>
+                <content>$ 6,895,106</content>
+                <instruction instr-id="967" subinstr-id="22"/>
+                <instruction instr-id="967" subinstr-id="24"/>
+                <instruction instr-id="967" subinstr-id="26"/>
+                <instruction instr-id="967" subinstr-id="28"/>
+                <instruction instr-id="967" subinstr-id="30"/>
+                <instruction instr-id="967" subinstr-id="32"/>
+                <instruction instr-id="967" subinstr-id="34"/>
+                <instruction instr-id="967" subinstr-id="36"/>
+                <instruction instr-id="967" subinstr-id="38"/>
+                <instruction instr-id="967" subinstr-id="40"/>
+            </cell>
+        </region>
+    </table>
+</document>

@@ -1,0 +1,10 @@
+Information regarding us-010.pdf:
+
+This document contains a special case table, which is split across
+two pages in the middle of a row.  As the current version of our models
+does not foresee the possibility that cells are split across more than
+one region, we have decided to remove this document from the dataset.
+
+Tamir Hassan
+tamir@tamirhassan.com
+2013-03-17

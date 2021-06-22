@@ -1,0 +1,27 @@
+                                                              Department of Defense
+                                                             Base Structure Report (BSR)
+                                                                   FY 2007 Baseline
+
+The Department’s Linear Structures Profile by RPCS facility class, area, and interest is shown in Table 7.
+
+                                                                     Owned                     Leased                      Other                     DoD Total
+    FAC Class                             Area             Count        PRV($M)        Count       PRV($M)      Count         PRV($M)       Count         PRV($M)
+    Operation & Training                  United States            2,137    6,193.31           14        3.69             17       23.01            2,168    6,220.02
+                                          Territories                46      534.18                                        1         0.01             47      534.19
+                                          Overseas                  362     1,095.07                                     151     1,506.09            513     2,601.16
+    Operation & Training Total                                     2,545    7,822.57           14        3.69            169     1,529.11           2,728    9,355.37
+    Utility & Ground Improvements         United States        33,550      61,812.04           191      40.87           1,834    3,254.29       35,575      65,107.19
+                                          Territories               770     1,932.06                                       5         0.23            775     1,932.29
+                                          Overseas                 5,895    5,728.46           124      19.96           3,771    6,288.45           9,790   12,036.88
+    Utility & Ground Improvements Total                        40,215      69,472.56           315      60.83           5,610    9,542.97       46,140      79,076.36
+    Total                                 United States        35,687      68,005.35           205      44.56           1,851    3,277.30       37,743      71,327.21
+                                          Territories               816     2,466.24                                       6         0.24            822     2,466.48
+                                          Overseas                 6,257    6,823.54           124      19.96           3,922    7,794.54       10,303      14,638.04
+    Grand Total                                                42,760      77,295.12           329      64.52           5,779   11,072.09       48,868      88,431.73
+                                                        Table 7. Linear Structures Profile (Count and PRV)
+
+
+
+
+                                                                                  DoD - 16
+

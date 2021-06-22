@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-015.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="3" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="86" x2="205" y1="451" y2="460"/>
+                <content>Federal Department or Agency</content>
+                <instruction instr-id="4340" subinstr-id="0"/>
+                <instruction instr-id="4340" subinstr-id="2"/>
+                <instruction instr-id="4340" subinstr-id="4"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="216" x2="248" y1="436" y2="475"/>
+                <content>FY 2000
+Actual
+($M)</content>
+                <instruction instr-id="4347"/>
+                <instruction instr-id="4354"/>
+                <instruction instr-id="4361"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="260" x2="292" y1="436" y2="475"/>
+                <content>FY 2001
+Actual
+($M)</content>
+                <instruction instr-id="4368"/>
+                <instruction instr-id="4375"/>
+                <instruction instr-id="4382"/>
+            </cell>
+            <cell id="3" start-col="3" start-row="0">
+                <bounding-box x1="304" x2="336" y1="436" y2="475"/>
+                <content>FY 2002
+Actual
+($M)</content>
+                <instruction instr-id="4389"/>
+                <instruction instr-id="4396"/>
+                <instruction instr-id="4403"/>
+            </cell>
+            <cell id="4" start-col="4" start-row="0">
+                <bounding-box x1="348" x2="380" y1="436" y2="475"/>
+                <content>FY 2003
+Actual
+($M)</content>
+                <instruction instr-id="4410"/>
+                <instruction instr-id="4417" subinstr-id="2"/>
+                <instruction instr-id="4424"/>
+            </cell>
+            <cell id="5" start-col="5" start-row="0">
+                <bounding-box x1="392" x2="425" y1="436" y2="475"/>
+                <content>FY 2004
+Actual
+($M)</content>
+                <instruction instr-id="4431"/>
+                <instruction instr-id="4438" subinstr-id="2"/>
+                <instruction instr-id="4445"/>
+            </cell>
+            <cell id="6" start-col="6" start-row="0">
+                <bounding-box x1="436" x2="470" y1="436" y2="475"/>
+                <content>FY 2005
+Estimate
+($M)</content>
+                <instruction instr-id="4452"/>
+                <instruction instr-id="4459"/>
+                <instruction instr-id="4466"/>
+            </cell>
+            <cell id="7" start-col="7" start-row="0">
+                <bounding-box x1="481" x2="513" y1="436" y2="475"/>
+                <content>FY 2006
+Request
+($M)</content>
+                <instruction instr-id="4473"/>
+                <instruction instr-id="4480"/>
+                <instruction instr-id="4487"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="1">
+                <bounding-box x1="86" x2="191" y1="412" y2="431"/>
+                <content>National Science Foundation
+(NSF)</content>
+                <instruction instr-id="4494" subinstr-id="0"/>
+                <instruction instr-id="4494" subinstr-id="2"/>
+                <instruction instr-id="4501"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="1">
+                <bounding-box x1="229" x2="238" y1="417" y2="426"/>
+                <content>97</content>
+                <instruction instr-id="4508"/>
+            </cell>
+            <cell id="10" start-col="2" start-row="1">
+                <bounding-box x1="269" x2="282" y1="417" y2="426"/>
+                <content>150</content>
+                <instruction instr-id="4515"/>
+            </cell>
+            <cell id="11" start-col="3" start-row="1">
+                <bounding-box x1="313" x2="326" y1="417" y2="426"/>
+                <content>204</content>
+                <instruction instr-id="4522"/>
+            </cell>
+            <cell id="12" start-col="4" start-row="1">
+                <bounding-box x1="357" x2="370" y1="417" y2="426"/>
+                <content>221</content>
+                <instruction instr-id="4529"/>
+            </cell>
+            <cell id="13" start-col="5" start-row="1">
+                <bounding-box x1="401" x2="414" y1="417" y2="426"/>
+                <content>256</content>
+                <instruction instr-id="4536"/>
+            </cell>
+            <cell id="14" start-col="6" start-row="1">
+                <bounding-box x1="445" x2="459" y1="417" y2="426"/>
+                <content>338</content>
+                <instruction instr-id="4543"/>
+            </cell>
+            <cell id="15" start-col="7" start-row="1">
+                <bounding-box x1="489" x2="503" y1="417" y2="426"/>
+                <content>344</content>
+                <instruction instr-id="4550"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="2">
+                <bounding-box x1="86" x2="170" y1="390" y2="409"/>
+                <content>Department of Defense
+(DOD)</content>
+                <instruction instr-id="4557"/>
+                <instruction instr-id="4571"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="2">
+                <bounding-box x1="229" x2="238" y1="395" y2="404"/>
+                <content>70</content>
+                <instruction instr-id="4578"/>
+            </cell>
+            <cell id="18" start-col="2" start-row="2">
+                <bounding-box x1="269" x2="282" y1="395" y2="404"/>
+                <content>125</content>
+                <instruction instr-id="4585"/>
+            </cell>
+            <cell id="19" start-col="3" start-row="2">
+                <bounding-box x1="313" x2="326" y1="395" y2="404"/>
+                <content>224</content>
+                <instruction instr-id="4592"/>
+            </cell>
+            <cell id="20" start-col="4" start-row="2">
+                <bounding-box x1="357" x2="370" y1="395" y2="404"/>
+                <content>322</content>
+                <instruction instr-id="4599"/>
+            </cell>
+            <cell id="21" start-col="5" start-row="2">
+                <bounding-box x1="401" x2="414" y1="395" y2="404"/>
+                <content>291</content>
+                <instruction instr-id="4606"/>
+            </cell>
+            <cell id="22" start-col="6" start-row="2">
+                <bounding-box x1="445" x2="459" y1="395" y2="404"/>
+                <content>257</content>
+                <instruction instr-id="4613"/>
+            </cell>
+            <cell id="23" start-col="7" start-row="2">
+                <bounding-box x1="489" x2="503" y1="395" y2="404"/>
+                <content>230</content>
+                <instruction instr-id="4620"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="3">
+                <bounding-box x1="86" x2="167" y1="367" y2="386"/>
+                <content>Department of Energy
+(DOE)</content>
+                <instruction instr-id="4627" subinstr-id="0"/>
+                <instruction instr-id="4627" subinstr-id="2"/>
+                <instruction instr-id="4641"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="3">
+                <bounding-box x1="229" x2="238" y1="372" y2="381"/>
+                <content>58</content>
+                <instruction instr-id="4648"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="3">
+                <bounding-box x1="273" x2="282" y1="372" y2="381"/>
+                <content>88</content>
+                <instruction instr-id="4655"/>
+            </cell>
+            <cell id="27" start-col="3" start-row="3">
+                <bounding-box x1="317" x2="326" y1="372" y2="381"/>
+                <content>89</content>
+                <instruction instr-id="4662"/>
+            </cell>
+            <cell id="28" start-col="4" start-row="3">
+                <bounding-box x1="357" x2="370" y1="372" y2="381"/>
+                <content>134</content>
+                <instruction instr-id="4669"/>
+            </cell>
+            <cell id="29" start-col="5" start-row="3">
+                <bounding-box x1="401" x2="414" y1="372" y2="381"/>
+                <content>202</content>
+                <instruction instr-id="4676"/>
+            </cell>
+            <cell id="30" start-col="6" start-row="3">
+                <bounding-box x1="445" x2="459" y1="372" y2="381"/>
+                <content>210</content>
+                <instruction instr-id="4683"/>
+            </cell>
+            <cell id="31" start-col="7" start-row="3">
+                <bounding-box x1="489" x2="503" y1="372" y2="381"/>
+                <content>207</content>
+                <instruction instr-id="4690"/>
+            </cell>
+            <cell id="32" start-col="0" start-row="4">
+                <bounding-box x1="86" x2="188" y1="345" y2="364"/>
+                <content>National Institutes of Health
+(NIH)</content>
+                <instruction instr-id="4697"/>
+                <instruction instr-id="4704"/>
+            </cell>
+            <cell id="33" start-col="1" start-row="4">
+                <bounding-box x1="229" x2="238" y1="350" y2="359"/>
+                <content>32</content>
+                <instruction instr-id="4711"/>
+            </cell>
+            <cell id="34" start-col="2" start-row="4">
+                <bounding-box x1="273" x2="282" y1="350" y2="359"/>
+                <content>40</content>
+                <instruction instr-id="4718"/>
+            </cell>
+            <cell id="35" start-col="3" start-row="4">
+                <bounding-box x1="317" x2="326" y1="350" y2="359"/>
+                <content>59</content>
+                <instruction instr-id="4725"/>
+            </cell>
+            <cell id="36" start-col="4" start-row="4">
+                <bounding-box x1="361" x2="370" y1="350" y2="359"/>
+                <content>78</content>
+                <instruction instr-id="4732"/>
+            </cell>
+            <cell id="37" start-col="5" start-row="4">
+                <bounding-box x1="401" x2="414" y1="350" y2="359"/>
+                <content>106</content>
+                <instruction instr-id="4739"/>
+            </cell>
+            <cell id="38" start-col="6" start-row="4">
+                <bounding-box x1="445" x2="459" y1="350" y2="359"/>
+                <content>142</content>
+                <instruction instr-id="4746"/>
+            </cell>
+            <cell id="39" start-col="7" start-row="4">
+                <bounding-box x1="489" x2="503" y1="350" y2="359"/>
+                <content>144</content>
+                <instruction instr-id="4753"/>
+            </cell>
+            <cell id="40" start-col="0" start-row="5">
+                <bounding-box x1="86" x2="196" y1="323" y2="342"/>
+                <content>National Institute of Standards
+and Technology (NIST)</content>
+                <instruction instr-id="4760"/>
+                <instruction instr-id="4767" subinstr-id="0"/>
+                <instruction instr-id="4767" subinstr-id="2"/>
+                <instruction instr-id="4767" subinstr-id="4"/>
+            </cell>
+            <cell id="41" start-col="1" start-row="5">
+                <bounding-box x1="234" x2="238" y1="328" y2="337"/>
+                <content>8</content>
+                <instruction instr-id="4774"/>
+            </cell>
+            <cell id="42" start-col="2" start-row="5">
+                <bounding-box x1="273" x2="282" y1="328" y2="337"/>
+                <content>33</content>
+                <instruction instr-id="4781"/>
+            </cell>
+            <cell id="43" start-col="3" start-row="5">
+                <bounding-box x1="317" x2="326" y1="328" y2="337"/>
+                <content>77</content>
+                <instruction instr-id="4788"/>
+            </cell>
+            <cell id="44" start-col="4" start-row="5">
+                <bounding-box x1="361" x2="370" y1="328" y2="337"/>
+                <content>64</content>
+                <instruction instr-id="4795"/>
+            </cell>
+            <cell id="45" start-col="5" start-row="5">
+                <bounding-box x1="405" x2="414" y1="328" y2="337"/>
+                <content>77</content>
+                <instruction instr-id="4802"/>
+            </cell>
+            <cell id="46" start-col="6" start-row="5">
+                <bounding-box x1="450" x2="459" y1="328" y2="337"/>
+                <content>75</content>
+                <instruction instr-id="4809"/>
+            </cell>
+            <cell id="47" start-col="7" start-row="5">
+                <bounding-box x1="494" x2="503" y1="328" y2="337"/>
+                <content>75</content>
+                <instruction instr-id="4816"/>
+            </cell>
+            <cell id="48" start-col="0" start-row="6">
+                <bounding-box x1="86" x2="201" y1="301" y2="320"/>
+                <content>National Aeronautics and Space
+Administration(NASA)</content>
+                <instruction instr-id="4823" subinstr-id="0"/>
+                <instruction instr-id="4823" subinstr-id="2"/>
+                <instruction instr-id="4830" subinstr-id="0"/>
+                <instruction instr-id="4830" subinstr-id="2"/>
+            </cell>
+            <cell id="49" start-col="1" start-row="6">
+                <bounding-box x1="234" x2="238" y1="306" y2="315"/>
+                <content>5</content>
+                <instruction instr-id="4837"/>
+            </cell>
+            <cell id="50" start-col="2" start-row="6">
+                <bounding-box x1="273" x2="282" y1="306" y2="315"/>
+                <content>22</content>
+                <instruction instr-id="4844"/>
+            </cell>
+            <cell id="51" start-col="3" start-row="6">
+                <bounding-box x1="317" x2="326" y1="306" y2="315"/>
+                <content>35</content>
+                <instruction instr-id="4851"/>
+            </cell>
+            <cell id="52" start-col="4" start-row="6">
+                <bounding-box x1="361" x2="370" y1="306" y2="315"/>
+                <content>36</content>
+                <instruction instr-id="4858"/>
+            </cell>
+            <cell id="53" start-col="5" start-row="6">
+                <bounding-box x1="405" x2="414" y1="306" y2="315"/>
+                <content>47</content>
+                <instruction instr-id="4865"/>
+            </cell>
+            <cell id="54" start-col="6" start-row="6">
+                <bounding-box x1="450" x2="459" y1="306" y2="315"/>
+                <content>45</content>
+                <instruction instr-id="4872"/>
+            </cell>
+            <cell id="55" start-col="7" start-row="6">
+                <bounding-box x1="494" x2="503" y1="306" y2="315"/>
+                <content>32</content>
+                <instruction instr-id="4879"/>
+            </cell>
+            <cell id="56" start-col="0" start-row="7">
+                <bounding-box x1="86" x2="209" y1="279" y2="298"/>
+                <content>National Institute for Occupational
+Safety and Health (NIOSH)</content>
+                <instruction instr-id="4886" subinstr-id="0"/>
+                <instruction instr-id="4886" subinstr-id="2"/>
+                <instruction instr-id="4886" subinstr-id="4"/>
+                <instruction instr-id="4886" subinstr-id="6"/>
+                <instruction instr-id="4893" subinstr-id="0"/>
+                <instruction instr-id="4893" subinstr-id="2"/>
+                <instruction instr-id="4893" subinstr-id="4"/>
+                <instruction instr-id="4893" subinstr-id="6"/>
+            </cell>
+            <cell id="57" start-col="1" start-row="7">
+                <bounding-box x1="235" x2="238" y1="284" y2="293"/>
+                <content>-</content>
+                <instruction instr-id="4900"/>
+            </cell>
+            <cell id="58" start-col="2" start-row="7">
+                <bounding-box x1="279" x2="282" y1="284" y2="293"/>
+                <content>-</content>
+                <instruction instr-id="4907"/>
+            </cell>
+            <cell id="59" start-col="3" start-row="7">
+                <bounding-box x1="323" x2="326" y1="284" y2="293"/>
+                <content>-</content>
+                <instruction instr-id="4914"/>
+            </cell>
+            <cell id="60" start-col="4" start-row="7">
+                <bounding-box x1="367" x2="370" y1="284" y2="293"/>
+                <content>-</content>
+                <instruction instr-id="4921"/>
+            </cell>
+            <cell id="61" start-col="5" start-row="7">
+                <bounding-box x1="411" x2="414" y1="284" y2="293"/>
+                <content>-</content>
+                <instruction instr-id="4928"/>
+            </cell>
+            <cell id="62" start-col="6" start-row="7">
+                <bounding-box x1="454" x2="459" y1="284" y2="293"/>
+                <content>3</content>
+                <instruction instr-id="4935"/>
+            </cell>
+            <cell id="63" start-col="7" start-row="7">
+                <bounding-box x1="498" x2="503" y1="284" y2="293"/>
+                <content>3</content>
+                <instruction instr-id="4942"/>
+            </cell>
+            <cell id="64" start-col="0" start-row="8">
+                <bounding-box x1="86" x2="208" y1="257" y2="276"/>
+                <content>Environmental Protection Agency
+(EPA)</content>
+                <instruction instr-id="4949" subinstr-id="0"/>
+                <instruction instr-id="4949" subinstr-id="2"/>
+                <instruction instr-id="4949" subinstr-id="4"/>
+                <instruction instr-id="4949" subinstr-id="6"/>
+                <instruction instr-id="4956" subinstr-id="0"/>
+                <instruction instr-id="4956" subinstr-id="2"/>
+            </cell>
+            <cell id="65" start-col="1" start-row="8">
+                <bounding-box x1="235" x2="238" y1="262" y2="271"/>
+                <content>-</content>
+                <instruction instr-id="4963"/>
+            </cell>
+            <cell id="66" start-col="2" start-row="8">
+                <bounding-box x1="278" x2="282" y1="262" y2="271"/>
+                <content>5</content>
+                <instruction instr-id="4970"/>
+            </cell>
+            <cell id="67" start-col="3" start-row="8">
+                <bounding-box x1="322" x2="326" y1="262" y2="271"/>
+                <content>6</content>
+                <instruction instr-id="4977"/>
+            </cell>
+            <cell id="68" start-col="4" start-row="8">
+                <bounding-box x1="366" x2="370" y1="262" y2="271"/>
+                <content>5</content>
+                <instruction instr-id="4984"/>
+            </cell>
+            <cell id="69" start-col="5" start-row="8">
+                <bounding-box x1="410" x2="414" y1="262" y2="271"/>
+                <content>5</content>
+                <instruction instr-id="4991"/>
+            </cell>
+            <cell id="70" start-col="6" start-row="8">
+                <bounding-box x1="454" x2="459" y1="262" y2="271"/>
+                <content>5</content>
+                <instruction instr-id="4998"/>
+            </cell>
+            <cell id="71" start-col="7" start-row="8">
+                <bounding-box x1="498" x2="503" y1="262" y2="271"/>
+                <content>5</content>
+                <instruction instr-id="5005"/>
+            </cell>
+            <cell id="72" start-col="0" start-row="9">
+                <bounding-box x1="86" x2="156" y1="235" y2="254"/>
+                <content>Homeland Security
+(TSA)</content>
+                <instruction instr-id="5012"/>
+                <instruction instr-id="5026"/>
+            </cell>
+            <cell id="73" start-col="1" start-row="9">
+                <bounding-box x1="235" x2="238" y1="240" y2="249"/>
+                <content>-</content>
+                <instruction instr-id="5033"/>
+            </cell>
+            <cell id="74" start-col="2" start-row="9">
+                <bounding-box x1="279" x2="282" y1="240" y2="249"/>
+                <content>-</content>
+                <instruction instr-id="5040"/>
+            </cell>
+            <cell id="75" start-col="3" start-row="9">
+                <bounding-box x1="322" x2="326" y1="240" y2="249"/>
+                <content>2</content>
+                <instruction instr-id="5047"/>
+            </cell>
+            <cell id="76" start-col="4" start-row="9">
+                <bounding-box x1="366" x2="370" y1="240" y2="249"/>
+                <content>1</content>
+                <instruction instr-id="5054"/>
+            </cell>
+            <cell id="77" start-col="5" start-row="9">
+                <bounding-box x1="410" x2="414" y1="240" y2="249"/>
+                <content>1</content>
+                <instruction instr-id="5061"/>
+            </cell>
+            <cell id="78" start-col="6" start-row="9">
+                <bounding-box x1="454" x2="459" y1="240" y2="249"/>
+                <content>1</content>
+                <instruction instr-id="5068"/>
+            </cell>
+            <cell id="79" start-col="7" start-row="9">
+                <bounding-box x1="498" x2="503" y1="240" y2="249"/>
+                <content>1</content>
+                <instruction instr-id="5075"/>
+            </cell>
+            <cell id="80" start-col="0" start-row="10">
+                <bounding-box x1="86" x2="182" y1="212" y2="231"/>
+                <content>Department of Agriculture
+(USDA)</content>
+                <instruction instr-id="5082" subinstr-id="0"/>
+                <instruction instr-id="5082" subinstr-id="2"/>
+                <instruction instr-id="5089" subinstr-id="0"/>
+                <instruction instr-id="5089" subinstr-id="2"/>
+            </cell>
+            <cell id="81" start-col="1" start-row="10">
+                <bounding-box x1="235" x2="238" y1="217" y2="226"/>
+                <content>-</content>
+                <instruction instr-id="5096"/>
+            </cell>
+            <cell id="82" start-col="2" start-row="10">
+                <bounding-box x1="279" x2="282" y1="217" y2="226"/>
+                <content>-</content>
+                <instruction instr-id="5103"/>
+            </cell>
+            <cell id="83" start-col="3" start-row="10">
+                <bounding-box x1="323" x2="326" y1="217" y2="226"/>
+                <content>-</content>
+                <instruction instr-id="5110"/>
+            </cell>
+            <cell id="84" start-col="4" start-row="10">
+                <bounding-box x1="366" x2="370" y1="217" y2="226"/>
+                <content>1</content>
+                <instruction instr-id="5117"/>
+            </cell>
+            <cell id="85" start-col="5" start-row="10">
+                <bounding-box x1="410" x2="414" y1="217" y2="226"/>
+                <content>2</content>
+                <instruction instr-id="5124"/>
+            </cell>
+            <cell id="86" start-col="6" start-row="10">
+                <bounding-box x1="454" x2="459" y1="217" y2="226"/>
+                <content>3</content>
+                <instruction instr-id="5131"/>
+            </cell>
+            <cell id="87" start-col="7" start-row="10">
+                <bounding-box x1="494" x2="503" y1="217" y2="226"/>
+                <content>11</content>
+                <instruction instr-id="5138"/>
+            </cell>
+            <cell id="88" start-col="0" start-row="11">
+                <bounding-box x1="86" x2="165" y1="190" y2="209"/>
+                <content>Department of Justice
+(DOJ)</content>
+                <instruction instr-id="5145"/>
+                <instruction instr-id="5159"/>
+            </cell>
+            <cell id="89" start-col="1" start-row="11">
+                <bounding-box x1="235" x2="238" y1="195" y2="204"/>
+                <content>-</content>
+                <instruction instr-id="5166"/>
+            </cell>
+            <cell id="90" start-col="2" start-row="11">
+                <bounding-box x1="278" x2="282" y1="195" y2="204"/>
+                <content>1</content>
+                <instruction instr-id="5173"/>
+            </cell>
+            <cell id="91" start-col="3" start-row="11">
+                <bounding-box x1="322" x2="326" y1="195" y2="204"/>
+                <content>1</content>
+                <instruction instr-id="5180"/>
+            </cell>
+            <cell id="92" start-col="4" start-row="11">
+                <bounding-box x1="366" x2="370" y1="195" y2="204"/>
+                <content>1</content>
+                <instruction instr-id="5187"/>
+            </cell>
+            <cell id="93" start-col="5" start-row="11">
+                <bounding-box x1="410" x2="414" y1="195" y2="204"/>
+                <content>2</content>
+                <instruction instr-id="5194"/>
+            </cell>
+            <cell id="94" start-col="6" start-row="11">
+                <bounding-box x1="454" x2="459" y1="195" y2="204"/>
+                <content>2</content>
+                <instruction instr-id="5201"/>
+            </cell>
+            <cell id="95" start-col="7" start-row="11">
+                <bounding-box x1="498" x2="503" y1="195" y2="204"/>
+                <content>2</content>
+                <instruction instr-id="5208"/>
+            </cell>
+            <cell id="96" start-col="0" start-row="12">
+                <bounding-box x1="86" x2="123" y1="171" y2="182"/>
+                <content>TOTAL</content>
+                <instruction instr-id="5215" subinstr-id="0"/>
+                <instruction instr-id="5215" subinstr-id="2"/>
+                <instruction instr-id="5215" subinstr-id="4"/>
+                <instruction instr-id="5215" subinstr-id="6"/>
+            </cell>
+            <cell id="97" start-col="1" start-row="12">
+                <bounding-box x1="217" x2="244" y1="164" y2="188"/>
+                <content>270
+(100%)</content>
+                <instruction instr-id="5222"/>
+                <instruction instr-id="5229"/>
+            </cell>
+            <cell id="98" start-col="2" start-row="12">
+                <bounding-box x1="261" x2="288" y1="164" y2="188"/>
+                <content>464
+(172%)</content>
+                <instruction instr-id="5236"/>
+                <instruction instr-id="5243"/>
+            </cell>
+            <cell id="99" start-col="3" start-row="12">
+                <bounding-box x1="305" x2="332" y1="164" y2="188"/>
+                <content>697
+(258%)</content>
+                <instruction instr-id="5250"/>
+                <instruction instr-id="5257"/>
+            </cell>
+            <cell id="100" start-col="4" start-row="12">
+                <bounding-box x1="349" x2="376" y1="164" y2="188"/>
+                <content>863
+(320%)</content>
+                <instruction instr-id="5264"/>
+                <instruction instr-id="5271"/>
+            </cell>
+            <cell id="101" start-col="5" start-row="12">
+                <bounding-box x1="393" x2="420" y1="164" y2="188"/>
+                <content>989
+(366%)</content>
+                <instruction instr-id="5278"/>
+                <instruction instr-id="5285"/>
+            </cell>
+            <cell id="102" start-col="6" start-row="12">
+                <bounding-box x1="438" x2="465" y1="164" y2="188"/>
+                <content>1,081
+(400%)</content>
+                <instruction instr-id="5292"/>
+                <instruction instr-id="5299"/>
+            </cell>
+            <cell id="103" start-col="7" start-row="12">
+                <bounding-box x1="481" x2="508" y1="164" y2="188"/>
+                <content>1,054
+(390%)</content>
+                <instruction instr-id="5306"/>
+                <instruction instr-id="5313"/>
+            </cell>
+        </region>
+    </table>
+</document>

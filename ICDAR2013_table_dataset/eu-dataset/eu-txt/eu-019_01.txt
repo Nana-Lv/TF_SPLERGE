@@ -1,0 +1,39 @@
+                                                                  Contract number – REM 01
+                                                                               Final Report
+
+   o    SI2.5: Country Net Yearly Salary Average in EURO
+
+                     Net Yearly Salary                               Net Yearly Salary
+        Country                                      Country
+                         average                                         average
+Austria                   31.552               Italy                      21.821
+Belgium                   25.408               Latvia                      9.150
+Bulgaria                   3.361               Lithuania                   6.340
+Croatia                   12.477               Luxembourg                 45.847
+Cyprus                    33.865               Malta                      19.688
+Czech Republic            11.514               Netherlands                36.791
+Denmark                   35.874               Norway                     39.407
+Estonia                    7.865               Poland                      8.059
+Finland                   26.268               Portugal                   18.111
+France                    30.030               Romania                     5.766
+Germany                   28.351               Slovakia                    6.055
+Greece                    20.105               Slovenia                   14.279
+Hungary                    9.423               Spain                      22.930
+Iceland                   33.936               Sweden                     28.075
+Ireland                   34.930               Switzerland                64.123
+Israel                    26.703               Turkey                     14.565
+                                               United Kingdom             37.001
+
+  Table 48 - Country Net Yearly Salary Average (2006, N=6.934, all currencies in EURO)
+
+Note: A different analysis has been carried out for the net yearly salary costs
+obtained in the survey in order to detect unusual observations. The final sample
+had 7.018 correct replies, including 84 answers from Marie Curie fellowships. Marie
+Curie answers has not been considered for the calculation of the country net yearly
+salary average, as a result the sample had N=6.934.
+
+
+
+
+CARSA                                                                    Page 165 of 211
+

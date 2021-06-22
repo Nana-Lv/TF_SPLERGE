@@ -1,0 +1,78 @@
+                                                                                                                                                          ECONOMIC
+                                                                                                                                                      AND MONETARY
+                                                                                                                                                      DEVELOPMENTS
+
+                                                                                                                                                          Monetary and
+                                                                                                                                                               financial
+                                                                                                                                                          developments
+
+
+
+
+ Summing up, government bond yield spreads vis-à-vis Germany, albeit having declined recently,
+ remain high for a number of countries, indicating continued risk and market uncertainty.
+ Securities issuance by euro area governments has been rising since the outbreak of the ﬁnancial
+ crisis, especially for short-term issuance. In the last two years governments have started to
+ substitute short-term debt with long-term debt. However, the risk associated with reﬁnancing of
+ debt remains high, and it is important that governments continue to adhere to their consolidation
+ strategies in order to ﬁrmly correct excessive deﬁcits and restore ﬁnancial market conﬁdence.
+
+
+As regards market-based measures of inﬂation expectations, yields on ﬁve-year inﬂation-
+linked euro area government bonds have decreased since the end of November 2011 and stood
+in negative territory in early March 2012, while yields on ten-year inﬂation-linked bonds also
+trended downwards over the same period (see Chart 26). Five and ten-year spot real yields stood
+at around -0.4% and 0.6% respectively on 7 March. Implied forward inﬂation swap rates (ﬁve-year
+forward ﬁve years ahead) in the euro area increased moderately in the period under review, edging
+up by 8 basis points to stand at 2.4% on 7 March (see Chart 27). In the same period, break-even
+inﬂation rates at the same time horizon dropped by 38 basis points to stand at 2.2% on 7 March.
+
+Break-even inﬂation rates have ﬂuctuated markedly in recent months, reﬂecting both the high volatility
+of government bond markets and the existence of sizeable liquidity premia. Inﬂation expectations
+inferred from bond markets have thus been less reliable than those based on the signals received from
+
+
+ Chart 26 Euro area zero coupon                                      Chart 27 Euro area zero coupon break-even
+ inflation-linked bond yields                                        inflation rates and inflation-linked swap
+                                                                     rates
+ (percentages per annum; ﬁve-day moving averages of daily data;      (percentages per annum; ﬁve-day moving averages of daily data;
+ seasonally adjusted)                                                seasonally adjusted)
+
+            five-year forward inflation-linked bond yield                      five-year forward break-even inflation rate
+            five years ahead                                                   five years ahead
+            five-year spot inflation-linked bond yield                         five-year forward inflation-linked swap rate
+            ten-year spot inflation-linked bond yield                          five years ahead
+ 3.0                                                           3.0   2.8                                                             2.8
+
+ 2.5                                                           2.5
+                                                                     2.6                                                             2.6
+ 2.0                                                           2.0
+
+                                                                     2.4                                                             2.4
+ 1.5                                                           1.5
+
+ 1.0                                                           1.0
+                                                                     2.2                                                             2.2
+
+ 0.5                                                           0.5
+                                                                     2.0                                                             2.0
+ 0.0                                                           0.0
+
+ -0.5                                                         -0.5   1.8                                                             1.8
+    Mar.    May      July       Sep.   Nov.      Jan.      Mar.        Mar.    May       July       Sep.    Nov.      Jan.        Mar.
+                            2011                        2012                                    2011                          2012
+
+ Sources: Thomson Reuters and ECB calculations.                      Sources: Thomson Reuters and ECB calculations.
+ Notes: Since the end of August 2011 real rates have been computed   Notes: Since the end of August 2011 break-even inﬂation rates
+ as a GDP-weighted average of separate real rates for France         have been computed as a GDP weighted average of separately
+ and Germany. Before that date, real rates were computed by          estimated break-even rates for France and Germany. Before that
+ estimating a combined real yield curve for France and Germany.      date, break-even inﬂation rates were computed by comparing
+                                                                     yields from the nominal yield curve of AAA-rated euro area
+                                                                     government bonds with a combined real yield curve derived
+                                                                     from French and German inﬂation-linked government bonds.
+
+
+                                                                                                                                          ECB
+                                                                                                                              Monthly Bulletin
+                                                                                                                                  March 2012     47
+

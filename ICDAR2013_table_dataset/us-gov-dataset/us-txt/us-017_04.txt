@@ -1,0 +1,51 @@
+                                2. Introductory and Summary Comments
+
+
+•   Consumer Product Safety Commission (CPSC)
+•   U.S. Patent and Trademark Ofﬁce (USPTO)
+
+Research to establish the knowledge base that is used by regulatory agencies to inform their decision-
+making process may be performed by Federal agencies, such as NSF, NIH, NIST, EPA, FDA, NIOSH,
+OSHA, USDA, DOE, and DOD, or may be performed by industry or other private sector research
+institutions.
+
+The materials and products based on nanotechnology are regulated today within the existing network
+of statutes, regulations, rules, guidelines, and other voluntary activities. Nanostructures are evaluated
+by various groups and in different countries as “chemicals with new uses” or as “new chemicals.”
+In some cases, pre-market review and approval are required (e.g., drugs, food packaging, and new
+chemical compounds). In other cases, post-market surveillance and monitoring apply (e.g., cosmetics
+and most consumer products). The existing regulatory network will be modiﬁed, if necessary.
+Examples of regulatory laws and standards applicable to nanoparticles and other nanostructures
+include the following:
+
+•   In the environment (in air, water, soils):
+    −   Toxic Substances Control Act (TSCA), administered by the EPA
+    −   Clean Air Act for ultraﬁne particles, administered by the EPA
+    −   Waste disposal acts, administered by the EPA
+•   In the work place (aerosol-based standards based on existing health risk data):
+    −   Permissible Exposure Limits (PELs), established by the Occupational Safety and Health
+        Administration (OSHA)
+    −   Recommended Exposure Limits (RELs), established by the National Institute of
+        Occupational Safety and Health
+    −   Threshold Limit Values (TLVs), established by the American Conference of Government
+        Industrial Hygienists (ACGIH)
+    −   Personal Protective Equipment to reduce exposure, established by the OSHA and ASTM
+        (American Society for Testing and Materials)
+•   Nanoparticles for drugs to be metabolized in the human body, to be used as diagnostics or
+    therapeutic medical devices (such as quantum dots); regulated by the FDA.
+•   Nanostructured particles/substances to be incorporated into food; the FDA and USDA share
+    regulatory authority (such as food additives, food coloring).
+•   Substances incorporated into consumer products; regulated by the Consumer Product Safety
+    Commission (CPSC) under the Federal Hazardous Substances Act. A focus is on protection of
+    children, who are more susceptible and who sometimes put objects in their mouth that were not
+    intended for that purpose.
+
+Under NEHI coordination, the EPA, FDA, CPSC, OSHA, NIOSH, NIST, USDA, and other agencies
+are reviewing existing rules and procedures to determine how to use the existing statutes and regulations
+to review products of nanotechnology, as these products are developed. Where new nanotechnology
+
+
+
+
+                                Nanotechnology: Societal Implications                                 31
+

@@ -1,0 +1,65 @@
+                                                                                   Department of the Treasury
+Notice 1036
+(Rev. December 2010)                                                               Internal Revenue Service
+
+
+Early Release Copies of the 2011                              Percentage Method Tables for Income Tax
+                                                              Withholding
+Percentage Method Tables for                                  Attached are early release copies of the Percentage
+Income Tax Withholding                                        Method Tables for Income Tax Withholding that will
+                                                              appear in Publication 15 (Circular E), Employer’s Tax
+What’s New                                                    Guide (for use in 2011). Publication 15 (Circular E) will
+2011 withholding tables. This notice includes the             be posted on IRS.gov in December 2010. It also will be
+2011 Percentage Method Tables for Income Tax                  mailed to certain small employers and be available at
+Withholding that were developed as a result of the            IRS offices in January 2011.
+recently passed Tax Relief, Unemployment Insurance
+Reauthorization, and Job Creation Act of 2010.                   The wage amounts shown in the Percentage Method
+Employers should implement the 2011 withholding               Tables for Income Tax Withholding are net wages after
+tables as soon as possible, but not later than January        the deduction for total withholding allowances. The
+31, 2011.                                                     withholding allowance amounts by payroll period have
+                                                              changed. For 2011, they are:
+   Use the 2010 withholding tables until you implement
+the 2011 withholding tables.                                                                         One Withholding
+                                                               Payroll Period                        Allowance
+Social security and Medicare tax for 2011. For 2011,           Weekly                                   $ 71.15
+the employee tax rate for social security is 4.2%.
+                                                               Biweekly                                   142.31
+   The employer tax rate for social security remains
+                                                               Semimonthly                                154.17
+unchanged at 6.2%. The 2011 social security wage base
+limit is $106,800. In 2011, the Medicare tax rate is 1.45%     Monthly                                    308.33
+each for employers and employees, unchanged from
+                                                               Quarterly                                  925.00
+2010. There is no wage base limit for Medicare tax.
+                                                               Semiannually                             1,850.00
+   Employers should implement the 4.2% employee
+social security tax rate as soon as possible, but not later    Annually                                 3,700.00
+than January 31, 2011. After implementing the new 4.2%         Daily or Miscellaneous                       14.23
+rate, employers should make an offsetting adjustment in          (each day of the payroll period)
+a subsequent pay period to correct any overwithholding
+of social security tax as soon as possible, but not later     When employers use the Percentage Method Tables for
+than March 31, 2011.                                          Income Tax Withholding, the tax for the pay period may
+                                                              be rounded to the nearest dollar. (If rounding is used, it
+Making Work Pay credit. The Making Work Pay credit            must be used consistently.) Withheld tax amounts
+expires on December 31, 2010. As a result:                    should be rounded to the nearest dollar by dropping
+• The income tax withholding tables for 2011 are not          amounts under 50 cents and increasing amounts from
+adjusted for the Making Work Pay credit.                      50 to 99 cents to the next higher dollar. For example,
+• There is no longer an optional additional withholding       $2.30 becomes $2 and $2.80 becomes $3.
+adjustment for pensions.
+• The procedure for withholding on wages of
+nonresident aliens has been modified and is included in       Withholding Adjustment for Nonresident
+this notice.                                                  Aliens
+Advance payment of earned income credit (EIC).                For 2011, apply the procedure discussed on the next
+The option of receiving advance payroll payments of EIC       page to figure the amount of income tax to withhold from
+expires on December 31, 2010. Individuals who received        the wages of nonresident alien employees performing
+advance payments of EIC in 2010 must file a 2010              services within the United States. Use the chart shown
+federal income tax return. Individuals eligible for EIC in    on the next page in addition to the withholding tables
+2011 can still claim the credit when they file their 2011     used to figure income tax withholding on other
+federal income tax return. In addition, if any of your        employees.
+employees expect to be eligible for the EIC and will have
+income tax withheld from wages in 2011, they may              Note. Nonresident alien students from India and
+reduce their withholding in order to receive the benefit of   business apprentices from India are not subject to this
+a portion of the credit throughout the year.                  procedure.
+
+www.irs.gov                                                                                             Catalog No. 21974B
+

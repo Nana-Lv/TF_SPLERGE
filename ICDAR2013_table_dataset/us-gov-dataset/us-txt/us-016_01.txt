@@ -1,0 +1,56 @@
+                                     2. Introductory and Summary Comments
+
+
+increasing productivity in manufacturing to extending the quality of life and sustainability limits on
+Earth.
+                                        Table 2.2
+     Estimated Government Nanotechnology R&D Expenditures, 1997-2004 ($ Millions/Year)
+     Region       1997       1998       1999        2000        2001       2002        2003        2004       2005
+    W. Europe      126       151         179        200       ~ 225       ~ 400      ~ 650       ~ 950      1,050
+    Japan          120       135         157        245       ~ 465       ~ 720      ~ 800       ~ 900        950
+    USA*           116**     190**       255**      270**       465**       697**      863**     ~ 989      1,081
+    Others          70        83          96        110       ~ 380       ~ 550      ~ 800       ~ 900      1,000
+    Total          432       559         687        825       1,535       2,367       3,113      3,739      4,081
+    (% of 1997)   (100%)   (129%)      (159%)      (191%)     (355%)     (547%)      (720%)      (866%)     (945%)
+
+Explanatory notes: Estimates include research in nanotechnology as deﬁned by the NNI (this deﬁnition does not include
+MEMS, microelectronics, or general research on materials), and reﬂect the publicly reported government spending.
+“W. Europe” includes countries in EU (15) and Switzerland. Rates of exchange $1 = 1.1 Euro until 2002, = 0.9 Euro in
+2003, and = 0.8 Euro in 2004-2005. National and EU funding are included.
+Japanese rate of exchange $1 = 120 yen until 2002, = 110 yen in 2003, = 105 yen in 2004-2005.
+“Others” includes Australia, Canada, China, Eastern Europe, former Soviet Union, Israel, Korea, Singapore, Taiwan, and
+other countries with nanotechnology R&D.
+* A ﬁscal year begins in USA on October 1, six months before most other countries.
+** Denotes the actual expenditures recorded at the end of the respective ﬁscal year.
+
+
+Results of the NNI Investment
+
+There are major outcomes after the ﬁrst three years (ﬁscal years 2001-2003) of the NNI. The NNI
+has already created a nanoscale science and engineering “powerhouse” of discoveries and inventions
+in the United States with about 40,000 researchers, students and workers qualiﬁed at least in one
+aspect of nanotechnology. The R&D landscape for nanotechnology research and education has
+changed, advancing from questions, such as, “What is nanotechnology?” and “Could it ever be
+developed?” to “How can we take advantage of it faster?” and “Who is the leader?” The FY 2005
+NNI investment is about four times the corresponding Federal investment in FY 2000 ($1081 million
+from $270 million), and the attention is extending to the legislative and even judicial branches of the
+U.S. Government.
+
+Further evidence of progress includes the following:
+
+•     Research is advancing towards systematic control of matter at the nanoscale faster than
+      envisioned in 2000, when NNI was introduced with words like “Imagine what could be done 20
+      to 30 years from now.” After three years, in 2003, the NNI supports about 2,500 active awards in
+      about 300 academic organizations and about 200 small businesses and nonproﬁt organizations
+      in all 50 states. The time of reaching commercial prototypes has been reduced by at least a
+      factor of two for several key areas such as detection of cancer, molecular electronics, and special
+      nanocomposites. About half of highly cited papers by the Institute for Scientiﬁc Information,
+      High-Impact Papers electronic database appear to continue to originate from the United States
+      [7].
+•     Systemic changes are being implemented for education, by earlier introduction of nanoscience
+      and reversing the “pyramid of science” with the understanding of the unity of nature at the
+
+
+
+24                                    Nanotechnology: Societal Implications
+

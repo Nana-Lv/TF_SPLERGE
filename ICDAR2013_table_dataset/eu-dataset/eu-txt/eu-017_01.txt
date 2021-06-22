@@ -1,0 +1,53 @@
+                                                                Contract number – REM 01
+                                                                             Final Report
+
+As it can be seen, although the deviations are not very significant, in general, a
+necessity of adjusting the study results was founded and therefore the adjustment
+coefficient were defined and applied as explained in chapter 2.3.1.2.
+
+
+
+
+5.7 Annex 7: Accuracy of the results
+In order to estimate the significance of the data obtained, the accuracy level has
+been calculated, using the formula for the determination of the sample’s size,
+
+
+
+
+Where,
+•       N = Total population
+
+•       Zα2 = 1.962 (for confidence interval of 95%)
+
+•       p = margin (for unknown margin ranges, p=0,50 (50%))
+
+•       q = 1 – p = 0,50
+
+•       d = accuracy
+
+The following table presents the number of valid replies per countries, after the in-
+depth analysis (outliers), the number of researchers per country as defined by
+Eurostat, and the calculated value of d (accuracy).
+
+Four categories of countries results have been established:
+
+•       Excellent: accuracy level <5%
+
+•       High: 5%< accuracy level<10%
+
+•       Medium: 10%< accuracy level<15%
+
+•       Low: accuracy level >15%
+
+Those categories have established the reliability and consistency of the results.
+Countries with low accuracy have a less significant sample size than the other
+categories so their results must be carefully analysed since the number of
+responses taken into account does not provide the minimum accuracy level
+demanded in this type of studies.
+
+
+
+
+CARSA                                                                  Page 149 of 211
+

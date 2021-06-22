@@ -1,0 +1,59 @@
+                                                        Department of Defense
+                                                       Base Structure Report (BSR)
+                                                             FY 2007 Baseline
+
+                                                Buildings SqFt (Million) by Service/Agency and Facility Class
+
+
+
+          250
+
+
+
+
+          200
+
+
+
+
+          150
+SqFt(M)
+
+
+
+
+          100
+
+
+
+
+          50
+
+
+
+
+           0
+                Operatio n &   M aintenance &    Research,        Supply       Ho spital &   A dministrative   Family Ho using   Tro o p Ho using    Co mmunity     Utility & Gro und
+                 Training       P ro ductio n   Develo pment,                   M edical                                           and M ess          Facilities    Impro vements
+                                                  Test, and                                                                         Facilities
+                                                 Evaluatio n
+
+
+                                                                Army   Navy   Air Force      Marine Corps      WHS
+
+ Facility Class                                                               Army             Navy             Air Force           Marine Corps             WHS             DoD
+ Operation & Training                                                              91.1             54.7                 79.8                         9.6           0.0         235.1
+ Maintenance & Production                                                        108.4              79.6                124.9                        19.7           0.1         332.7
+ Research, Development, Test, and Evaluation                                       18.2              30.1                23.1                         0.1           0.0           71.6
+ Supply                                                                          192.0              82.9                 76.8                        24.1           0.1         375.9
+ Hospital & Medical                                                                26.9              12.5                18.6                         3.1           0.0           61.1
+ Administrative                                                                  105.1              49.7                 59.5                        13.9          15.2         243.5
+ Family Housing                                                                  214.1             109.3                149.8                        43.1           0.0         516.3
+ Troop Housing and Mess Facilities                                               133.9              55.6                 66.8                        28.6           0.0         284.9
+ Community Facilities                                                            104.6              49.8                 76.8                        19.3           0.4         250.9
+ Utility & Ground Improvements                                                     10.5               5.9                  5.5                        1.0           0.0           22.9
+ Total                                                                        1,004.8              530.1                681.7                       162.5          15.7      2,394.8
+                               Figure 3. Square Feet (Million) by Service/Agency and Facility Class
+
+                                                                                   DoD - 10
+

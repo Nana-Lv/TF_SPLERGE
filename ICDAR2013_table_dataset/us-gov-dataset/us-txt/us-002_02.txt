@@ -1,0 +1,53 @@
+                                                  2. NNI Investments
+
+
+                                 Table 2: NNI Budget, by Agency, 2009–2011
+                                                   (dollars in millions)
+    Agency                         2009 Actual          2009 Recovery*         2010 Estimated         2011 Proposed
+    DOE**                             332.6                 293.2                  372.9                  423.9
+    NSF                               408.6                 101.2                  417.7                  401.3
+    HHS/NIH                           342.8                  73.4                  360.6                  382.4
+    DOD***                            459.0                   0.0                  436.4                  348.5
+    DOC/NIST                           93.4                  43.4                  114.4                  108.0
+    EPA                                11.6                   0.0                   17.7                   20.0
+    HHS/NIOSH                           6.7                   0.0                    9.5                   16.5
+    NASA                               13.7                   0.0                   13.7                   15.8
+    HHS/FDA                             6.5                   0.0                    7.3                   15.0
+    DHS                                 9.1                   0.0                   11.7                   11.7
+    USDA/NIFA                           9.9                   0.0                   10.4                    8.9
+    USDA/FS                             5.4                   0.0                    5.4                    5.4
+    CPSC                                0.2                   0.0                    0.2                    2.2
+    DOT/FHWA                            0.9                   0.0                    3.2                    2.0
+    DOJ                                 1.2                   0.0                    0.0                    0.0
+    TOTAL****                       1,701.5                 511.3                1,781.1                1,761.6
+*    Based on allocations of the American Recovery and Reinvestment Act of 2009 (P.L. 111-5) appropriations. Agencies may
+     report additional ARRA funding for SBIR and STTR projects later, when 2009 SBIR/STTR data become available.
+**   Funding levels for DOE include the Office of Science, the Office of Energy Efficiency and Renewable Energy, the Office
+     of Fossil Energy, the Office of Nuclear Energy, and the Advanced Research Projects Agency–Energy.
+*** In Tables 2–4, the 2009 and 2010 DOD figures include Congressionally directed funding that is outside the NNI plan
+     ($117 million for 2009).
+**** For Tables 2–7, totals may not add, due to rounding.
+
+Key points about the 2010 and 2011 NNI investments
+�    Beyond the $1.7 billion in total NNI investments reported under the respective 2009 agency
+     appropriations, an additional $511 million was provided for nanotechnology research and
+     infrastructure investments in 2009 through the American Recovery and Reinvestment Act (ARRA) of
+     2009. This substantial ARRA enhancement to the NNI in 2009 included investments across all of the
+     NNI PCAs, with particular emphasis on PCA 2 (nanomaterials, where DOE alone increased its
+     investment by $138 million) and on PCA 6 (major research facilities & instrumentation acquisition),
+     where NIST, DOE, and NSF allocated over $72 million to upgrade equipment and facilities at NNI
+     user facilities and research centers.
+�    Research on fundamental nanoscale phenomena and processes (PCA 1) remains the largest program
+     component area, with $484 million requested for 2011. Combined with PCA 2 (nanomaterials, $342
+     million in the 2011 request), this basic research component of the NNI portfolio represents just under
+     half of the total NNI funding request, reflecting the continued importance of sustained Federal
+     funding for fundamental research, feeding the innovation pipeline.
+�    The Department of Energy now has the largest nanotechnology investment among the NNI agencies,
+     requesting a total of $424 million for 2011. The increase in 2011 over 2010 is due in part to new
+     investments at the Advanced Research Projects Agency–Energy (ARPA–E), as well as increased
+     funding at the Office of Science and the Office of Energy Efficiency and Renewable Energy.
+
+
+
+8           The National Nanotechnology Initiative—Supplement to the President’s 2011 Budget
+

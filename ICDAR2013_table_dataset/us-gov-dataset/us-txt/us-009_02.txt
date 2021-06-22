@@ -1,0 +1,87 @@
+                                                                Federal Register / Vol. 75, No. 178 / Wednesday, September 15, 2010 / Rules and Regulations                                                    56241
+
+                                                   likely costs of making a particular                     the final rules for both title II and title           assuming a primary baseline (1991
+                                                   feature or facility accessible were                     III and assesses the incremental benefits             Standards), that the safe harbor applies,
+                                                   disproportionate to the benefits                        and costs of the 2010 Standards relative              and that for title III entities barrier
+                                                   (including both monetized and non-                      to a primary baseline scenario (1991                  removal is readily achievable for 50
+                                                   monetized benefits) to persons with                     Standards). In addition, the Department               percent of elements subject to
+                                                   disabilities, the Attorney General, as a                conducted additional research and                     supplemental requirements).
+                                                   member of the Access Board, could                       analyses for requirements having the
+                                                   return the issue to the Access Board for                highest negative net present values                      EXPECTED IMPACT OF THE RULES 2
+                                                   further consideration. After careful                    under the primary baseline scenario.                                        [In billions]
+                                                   consideration, the Department has                       This approach was taken because, while
+                                                   determined that it is unnecessary to                    the 1991 Standards are the only uniform                                              Total            Total
+                                                                                                                                                                 Discount       Expected      expected         expected
+                                                   return any issues to the Access Board                   set of accessibility standards that apply               rate           NPV            PV               PV
+                                                   for additional consideration.                           to public accommodations, commercial                                               (benefits)        (costs)
+                                                                                                           facilities, and State and local                       3% .......          $40.4             $66.2       $25.8
+                                                   Executive Order 12866
+                                                                                                           government facilities nationwide, it is               7 ..........          9.3              22.0        12.8
+                                                      This rule has been reviewed by the                   also understood that many State and
+                                                   Office of Management and Budget                         local jurisdictions have already adopted
+                                                   (OMB) under Executive Order 12866.                      IBC/ANSI model code provisions that                      Under this set of assumptions, the
+                                                   The Department has evaluated its                        mirror those in the 2004 ADAAG. The                   final rules have an expected NPV of $9.3
+                                                   existing regulations for title II and title             assessments based on this approach                    billion (7 percent discount rate) and
+                                                   III section by section, and many of the                 assume that covered entities currently                $40.4 billion (3 percent discount rate).
+                                                   provisions in the final rule for both                   implementing codes that mirror the                    See Final RIA, table ES–1 & figure ES–
+                                                   titles reflect its efforts to mitigate any              2004 ADAAG will not need to modify                    2.
+                                                   negative effects on small entities. A                   their code requirements once the rules
+                                                   Final Regulatory Impact Analysis (Final                                                                       Water Closet Clearances
+                                                                                                           are finalized. They also assume that,
+                                                   RIA or RIA) was prepared by the                         even without the final rules, the current                The Department gave careful
+                                                   Department’s contractor, HDR|HLB                        level of compliance would be                          consideration to the costs and benefits
+                                                   Decision Economics, Inc. (HDR). In                      unchanged. The Final RIA contains                     of its adoption of the standards relating
+                                                   accordance with Executive Order 12866,                  specific information, including data in               to water closet clearances in single-user
+                                                   as amended, and OMB Circular A–4, the                   chart form, detailing which States have               toilet rooms. The primary effect of the
+                                                   Department has reviewed and                             already adopted the accessibility                     Department’s proposed final rules
+                                                   considered the Final RIA and has                        standards for this subset of six                      governing water closet clearances in
+                                                   accepted the results of this analysis as                requirements. The Department believes                 single-user toilet rooms with in-
+                                                   its assessment of the benefits and costs                that the estimates resulting from this                swinging and out-swinging doors is to
+                                                   of the final rules.                                     approach represent a reasonable upper                 allow sufficient room for ‘‘side’’ or
+                                                      Executive Order 12866 refers                         and lower measure of the likely effects               ‘‘parallel’’ methods of transferring from a
+                                                   explicitly not only to monetizable costs                these requirements will have that the                 wheelchair to a toilet. Under the current
+                                                   and benefits but also to ‘‘distributive                 Department was able to quantify and                   1991 Standards, the requisite clearance
+                                                   impacts’’ and ‘‘equity,’’ see E.O. 12866,               monetize.                                             space in single-user toilet rooms
+                                                   section 1(a), and it is important to                       The Final RIA estimates the benefits               between and around the toilet and the
+                                                   recognize that the ADA is intended to                   and costs for all new (referred to as                 lavatory does not permit these methods
+                                                   provide important benefits that are                     ‘‘supplemental’’) requirements and                    of transfer. Side or parallel transfers are
+                                                   distributional and equitable in                         revised requirements across all types of              used by large numbers of persons who
+                                                   character. The ADA states, ‘‘[i]t is the                newly constructed and existing                        use wheelchairs and are regularly taught
+                                                   purpose of this [Act] (1) to provide a                  facilities. The Final RIA also                        in rehabilitation and occupational
+                                                   clear and comprehensive national                        incorporates a sophisticated risk                     therapy. Currently, persons who use
+                                                   mandate for the elimination of                          analysis process that quantifies the                  side or parallel transfer methods from
+                                                   discrimination against individuals with                 inherent uncertainties in estimating                  their wheelchairs are faced with a stark
+                                                   disabilities; [and] (2) to provide clear,               costs and benefits and then assesses                  choice at establishments with single-
+                                                   strong, consistent, enforceable standards               (through computer simulations) the                    user toilet rooms—i.e., patronize the
+                                                   addressing discrimination against                       relative impact of these factors when                 establishment but run the risk of
+                                                   individuals with disabilities[.]’’ 42                   varied simultaneously. A copy of the                  needing assistance when using the
+                                                   U.S.C. 12101(b). Many of the benefits of                Final RIA will be made available online               restroom, travel with someone who
+                                                   this rule stem from the provision of                    for public review on the Department’s                 would be able to provide assistance in
+                                                   such standards, which will promote                      ADA Home Page (http://www.ada.gov).                   toileting, or forgo the visit entirely. The
+                                                   inclusion, reduce stigma and potential                     From an economic perspective (as                   revised water closet clearance
+                                                   embarrassment, and combat isolation,                    specified in OMB Circular A–B4), the                  regulations would make single-user
+                                                   segregation, and second-class                           results of the Final RIA demonstrate that             toilet rooms accessible to all persons
+                                                   citizenship of individuals with                         the Department’s final rules increase
+                                                   disabilities. Some of these benefits are,               social resources and thus represent a                   2 The analysis assumes these regulations will be
+
+                                                   in the words of Executive Order 12866,                  public good because monetized benefits                in force for 15 years. Incremental costs and benefits
+WReier-Aviles on DSKGBLS3C1PROD with RULES2
+
+
+
+
+                                                                                                           exceed monetized costs—that is, the                   are calculated for all construction, alterations, and
+                                                   ‘‘difficult to quantify, but nevertheless                                                                     barrier removal that is expected to occur during
+                                                   essential to consider.’’ E.O. 12866,                    regulations have a positive net present               these 15 years. The analysis also assumes that any
+                                                   section 1(a). The Department has                        value (NPV). Indeed, under every                      new or revised ADA rules enacted 15 years from
+                                                   considered such benefits here.                          scenario assessed in the Final RIA, the               now will include a safe harbor provision. Thus, any
+                                                                                                           final rules have a positive NPV. The                  facilities constructed in year 14 of the final rules are
+                                                   Final Regulatory Impact Analysis                        Final RIA’s first scenario examines the               assumed to continue to generate benefits to users,
+                                                                                                                                                                 and to incur any operating or replacement costs for
+                                                     The Final RIA embodies a                              incremental impact of the final rules                 the life of these buildings, which is assumed to be
+                                                   comprehensive benefit-cost analysis of                  using the ‘‘main’’ set of assumptions (i.e.,          40 years.
+
+
+
+                                              VerDate Mar<15>2010   15:25 Sep 14, 2010   Jkt 220001   PO 00000   Frm 00079   Fmt 4701   Sfmt 4700   E:\FR\FM\15SER2.SGM     15SER2
+

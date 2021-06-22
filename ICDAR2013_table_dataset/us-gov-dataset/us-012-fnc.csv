@@ -1,0 +1,95 @@
+"0",,,,,
+"Area","United States",,"Army",,"1,768"
+"Area","United States",,"Navy",,"825"
+"Area","United States",,"Air Force",,"1,630"
+"Area","United States",,"USMC",,"173"
+"Area","United States",,"WHS",,"6"
+"Area","United States",,"Total",,"4,402"
+"Area","Territories",,"Army",,"25"
+"Area","Territories",,"Navy",,"45"
+"Area","Territories",,"Air Force",,"15"
+"Area","Territories",,"USMC",,"1"
+"Area","Territories",,"WHS",,"-"
+"Area","Territories",,"Total",,"86"
+"Area","Overseas",,"Army",,"371"
+"Area","Overseas",,"Navy",,"154"
+"Area","Overseas",,"Air Force",,"268"
+"Area","Overseas",,"USMC",,"30"
+"Area","Overseas",,"WHS",,"-"
+"Area","Overseas",,"Total",,"823"
+"Total",,"Army",,"2,164",
+"Total",,"Navy",,"1,024",
+"Total",,"Air Force",,"1,913",
+"Total",,"USMC",,"204",
+"Total",,"WHS",,"6",
+"Total",,"Total",,"5,311",
+,,,,,
+"1",,,,,
+"United States",,"Buildings",,"280,451",
+"United States",,"Structures",,"140,275",
+"United States",,"Linear Structures",,"37,743",
+"United States",,"Total",,"458,469",
+"Territories",,"Buildings",,"6,503",
+"Territories",,"Structures",,"3,369",
+"Territories",,"Linear Structures",,"822",
+"Territories",,"Total",,"10,694",
+"Overseas",,"Buildings",,"56,913",
+"Overseas",,"Structures",,"41,140",
+"Overseas",,"Linear Structures",,"10,303",
+"Overseas",,"Total",,"108,356",
+"Grand Total",,"Buildings",,"343,867",
+"Grand Total",,"Structures",,"184,784",
+"Grand Total",,"Linear Structures",,"48,868",
+"Grand Total",,"Total",,"577,519",
+,,,,,
+"2",,,,,
+"Army ",,"Number of Assets","Buildings",,"159,026 "
+"Army ",,"Number of Assets","Structures ",,"74,800 "
+"Army ",,"Number of Assets","Linear Structures",,"21,839 "
+"Army ",,"Number of Assets","Total",,"255,665"
+"Navy ",,"Number of Assets","Buildings",,"68,711"
+"Navy ",,"Number of Assets","Structures ",,"39,371"
+"Navy ",,"Number of Assets","Linear Structures",,"8,591 "
+"Navy ",,"Number of Assets","Total",,"116,673 "
+"Air Force ",,"Number of Assets","Buildings",,"90,722 "
+"Air Force ",,"Number of Assets","Structures ",,"56,402 "
+"Air Force ",,"Number of Assets","Linear Structures",,"16,767 "
+"Air Force ",,"Number of Assets","Total",,"163,891 "
+"Marine Corps ",,"Number of Assets","Buildings",,"25,278 "
+"Marine Corps ",,"Number of Assets","Structures ",,"14,056 "
+"Marine Corps ",,"Number of Assets","Linear Structures",,"1,646 "
+"Marine Corps ",,"Number of Assets","Total",,"40,980"
+"WHS",,"Number of Assets","Buildings",,"130 "
+"WHS",,"Number of Assets","Structures ",,"155 "
+"WHS",,"Number of Assets","Linear Structures",,"25 "
+"WHS",,"Number of Assets","Total",,"310"
+"DoD",,"Number of Assets","Buildings",,"343,867 "
+"DoD",,"Number of Assets","Structures ",,"184,784 "
+"DoD",,"Number of Assets","Linear Structures",,"48,868 "
+"DoD",,"Number of Assets","Total",,"577,519"
+,,,,,
+"3",,,,,
+"Army ",,"PRV ($B)","Buildings",,"$ 185.98 "
+"Army ",,"PRV ($B)","Structures ",,"$ 41.25 "
+"Army ",,"PRV ($B)","Linear Structures",,"$ 36.73 "
+"Army ",,"PRV ($B)","Total",,"$ 263.97"
+"Navy ",,"PRV ($B)","Buildings",,"$ 108.48 "
+"Navy ",,"PRV ($B)","Structures ",,"$ 42.61 "
+"Navy ",,"PRV ($B)","Linear Structures",,"$ 19.85 "
+"Navy ",,"PRV ($B)","Total",,"$ 170.94"
+"Air Force ",,"PRV ($B)","Buildings",,"$ 136.18 "
+"Air Force ",,"PRV ($B)","Structures ",,"$ 64.86 "
+"Air Force ",,"PRV ($B)","Linear Structures",,"$ 27.10 "
+"Air Force ",,"PRV ($B)","Total",,"$ 228.13"
+"Marine Corps ",,"PRV ($B)","Buildings",,"$ 30.22 "
+"Marine Corps ",,"PRV ($B)","Structures ",,"$ 10.51 "
+"Marine Corps ",,"PRV ($B)","Linear Structures",,"$ 4.21 "
+"Marine Corps ",,"PRV ($B)","Total",,"$ 44.93"
+"WHS",,"PRV ($B)","Buildings",,"$ 3.22 "
+"WHS",,"PRV ($B)","Structures ",,"$ 0.47 "
+"WHS",,"PRV ($B)","Linear Structures",,"$ 0.54 "
+"WHS",,"PRV ($B)","Total",,"$ 4.22"
+"DoD",,"PRV ($B)","Buildings",,"$ 464.07"
+"DoD",,"PRV ($B)","Structures ",,"$ 159.70 "
+"DoD",,"PRV ($B)","Linear Structures",,"$ 88.43 "
+"DoD",,"PRV ($B)","Total",,"$ 712.20"

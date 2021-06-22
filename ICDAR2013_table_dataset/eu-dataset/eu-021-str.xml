@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-021.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="1" start-row="0">
+                <bounding-box x1="152" x2="249" y1="505" y2="561"/>
+                <content>Do you agree that the
+support for research
+at a European level
+should be
+strengthened?</content>
+                <instruction instr-id="1295"/>
+                <instruction instr-id="1307"/>
+                <instruction instr-id="1319"/>
+                <instruction instr-id="1331"/>
+                <instruction instr-id="1343"/>
+            </cell>
+            <cell id="1" start-col="2" start-row="0">
+                <bounding-box x1="260" x2="384" y1="493" y2="561"/>
+                <content>Do you agree that a
+strengthened European
+level research support will
+have an important impact
+on Europe's research
+capacities and capabilities?</content>
+                <instruction instr-id="1380"/>
+                <instruction instr-id="1392"/>
+                <instruction instr-id="1404"/>
+                <instruction instr-id="1416"/>
+                <instruction instr-id="1428"/>
+                <instruction instr-id="1440"/>
+            </cell>
+            <cell id="2" start-col="3" start-row="0">
+                <bounding-box x1="395" x2="534" y1="493" y2="561"/>
+                <content>Do you agree that a
+strengthened European level
+research support will contribute
+significantly to Europe's
+competitiveness, social welfare
+and sustainability?</content>
+                <instruction instr-id="1477"/>
+                <instruction instr-id="1484"/>
+                <instruction instr-id="1496"/>
+                <instruction instr-id="1508"/>
+                <instruction instr-id="1520"/>
+                <instruction instr-id="1532"/>
+                <instruction instr-id="1544"/>
+            </cell>
+            <cell id="3" start-col="0" start-row="1">
+                <bounding-box x1="62" x2="87" y1="480" y2="490"/>
+                <content>agree</content>
+                <instruction instr-id="1606"/>
+            </cell>
+            <cell id="4" start-col="1" start-row="1">
+                <bounding-box x1="186" x2="214" y1="480" y2="490"/>
+                <content>56.4%</content>
+                <instruction instr-id="1620"/>
+            </cell>
+            <cell id="5" start-col="2" start-row="1">
+                <bounding-box x1="307" x2="336" y1="480" y2="490"/>
+                <content>56.7%</content>
+                <instruction instr-id="1634"/>
+            </cell>
+            <cell id="6" start-col="3" start-row="1">
+                <bounding-box x1="450" x2="478" y1="480" y2="490"/>
+                <content>54.6%</content>
+                <instruction instr-id="1648"/>
+            </cell>
+            <cell id="7" start-col="0" start-row="2">
+                <bounding-box x1="62" x2="119" y1="468" y2="478"/>
+                <content>mostly agree</content>
+                <instruction instr-id="1704"/>
+            </cell>
+            <cell id="8" start-col="1" start-row="2">
+                <bounding-box x1="186" x2="214" y1="468" y2="478"/>
+                <content>41.2%</content>
+                <instruction instr-id="1718"/>
+            </cell>
+            <cell id="9" start-col="2" start-row="2">
+                <bounding-box x1="307" x2="336" y1="468" y2="478"/>
+                <content>38.8%</content>
+                <instruction instr-id="1732"/>
+            </cell>
+            <cell id="10" start-col="3" start-row="2">
+                <bounding-box x1="450" x2="478" y1="468" y2="478"/>
+                <content>37.5%</content>
+                <instruction instr-id="1746"/>
+            </cell>
+            <cell id="11" start-col="0" start-row="3">
+                <bounding-box x1="62" x2="131" y1="455" y2="465"/>
+                <content>mostly disagree</content>
+                <instruction instr-id="1802"/>
+            </cell>
+            <cell id="12" start-col="1" start-row="3">
+                <bounding-box x1="189" x2="212" y1="455" y2="465"/>
+                <content>0.5%</content>
+                <instruction instr-id="1816"/>
+            </cell>
+            <cell id="13" start-col="2" start-row="3">
+                <bounding-box x1="310" x2="333" y1="455" y2="465"/>
+                <content>0.6%</content>
+                <instruction instr-id="1830"/>
+            </cell>
+            <cell id="14" start-col="3" start-row="3">
+                <bounding-box x1="452" x2="475" y1="455" y2="465"/>
+                <content>1.0%</content>
+                <instruction instr-id="1844"/>
+            </cell>
+            <cell id="15" start-col="0" start-row="4">
+                <bounding-box x1="62" x2="100" y1="443" y2="453"/>
+                <content>disagree</content>
+                <instruction instr-id="1900"/>
+            </cell>
+            <cell id="16" start-col="1" start-row="4">
+                <bounding-box x1="189" x2="212" y1="443" y2="453"/>
+                <content>0.9%</content>
+                <instruction instr-id="1914"/>
+            </cell>
+            <cell id="17" start-col="2" start-row="4">
+                <bounding-box x1="310" x2="333" y1="443" y2="453"/>
+                <content>0.4%</content>
+                <instruction instr-id="1928"/>
+                <instruction instr-id="1935"/>
+            </cell>
+            <cell id="18" start-col="3" start-row="4">
+                <bounding-box x1="452" x2="475" y1="443" y2="453"/>
+                <content>0.6%</content>
+                <instruction instr-id="1949"/>
+            </cell>
+            <cell id="19" start-col="0" start-row="5">
+                <bounding-box x1="62" x2="109" y1="431" y2="441"/>
+                <content>don't know</content>
+                <instruction instr-id="2005"/>
+            </cell>
+            <cell id="20" start-col="1" start-row="5">
+                <bounding-box x1="189" x2="212" y1="431" y2="441"/>
+                <content>0.9%</content>
+                <instruction instr-id="2019"/>
+            </cell>
+            <cell id="21" start-col="2" start-row="5">
+                <bounding-box x1="310" x2="333" y1="431" y2="441"/>
+                <content>1.0%</content>
+                <instruction instr-id="2033"/>
+            </cell>
+            <cell id="22" start-col="3" start-row="5">
+                <bounding-box x1="452" x2="475" y1="431" y2="441"/>
+                <content>2.3%</content>
+                <instruction instr-id="2047"/>
+            </cell>
+        </region>
+    </table>
+    <table id="1">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="66" x2="127" y1="363" y2="385"/>
+                <content>Importance of
+the objective</content>
+                <instruction instr-id="2187"/>
+                <instruction instr-id="2199"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="152" x2="271" y1="340" y2="385"/>
+                <content>Creating European centres 
+of excellence through 
+collaboration between 
+laboratories.</content>
+                <instruction instr-id="2249"/>
+                <instruction instr-id="2261"/>
+                <instruction instr-id="2273"/>
+                <instruction instr-id="2285"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="287" x2="379" y1="363" y2="385"/>
+                <content>Launching European
+technology initiatives</content>
+                <instruction instr-id="2322"/>
+                <instruction instr-id="2334"/>
+                <instruction instr-id="2341"/>
+            </cell>
+            <cell id="3" start-col="3" start-row="0">
+                <bounding-box x1="413" x2="534" y1="340" y2="385"/>
+                <content>Stimulating the creativity of
+basic research through
+competition between teams
+at European level</content>
+                <instruction instr-id="2391"/>
+                <instruction instr-id="2403"/>
+                <instruction instr-id="2415"/>
+                <instruction instr-id="2427"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="1">
+                <bounding-box x1="62" x2="125" y1="327" y2="337"/>
+                <content>very important</content>
+                <instruction instr-id="2513"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="1">
+                <bounding-box x1="199" x2="228" y1="327" y2="337"/>
+                <content>48.4%</content>
+                <instruction instr-id="2551"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="1">
+                <bounding-box x1="330" x2="358" y1="327" y2="337"/>
+                <content>41.9%</content>
+                <instruction instr-id="2589"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="1">
+                <bounding-box x1="460" x2="489" y1="327" y2="337"/>
+                <content>45.9%</content>
+                <instruction instr-id="2627"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="2">
+                <bounding-box x1="62" x2="104" y1="315" y2="325"/>
+                <content>Important</content>
+                <instruction instr-id="2707"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="2">
+                <bounding-box x1="199" x2="228" y1="315" y2="325"/>
+                <content>42.4%</content>
+                <instruction instr-id="2745"/>
+            </cell>
+            <cell id="10" start-col="2" start-row="2">
+                <bounding-box x1="330" x2="358" y1="315" y2="325"/>
+                <content>44.1%</content>
+                <instruction instr-id="2783"/>
+            </cell>
+            <cell id="11" start-col="3" start-row="2">
+                <bounding-box x1="460" x2="489" y1="315" y2="325"/>
+                <content>35.3%</content>
+                <instruction instr-id="2821"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="3">
+                <bounding-box x1="62" x2="120" y1="302" y2="312"/>
+                <content>not important</content>
+                <instruction instr-id="2901"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="3">
+                <bounding-box x1="202" x2="225" y1="302" y2="312"/>
+                <content>4.5%</content>
+                <instruction instr-id="2939"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="3">
+                <bounding-box x1="333" x2="355" y1="302" y2="312"/>
+                <content>6.3%</content>
+                <instruction instr-id="2977"/>
+            </cell>
+            <cell id="15" start-col="3" start-row="3">
+                <bounding-box x1="463" x2="486" y1="302" y2="312"/>
+                <content>8.1%</content>
+                <instruction instr-id="3015"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="4">
+                <bounding-box x1="62" x2="120" y1="290" y2="300"/>
+                <content>Unnecessary</content>
+                <instruction instr-id="3095"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="4">
+                <bounding-box x1="202" x2="225" y1="290" y2="300"/>
+                <content>2.8%</content>
+                <instruction instr-id="3133"/>
+            </cell>
+            <cell id="18" start-col="2" start-row="4">
+                <bounding-box x1="333" x2="355" y1="290" y2="300"/>
+                <content>1.5%</content>
+                <instruction instr-id="3171"/>
+            </cell>
+            <cell id="19" start-col="3" start-row="4">
+                <bounding-box x1="463" x2="486" y1="290" y2="300"/>
+                <content>6.4%</content>
+                <instruction instr-id="3209"/>
+            </cell>
+            <cell id="20" start-col="0" start-row="5">
+                <bounding-box x1="62" x2="109" y1="278" y2="288"/>
+                <content>don't know</content>
+                <instruction instr-id="3289"/>
+            </cell>
+            <cell id="21" start-col="1" start-row="5">
+                <bounding-box x1="204" x2="227" y1="278" y2="288"/>
+                <content>1.3%</content>
+                <instruction instr-id="3333"/>
+                <instruction instr-id="3340"/>
+            </cell>
+            <cell id="22" start-col="2" start-row="5">
+                <bounding-box x1="333" x2="355" y1="278" y2="288"/>
+                <content>6.1%</content>
+                <instruction instr-id="3378"/>
+            </cell>
+            <cell id="23" start-col="3" start-row="5">
+                <bounding-box x1="463" x2="486" y1="278" y2="288"/>
+                <content>4.2%</content>
+                <instruction instr-id="3416"/>
+            </cell>
+        </region>
+    </table>
+    <table id="2">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="66" x2="127" y1="238" y2="260"/>
+                <content>Importance of
+the objective</content>
+                <instruction instr-id="3536"/>
+                <instruction instr-id="3548"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="152" x2="244" y1="227" y2="260"/>
+                <content>Making Europe more 
+attractive to the best 
+researchers</content>
+                <instruction instr-id="3598"/>
+                <instruction instr-id="3610"/>
+                <instruction instr-id="3622"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="287" x2="378" y1="227" y2="260"/>
+                <content>Developing research
+infrastructure of
+European interest</content>
+                <instruction instr-id="3660"/>
+                <instruction instr-id="3672"/>
+                <instruction instr-id="3684"/>
+            </cell>
+            <cell id="3" start-col="3" start-row="0">
+                <bounding-box x1="413" x2="530" y1="238" y2="260"/>
+                <content>Improving the coordination
+of national programmes</content>
+                <instruction instr-id="3721"/>
+                <instruction instr-id="3733"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="1">
+                <bounding-box x1="62" x2="125" y1="214" y2="224"/>
+                <content>very important</content>
+                <instruction instr-id="3819"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="1">
+                <bounding-box x1="199" x2="228" y1="214" y2="224"/>
+                <content>73.6%</content>
+                <instruction instr-id="3857"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="1">
+                <bounding-box x1="330" x2="358" y1="214" y2="224"/>
+                <content>43.4%</content>
+                <instruction instr-id="3895"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="1">
+                <bounding-box x1="465" x2="485" y1="214" y2="224"/>
+                <content>43%</content>
+                <instruction instr-id="3933"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="2">
+                <bounding-box x1="62" x2="104" y1="202" y2="212"/>
+                <content>Important</content>
+                <instruction instr-id="4013"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="2">
+                <bounding-box x1="199" x2="228" y1="202" y2="212"/>
+                <content>22.5%</content>
+                <instruction instr-id="4051"/>
+            </cell>
+            <cell id="10" start-col="2" start-row="2">
+                <bounding-box x1="330" x2="358" y1="202" y2="212"/>
+                <content>42.4%</content>
+                <instruction instr-id="4089"/>
+                <instruction instr-id="4096"/>
+            </cell>
+            <cell id="11" start-col="3" start-row="2">
+                <bounding-box x1="460" x2="489" y1="202" y2="212"/>
+                <content>41.5%</content>
+                <instruction instr-id="4134"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="3">
+                <bounding-box x1="62" x2="120" y1="189" y2="199"/>
+                <content>not important</content>
+                <instruction instr-id="4214"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="3">
+                <bounding-box x1="202" x2="225" y1="189" y2="199"/>
+                <content>1.9%</content>
+                <instruction instr-id="4252"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="3">
+                <bounding-box x1="333" x2="355" y1="189" y2="199"/>
+                <content>5.7%</content>
+                <instruction instr-id="4290"/>
+            </cell>
+            <cell id="15" start-col="3" start-row="3">
+                <bounding-box x1="463" x2="486" y1="189" y2="199"/>
+                <content>7.5%</content>
+                <instruction instr-id="4328"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="4">
+                <bounding-box x1="62" x2="120" y1="177" y2="187"/>
+                <content>Unnecessary</content>
+                <instruction instr-id="4408"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="4">
+                <bounding-box x1="202" x2="225" y1="177" y2="187"/>
+                <content>0.8%</content>
+                <instruction instr-id="4446"/>
+            </cell>
+            <cell id="18" start-col="2" start-row="4">
+                <bounding-box x1="333" x2="355" y1="177" y2="187"/>
+                <content>1.4%</content>
+                <instruction instr-id="4484"/>
+            </cell>
+            <cell id="19" start-col="3" start-row="4">
+                <bounding-box x1="463" x2="486" y1="177" y2="187"/>
+                <content>2.9%</content>
+                <instruction instr-id="4522"/>
+            </cell>
+            <cell id="20" start-col="0" start-row="5">
+                <bounding-box x1="62" x2="109" y1="165" y2="175"/>
+                <content>don't know</content>
+                <instruction instr-id="4602"/>
+            </cell>
+            <cell id="21" start-col="1" start-row="5">
+                <bounding-box x1="202" x2="225" y1="165" y2="175"/>
+                <content>1.1%</content>
+                <instruction instr-id="4646"/>
+            </cell>
+            <cell id="22" start-col="2" start-row="5">
+                <bounding-box x1="333" x2="355" y1="165" y2="175"/>
+                <content>6.9%</content>
+                <instruction instr-id="4684"/>
+            </cell>
+            <cell id="23" start-col="3" start-row="5">
+                <bounding-box x1="467" x2="482" y1="165" y2="175"/>
+                <content>5%</content>
+                <instruction instr-id="4722"/>
+            </cell>
+        </region>
+    </table>
+    <table id="3">
+        <region col-increment="0" id="0" page="4" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="61" x2="153" y1="691" y2="701"/>
+                <content>Type of respondent</content>
+                <instruction instr-id="6409"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="399" x2="449" y1="679" y2="701"/>
+                <content>Number of 
+responses</content>
+                <instruction instr-id="6446"/>
+                <instruction instr-id="6458"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="480" x2="530" y1="679" y2="701"/>
+                <content>% of
+responses</content>
+                <instruction instr-id="6495"/>
+                <instruction instr-id="6507"/>
+                <instruction instr-id="6514"/>
+            </cell>
+            <cell id="3" start-col="0" start-row="1">
+                <bounding-box x1="61" x2="136" y1="663" y2="673"/>
+                <content>Individual person</content>
+                <instruction instr-id="6567"/>
+                <instruction instr-id="6574"/>
+            </cell>
+            <cell id="4" start-col="1" start-row="1">
+                <bounding-box x1="415" x2="432" y1="663" y2="673"/>
+                <content>540</content>
+                <instruction instr-id="6588"/>
+            </cell>
+            <cell id="5" start-col="2" start-row="1">
+                <bounding-box x1="491" x2="520" y1="663" y2="673"/>
+                <content>31.3%</content>
+                <instruction instr-id="6602"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="2">
+                <bounding-box x1="61" x2="181" y1="651" y2="661"/>
+                <content>University/higher education</content>
+                <instruction instr-id="6649"/>
+                <instruction instr-id="6656"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="2">
+                <bounding-box x1="415" x2="432" y1="651" y2="661"/>
+                <content>456</content>
+                <instruction instr-id="6670"/>
+            </cell>
+            <cell id="8" start-col="2" start-row="2">
+                <bounding-box x1="491" x2="520" y1="651" y2="661"/>
+                <content>26.4%</content>
+                <instruction instr-id="6684"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="3">
+                <bounding-box x1="61" x2="374" y1="627" y2="649"/>
+                <content>Commercial organisation (including consultancy) less than 250
+employees</content>
+                <instruction instr-id="6731"/>
+                <instruction instr-id="6738"/>
+                <instruction instr-id="6745"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="3">
+                <bounding-box x1="415" x2="432" y1="639" y2="649"/>
+                <content>144</content>
+                <instruction instr-id="6759"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="3">
+                <bounding-box x1="494" x2="517" y1="627" y2="637"/>
+                <content>8.3%</content>
+                <instruction instr-id="6773"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="4">
+                <bounding-box x1="61" x2="148" y1="615" y2="625"/>
+                <content>Governmental body</content>
+                <instruction instr-id="6820"/>
+                <instruction instr-id="6827"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="4">
+                <bounding-box x1="415" x2="432" y1="615" y2="625"/>
+                <content>141</content>
+                <instruction instr-id="6841"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="4">
+                <bounding-box x1="494" x2="517" y1="615" y2="625"/>
+                <content>8.2%</content>
+                <instruction instr-id="6855"/>
+            </cell>
+            <cell id="15" start-col="0" start-row="5">
+                <bounding-box x1="61" x2="374" y1="591" y2="613"/>
+                <content>Commercial organisation (including consultancy) more than 250
+employees</content>
+                <instruction instr-id="6902"/>
+                <instruction instr-id="6909"/>
+                <instruction instr-id="6916"/>
+                <instruction instr-id="6923"/>
+            </cell>
+            <cell id="16" start-col="1" start-row="5">
+                <bounding-box x1="415" x2="432" y1="603" y2="613"/>
+                <content>115</content>
+                <instruction instr-id="6937"/>
+            </cell>
+            <cell id="17" start-col="2" start-row="5">
+                <bounding-box x1="494" x2="517" y1="591" y2="601"/>
+                <content>6.7%</content>
+                <instruction instr-id="6951"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="6">
+                <bounding-box x1="61" x2="374" y1="568" y2="589"/>
+                <content>Association (e.g. trade association, trade union, employers
+association, chamber of commerce, NGO)</content>
+                <instruction instr-id="6998"/>
+                <instruction instr-id="7005"/>
+                <instruction instr-id="7012"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="6">
+                <bounding-box x1="415" x2="432" y1="579" y2="589"/>
+                <content>113</content>
+                <instruction instr-id="7026"/>
+            </cell>
+            <cell id="20" start-col="2" start-row="6">
+                <bounding-box x1="494" x2="517" y1="579" y2="589"/>
+                <content>6.5%</content>
+                <instruction instr-id="7040"/>
+            </cell>
+            <cell id="21" start-col="0" start-row="7">
+                <bounding-box x1="61" x2="86" y1="555" y2="565"/>
+                <content>Other</content>
+                <instruction instr-id="7087"/>
+                <instruction instr-id="7094"/>
+            </cell>
+            <cell id="22" start-col="1" start-row="7">
+                <bounding-box x1="415" x2="432" y1="555" y2="565"/>
+                <content>218</content>
+                <instruction instr-id="7108"/>
+            </cell>
+            <cell id="23" start-col="2" start-row="7">
+                <bounding-box x1="491" x2="520" y1="555" y2="565"/>
+                <content>12.6%</content>
+                <instruction instr-id="7122"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="8">
+                <bounding-box x1="342" x2="374" y1="542" y2="552"/>
+                <content>TOTAL</content>
+                <instruction instr-id="7169"/>
+                <instruction instr-id="7176"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="8">
+                <bounding-box x1="413" x2="434" y1="542" y2="552"/>
+                <content>1727</content>
+                <instruction instr-id="7196"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="8">
+                <bounding-box x1="493" x2="518" y1="542" y2="552"/>
+                <content>100%</content>
+                <instruction instr-id="7210"/>
+            </cell>
+        </region>
+    </table>
+    <table id="4">
+        <region col-increment="0" id="0" page="4" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="61" x2="96" y1="404" y2="414"/>
+                <content>Country</content>
+                <instruction instr-id="7475"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="172" x2="219" y1="392" y2="414"/>
+                <content>Number of
+responses</content>
+                <instruction instr-id="7519"/>
+                <instruction instr-id="7531"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="236" x2="282" y1="392" y2="414"/>
+                <content>% of total
+responses</content>
+                <instruction instr-id="7568"/>
+                <instruction instr-id="7580"/>
+            </cell>
+            <cell id="3" start-col="3" start-row="0">
+                <bounding-box x1="296" x2="330" y1="404" y2="414"/>
+                <content>Country</content>
+                <instruction instr-id="7617"/>
+            </cell>
+            <cell id="4" start-col="4" start-row="0">
+                <bounding-box x1="405" x2="452" y1="392" y2="414"/>
+                <content>Number of
+responses</content>
+                <instruction instr-id="7654"/>
+                <instruction instr-id="7666"/>
+            </cell>
+            <cell id="5" start-col="5" start-row="0">
+                <bounding-box x1="467" x2="513" y1="392" y2="414"/>
+                <content>% of total
+responses</content>
+                <instruction instr-id="7703"/>
+                <instruction instr-id="7715"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="1">
+                <bounding-box x1="61" x2="125" y1="379" y2="389"/>
+                <content>DE - Germany</content>
+                <instruction instr-id="7795"/>
+                <instruction instr-id="7802"/>
+                <instruction instr-id="7809"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="1">
+                <bounding-box x1="187" x2="204" y1="379" y2="389"/>
+                <content>258</content>
+                <instruction instr-id="7823"/>
+            </cell>
+            <cell id="8" start-col="2" start-row="1">
+                <bounding-box x1="244" x2="273" y1="379" y2="389"/>
+                <content>14.9%</content>
+                <instruction instr-id="7837"/>
+            </cell>
+            <cell id="9" start-col="3" start-row="1">
+                <bounding-box x1="296" x2="371" y1="379" y2="389"/>
+                <content>CH - Switzerland</content>
+                <instruction instr-id="7851"/>
+                <instruction instr-id="7858"/>
+                <instruction instr-id="7865"/>
+            </cell>
+            <cell id="10" start-col="4" start-row="1">
+                <bounding-box x1="423" x2="434" y1="379" y2="389"/>
+                <content>25</content>
+                <instruction instr-id="7879"/>
+            </cell>
+            <cell id="11" start-col="5" start-row="1">
+                <bounding-box x1="479" x2="501" y1="379" y2="389"/>
+                <content>1.4%</content>
+                <instruction instr-id="7893"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="2">
+                <bounding-box x1="61" x2="154" y1="367" y2="377"/>
+                <content>UK - United Kingdom</content>
+                <instruction instr-id="7967"/>
+                <instruction instr-id="7974"/>
+                <instruction instr-id="7981"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="2">
+                <bounding-box x1="187" x2="204" y1="367" y2="377"/>
+                <content>157</content>
+                <instruction instr-id="7995"/>
+            </cell>
+            <cell id="14" start-col="2" start-row="2">
+                <bounding-box x1="247" x2="270" y1="367" y2="377"/>
+                <content>9.1%</content>
+                <instruction instr-id="8009"/>
+            </cell>
+            <cell id="15" start-col="3" start-row="2">
+                <bounding-box x1="296" x2="346" y1="367" y2="377"/>
+                <content>FI - Finland</content>
+                <instruction instr-id="8023"/>
+                <instruction instr-id="8030"/>
+                <instruction instr-id="8037"/>
+            </cell>
+            <cell id="16" start-col="4" start-row="2">
+                <bounding-box x1="423" x2="434" y1="367" y2="377"/>
+                <content>22</content>
+                <instruction instr-id="8051"/>
+            </cell>
+            <cell id="17" start-col="5" start-row="2">
+                <bounding-box x1="479" x2="501" y1="367" y2="377"/>
+                <content>1.3%</content>
+                <instruction instr-id="8065"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="3">
+                <bounding-box x1="61" x2="97" y1="354" y2="365"/>
+                <content>IT - Italy</content>
+                <instruction instr-id="8139"/>
+                <instruction instr-id="8146"/>
+                <instruction instr-id="8153"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="3">
+                <bounding-box x1="187" x2="204" y1="354" y2="365"/>
+                <content>147</content>
+                <instruction instr-id="8167"/>
+            </cell>
+            <cell id="20" start-col="2" start-row="3">
+                <bounding-box x1="247" x2="270" y1="354" y2="365"/>
+                <content>8.5%</content>
+                <instruction instr-id="8181"/>
+            </cell>
+            <cell id="21" start-col="3" start-row="3">
+                <bounding-box x1="296" x2="357" y1="354" y2="365"/>
+                <content>LT - Lithuania</content>
+                <instruction instr-id="8195"/>
+                <instruction instr-id="8202"/>
+                <instruction instr-id="8209"/>
+            </cell>
+            <cell id="22" start-col="4" start-row="3">
+                <bounding-box x1="423" x2="434" y1="354" y2="365"/>
+                <content>22</content>
+                <instruction instr-id="8223"/>
+            </cell>
+            <cell id="23" start-col="5" start-row="3">
+                <bounding-box x1="479" x2="501" y1="354" y2="365"/>
+                <content>1.3%</content>
+                <instruction instr-id="8237"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="4">
+                <bounding-box x1="61" x2="119" y1="342" y2="352"/>
+                <content>BE -Belgium</content>
+                <instruction instr-id="8311"/>
+                <instruction instr-id="8318"/>
+                <instruction instr-id="8325"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="4">
+                <bounding-box x1="187" x2="204" y1="342" y2="352"/>
+                <content>142</content>
+                <instruction instr-id="8339"/>
+            </cell>
+            <cell id="26" start-col="2" start-row="4">
+                <bounding-box x1="247" x2="270" y1="342" y2="352"/>
+                <content>8.2%</content>
+                <instruction instr-id="8353"/>
+            </cell>
+            <cell id="27" start-col="3" start-row="4">
+                <bounding-box x1="296" x2="337" y1="342" y2="352"/>
+                <content>IL -Israel</content>
+                <instruction instr-id="8367"/>
+                <instruction instr-id="8374"/>
+                <instruction instr-id="8381"/>
+            </cell>
+            <cell id="28" start-col="4" start-row="4">
+                <bounding-box x1="423" x2="434" y1="342" y2="352"/>
+                <content>17</content>
+                <instruction instr-id="8395"/>
+            </cell>
+            <cell id="29" start-col="5" start-row="4">
+                <bounding-box x1="479" x2="501" y1="342" y2="352"/>
+                <content>1.0%</content>
+                <instruction instr-id="8409"/>
+            </cell>
+            <cell id="30" start-col="0" start-row="5">
+                <bounding-box x1="61" x2="114" y1="330" y2="340"/>
+                <content>FR - France</content>
+                <instruction instr-id="8483"/>
+                <instruction instr-id="8490"/>
+                <instruction instr-id="8497"/>
+            </cell>
+            <cell id="31" start-col="1" start-row="5">
+                <bounding-box x1="187" x2="204" y1="330" y2="340"/>
+                <content>132</content>
+                <instruction instr-id="8511"/>
+            </cell>
+            <cell id="32" start-col="2" start-row="5">
+                <bounding-box x1="247" x2="270" y1="330" y2="340"/>
+                <content>7.6%</content>
+                <instruction instr-id="8525"/>
+            </cell>
+            <cell id="33" start-col="3" start-row="5">
+                <bounding-box x1="296" x2="348" y1="330" y2="340"/>
+                <content>PL - Poland</content>
+                <instruction instr-id="8539"/>
+                <instruction instr-id="8546"/>
+                <instruction instr-id="8553"/>
+            </cell>
+            <cell id="34" start-col="4" start-row="5">
+                <bounding-box x1="423" x2="434" y1="330" y2="340"/>
+                <content>16</content>
+                <instruction instr-id="8567"/>
+            </cell>
+            <cell id="35" start-col="5" start-row="5">
+                <bounding-box x1="479" x2="501" y1="330" y2="340"/>
+                <content>0.9%</content>
+                <instruction instr-id="8581"/>
+            </cell>
+            <cell id="36" start-col="0" start-row="6">
+                <bounding-box x1="61" x2="108" y1="318" y2="328"/>
+                <content>ES - Spain</content>
+                <instruction instr-id="8655"/>
+                <instruction instr-id="8662"/>
+                <instruction instr-id="8669"/>
+            </cell>
+            <cell id="37" start-col="1" start-row="6">
+                <bounding-box x1="187" x2="204" y1="318" y2="328"/>
+                <content>123</content>
+                <instruction instr-id="8683"/>
+            </cell>
+            <cell id="38" start-col="2" start-row="6">
+                <bounding-box x1="247" x2="270" y1="318" y2="328"/>
+                <content>7.1%</content>
+                <instruction instr-id="8697"/>
+            </cell>
+            <cell id="39" start-col="3" start-row="6">
+                <bounding-box x1="296" x2="350" y1="318" y2="328"/>
+                <content>CY - Cyprus</content>
+                <instruction instr-id="8711"/>
+                <instruction instr-id="8718"/>
+                <instruction instr-id="8725"/>
+            </cell>
+            <cell id="40" start-col="4" start-row="6">
+                <bounding-box x1="423" x2="434" y1="318" y2="328"/>
+                <content>12</content>
+                <instruction instr-id="8739"/>
+            </cell>
+            <cell id="41" start-col="5" start-row="6">
+                <bounding-box x1="479" x2="501" y1="318" y2="328"/>
+                <content>0.7%</content>
+                <instruction instr-id="8753"/>
+            </cell>
+            <cell id="42" start-col="0" start-row="7">
+                <bounding-box x1="61" x2="136" y1="306" y2="316"/>
+                <content>NL - Netherlands</content>
+                <instruction instr-id="8827"/>
+                <instruction instr-id="8834"/>
+                <instruction instr-id="8841"/>
+            </cell>
+            <cell id="43" start-col="1" start-row="7">
+                <bounding-box x1="190" x2="201" y1="306" y2="316"/>
+                <content>89</content>
+                <instruction instr-id="8855"/>
+            </cell>
+            <cell id="44" start-col="2" start-row="7">
+                <bounding-box x1="247" x2="270" y1="306" y2="316"/>
+                <content>5.2%</content>
+                <instruction instr-id="8869"/>
+            </cell>
+            <cell id="45" start-col="3" start-row="7">
+                <bounding-box x1="296" x2="388" y1="306" y2="316"/>
+                <content>CZ - Czech Republic</content>
+                <instruction instr-id="8883"/>
+                <instruction instr-id="8890"/>
+                <instruction instr-id="8897"/>
+            </cell>
+            <cell id="46" start-col="4" start-row="7">
+                <bounding-box x1="423" x2="434" y1="306" y2="316"/>
+                <content>10</content>
+                <instruction instr-id="8911"/>
+            </cell>
+            <cell id="47" start-col="5" start-row="7">
+                <bounding-box x1="479" x2="501" y1="306" y2="316"/>
+                <content>0.6%</content>
+                <instruction instr-id="8925"/>
+            </cell>
+            <cell id="48" start-col="0" start-row="8">
+                <bounding-box x1="61" x2="119" y1="293" y2="303"/>
+                <content>PT - Portugal</content>
+                <instruction instr-id="8999"/>
+                <instruction instr-id="9006"/>
+                <instruction instr-id="9013"/>
+            </cell>
+            <cell id="49" start-col="1" start-row="8">
+                <bounding-box x1="190" x2="201" y1="293" y2="303"/>
+                <content>81</content>
+                <instruction instr-id="9027"/>
+            </cell>
+            <cell id="50" start-col="2" start-row="8">
+                <bounding-box x1="247" x2="270" y1="293" y2="303"/>
+                <content>4.7%</content>
+                <instruction instr-id="9041"/>
+            </cell>
+            <cell id="51" start-col="3" start-row="8">
+                <bounding-box x1="296" x2="351" y1="293" y2="303"/>
+                <content>EE - Estonia</content>
+                <instruction instr-id="9055"/>
+                <instruction instr-id="9062"/>
+                <instruction instr-id="9069"/>
+            </cell>
+            <cell id="52" start-col="4" start-row="8">
+                <bounding-box x1="423" x2="434" y1="293" y2="303"/>
+                <content>10</content>
+                <instruction instr-id="9083"/>
+            </cell>
+            <cell id="53" start-col="5" start-row="8">
+                <bounding-box x1="479" x2="501" y1="293" y2="303"/>
+                <content>0.6%</content>
+                <instruction instr-id="9097"/>
+            </cell>
+            <cell id="54" start-col="0" start-row="9">
+                <bounding-box x1="61" x2="115" y1="281" y2="291"/>
+                <content>EL - Greece</content>
+                <instruction instr-id="9171"/>
+                <instruction instr-id="9178"/>
+                <instruction instr-id="9185"/>
+            </cell>
+            <cell id="55" start-col="1" start-row="9">
+                <bounding-box x1="190" x2="201" y1="281" y2="291"/>
+                <content>80</content>
+                <instruction instr-id="9199"/>
+            </cell>
+            <cell id="56" start-col="2" start-row="9">
+                <bounding-box x1="247" x2="270" y1="281" y2="291"/>
+                <content>4.6%</content>
+                <instruction instr-id="9213"/>
+            </cell>
+            <cell id="57" start-col="3" start-row="9">
+                <bounding-box x1="296" x2="357" y1="281" y2="291"/>
+                <content>HU - Hungary</content>
+                <instruction instr-id="9227"/>
+                <instruction instr-id="9234"/>
+                <instruction instr-id="9241"/>
+            </cell>
+            <cell id="58" start-col="4" start-row="9">
+                <bounding-box x1="423" x2="434" y1="281" y2="291"/>
+                <content>10</content>
+                <instruction instr-id="9255"/>
+            </cell>
+            <cell id="59" start-col="5" start-row="9">
+                <bounding-box x1="479" x2="501" y1="281" y2="291"/>
+                <content>0.6%</content>
+                <instruction instr-id="9269"/>
+            </cell>
+            <cell id="60" start-col="0" start-row="10">
+                <bounding-box x1="61" x2="114" y1="269" y2="279"/>
+                <content>AT - Austria</content>
+                <instruction instr-id="9343"/>
+                <instruction instr-id="9350"/>
+                <instruction instr-id="9357"/>
+                <instruction instr-id="9364"/>
+            </cell>
+            <cell id="61" start-col="1" start-row="10">
+                <bounding-box x1="190" x2="201" y1="269" y2="279"/>
+                <content>79</content>
+                <instruction instr-id="9378"/>
+            </cell>
+            <cell id="62" start-col="2" start-row="10">
+                <bounding-box x1="247" x2="270" y1="269" y2="279"/>
+                <content>4.6%</content>
+                <instruction instr-id="9392"/>
+            </cell>
+            <cell id="63" start-col="3" start-row="10">
+                <bounding-box x1="296" x2="356" y1="269" y2="279"/>
+                <content>BG - Bulgaria</content>
+                <instruction instr-id="9406"/>
+                <instruction instr-id="9413"/>
+                <instruction instr-id="9420"/>
+            </cell>
+            <cell id="64" start-col="4" start-row="10">
+                <bounding-box x1="426" x2="431" y1="269" y2="279"/>
+                <content>8</content>
+                <instruction instr-id="9434"/>
+            </cell>
+            <cell id="65" start-col="5" start-row="10">
+                <bounding-box x1="479" x2="501" y1="269" y2="279"/>
+                <content>0.5%</content>
+                <instruction instr-id="9448"/>
+            </cell>
+            <cell id="66" start-col="0" start-row="11">
+                <bounding-box x1="61" x2="119" y1="257" y2="267"/>
+                <content>SV - Sweden</content>
+                <instruction instr-id="9522"/>
+                <instruction instr-id="9529"/>
+                <instruction instr-id="9536"/>
+            </cell>
+            <cell id="67" start-col="1" start-row="11">
+                <bounding-box x1="190" x2="201" y1="257" y2="267"/>
+                <content>68</content>
+                <instruction instr-id="9550"/>
+            </cell>
+            <cell id="68" start-col="2" start-row="11">
+                <bounding-box x1="247" x2="270" y1="257" y2="267"/>
+                <content>3.9%</content>
+                <instruction instr-id="9564"/>
+            </cell>
+            <cell id="69" start-col="3" start-row="11">
+                <bounding-box x1="296" x2="390" y1="257" y2="267"/>
+                <content>SK - Slovak Republic</content>
+                <instruction instr-id="9578"/>
+                <instruction instr-id="9585"/>
+                <instruction instr-id="9592"/>
+            </cell>
+            <cell id="70" start-col="4" start-row="11">
+                <bounding-box x1="426" x2="431" y1="257" y2="267"/>
+                <content>7</content>
+                <instruction instr-id="9606"/>
+            </cell>
+            <cell id="71" start-col="5" start-row="11">
+                <bounding-box x1="479" x2="501" y1="257" y2="267"/>
+                <content>0.4%</content>
+                <instruction instr-id="9620"/>
+            </cell>
+            <cell id="72" start-col="0" start-row="12">
+                <bounding-box x1="61" x2="114" y1="244" y2="254"/>
+                <content>TR - Turkey</content>
+                <instruction instr-id="9694"/>
+                <instruction instr-id="9701"/>
+                <instruction instr-id="9708"/>
+            </cell>
+            <cell id="73" start-col="1" start-row="12">
+                <bounding-box x1="190" x2="201" y1="244" y2="254"/>
+                <content>44</content>
+                <instruction instr-id="9722"/>
+            </cell>
+            <cell id="74" start-col="2" start-row="12">
+                <bounding-box x1="247" x2="270" y1="244" y2="254"/>
+                <content>2.5%</content>
+                <instruction instr-id="9736"/>
+            </cell>
+            <cell id="75" start-col="3" start-row="12">
+                <bounding-box x1="296" x2="355" y1="244" y2="254"/>
+                <content>SL - Slovenia</content>
+                <instruction instr-id="9750"/>
+                <instruction instr-id="9757"/>
+                <instruction instr-id="9764"/>
+            </cell>
+            <cell id="76" start-col="4" start-row="12">
+                <bounding-box x1="426" x2="431" y1="244" y2="254"/>
+                <content>6</content>
+                <instruction instr-id="9778"/>
+            </cell>
+            <cell id="77" start-col="5" start-row="12">
+                <bounding-box x1="479" x2="501" y1="244" y2="254"/>
+                <content>0.3%</content>
+                <instruction instr-id="9792"/>
+            </cell>
+            <cell id="78" start-col="0" start-row="13">
+                <bounding-box x1="61" x2="109" y1="232" y2="242"/>
+                <content>IE - Ireland</content>
+                <instruction instr-id="9866"/>
+                <instruction instr-id="9873"/>
+                <instruction instr-id="9880"/>
+            </cell>
+            <cell id="79" start-col="1" start-row="13">
+                <bounding-box x1="190" x2="201" y1="232" y2="242"/>
+                <content>33</content>
+                <instruction instr-id="9894"/>
+            </cell>
+            <cell id="80" start-col="2" start-row="13">
+                <bounding-box x1="247" x2="270" y1="232" y2="242"/>
+                <content>1.9%</content>
+                <instruction instr-id="9908"/>
+            </cell>
+            <cell id="81" start-col="3" start-row="13">
+                <bounding-box x1="296" x2="343" y1="232" y2="242"/>
+                <content>MT - Malta</content>
+                <instruction instr-id="9922"/>
+                <instruction instr-id="9929"/>
+                <instruction instr-id="9936"/>
+            </cell>
+            <cell id="82" start-col="4" start-row="13">
+                <bounding-box x1="426" x2="431" y1="232" y2="242"/>
+                <content>5</content>
+                <instruction instr-id="9950"/>
+            </cell>
+            <cell id="83" start-col="5" start-row="13">
+                <bounding-box x1="479" x2="501" y1="232" y2="242"/>
+                <content>0.3%</content>
+                <instruction instr-id="9964"/>
+            </cell>
+            <cell id="84" start-col="0" start-row="14">
+                <bounding-box x1="61" x2="118" y1="220" y2="230"/>
+                <content>NO - Norway</content>
+                <instruction instr-id="10038"/>
+                <instruction instr-id="10045"/>
+                <instruction instr-id="10052"/>
+            </cell>
+            <cell id="85" start-col="1" start-row="14">
+                <bounding-box x1="190" x2="201" y1="220" y2="230"/>
+                <content>31</content>
+                <instruction instr-id="10066"/>
+            </cell>
+            <cell id="86" start-col="2" start-row="14">
+                <bounding-box x1="247" x2="270" y1="220" y2="230"/>
+                <content>1.8%</content>
+                <instruction instr-id="10080"/>
+            </cell>
+            <cell id="87" start-col="3" start-row="14">
+                <bounding-box x1="296" x2="344" y1="220" y2="230"/>
+                <content>LV - Latvia</content>
+                <instruction instr-id="10094"/>
+                <instruction instr-id="10101"/>
+                <instruction instr-id="10108"/>
+            </cell>
+            <cell id="88" start-col="4" start-row="14">
+                <bounding-box x1="426" x2="431" y1="220" y2="230"/>
+                <content>4</content>
+                <instruction instr-id="10122"/>
+            </cell>
+            <cell id="89" start-col="5" start-row="14">
+                <bounding-box x1="479" x2="501" y1="220" y2="230"/>
+                <content>0.2%</content>
+                <instruction instr-id="10136"/>
+            </cell>
+            <cell id="90" start-col="0" start-row="15">
+                <bounding-box x1="61" x2="121" y1="208" y2="218"/>
+                <content>Other country</content>
+                <instruction instr-id="10210"/>
+            </cell>
+            <cell id="91" start-col="1" start-row="15">
+                <bounding-box x1="190" x2="201" y1="208" y2="218"/>
+                <content>30</content>
+                <instruction instr-id="10224"/>
+            </cell>
+            <cell id="92" start-col="2" start-row="15">
+                <bounding-box x1="247" x2="270" y1="208" y2="218"/>
+                <content>1.7%</content>
+                <instruction instr-id="10238"/>
+            </cell>
+            <cell id="93" start-col="3" start-row="15">
+                <bounding-box x1="296" x2="373" y1="208" y2="218"/>
+                <content>LU - Luxembourg</content>
+                <instruction instr-id="10252"/>
+                <instruction instr-id="10259"/>
+                <instruction instr-id="10266"/>
+            </cell>
+            <cell id="94" start-col="4" start-row="15">
+                <bounding-box x1="426" x2="431" y1="208" y2="218"/>
+                <content>1</content>
+                <instruction instr-id="10280"/>
+            </cell>
+            <cell id="95" start-col="5" start-row="15">
+                <bounding-box x1="479" x2="501" y1="208" y2="218"/>
+                <content>0.1%</content>
+                <instruction instr-id="10294"/>
+            </cell>
+            <cell id="96" start-col="0" start-row="16">
+                <bounding-box x1="61" x2="125" y1="195" y2="205"/>
+                <content>RO - Romania</content>
+                <instruction instr-id="10368"/>
+                <instruction instr-id="10375"/>
+                <instruction instr-id="10382"/>
+                <instruction instr-id="10389"/>
+            </cell>
+            <cell id="97" start-col="1" start-row="16">
+                <bounding-box x1="190" x2="201" y1="195" y2="205"/>
+                <content>29</content>
+                <instruction instr-id="10403"/>
+            </cell>
+            <cell id="98" start-col="2" start-row="16">
+                <bounding-box x1="247" x2="270" y1="195" y2="205"/>
+                <content>1.7%</content>
+                <instruction instr-id="10417"/>
+            </cell>
+            <cell id="99" start-col="3" start-row="16">
+                <bounding-box x1="296" x2="346" y1="195" y2="205"/>
+                <content>IS - Iceland</content>
+                <instruction instr-id="10431"/>
+                <instruction instr-id="10438"/>
+                <instruction instr-id="10445"/>
+            </cell>
+            <cell id="100" start-col="4" start-row="16">
+                <bounding-box x1="426" x2="431" y1="195" y2="205"/>
+                <content>1</content>
+                <instruction instr-id="10459"/>
+            </cell>
+            <cell id="101" start-col="5" start-row="16">
+                <bounding-box x1="479" x2="501" y1="195" y2="205"/>
+                <content>0.1%</content>
+                <instruction instr-id="10473"/>
+            </cell>
+            <cell id="102" start-col="0" start-row="17">
+                <bounding-box x1="61" x2="121" y1="183" y2="193"/>
+                <content>DK - Denmark</content>
+                <instruction instr-id="10547"/>
+                <instruction instr-id="10554"/>
+                <instruction instr-id="10561"/>
+            </cell>
+            <cell id="103" start-col="1" start-row="17">
+                <bounding-box x1="191" x2="201" y1="183" y2="193"/>
+                <content>28</content>
+                <instruction instr-id="10575"/>
+            </cell>
+            <cell id="104" start-col="2" start-row="17">
+                <bounding-box x1="248" x2="269" y1="183" y2="193"/>
+                <content>1.6%</content>
+                <instruction instr-id="10589"/>
+            </cell>
+            <cell id="105" start-col="3" start-row="17">
+                <bounding-box x1="363" x2="393" y1="183" y2="193"/>
+                <content>TOTAL</content>
+                <instruction instr-id="10603"/>
+            </cell>
+            <cell id="106" start-col="4" start-row="17">
+                <bounding-box x1="417" x2="439" y1="183" y2="193"/>
+                <content>1727</content>
+                <instruction instr-id="10617"/>
+            </cell>
+            <cell id="107" start-col="5" start-row="17">
+                <bounding-box x1="477" x2="502" y1="183" y2="193"/>
+                <content>100%</content>
+                <instruction instr-id="10631"/>
+            </cell>
+        </region>
+    </table>
+</document>

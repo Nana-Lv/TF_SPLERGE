@@ -1,0 +1,61 @@
+U.S. Department of Justice
+Civil Rights Division
+Disability Rights Section
+
+
+
+
+ADA
+Design Guide                       1       Restriping Parking Lots
+
+Accessible Parking Spaces
+When a business, State or local            Van-Accessible Parking Spaces
+government agency, or other covered        Van-accessible parking spaces are                One of eight accessible parking
+entity restripes a parking lot, it must    the same as accessible parking                   spaces, but always at least one, must
+provide accessible parking spaces as       spaces for cars except for three fea-            be van-accessible.
+required by the ADA Standards for          tures needed for vans:
+Accessible Design. Failure to do so
+would violate the ADA.                     •     a wider access aisle (96”) to
+                                                 accommodate a wheelchair lift;
+In addition, businesses or privately       •     vertical clearance to accommo-
+owned facilities that provide goods              date van height at the van park-
+or services to the public have a                 ing space, the adjacent access
+continuing ADA obligation to                     aisle, and on the vehicular route
+remove barriers to access in existing            to and from the van-accessible
+parking lots when it is readily                  space, and
+achievable to do so. Because               •     an additional sign that identifies
+restriping is relatively inexpensive, it         the parking spaces as “van
+is readily achievable in most cases.             accessible.”
+
+This ADA Design Guide provides
+key information about how to create
+accessible car and van spaces and                     Minimum Number of Accessible Parking Spaces
+how many spaces to provide                                          ADA Standards for Accessible Design 4.1.2 (5)
+when parking lots
+are restriped.
+                                           Total Number            Total Minimum         Van Accessible               Accessible
+                                            of Parking               Number of           Parking Spaces                Parking
+                                               spaces                Accessible           with min. 96”              Spaces with
+                                             Provided              Parking Spaces         wide access                min. 60” wide
+                                              (per lot)           (60” & 96” aisles)          aisle                  access aisle
+
+                                                                     Column A
+                                           1 to 25                        1                       1                        0
+                                           26 to 50                       2                       1                        1
+                                           51 to 75                       3                       1                        2
+                                           76 to 100                      4                       1                        3
+                                           101 to 150                     5                       1                        4
+Accessible                                 151 to 200                     6                       1                        5
+Parking Spaces for Cars                    201 to 300                     7                       1                        6
+Accessible parking spaces for cars         301 to 400                     8                       1                        7
+have at least a 60-inch-wide access        401 to 500                     9                       2                        7
+aisle located adjacent to the desig-       501 to 1000               2% of total
+nated parking space. The access                                   parking provided       1/8 of Column A*           7/8 of Column A**
+aisle is just wide enough to permit a                                in each lot
+person using a wheelchair to enter or      1001 and over            20 plus 1 for
+exit the car. These parking spaces                                    each 100           1/8 of Column A*           7/8 of Column A**
+are identified with a sign and located                               over 1000
+on level ground.                               * one out of every 8 accessible spaces   ** 7 out of every 8 accessible parking spaces
+
+page 1 of 2
+

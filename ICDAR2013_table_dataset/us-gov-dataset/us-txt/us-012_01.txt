@@ -1,0 +1,42 @@
+                                                   Department of Defense
+                                                  Base Structure Report (BSR)
+                                                        FY 2007 Baseline
+
+– BUILDINGS LEASED SQFT: Reflects the normalized RPCS building square footage for the buildings identified as leased in the
+Services’ databases.
+
+– BUILDINGS OTHER COUNT: Identifies the number of buildings not identified as owned or leased and reported by the Services
+in their inventories.
+
+– BUILDINGS OTHER SQFT: Reflects the normalized RPCS building square footage for the buildings not identified as owned or
+leased in the Services’ databases.
+
+– TOTAL ACRES: Identifies the total number of acres owned, used by, or leased to the DoD. It includes public land, land owned by
+other federal agencies, and acreage of foreign soil used by DoD sites. In Sections VIII and IX, the total does not include State-Owned
+land. In Section X, the total includes State-Owned land.
+
+– PRV ($M): Total Plant Replacement Value (PRV) for all facilities (buildings, structures, and linear structures) included in the
+Services RPI databases. This value is the cost to replace the current physical plant (facilities and supporting infrastructure) using
+today’s construction costs (labor and materials) and standards (methodologies and codes). The PRV represents the OSD-calculated
+value adjusted for facilities that exceeded the RPCS size limit; for instance, the PRV is reduced by the proportional reduction of the
+facility size. In Sections VIII and IX, the value for State-Owned assets are not included. In Section X, the value of State-Owned
+assets are included.
+
+Note on Personnel Data: This information is provided ONLY to project a level of magnitude when comparing sites. The Services
+do not maintain their personnel data in direct relation to their Real Property Information. While every effort was made to match the
+personnel strengths to the appropriate site, the population may not reflect the actual population of the site. Detailed personnel
+questions should be addressed to the appropriate Service manpower or personnel offices.
+
+– MIL: Identifies all known military personnel authorized for the site. Includes Active Duty, Guard, and Reserve personnel,
+regardless of Service affiliation.
+
+– CIV: Identifies all known DoD civilian personnel identified for the site, regardless of Service affiliation. Note: civilian numbers for
+the Navy represent assigned personnel not authorized.
+
+– OTHER: Identifies all known other civilian personnel identified for the site, including personnel paid from Non-appropriated
+Funds (NAF), Foreign Nationals (direct hire) at foreign locations, and, if available, any full-time contractor personnel, regardless of
+Service affiliation.
+
+
+                                                                  DoD - 5
+

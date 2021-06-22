@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-017.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-region-model.xsd">
+    <table id="0">
+        <region id="0" page="2">
+            <instruction instr-id="1774" subinstr-id="0"/>
+            <instruction instr-id="1774" subinstr-id="2"/>
+            <instruction instr-id="1781"/>
+            <instruction instr-id="1788"/>
+            <instruction instr-id="1795"/>
+            <instruction instr-id="1802"/>
+            <instruction instr-id="1809" subinstr-id="0"/>
+            <instruction instr-id="1809" subinstr-id="2"/>
+            <instruction instr-id="1809" subinstr-id="4"/>
+            <instruction instr-id="1809" subinstr-id="6"/>
+            <instruction instr-id="1816"/>
+            <instruction instr-id="1823" subinstr-id="0"/>
+            <instruction instr-id="1823" subinstr-id="2"/>
+            <instruction instr-id="1830" subinstr-id="0"/>
+            <instruction instr-id="1830" subinstr-id="2"/>
+            <instruction instr-id="1837"/>
+            <instruction instr-id="1844" subinstr-id="0"/>
+            <instruction instr-id="1844" subinstr-id="2"/>
+            <instruction instr-id="1844" subinstr-id="4"/>
+            <instruction instr-id="1851"/>
+            <instruction instr-id="1858" subinstr-id="0"/>
+            <instruction instr-id="1858" subinstr-id="2"/>
+            <instruction instr-id="1865"/>
+            <instruction instr-id="1872" subinstr-id="0"/>
+            <instruction instr-id="1872" subinstr-id="2"/>
+            <instruction instr-id="1872" subinstr-id="4"/>
+            <instruction instr-id="1872" subinstr-id="6"/>
+            <instruction instr-id="1879" subinstr-id="0"/>
+            <instruction instr-id="1879" subinstr-id="2"/>
+            <instruction instr-id="1879" subinstr-id="4"/>
+            <instruction instr-id="1886" subinstr-id="0"/>
+            <instruction instr-id="1886" subinstr-id="2"/>
+            <instruction instr-id="1893"/>
+            <instruction instr-id="1900" subinstr-id="0"/>
+            <instruction instr-id="1900" subinstr-id="2"/>
+            <instruction instr-id="1900" subinstr-id="4"/>
+            <instruction instr-id="1907" subinstr-id="0"/>
+            <instruction instr-id="1907" subinstr-id="2"/>
+            <instruction instr-id="1907" subinstr-id="4"/>
+            <instruction instr-id="1914"/>
+            <instruction instr-id="1921"/>
+            <instruction instr-id="1928"/>
+            <instruction instr-id="1935"/>
+            <instruction instr-id="1942" subinstr-id="0"/>
+            <instruction instr-id="1942" subinstr-id="2"/>
+            <instruction instr-id="1942" subinstr-id="4"/>
+            <instruction instr-id="1942" subinstr-id="6"/>
+            <instruction instr-id="1942" subinstr-id="8"/>
+            <instruction instr-id="1942" subinstr-id="10"/>
+            <instruction instr-id="1949" subinstr-id="0"/>
+            <instruction instr-id="1949" subinstr-id="2"/>
+            <instruction instr-id="1949" subinstr-id="4"/>
+            <instruction instr-id="1956"/>
+            <instruction instr-id="1963"/>
+            <instruction instr-id="1970" subinstr-id="0"/>
+            <instruction instr-id="1970" subinstr-id="2"/>
+            <instruction instr-id="1970" subinstr-id="4"/>
+            <instruction instr-id="1970" subinstr-id="6"/>
+            <instruction instr-id="1977" subinstr-id="0"/>
+            <instruction instr-id="1977" subinstr-id="2"/>
+            <instruction instr-id="1977" subinstr-id="4"/>
+            <instruction instr-id="1984" subinstr-id="0"/>
+            <instruction instr-id="1984" subinstr-id="2"/>
+            <instruction instr-id="1984" subinstr-id="4"/>
+            <instruction instr-id="1991"/>
+            <instruction instr-id="1998"/>
+            <instruction instr-id="2005" subinstr-id="0"/>
+            <instruction instr-id="2005" subinstr-id="2"/>
+            <instruction instr-id="2005" subinstr-id="4"/>
+            <instruction instr-id="2005" subinstr-id="6"/>
+            <instruction instr-id="2005" subinstr-id="8"/>
+            <instruction instr-id="2005" subinstr-id="10"/>
+            <instruction instr-id="2012" subinstr-id="0"/>
+            <instruction instr-id="2012" subinstr-id="2"/>
+            <instruction instr-id="2012" subinstr-id="4"/>
+            <instruction instr-id="2019"/>
+            <instruction instr-id="2026" subinstr-id="0"/>
+            <instruction instr-id="2026" subinstr-id="2"/>
+            <instruction instr-id="2033"/>
+            <instruction instr-id="2040"/>
+            <instruction instr-id="2047" subinstr-id="0"/>
+            <instruction instr-id="2047" subinstr-id="2"/>
+            <bounding-box x1="97" x2="520" y1="107" y2="346"/>
+        </region>
+    </table>
+</document>

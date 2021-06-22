@@ -1,0 +1,54 @@
+                                 2. Introductory and Summary Comments
+
+
+•    Half of the newly designed advanced materials and manufacturing processes are built using
+     control at the nanoscale. Even if this control may be rudimentary as compared to the long-term
+     potential of nanotechnology, this will mark a milestone towards the new industrial revolution
+     outlined in 2000. By extending the experience with information technology in the 1990s, I
+     would estimate an overall increase in productivity of at least 1 percent per year because of
+     these changes. Ahead are several challenges. Visualization and numerical simulation of three-
+     dimensional domains with nanometer resolution will be necessary for engineering applications.
+     Nanoscale-designed catalysts will expand the use in “exact” chemical manufacturing to cut and
+     link molecular assemblies with minimal waste. Silicon transistors will reach dimensions smaller
+     than 10 nm and will be integrated with molecular or other kind of nanoscale systems (beyond or
+     integrated with Complementary Metal-Oxide Semiconductor technology [CMOS]). Changing
+     our goals and strategies in this area is the experimental proof of concept, completed in 2003,
+     which showed that CMOS can work at 5 nanometer gate lengths (and potentially at a smaller
+     scale). One may recall that in 2000, we contemplated the “brick wall” of physical principles that
+     would limit the advancement of silicon technology by the end of this decade. Now we are looking
+     to advances in CMOS technology over another decade (by 2020) and then to its integration with
+     bottom-up molecular assembling.
+•    Suffering from chronic illnesses is being sharply reduced. It’s conceivable that by 2015, our ability
+     to detect and treat tumors in their ﬁrst year of occurrence might sharply reduce suffering and
+     death from cancer. In 2000, we aimed for earlier detection of cancer within 20 to 30 years. Today,
+     based on the results obtained during the period 2001 through 2003 with respect to understanding
+     the processes within a cell and new instrumentation to characterize those cellular processes, we
+     are trying to eliminate cancer as a cause of death if treated in a timely manner. Pharmaceutical
+     synthesis, processing, and delivery will be enhanced by nanoscale control, and about half of
+     pharmaceuticals will use nanotechnology as a key component. Modeling the brain based on
+     neuron-to-neuron interactions will be possible by using advances in nanoscale measurement and
+     simulation.
+•    Converging technologies from the nanoscale will establish a mainstream pattern for applying
+     and integrating nanotechnology with biology, electronics, medicine, learning, and other ﬁelds. It
+     includes hybrid manufacturing, neuromorphic engineering, artiﬁcial organs, expansion of the life
+     span, and enhanced learning and sensorial capacities. New concepts in distributed manufacturing
+     and multi-competency clustering will be developed.
+•    Life-cycle sustainability and biocompatibility will be pursued in the development of new
+     products. Knowledge development in nanotechnology will lead to reliable safety rules for
+     limiting unexpected environmental and health consequences of nanomaterials. Synergism among
+     life cycles of various groups of products will be introduced for overall sustainable development.
+     Control of nanoparticles will be performed in air, soils, and waters using a national network for
+     monitoring and remediation.
+•    Knowledge development and education will begin with instruction about the nanoscale instead
+     of the microscale. Earlier exposure to nanoscience education could change the role of science
+     and enhance motivation for schoolchildren. A new education paradigm not based on disciplines
+     but on the unity of nature, and education-research integration will be tested for K-16 (reversing
+     the pyramid of learning [8]). Science and education paradigm changes will be at least as
+     fundamental as those that occurred during the “microscale S&E transition” that originated in the
+     1950s, when microscale analysis and scientiﬁc analysis were stimulated by the space race and
+     digital revolution. Stimulated by nanotechnology products, the new “nanoscale S&E transition”
+
+
+
+26                                 Nanotechnology: Societal Implications
+

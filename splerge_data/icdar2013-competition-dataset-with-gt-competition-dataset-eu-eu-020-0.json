@@ -1,0 +1,15 @@
+{"merge_info": [0, -1, 0, -1], "bbox_info": [10, 0, 80, 11]}
+{"merge_info": [0, -1, 1, -1], "bbox_info": [112, 0, 183, 11]}
+{"merge_info": [0, -1, 2, -1], "bbox_info": [223, 0, 278, 11]}
+{"merge_info": [1, -1, 0, -1], "bbox_info": [0, 14, 39, 25]}
+{"merge_info": [1, -1, 1, -1], "bbox_info": [117, 14, 178, 25]}
+{"merge_info": [1, -1, 2, -1], "bbox_info": [224, 14, 277, 25]}
+{"merge_info": [2, -1, 0, -1], "bbox_info": [0, 27, 69, 38]}
+{"merge_info": [2, -1, 1, -1], "bbox_info": [117, 27, 178, 38]}
+{"merge_info": [2, -1, 2, -1], "bbox_info": [224, 27, 277, 38]}
+{"merge_info": [3, -1, 0, -1], "bbox_info": [0, 41, 51, 52]}
+{"merge_info": [3, -1, 1, -1], "bbox_info": [117, 41, 178, 52]}
+{"merge_info": [3, -1, 2, -1], "bbox_info": [227, 41, 274, 52]}
+{"merge_info": [4, -1, 0, -1], "bbox_info": [0, 54, 64, 65]}
+{"merge_info": [4, -1, 1, -1], "bbox_info": [120, 54, 175, 65]}
+{"merge_info": [4, -1, 2, -1], "bbox_info": [227, 54, 274, 65]}

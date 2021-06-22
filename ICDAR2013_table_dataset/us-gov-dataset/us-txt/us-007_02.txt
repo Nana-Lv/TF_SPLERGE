@@ -1,0 +1,45 @@
+Instructions. To figure how much income tax to
+withhold from the wages paid to a nonresident alien
+employee performing services in the United States, use
+the following steps.
+
+    Step 1. Add to the wages paid to the nonresident
+alien employee for the payroll period the amount shown
+in the chart below for the applicable payroll period.
+
+     Amount to Add to Nonresident Alien
+ Employee’s Wages for Calculating Income Tax
+             Withholding Only
+
+ Payroll Period                          Add Additional
+ Weekly                                    $ 40.40
+ Biweekly                                      80.80
+ Semimonthly                                   87.50
+ Monthly                                      175.00
+ Quarterly                                    525.00
+ Semiannually                               1,050.00
+ Annually                                   2,100.00
+ Daily or Miscellaneous                         8.10
+  (each day of the payroll period)
+
+
+   Step 2. Use the amount figured in Step 1 and the
+number of withholding allowances claimed (generally
+limited to one allowance) to figure income tax
+withholding. Determine the value of withholding
+allowances by multiplying the number of withholding
+allowances claimed by the appropriate amount in the
+table shown on the previous page. Reduce the amount
+figured in Step 1 by the value of withholding allowances
+and use that reduced amount to determine the wages
+subject to income tax withholding. Figure the income tax
+withholding using the Percentage Method Tables for
+Income Tax Withholding provided on the next two pages
+or the Wage Bracket Tables for Income Tax Withholding
+that will be published later in Publication 15 (Circular E).
+
+
+
+
+www.irs.gov                                                    Catalog No. 21974B
+

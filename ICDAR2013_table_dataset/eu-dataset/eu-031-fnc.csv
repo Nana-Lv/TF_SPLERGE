@@ -1,0 +1,589 @@
+0,,,,,,,
+2009,,"Spot rates","3 months
+1",,0.38,,
+2009,,"Spot rates","1 year
+2",,0.81,,
+2009,,"Spot rates","2 years
+3",,1.38,,
+2009,,"Spot rates","5 years
+4",,2.64,,
+2009,,"Spot rates","7 years
+5",,3.20,,
+2009,,"Spot rates","10 years
+6",,3.76,,
+2009,,"Spot rates","10 years
+- 3 months
+(spread)
+7",,3.38,,
+2009,,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.38,,
+2009,,"Instantaneous forward rates","1 year
+9",,1.41,,
+2009,,"Instantaneous forward rates","2 years
+10",,2.44,,
+2009,,"Instantaneous forward rates","5 years
+11",,4.27,,
+2009,,"Instantaneous forward rates","10 years
+12",,5.20,,
+2010,,"Spot rates","3 months
+1",,0.49,,
+2010,,"Spot rates","1 year
+2",,0.60,,
+2010,,"Spot rates","2 years
+3",,0.93,,
+2010,,"Spot rates","5 years
+4",,2.15,,
+2010,,"Spot rates","7 years
+5",,2.78,,
+2010,,"Spot rates","10 years
+6",,3.36,,
+2010,,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.87,,
+2010,,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.43,,
+2010,,"Instantaneous forward rates","1 year
+9",,0.85,,
+2010,,"Instantaneous forward rates","2 years
+10",,1.70,,
+2010,,"Instantaneous forward rates","5 years
+11",,3.99,,
+2010,,"Instantaneous forward rates","10 years
+12",,4.69,,
+2011,,"Spot rates","3 months
+1",,0.00,,
+2011,,"Spot rates","1 year
+2",,0.09,,
+2011,,"Spot rates","2 years
+3",,0.41,,
+2011,,"Spot rates","5 years
+4",,1.56,,
+2011,,"Spot rates","7 years
+5",,2.13,,
+2011,,"Spot rates","10 years
+6",,2.65,,
+2011,,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.65,,
+2011,,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.24,,
+2011,,"Instantaneous forward rates","1 year
+9",,0.32,,
+2011,,"Instantaneous forward rates","2 years
+10",,1.15,,
+2011,,"Instantaneous forward rates","5 years
+11",,3.24,,
+2011,,"Instantaneous forward rates","10 years
+12",,3.84,,
+2011,,"Q4",,"Spot rates","3 months
+1",,0.49
+2011,,"Q4",,"Spot rates","1 year
+2",,0.60
+2011,,"Q4",,"Spot rates","2 years
+3",,0.93
+2011,,"Q4",,"Spot rates","5 years
+4",,2.15
+2011,,"Q4",,"Spot rates","7 years
+5",,2.78
+2011,,"Q4",,"Spot rates","10 years
+6",,3.36
+2011,,"Q4",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.87
+2011,,"Q4",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.43
+2011,,"Q4",,"Instantaneous forward rates","1 year
+9",,0.85
+2011,,"Q4",,"Instantaneous forward rates","2 years
+10",,1.70
+2011,,"Q4",,"Instantaneous forward rates","5 years
+11",,3.99
+2011,,"Q4",,"Instantaneous forward rates","10 years
+12",,4.69
+2011,,"Q1",,"Spot rates","3 months
+1",,0.87
+2011,,"Q1",,"Spot rates","1 year
+2",,1.30
+2011,,"Q1",,"Spot rates","2 years
+3",,1.79
+2011,,"Q1",,"Spot rates","5 years
+4",,2.83
+2011,,"Q1",,"Spot rates","7 years
+5",,3.26
+2011,,"Q1",,"Spot rates","10 years
+6",,3.66
+2011,,"Q1",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.79
+2011,,"Q1",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.87
+2011,,"Q1",,"Instantaneous forward rates","1 year
+9",,1.84
+2011,,"Q1",,"Instantaneous forward rates","2 years
+10",,2.69
+2011,,"Q1",,"Instantaneous forward rates","5 years
+11",,4.12
+2011,,"Q1",,"Instantaneous forward rates","10 years
+12",,4.63
+2011,,"Q2",,"Spot rates","3 months
+1",,1.24
+2011,,"Q2",,"Spot rates","1 year
+2",,1.39
+2011,,"Q2",,"Spot rates","2 years
+3",,1.65
+2011,,"Q2",,"Spot rates","5 years
+4",,2.50
+2011,,"Q2",,"Spot rates","7 years
+5",,2.94
+2011,,"Q2",,"Spot rates","10 years
+6",,3.41
+2011,,"Q2",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.17
+2011,,"Q2",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.75
+2011,,"Q2",,"Instantaneous forward rates","1 year
+9",,1.63
+2011,,"Q2",,"Instantaneous forward rates","2 years
+10",,2.22
+2011,,"Q2",,"Instantaneous forward rates","5 years
+11",,3.76
+2011,,"Q2",,"Instantaneous forward rates","10 years
+12",,4.60
+2011,,"Q3",,"Spot rates","3 months
+1",,0.27
+2011,,"Q3",,"Spot rates","1 year
+2",,0.47
+2011,,"Q3",,"Spot rates","2 years
+3",,0.75
+2011,,"Q3",,"Spot rates","5 years
+4",,1.55
+2011,,"Q3",,"Spot rates","7 years
+5",,1.99
+2011,,"Q3",,"Spot rates","10 years
+6",,2.48
+2011,,"Q3",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.21
+2011,,"Q3",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.74
+2011,,"Q3",,"Instantaneous forward rates","1 year
+9",,0.74
+2011,,"Q3",,"Instantaneous forward rates","2 years
+10",,1.31
+2011,,"Q3",,"Instantaneous forward rates","5 years
+11",,2.77
+2011,,"Q3",,"Instantaneous forward rates","10 years
+12",,3.79
+2011,,"Q4",,"Spot rates","3 months
+1",,0.00
+2011,,"Q4",,"Spot rates","1 year
+2",,0.09
+2011,,"Q4",,"Spot rates","2 years
+3",,0.41
+2011,,"Q4",,"Spot rates","5 years
+4",,1.56
+2011,,"Q4",,"Spot rates","7 years
+5",,2.13
+2011,,"Q4",,"Spot rates","10 years
+6",,2.65
+2011,,"Q4",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.65
+2011,,"Q4",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.24
+2011,,"Q4",,"Instantaneous forward rates","1 year
+9",,0.32
+2011,,"Q4",,"Instantaneous forward rates","2 years
+10",,1.15
+2011,,"Q4",,"Instantaneous forward rates","5 years
+11",,3.24
+2011,,"Q4",,"Instantaneous forward rates","10 years
+12",,3.84
+2011,,"Feb.",,"Spot rates","3 months
+1",,0.69
+2011,,"Feb.",,"Spot rates","1 year
+2",,1.08
+2011,,"Feb.",,"Spot rates","2 years
+3",,1.53
+2011,,"Feb.",,"Spot rates","5 years
+4",,2.55
+2011,,"Feb.",,"Spot rates","7 years
+5",,3.02
+2011,,"Feb.",,"Spot rates","10 years
+6",,3.49
+2011,,"Feb.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.80
+2011,,"Feb.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.96
+2011,,"Feb.",,"Instantaneous forward rates","1 year
+9",,1.56
+2011,,"Feb.",,"Instantaneous forward rates","2 years
+10",,2.37
+2011,,"Feb.",,"Instantaneous forward rates","5 years
+11",,3.91
+2011,,"Feb.",,"Instantaneous forward rates","10 years
+12",,4.67
+2011,,"Mar.",,"Spot rates","3 months
+1",,0.87
+2011,,"Mar.",,"Spot rates","1 year
+2",,1.30
+2011,,"Mar.",,"Spot rates","2 years
+3",,1.79
+2011,,"Mar.",,"Spot rates","5 years
+4",,2.83
+2011,,"Mar.",,"Spot rates","7 years
+5",,3.26
+2011,,"Mar.",,"Spot rates","10 years
+6",,3.66
+2011,,"Mar.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.79
+2011,,"Mar.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.87
+2011,,"Mar.",,"Instantaneous forward rates","1 year
+9",,1.84
+2011,,"Mar.",,"Instantaneous forward rates","2 years
+10",,2.69
+2011,,"Mar.",,"Instantaneous forward rates","5 years
+11",,4.12
+2011,,"Mar.",,"Instantaneous forward rates","10 years
+12",,4.63
+2011,,"Apr.",,"Spot rates","3 months
+1",,1.02
+2011,,"Apr.",,"Spot rates","1 year
+2",,1.41
+2011,,"Apr.",,"Spot rates","2 years
+3",,1.86
+2011,,"Apr.",,"Spot rates","5 years
+4",,2.80
+2011,,"Apr.",,"Spot rates","7 years
+5",,3.19
+2011,,"Apr.",,"Spot rates","10 years
+6",,3.55
+2011,,"Apr.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.53
+2011,,"Apr.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.70
+2011,,"Apr.",,"Instantaneous forward rates","1 year
+9",,1.90
+2011,,"Apr.",,"Instantaneous forward rates","2 years
+10",,2.67
+2011,,"Apr.",,"Instantaneous forward rates","5 years
+11",,3.96
+2011,,"Apr.",,"Instantaneous forward rates","10 years
+12",,4.46
+2011,,"May",,"Spot rates","3 months
+1",,1.03
+2011,,"May",,"Spot rates","1 year
+2",,1.32
+2011,,"May",,"Spot rates","2 years
+3",,1.67
+2011,,"May",,"Spot rates","5 years
+4",,2.52
+2011,,"May",,"Spot rates","7 years
+5",,2.93
+2011,,"May",,"Spot rates","10 years
+6",,3.37
+2011,,"May",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.34
+2011,,"May",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.69
+2011,,"May",,"Instantaneous forward rates","1 year
+9",,1.69
+2011,,"May",,"Instantaneous forward rates","2 years
+10",,2.34
+2011,,"May",,"Instantaneous forward rates","5 years
+11",,3.69
+2011,,"May",,"Instantaneous forward rates","10 years
+12",,4.51
+2011,,"June",,"Spot rates","3 months
+1",,1.24
+2011,,"June",,"Spot rates","1 year
+2",,1.39
+2011,,"June",,"Spot rates","2 years
+3",,1.65
+2011,,"June",,"Spot rates","5 years
+4",,2.50
+2011,,"June",,"Spot rates","7 years
+5",,2.94
+2011,,"June",,"Spot rates","10 years
+6",,3.41
+2011,,"June",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.17
+2011,,"June",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.75
+2011,,"June",,"Instantaneous forward rates","1 year
+9",,1.63
+2011,,"June",,"Instantaneous forward rates","2 years
+10",,2.22
+2011,,"June",,"Instantaneous forward rates","5 years
+11",,3.76
+2011,,"June",,"Instantaneous forward rates","10 years
+12",,4.60
+2011,,"July",,"Spot rates","3 months
+1",,1.01
+2011,,"July",,"Spot rates","1 year
+2",,1.11
+2011,,"July",,"Spot rates","2 years
+3",,1.32
+2011,,"July",,"Spot rates","5 years
+4",,2.09
+2011,,"July",,"Spot rates","7 years
+5",,2.55
+2011,,"July",,"Spot rates","10 years
+6",,3.06
+2011,,"July",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.05
+2011,,"July",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.74
+2011,,"July",,"Instantaneous forward rates","1 year
+9",,1.28
+2011,,"July",,"Instantaneous forward rates","2 years
+10",,1.79
+2011,,"July",,"Instantaneous forward rates","5 years
+11",,3.34
+2011,,"July",,"Instantaneous forward rates","10 years
+12",,4.39
+2011,,"Aug.",,"Spot rates","3 months
+1",,0.61
+2011,,"Aug.",,"Spot rates","1 year
+2",,0.67
+2011,,"Aug.",,"Spot rates","2 years
+3",,0.86
+2011,,"Aug.",,"Spot rates","5 years
+4",,1.69
+2011,,"Aug.",,"Spot rates","7 years
+5",,2.21
+2011,,"Aug.",,"Spot rates","10 years
+6",,2.76
+2011,,"Aug.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.15
+2011,,"Aug.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.90
+2011,,"Aug.",,"Instantaneous forward rates","1 year
+9",,0.80
+2011,,"Aug.",,"Instantaneous forward rates","2 years
+10",,1.33
+2011,,"Aug.",,"Instantaneous forward rates","5 years
+11",,3.09
+2011,,"Aug.",,"Instantaneous forward rates","10 years
+12",,4.22
+2011,,"Sep.",,"Spot rates","3 months
+1",,0.27
+2011,,"Sep.",,"Spot rates","1 year
+2",,0.47
+2011,,"Sep.",,"Spot rates","2 years
+3",,0.75
+2011,,"Sep.",,"Spot rates","5 years
+4",,1.55
+2011,,"Sep.",,"Spot rates","7 years
+5",,1.99
+2011,,"Sep.",,"Spot rates","10 years
+6",,2.48
+2011,,"Sep.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.21
+2011,,"Sep.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.74
+2011,,"Sep.",,"Instantaneous forward rates","1 year
+9",,0.74
+2011,,"Sep.",,"Instantaneous forward rates","2 years
+10",,1.31
+2011,,"Sep.",,"Instantaneous forward rates","5 years
+11",,2.77
+2011,,"Sep.",,"Instantaneous forward rates","10 years
+12",,3.79
+2011,,"Oct.",,"Spot rates","3 months
+1",,0.38
+2011,,"Oct.",,"Spot rates","1 year
+2",,0.54
+2011,,"Oct.",,"Spot rates","2 years
+3",,0.81
+2011,,"Oct.",,"Spot rates","5 years
+4",,1.71
+2011,,"Oct.",,"Spot rates","7 years
+5",,2.22
+2011,,"Oct.",,"Spot rates","10 years
+6",,2.79
+2011,,"Oct.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.41
+2011,,"Oct.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,1.98
+2011,,"Oct.",,"Instantaneous forward rates","1 year
+9",,0.78
+2011,,"Oct.",,"Instantaneous forward rates","2 years
+10",,1.39
+2011,,"Oct.",,"Instantaneous forward rates","5 years
+11",,3.12
+2011,,"Oct.",,"Instantaneous forward rates","10 years
+12",,4.29
+2011,,"Nov.",,"Spot rates","3 months
+1",,0.20
+2011,,"Nov.",,"Spot rates","1 year
+2",,0.38
+2011,,"Nov.",,"Spot rates","2 years
+3",,0.74
+2011,,"Nov.",,"Spot rates","5 years
+4",,1.92
+2011,,"Nov.",,"Spot rates","7 years
+5",,2.51
+2011,,"Nov.",,"Spot rates","10 years
+6",,3.07
+2011,,"Nov.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.87
+2011,,"Nov.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.33
+2011,,"Nov.",,"Instantaneous forward rates","1 year
+9",,0.69
+2011,,"Nov.",,"Instantaneous forward rates","2 years
+10",,1.53
+2011,,"Nov.",,"Instantaneous forward rates","5 years
+11",,3.64
+2011,,"Nov.",,"Instantaneous forward rates","10 years
+12",,4.41
+2011,,"Dec.",,"Spot rates","3 months
+1",,0.00
+2011,,"Dec.",,"Spot rates","1 year
+2",,0.09
+2011,,"Dec.",,"Spot rates","2 years
+3",,0.41
+2011,,"Dec.",,"Spot rates","5 years
+4",,1.56
+2011,,"Dec.",,"Spot rates","7 years
+5",,2.13
+2011,,"Dec.",,"Spot rates","10 years
+6",,2.65
+2011,,"Dec.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.65
+2011,,"Dec.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.24
+2011,,"Dec.",,"Instantaneous forward rates","1 year
+9",,0.32
+2011,,"Dec.",,"Instantaneous forward rates","2 years
+10",,1.15
+2011,,"Dec.",,"Instantaneous forward rates","5 years
+11",,3.24
+2011,,"Dec.",,"Instantaneous forward rates","10 years
+12",,3.84
+2012,,"Jan.",,"Spot rates","3 months
+1",,0.11
+2012,,"Jan.",,"Spot rates","1 year
+2",,0.21
+2012,,"Jan.",,"Spot rates","2 years
+3",,0.45
+2012,,"Jan.",,"Spot rates","5 years
+4",,1.44
+2012,,"Jan.",,"Spot rates","7 years
+5",,2.03
+2012,,"Jan.",,"Spot rates","10 years
+6",,2.67
+2012,,"Jan.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.55
+2012,,"Jan.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.22
+2012,,"Jan.",,"Instantaneous forward rates","1 year
+9",,0.39
+2012,,"Jan.",,"Instantaneous forward rates","2 years
+10",,1.03
+2012,,"Jan.",,"Instantaneous forward rates","5 years
+11",,3.07
+2012,,"Jan.",,"Instantaneous forward rates","10 years
+12",,4.26
+2012,,"Feb.",,"Spot rates","3 months
+1",,0.11
+2012,,"Feb.",,"Spot rates","1 year
+2",,0.15
+2012,,"Feb.",,"Spot rates","2 years
+3",,0.37
+2012,,"Feb.",,"Spot rates","5 years
+4",,1.39
+2012,,"Feb.",,"Spot rates","7 years
+5",,1.99
+2012,,"Feb.",,"Spot rates","10 years
+6",,2.59
+2012,,"Feb.",,"Spot rates","10 years
+- 3 months
+(spread)
+7",,2.49
+2012,,"Feb.",,"Spot rates","10 years
+- 2 years
+(spread)
+8",,2.22
+2012,,"Feb.",,"Instantaneous forward rates","1 year
+9",,0.29
+2012,,"Feb.",,"Instantaneous forward rates","2 years
+10",,0.95
+2012,,"Feb.",,"Instantaneous forward rates","5 years
+11",,3.06
+2012,,"Feb.",,"Instantaneous forward rates","10 years
+12",,4.06

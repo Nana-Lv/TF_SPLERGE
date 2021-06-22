@@ -1,0 +1,61 @@
+1                                    MONETARY POLICY STATISTICS
+ 1.1 Consolidated financial statement of the Eurosystem
+        (EUR millions)
+
+1. Assets
+
+                                                             10 February 2012   17 February 2012   24 February 2012   2 March 2012
+
+Gold and gold receivables                                            423,446            423,445            423,445         423,445
+Claims on non-euro area residents in foreign currency                245,107            245,805            245,278         246,981
+Claims on euro area residents in foreign currency                    100,629             99,629             99,874          72,110
+Claims on non-euro area residents in euro                             23,936             23,512             23,801          23,269
+Lending to euro area credit institutions in euro                     787,255            796,332            819,682       1,130,352
+  Main refinancing operations                                        109,462            142,751            166,490          29,469
+  Longer-term refinancing operations                                 676,505            652,097            652,097       1,100,076
+  Fine-tuning reverse operations                                           0                  0                  0               0
+  Structural reverse operations                                            0                  0                  0               0
+  Marginal lending facility                                            1,213              1,436              1,020             783
+  Credits related to margin calls                                         74                 48                 75              24
+Other claims on euro area credit institutions in euro                 70,338             69,197             64,663          59,261
+Securities of euro area residents in euro                            624,299            624,679            626,474         631,714
+  Securities held for monetary policy purposes                       282,686            283,029            283,609         284,080
+  Other securities                                                   341,613            341,649            342,865         347,633
+General government debt in euro                                       31,176             31,176             31,176          31,176
+Other assets                                                         349,598            349,488            358,205         404,851
+
+Total assets                                                        2,655,784          2,663,261          2,692,598      3,023,159
+
+
+2. Liabilities
+
+                                                             10 February 2012   17 February 2012   24 February 2012   2 March 2012
+
+Banknotes in circulation                                             869,974            869,355            867,396         870,556
+Liabilities to euro area credit institutions in euro                 812,062            807,200            793,399       1,148,864
+  Current accounts (covering the minimum reserve system)              83,209            132,473             93,676          91,402
+  Deposit facility                                                   507,876            454,356            477,324         820,819
+  Fixed-term deposits                                                219,000            219,500            219,500         219,500
+  Fine-tuning reverse operations                                           0                  0                  0               0
+  Deposits related to margin calls                                     1,977                871              2,899          17,143
+Other liabilities to euro area credit institutions in euro             2,215              1,931              2,329           7,368
+Debt certificates issued                                                   0                  0                  0               0
+Liabilities to other euro area residents in euro                      94,255            110,572            153,640         147,146
+Liabilities to non-euro area residents in euro                       118,781            118,157            115,851          90,890
+Liabilities to euro area residents in foreign currency                 5,014              4,701              4,771           4,413
+Liabilities to non-euro area residents in foreign currency             7,319              7,401              7,337           7,861
+Counterpart of special drawing rights allocated by the IMF            55,942             55,942             55,942          55,942
+Other liabilities                                                    214,318            212,316            215,914         213,100
+Revaluation accounts                                                 394,028            394,029            394,029         394,029
+Capital and reserves                                                  81,877             81,657             81,990          82,990
+
+Total liabilities                                                   2,655,784          2,663,261          2,692,598      3,023,159
+Source: ECB.
+
+
+
+
+        ECB
+        Monthly Bulletin
+S 6     March 2012
+

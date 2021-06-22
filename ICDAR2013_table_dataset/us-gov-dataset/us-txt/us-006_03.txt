@@ -1,0 +1,55 @@
+      --Trends                                                             -Tips-
+
+  Potential Mistake           How to Find the                     How to Fix the Mistake                 How to Avoid the Mistake
+                                 Mistake
+                                                            Corrective Action              Correction
+                                                                                           Program(s)
+                                                                                            Available
+6) Were all eligible       Review plan document       EPCRS                               SCP*           Monitor census information
+employees identified       sections on eligibility    6.02(7), Appendix A (section        VCP            and apply participation
+and given the              and participation.         .05), Appendix B (section 2.02)     Audit CAP      requirements.
+opportunity to make an     Check with plan            Employer must make a                (More)         (More)
+elective deferral          administrators to find     qualified nonelective
+election (exclusion of     out when employees         contribution (QNEC) to the plan
+eligible employees)?       are entering the plan.     on behalf of the employee that
+(More)                     (More)                     compensates for the missed
+                                                      deferral opportunity.
+                                                      (More)
+
+7) Are elective            Inspect deferral           EPCRS                               SCP*           Work with plan
+deferrals limited to the   amounts for plan           Appendix A (section .04)            VCP            administrators to ensure
+amounts under IRC          participants to ensure     Distribute excess deferrals.        Audit CAP      that they have sufficient
+§402(g) for the            that the employee has      (More)                              (More)         payroll information to verify
+calendar year and have     not exceeded the limits.                                                      the deferral limitations of
+any excess deferrals       (More)                                                                        §402(g) were satisfied.
+been distributed?                                                                                        (More)
+(More)
+
+8) Have you timely         Determine the earliest     Usually DOL through VFCP for        SCP*           Coordinate closely with
+deposited employee         date you can segregate     prohibited transaction. May         VCP            payroll provider to
+elective deferrals?        deferrals from general     also be EPCRS.                      Audit CAP      determine the earliest date
+(More)                     assets; compare that                                           (More)         you can reasonably
+                           date with the actual       For both VFCP and EPCRS,                           segregate the deferral
+                           deposit dates and any      deposit into the plans trust all                  deposits from general
+                           plan document              elective deferrals withheld and                    assets. Set up procedures
+                           requirements.              applicable earnings resulting                      to ensure you make
+                           (More)                     from the late deposit of                           deposits by that date.
+                                                      amounts to the trust.                              (More)
+                                                      (More)
+
+9) Do participant loans    Review the plan            EPCRS                               VCP            Review and follow the plan
+conform to the             document and all           6.07, Appendix F (Schedule 5)       Audit CAP      provisions relating to
+requirements of the        outstanding loans to       Some failures may be                (More)         making loans, including the
+plan document and IRC      ensure the loans           corrected by corrective                            amount of loan, term of the
+§72(p)?                    comply with the plans     repayment and/or modification                      loan and repayment terms.
+(More)                     terms and that the         of loan terms.                                     Make sure there are
+                           employees are              (More)                                             procedures in place to
+                           repaying their loans                                                          prevent loans that are
+                           timely.                                                                       prohibited transactions.
+                           (More)                                                                        (More)
+
+
+
+
+                                                                   2                                  1/26/2010
+

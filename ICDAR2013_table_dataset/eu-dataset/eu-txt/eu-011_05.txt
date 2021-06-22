@@ -1,0 +1,30 @@
+                                                                 Contract number – REM 01
+                                                                              Final Report
+
+   o    SI1.2:% distribution per country (QC) and gender (Q5: response to question
+        2 of the questionnaire)
+   o    SI1.3:% distribution per country (QC), gender (Q5) and experience (Q1
+        response to question 3 of the questionnaire)
+   o    SI1.4:% distribution per country (QC) and sector of activity (Q2 response to
+        question 5 of the questionnaire)
+   o    SI1.5:% distribution per country (QC) and scientific domain (JQN response
+        to question 6 of the questionnaire)
+   o    SI1.6: % distribution per country (QC) and type of contract (QF4 response
+        to question 4 on the questionnaire)
+SI2: Study Results: This indicator presents the study results.
+   o    SI2.1: Country Total Yearly Salary Average, per Gender (Total Yearly Salary
+        Average = Net yearly Salary received + Employers’ charges (e.g. social
+        security contribution, pension funds) + Employee contribution to social
+        security + Holiday pay + Personal income tax).
+   o    SI2.2: Country Total Yearly Salary Average, per Level of seniority.
+   o    SI2.3: Total number of Other Advantages.
+   o    SI2.4: Country employers’ charges, employee contribution to social security,
+        holiday pay, personal income tax and net salary.
+   o    SI2.5: Country Net Yearly Salary Average.
+The complete results for those indicators are presented in Annex 8.
+
+
+
+
+CARSA                                                                    Page 42 of 211
+

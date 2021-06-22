@@ -1,0 +1,68 @@
+                                                                         Contract number – REM 01
+                                                                                      Final Report
+
+
+             Accuracy of the replies obtained from the survey carried out by
+                    CARSA (2006, Total survey population N=6190)
+                                                Number of
+                             Valid replies
+               Country                       researchers per    d (2)    Accuracy Level
+                             per country
+                                               country (1)
+
+          Latvia                   7             8.002         0,37027
+          Malta                   18              975          0,22896
+          Iceland                 18             5.466         0,23063       Low
+          Luxembourg              22             4.135         0,20841
+          Israel                  25            30.700         0,19592
+          Cyprus                  45             2.102         0,14455
+          Estonia                 46             7.600         0,14406
+          Bulgaria                52            17.400         0,13570
+          Slovenia                56            12.501         0,13067
+                                                                           Medium
+          Switzerland             64            68.465         0,12244
+          Austria                 78            65.725         0,11090
+          Czech Republic         78             55.699         0,11089
+          Lithuania               95            14.534         0,10022
+          Turkey                 96             79.958         0,09996
+          Netherlands            105           122.250         0,09560
+          Romania                110            39.985         0,09331
+          Greece                 115            57.257         0,09129
+          Poland                 121           126.241         0,08905
+          Sweden                 125           108.146         0,08760
+          Croatia                144            17.216         0,08133
+                                                                             High
+          Denmark                153            61.809         0,07913
+          Belgium                161            73.763         0,07715
+          Slovakia               176            20.928         0,07356
+          Hungary                187            48.681         0,07153
+          Norway                 195            51.175         0,07005
+          Finland                202            74.773         0,06886
+          Ireland                217            25.704         0,06625
+          France                 435           415.061         0,04696
+          Portugal               535            44.036         0,04211
+          United Kingdom         586           163.000         0,04041
+                                                                           Excellent
+          Spain                  617           249.969         0,03940
+          Italy                  639           249.782         0,03872
+          Germany                667           664.731         0,03793
+
+        (1) Data of researchers in the different countries are extracted from Eurostat
+        (“Science and technology in Europe-Statistical pocketbook”, 2006).
+
+        (2) d represents the accuracy calculated through the formula for the
+        determination of the sample’s size.
+
+        SOURCES: Data for Switzerland are extracted from the Swiss Federal
+        Statistical Office, data for Israel from the Central Bureau of Statistics of
+        Israel, and data for United Kingdom from the Office for National Statistics.
+
+           Liechtenstein has not been included in the table: No answers received.
+
+                          Table 36 – Accuracy of the survey results
+
+
+
+
+CARSA                                                                            Page 150 of 211
+

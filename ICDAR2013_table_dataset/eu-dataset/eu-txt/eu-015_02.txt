@@ -1,0 +1,62 @@
+                                                                Contract number – REM 01
+                                                                             Final Report
+
+
+
+
+5.4 Annex 4: Principal indexes and cost of
+    living indicators
+In this annex, the available data of the principal indexes and cost of living
+indicators chosen for the study are presented.
+
+
+
+5.4.1         Consumer Price Index
+The Consumer Price Index (CPI) measures the change in the cost of a bundle of
+consumer goods and services. The bundle includes about 200 types of goods and
+thousands of actual products, ranging from foods and energy to expensive
+consumer goods. The prices are measured by taking a sample of prices at different
+stores. The CPI is also important because it is used to adjust the annual changes to
+Social Security payments. This way it provides a measure of inflation. This is why
+frequently the CPI is called a cost-of-living index. But it differs in important ways
+from a complete cost-of-living measure. A cost-of-living index is a conceptual
+measurement goal, however, not a straightforward alternative to the CPI. A cost-
+of-living index would measure changes over time in the amount that consumers
+need to spend to reach a certain utility level or standard of living. User fees (such
+as water and sewer service) and sales and excise taxes paid by the consumer are
+included in CPI, while income taxes and investments items (like stocks, bonds, life
+insurance and homes) are not included. It is very difficult to determine the proper
+treatment of public goods, such as safety and education, and other broad concerns,
+such as health, water quality, and crime that would constitute a complete cost-of-
+living framework.
+
+The CPI is used all around the world as an important economic indicator, principally
+to measure inflation. However, its calculation is different between Europe and the
+United States:
+
+   o    The “CPI” in the Eurozone
+
+In addition to their national consumer price indices, the Member States of the
+European Union also produce a harmonised index of consumer prices (HICP),
+published by the European Central Bank (ECB). The HICPs have been set up to
+provide the best measure for international comparisons of household inflation
+within the Euro-zone and the EU.
+
+   o    CPI in the United States
+
+On the other hand, concerning the calculation and use of the CPI in the US, most of
+the specific CPI indexes have a 1982-84 reference base in Bureau of Labour
+Statistics (BLS) (www.bls.gov), who sets the average index level (representing the
+average price level) for the 36-month period covering the years 1982, 1983, and
+1984 equal to 100.
+
+The CPI reflects spending patterns for each of two population groups: all urban
+consumers and urban wage earners and clerical workers. The price change
+experience of the all urban consumer group is measured by two indexes:
+
+   - The traditional Consumer Price Index for All Urban Consumers (CPI-U)
+
+
+
+CARSA                                                                   Page 82 of 211
+

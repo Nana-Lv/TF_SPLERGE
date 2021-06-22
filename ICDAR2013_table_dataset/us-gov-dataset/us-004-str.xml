@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-004.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="1" start-row="0">
+                <bounding-box x1="212" x2="261" y1="669" y2="679"/>
+                <content>2008 Actual</content>
+                <instruction instr-id="1004" subinstr-id="0"/>
+                <instruction instr-id="1004" subinstr-id="2"/>
+                <instruction instr-id="1011" subinstr-id="0"/>
+                <instruction instr-id="1011" subinstr-id="2"/>
+                <instruction instr-id="1011" subinstr-id="4"/>
+                <instruction instr-id="1011" subinstr-id="6"/>
+                <instruction instr-id="1011" subinstr-id="8"/>
+            </cell>
+            <cell id="1" start-col="2" start-row="0">
+                <bounding-box x1="285" x2="343" y1="669" y2="679"/>
+                <content>2009 Estimate</content>
+                <instruction instr-id="1034" subinstr-id="0"/>
+                <instruction instr-id="1034" subinstr-id="2"/>
+                <instruction instr-id="1034" subinstr-id="4"/>
+                <instruction instr-id="1034" subinstr-id="6"/>
+                <instruction instr-id="1034" subinstr-id="8"/>
+                <instruction instr-id="1034" subinstr-id="10"/>
+                <instruction instr-id="1034" subinstr-id="12"/>
+                <instruction instr-id="1034" subinstr-id="14"/>
+                <instruction instr-id="1034" subinstr-id="16"/>
+            </cell>
+            <cell id="2" start-col="3" start-row="0">
+                <bounding-box x1="363" x2="426" y1="669" y2="679"/>
+                <content>2009 Recovery*</content>
+                <instruction instr-id="1051" subinstr-id="0"/>
+                <instruction instr-id="1051" subinstr-id="2"/>
+                <instruction instr-id="1051" subinstr-id="4"/>
+                <instruction instr-id="1051" subinstr-id="6"/>
+                <instruction instr-id="1051" subinstr-id="8"/>
+                <instruction instr-id="1051" subinstr-id="10"/>
+                <instruction instr-id="1051" subinstr-id="12"/>
+                <instruction instr-id="1051" subinstr-id="14"/>
+                <instruction instr-id="1051" subinstr-id="16"/>
+                <instruction instr-id="1055" subinstr-id="0"/>
+            </cell>
+            <cell id="3" start-col="4" start-row="0">
+                <bounding-box x1="442" x2="502" y1="669" y2="679"/>
+                <content>2010 Proposed</content>
+                <instruction instr-id="1074" subinstr-id="0"/>
+                <instruction instr-id="1074" subinstr-id="2"/>
+                <instruction instr-id="1081" subinstr-id="0"/>
+                <instruction instr-id="1081" subinstr-id="2"/>
+                <instruction instr-id="1081" subinstr-id="4"/>
+                <instruction instr-id="1081" subinstr-id="6"/>
+                <instruction instr-id="1081" subinstr-id="8"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="1">
+                <bounding-box x1="92" x2="112" y1="655" y2="666"/>
+                <content>NSF</content>
+                <instruction instr-id="1136"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="1">
+                <bounding-box x1="225" x2="241" y1="655" y2="666"/>
+                <content>409</content>
+                <instruction instr-id="1164" subinstr-id="0"/>
+                <instruction instr-id="1164" subinstr-id="2"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="1">
+                <bounding-box x1="307" x2="324" y1="655" y2="666"/>
+                <content>397</content>
+                <instruction instr-id="1198" subinstr-id="0"/>
+                <instruction instr-id="1198" subinstr-id="2"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="1">
+                <bounding-box x1="380" x2="396" y1="655" y2="666"/>
+                <content>108</content>
+                <instruction instr-id="1226" subinstr-id="0"/>
+                <instruction instr-id="1226" subinstr-id="2"/>
+            </cell>
+            <cell id="8" start-col="4" start-row="1">
+                <bounding-box x1="468" x2="484" y1="655" y2="666"/>
+                <content>423</content>
+                <instruction instr-id="1260" subinstr-id="0"/>
+                <instruction instr-id="1260" subinstr-id="2"/>
+            </cell>
+            <cell id="9" start-col="0" start-row="2">
+                <bounding-box x1="92" x2="123" y1="641" y2="651"/>
+                <content>DOD**</content>
+                <instruction instr-id="1326" subinstr-id="0"/>
+                <instruction instr-id="1326" subinstr-id="2"/>
+                <instruction instr-id="1326" subinstr-id="4"/>
+                <instruction instr-id="1326" subinstr-id="6"/>
+            </cell>
+            <cell id="10" start-col="1" start-row="2">
+                <bounding-box x1="225" x2="241" y1="641" y2="652"/>
+                <content>460</content>
+                <instruction instr-id="1339" subinstr-id="0"/>
+                <instruction instr-id="1339" subinstr-id="2"/>
+            </cell>
+            <cell id="11" start-col="2" start-row="2">
+                <bounding-box x1="307" x2="324" y1="641" y2="652"/>
+                <content>464</content>
+                <instruction instr-id="1361" subinstr-id="0"/>
+                <instruction instr-id="1361" subinstr-id="2"/>
+            </cell>
+            <cell id="12" start-col="4" start-row="2">
+                <bounding-box x1="468" x2="484" y1="641" y2="652"/>
+                <content>379</content>
+                <instruction instr-id="1394" subinstr-id="0"/>
+                <instruction instr-id="1394" subinstr-id="2"/>
+            </cell>
+            <cell id="13" start-col="0" start-row="3">
+                <bounding-box x1="92" x2="128" y1="626" y2="637"/>
+                <content>DOE***</content>
+                <instruction instr-id="1442" subinstr-id="0"/>
+                <instruction instr-id="1442" subinstr-id="2"/>
+                <instruction instr-id="1442" subinstr-id="4"/>
+                <instruction instr-id="1442" subinstr-id="6"/>
+                <instruction instr-id="1446" subinstr-id="0"/>
+            </cell>
+            <cell id="14" start-col="1" start-row="3">
+                <bounding-box x1="225" x2="241" y1="626" y2="637"/>
+                <content>245</content>
+                <instruction instr-id="1452" subinstr-id="0"/>
+                <instruction instr-id="1452" subinstr-id="2"/>
+            </cell>
+            <cell id="15" start-col="2" start-row="3">
+                <bounding-box x1="307" x2="324" y1="626" y2="637"/>
+                <content>337</content>
+                <instruction instr-id="1461" subinstr-id="0"/>
+                <instruction instr-id="1461" subinstr-id="2"/>
+            </cell>
+            <cell id="16" start-col="3" start-row="3">
+                <bounding-box x1="385" x2="396" y1="626" y2="637"/>
+                <content>25</content>
+                <instruction instr-id="1468" subinstr-id="0"/>
+            </cell>
+            <cell id="17" start-col="4" start-row="3">
+                <bounding-box x1="468" x2="484" y1="626" y2="637"/>
+                <content>351</content>
+                <instruction instr-id="1474" subinstr-id="0"/>
+                <instruction instr-id="1474" subinstr-id="2"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="4">
+                <bounding-box x1="92" x2="171" y1="611" y2="622"/>
+                <content>DHHS(NIH)****</content>
+                <instruction instr-id="1526" subinstr-id="0"/>
+                <instruction instr-id="1526" subinstr-id="2"/>
+                <instruction instr-id="1526" subinstr-id="4"/>
+                <instruction instr-id="1526" subinstr-id="6"/>
+                <instruction instr-id="1526" subinstr-id="8"/>
+                <instruction instr-id="1526" subinstr-id="10"/>
+                <instruction instr-id="1526" subinstr-id="12"/>
+                <instruction instr-id="1526" subinstr-id="14"/>
+                <instruction instr-id="1530" subinstr-id="0"/>
+                <instruction instr-id="1530" subinstr-id="2"/>
+                <instruction instr-id="1534"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="4">
+                <bounding-box x1="225" x2="241" y1="611" y2="622"/>
+                <content>305</content>
+                <instruction instr-id="1551" subinstr-id="0"/>
+                <instruction instr-id="1551" subinstr-id="2"/>
+            </cell>
+            <cell id="20" start-col="2" start-row="4">
+                <bounding-box x1="307" x2="324" y1="611" y2="622"/>
+                <content>311</content>
+                <instruction instr-id="1573" subinstr-id="0"/>
+                <instruction instr-id="1573" subinstr-id="2"/>
+            </cell>
+            <cell id="21" start-col="4" start-row="4">
+                <bounding-box x1="468" x2="484" y1="611" y2="622"/>
+                <content>326</content>
+                <instruction instr-id="1606" subinstr-id="0"/>
+                <instruction instr-id="1606" subinstr-id="2"/>
+            </cell>
+            <cell id="22" start-col="0" start-row="5">
+                <bounding-box x1="92" x2="151" y1="597" y2="608"/>
+                <content>DOC(NIST)</content>
+                <instruction instr-id="1658" subinstr-id="0"/>
+                <instruction instr-id="1658" subinstr-id="2"/>
+                <instruction instr-id="1658" subinstr-id="4"/>
+                <instruction instr-id="1658" subinstr-id="6"/>
+                <instruction instr-id="1658" subinstr-id="8"/>
+                <instruction instr-id="1658" subinstr-id="10"/>
+            </cell>
+            <cell id="23" start-col="1" start-row="5">
+                <bounding-box x1="230" x2="241" y1="597" y2="608"/>
+                <content>86</content>
+                <instruction instr-id="1680"/>
+            </cell>
+            <cell id="24" start-col="2" start-row="5">
+                <bounding-box x1="313" x2="324" y1="597" y2="608"/>
+                <content>87</content>
+                <instruction instr-id="1702"/>
+            </cell>
+            <cell id="25" start-col="3" start-row="5">
+                <bounding-box x1="391" x2="396" y1="597" y2="608"/>
+                <content>7</content>
+                <instruction instr-id="1724"/>
+            </cell>
+            <cell id="26" start-col="4" start-row="5">
+                <bounding-box x1="473" x2="484" y1="597" y2="608"/>
+                <content>91</content>
+                <instruction instr-id="1746"/>
+            </cell>
+            <cell id="27" start-col="0" start-row="6">
+                <bounding-box x1="92" x2="111" y1="582" y2="593"/>
+                <content>EPA</content>
+                <instruction instr-id="1806" subinstr-id="0"/>
+                <instruction instr-id="1806" subinstr-id="2"/>
+            </cell>
+            <cell id="28" start-col="1" start-row="6">
+                <bounding-box x1="230" x2="241" y1="582" y2="593"/>
+                <content>12</content>
+                <instruction instr-id="1821" subinstr-id="0"/>
+            </cell>
+            <cell id="29" start-col="2" start-row="6">
+                <bounding-box x1="313" x2="324" y1="582" y2="593"/>
+                <content>16</content>
+                <instruction instr-id="1838" subinstr-id="0"/>
+            </cell>
+            <cell id="30" start-col="4" start-row="6">
+                <bounding-box x1="473" x2="484" y1="582" y2="593"/>
+                <content>18</content>
+                <instruction instr-id="1866" subinstr-id="0"/>
+            </cell>
+            <cell id="31" start-col="0" start-row="7">
+                <bounding-box x1="92" x2="119" y1="567" y2="578"/>
+                <content>NASA</content>
+                <instruction instr-id="1913" subinstr-id="0"/>
+                <instruction instr-id="1913" subinstr-id="2"/>
+            </cell>
+            <cell id="32" start-col="1" start-row="7">
+                <bounding-box x1="230" x2="241" y1="567" y2="578"/>
+                <content>17</content>
+                <instruction instr-id="1924" subinstr-id="0"/>
+            </cell>
+            <cell id="33" start-col="2" start-row="7">
+                <bounding-box x1="313" x2="324" y1="567" y2="578"/>
+                <content>17</content>
+                <instruction instr-id="1941" subinstr-id="0"/>
+            </cell>
+            <cell id="34" start-col="4" start-row="7">
+                <bounding-box x1="473" x2="484" y1="567" y2="578"/>
+                <content>17</content>
+                <instruction instr-id="1969" subinstr-id="0"/>
+            </cell>
+            <cell id="35" start-col="0" start-row="8">
+                <bounding-box x1="92" x2="168" y1="552" y2="563"/>
+                <content>DHHS(NIOSH)</content>
+                <instruction instr-id="2018" subinstr-id="0"/>
+                <instruction instr-id="2018" subinstr-id="2"/>
+                <instruction instr-id="2018" subinstr-id="4"/>
+                <instruction instr-id="2018" subinstr-id="6"/>
+                <instruction instr-id="2018" subinstr-id="8"/>
+                <instruction instr-id="2018" subinstr-id="10"/>
+                <instruction instr-id="2018" subinstr-id="12"/>
+                <instruction instr-id="2018" subinstr-id="14"/>
+                <instruction instr-id="2018" subinstr-id="16"/>
+                <instruction instr-id="2018" subinstr-id="18"/>
+            </cell>
+            <cell id="36" start-col="1" start-row="8">
+                <bounding-box x1="236" x2="241" y1="552" y2="563"/>
+                <content>7</content>
+                <instruction instr-id="2033" subinstr-id="0"/>
+            </cell>
+            <cell id="37" start-col="2" start-row="8">
+                <bounding-box x1="318" x2="324" y1="552" y2="563"/>
+                <content>7</content>
+                <instruction instr-id="2050" subinstr-id="0"/>
+            </cell>
+            <cell id="38" start-col="4" start-row="8">
+                <bounding-box x1="473" x2="484" y1="552" y2="563"/>
+                <content>12</content>
+                <instruction instr-id="2078" subinstr-id="0"/>
+            </cell>
+            <cell id="39" start-col="0" start-row="9">
+                <bounding-box x1="92" x2="115" y1="538" y2="549"/>
+                <content>DHS</content>
+                <instruction instr-id="2127" subinstr-id="0"/>
+                <instruction instr-id="2127" subinstr-id="2"/>
+                <instruction instr-id="2127" subinstr-id="4"/>
+            </cell>
+            <cell id="40" start-col="1" start-row="9">
+                <bounding-box x1="236" x2="241" y1="538" y2="549"/>
+                <content>3</content>
+                <instruction instr-id="2142" subinstr-id="0"/>
+            </cell>
+            <cell id="41" start-col="2" start-row="9">
+                <bounding-box x1="318" x2="324" y1="538" y2="549"/>
+                <content>9</content>
+                <instruction instr-id="2159" subinstr-id="0"/>
+            </cell>
+            <cell id="42" start-col="4" start-row="9">
+                <bounding-box x1="473" x2="484" y1="538" y2="549"/>
+                <content>12</content>
+                <instruction instr-id="2187" subinstr-id="0"/>
+            </cell>
+            <cell id="43" start-col="0" start-row="10">
+                <bounding-box x1="92" x2="142" y1="523" y2="534"/>
+                <content>USDA(FS)</content>
+                <instruction instr-id="2236" subinstr-id="0"/>
+                <instruction instr-id="2236" subinstr-id="2"/>
+                <instruction instr-id="2236" subinstr-id="4"/>
+                <instruction instr-id="2236" subinstr-id="6"/>
+                <instruction instr-id="2236" subinstr-id="8"/>
+                <instruction instr-id="2236" subinstr-id="10"/>
+                <instruction instr-id="2236" subinstr-id="12"/>
+            </cell>
+            <cell id="44" start-col="1" start-row="10">
+                <bounding-box x1="236" x2="241" y1="523" y2="534"/>
+                <content>5</content>
+                <instruction instr-id="2250" subinstr-id="0"/>
+            </cell>
+            <cell id="45" start-col="2" start-row="10">
+                <bounding-box x1="318" x2="324" y1="523" y2="534"/>
+                <content>5</content>
+                <instruction instr-id="2267" subinstr-id="0"/>
+            </cell>
+            <cell id="46" start-col="4" start-row="10">
+                <bounding-box x1="479" x2="484" y1="523" y2="534"/>
+                <content>5</content>
+                <instruction instr-id="2295" subinstr-id="0"/>
+            </cell>
+            <cell id="47" start-col="0" start-row="11">
+                <bounding-box x1="92" x2="169" y1="508" y2="519"/>
+                <content>USDA(CSREES)</content>
+                <instruction instr-id="2344" subinstr-id="0"/>
+                <instruction instr-id="2344" subinstr-id="2"/>
+                <instruction instr-id="2344" subinstr-id="4"/>
+                <instruction instr-id="2344" subinstr-id="6"/>
+                <instruction instr-id="2344" subinstr-id="8"/>
+                <instruction instr-id="2344" subinstr-id="10"/>
+                <instruction instr-id="2344" subinstr-id="12"/>
+                <instruction instr-id="2344" subinstr-id="14"/>
+                <instruction instr-id="2344" subinstr-id="16"/>
+                <instruction instr-id="2344" subinstr-id="18"/>
+            </cell>
+            <cell id="48" start-col="1" start-row="11">
+                <bounding-box x1="236" x2="241" y1="508" y2="519"/>
+                <content>6</content>
+                <instruction instr-id="2359" subinstr-id="0"/>
+            </cell>
+            <cell id="49" start-col="2" start-row="11">
+                <bounding-box x1="318" x2="324" y1="508" y2="519"/>
+                <content>3</content>
+                <instruction instr-id="2376" subinstr-id="0"/>
+            </cell>
+            <cell id="50" start-col="4" start-row="11">
+                <bounding-box x1="479" x2="484" y1="508" y2="519"/>
+                <content>3</content>
+                <instruction instr-id="2404" subinstr-id="0"/>
+            </cell>
+            <cell id="51" start-col="0" start-row="12">
+                <bounding-box x1="92" x2="158" y1="493" y2="504"/>
+                <content>DOT(FHWA)</content>
+                <instruction instr-id="2457" subinstr-id="0"/>
+                <instruction instr-id="2457" subinstr-id="2"/>
+                <instruction instr-id="2457" subinstr-id="4"/>
+                <instruction instr-id="2457" subinstr-id="6"/>
+                <instruction instr-id="2457" subinstr-id="8"/>
+                <instruction instr-id="2457" subinstr-id="10"/>
+                <instruction instr-id="2457" subinstr-id="12"/>
+                <instruction instr-id="2457" subinstr-id="14"/>
+            </cell>
+            <cell id="52" start-col="1" start-row="12">
+                <bounding-box x1="236" x2="241" y1="493" y2="504"/>
+                <content>1</content>
+                <instruction instr-id="2483"/>
+            </cell>
+            <cell id="53" start-col="2" start-row="12">
+                <bounding-box x1="318" x2="324" y1="493" y2="504"/>
+                <content>3</content>
+                <instruction instr-id="2515"/>
+            </cell>
+            <cell id="54" start-col="4" start-row="12">
+                <bounding-box x1="479" x2="484" y1="493" y2="504"/>
+                <content>3</content>
+                <instruction instr-id="2573"/>
+            </cell>
+            <cell id="55" start-col="0" start-row="13">
+                <bounding-box x1="92" x2="113" y1="479" y2="490"/>
+                <content>DOJ</content>
+                <instruction instr-id="2631" subinstr-id="0"/>
+                <instruction instr-id="2631" subinstr-id="2"/>
+            </cell>
+            <cell id="56" start-col="1" start-row="13">
+                <bounding-box x1="236" x2="241" y1="479" y2="490"/>
+                <content>0</content>
+                <instruction instr-id="2638" subinstr-id="0"/>
+            </cell>
+            <cell id="57" start-col="2" start-row="13">
+                <bounding-box x1="318" x2="324" y1="479" y2="490"/>
+                <content>0</content>
+                <instruction instr-id="2642" subinstr-id="0"/>
+            </cell>
+            <cell id="58" start-col="4" start-row="13">
+                <bounding-box x1="479" x2="484" y1="479" y2="490"/>
+                <content>0</content>
+                <instruction instr-id="2650" subinstr-id="0"/>
+            </cell>
+            <cell id="59" start-col="0" start-row="14">
+                <bounding-box x1="92" x2="151" y1="464" y2="475"/>
+                <content>TOTAL*****</content>
+                <instruction instr-id="2699" subinstr-id="0"/>
+                <instruction instr-id="2699" subinstr-id="2"/>
+                <instruction instr-id="2699" subinstr-id="4"/>
+                <instruction instr-id="2703" subinstr-id="0"/>
+                <instruction instr-id="2703" subinstr-id="2"/>
+                <instruction instr-id="2706" subinstr-id="0"/>
+            </cell>
+            <cell id="60" start-col="1" start-row="14">
+                <bounding-box x1="216" x2="241" y1="464" y2="475"/>
+                <content>1,554</content>
+                <instruction instr-id="2719" subinstr-id="0"/>
+                <instruction instr-id="2719" subinstr-id="2"/>
+                <instruction instr-id="2719" subinstr-id="4"/>
+            </cell>
+            <cell id="61" start-col="2" start-row="14">
+                <bounding-box x1="299" x2="324" y1="464" y2="475"/>
+                <content>1,657</content>
+                <instruction instr-id="2741" subinstr-id="0"/>
+                <instruction instr-id="2741" subinstr-id="2"/>
+                <instruction instr-id="2741" subinstr-id="4"/>
+                <instruction instr-id="2744" subinstr-id="0"/>
+            </cell>
+            <cell id="62" start-col="3" start-row="14">
+                <bounding-box x1="380" x2="397" y1="464" y2="475"/>
+                <content>140</content>
+                <instruction instr-id="2757" subinstr-id="0"/>
+                <instruction instr-id="2757" subinstr-id="2"/>
+            </cell>
+            <cell id="63" start-col="4" start-row="14">
+                <bounding-box x1="459" x2="485" y1="464" y2="475"/>
+                <content>1,640</content>
+                <instruction instr-id="2779" subinstr-id="0"/>
+                <instruction instr-id="2779" subinstr-id="2"/>
+                <instruction instr-id="2779" subinstr-id="4"/>
+            </cell>
+        </region>
+    </table>
+</document>

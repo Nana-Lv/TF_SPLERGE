@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-007.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-region-model.xsd">
+    <table id="0">
+        <region id="0" page="1">
+            <instruction instr-id="268" subinstr-id="0"/>
+            <instruction instr-id="268" subinstr-id="2"/>
+            <instruction instr-id="274" subinstr-id="0"/>
+            <instruction instr-id="274" subinstr-id="2"/>
+            <instruction instr-id="276"/>
+            <instruction instr-id="282"/>
+            <instruction instr-id="284" subinstr-id="0"/>
+            <instruction instr-id="284" subinstr-id="2"/>
+            <instruction instr-id="284" subinstr-id="4"/>
+            <instruction instr-id="288"/>
+            <instruction instr-id="290" subinstr-id="0"/>
+            <instruction instr-id="290" subinstr-id="2"/>
+            <instruction instr-id="294"/>
+            <instruction instr-id="296" subinstr-id="0"/>
+            <instruction instr-id="296" subinstr-id="2"/>
+            <instruction instr-id="302"/>
+            <instruction instr-id="304" subinstr-id="0"/>
+            <instruction instr-id="304" subinstr-id="2"/>
+            <instruction instr-id="308"/>
+            <instruction instr-id="310" subinstr-id="0"/>
+            <instruction instr-id="310" subinstr-id="2"/>
+            <instruction instr-id="314"/>
+            <instruction instr-id="316" subinstr-id="0"/>
+            <instruction instr-id="316" subinstr-id="2"/>
+            <instruction instr-id="320"/>
+            <instruction instr-id="322" subinstr-id="0"/>
+            <instruction instr-id="322" subinstr-id="2"/>
+            <instruction instr-id="328" subinstr-id="0"/>
+            <instruction instr-id="328" subinstr-id="2"/>
+            <instruction instr-id="328" subinstr-id="4"/>
+            <instruction instr-id="328" subinstr-id="6"/>
+            <instruction instr-id="330"/>
+            <instruction instr-id="334" subinstr-id="0"/>
+            <instruction instr-id="334" subinstr-id="2"/>
+            <instruction instr-id="334" subinstr-id="4"/>
+            <instruction instr-id="334" subinstr-id="6"/>
+            <instruction instr-id="334" subinstr-id="10"/>
+            <instruction instr-id="334" subinstr-id="12"/>
+            <bounding-box x1="323" x2="559" y1="340" y2="502"/>
+        </region>
+    </table>
+    <table id="1">
+        <region id="0" page="2">
+            <instruction instr-id="493" subinstr-id="0"/>
+            <instruction instr-id="493" subinstr-id="2"/>
+            <instruction instr-id="495" subinstr-id="0"/>
+            <instruction instr-id="495" subinstr-id="2"/>
+            <instruction instr-id="498"/>
+            <instruction instr-id="500" subinstr-id="0"/>
+            <instruction instr-id="500" subinstr-id="2"/>
+            <instruction instr-id="500" subinstr-id="4"/>
+            <instruction instr-id="502"/>
+            <instruction instr-id="504"/>
+            <instruction instr-id="506"/>
+            <instruction instr-id="508"/>
+            <instruction instr-id="510"/>
+            <instruction instr-id="512" subinstr-id="0"/>
+            <instruction instr-id="512" subinstr-id="2"/>
+            <instruction instr-id="514"/>
+            <instruction instr-id="516" subinstr-id="0"/>
+            <instruction instr-id="516" subinstr-id="2"/>
+            <instruction instr-id="518"/>
+            <instruction instr-id="520" subinstr-id="0"/>
+            <instruction instr-id="520" subinstr-id="2"/>
+            <instruction instr-id="522"/>
+            <instruction instr-id="524" subinstr-id="0"/>
+            <instruction instr-id="524" subinstr-id="2"/>
+            <instruction instr-id="526" subinstr-id="0"/>
+            <instruction instr-id="526" subinstr-id="2"/>
+            <instruction instr-id="526" subinstr-id="4"/>
+            <instruction instr-id="526" subinstr-id="6"/>
+            <instruction instr-id="528"/>
+            <instruction instr-id="530" subinstr-id="0"/>
+            <instruction instr-id="530" subinstr-id="2"/>
+            <instruction instr-id="530" subinstr-id="4"/>
+            <instruction instr-id="530" subinstr-id="6"/>
+            <instruction instr-id="530" subinstr-id="10"/>
+            <instruction instr-id="530" subinstr-id="12"/>
+            <bounding-box x1="47" x2="276" y1="447" y2="598"/>
+        </region>
+    </table>
+</document>

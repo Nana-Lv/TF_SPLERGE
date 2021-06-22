@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-016.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-region-model.xsd">
+    <table id="0">
+        <region id="0" page="1">
+            <instruction instr-id="87" subinstr-id="0"/>
+            <instruction instr-id="87" subinstr-id="2"/>
+            <instruction instr-id="93" subinstr-id="0"/>
+            <instruction instr-id="93" subinstr-id="2"/>
+            <instruction instr-id="99" subinstr-id="0"/>
+            <instruction instr-id="99" subinstr-id="2"/>
+            <instruction instr-id="105" subinstr-id="0"/>
+            <instruction instr-id="105" subinstr-id="2"/>
+            <instruction instr-id="111" subinstr-id="0"/>
+            <instruction instr-id="111" subinstr-id="2"/>
+            <instruction instr-id="111" subinstr-id="4"/>
+            <instruction instr-id="116" subinstr-id="0"/>
+            <instruction instr-id="116" subinstr-id="2"/>
+            <instruction instr-id="121" subinstr-id="0"/>
+            <instruction instr-id="121" subinstr-id="2"/>
+            <instruction instr-id="125" subinstr-id="0"/>
+            <instruction instr-id="125" subinstr-id="2"/>
+            <instruction instr-id="130" subinstr-id="0"/>
+            <instruction instr-id="130" subinstr-id="2"/>
+            <instruction instr-id="133" subinstr-id="0"/>
+            <instruction instr-id="133" subinstr-id="2"/>
+            <instruction instr-id="137" subinstr-id="0"/>
+            <instruction instr-id="137" subinstr-id="2"/>
+            <instruction instr-id="142" subinstr-id="0"/>
+            <instruction instr-id="142" subinstr-id="2"/>
+            <instruction instr-id="147" subinstr-id="0"/>
+            <instruction instr-id="147" subinstr-id="2"/>
+            <instruction instr-id="151" subinstr-id="0"/>
+            <instruction instr-id="151" subinstr-id="2"/>
+            <instruction instr-id="156" subinstr-id="0"/>
+            <instruction instr-id="156" subinstr-id="2"/>
+            <instruction instr-id="161" subinstr-id="0"/>
+            <instruction instr-id="161" subinstr-id="2"/>
+            <instruction instr-id="166" subinstr-id="0"/>
+            <instruction instr-id="166" subinstr-id="2"/>
+            <instruction instr-id="170" subinstr-id="0"/>
+            <instruction instr-id="170" subinstr-id="2"/>
+            <instruction instr-id="174" subinstr-id="0"/>
+            <instruction instr-id="174" subinstr-id="2"/>
+            <instruction instr-id="178" subinstr-id="0"/>
+            <instruction instr-id="178" subinstr-id="2"/>
+            <instruction instr-id="182" subinstr-id="0"/>
+            <instruction instr-id="182" subinstr-id="2"/>
+            <instruction instr-id="186" subinstr-id="0"/>
+            <instruction instr-id="186" subinstr-id="2"/>
+            <instruction instr-id="192" subinstr-id="0"/>
+            <instruction instr-id="192" subinstr-id="2"/>
+            <instruction instr-id="198" subinstr-id="0"/>
+            <instruction instr-id="198" subinstr-id="2"/>
+            <bounding-box x1="212" x2="383" y1="337" y2="685"/>
+        </region>
+    </table>
+</document>

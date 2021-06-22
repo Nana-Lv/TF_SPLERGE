@@ -1,0 +1,56 @@
+                                                     2. NNI Investments
+
+
+                                                        Table 2
+                                                NNI Budget, 2008-- 2010
+                                                                    -
+                                                  (dollars in millions)
+                                       2008 Actual           2009 Estimate         2009 Recovery*          2010 Proposed
+    NSF                                   409                      397                  108                       423
+    DOD**                                 460                      464                                            379
+    DOE***                                245                      337                    25                      351
+    DHHS (NIH)****                        305                      311                                            326
+    DOC (NIST)                             86                       87                      7                      91
+    EPA                                    12                       16                                             18
+    NASA                                   17                       17                                             17
+    DHHS (NIOSH)                            7                        7                                             12
+    DHS                                     3                        9                                             12
+    USDA (FS)                               5                        5                                              5
+    USDA (CSREES)                           6                        3                                              3
+    DOT (FHWA)                              1                        3                                              3
+    DOJ                                     0                        0                                              0
+    TOTAL*****                          1,554                    1,657                  140                     1,640
+
+*     Based on preliminary allocations of the American Recovery and Reinvestment Act of 2009 (P.L. 111-5) appropriations.
+      These figures may change. Other NNI agencies with ARRA funding, but not listed in the table, are in the process of
+      determining their allocations.
+**    In Tables 2–4, the 2008 and 2009 DOD figures include Congressionally directed funding that is outside the NNI plan
+      ($117 million for 2009).
+*** Funding levels for DOE include the Office of Science and the Office of Energy Efficiency and Renewable Energy.
+**** NIH recently unveiled the Research, Condition, and Disease Categorization (RCDC) system, a new knowledge
+      management system designed to provide more consistent and transparent information to the public about NIH research.
+      The shift to the RCDC process of categorization changes the way individual research projects are assigned to categories.
+      This change will result in some differences in total dollar amounts between the 2008 reports and those issued in previous
+      years. Any difference, whether an increase or decrease in funding levels, does not necessarily reflect a change in the amount
+      of money the NIH received from Congress or a change in the actual content of the NIH research portfolio. For more
+      information about the RCDC process and some of the factors that might contribute to the differences between the
+      previously reported and new RCDC-generated funding levels, please go to:
+      http://report.nih.gov/rcdc/category_process/Default.aspx and http://report.nih.gov/rcdc/reasons/default.aspx.
+***** For Tables 2–6, totals may not add, due to rounding.
+
+Key points about the 2009 and 2010 NNI investments
+•   Beyond the es timated $1. 66 billion i n to tal N NI i nvestments r eported u nder th e r espective 200 9
+    agency appropriations, an additional $140 million has been provided for nanotechnology research and
+    infrastructure investments in 2009 through the American Recovery and Reinvestment Act (ARRA) of
+    2009. Note that ARRA investments shown in Table 5 are not included in Table 4. Additional 2009
+    nanotechnology-related investments may be reported later, as agencies evaluate the results of funding
+    opportunity announcements issued under ARRA.
+•   Research on fundamental nanoscale phenomena and processes remains the largest program
+    component area, growing from $478 million in 2008 to $507 million in 2010. With additional funds
+    provided under ARRA, the enacted funding for this PCA in 2009 t otals $548 million. Much of the
+    increase f or 2009 a nd 2010 s tems f rom increased investments a t DO E’s O ffice of Science for basic
+    research on energy applications of nanoscience, and at NSF.
+
+
+8            The National Nanotechnology Initiative—Supplement to the President’s 2010 Budget
+

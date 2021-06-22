@@ -1,0 +1,57 @@
+                                                                       Contract number – REM 01
+                                                                                    Final Report
+
+
+
+
+                       Figure 7 – Total yearly salary cost structure
+
+                    A - % of employer's       B - % of employer's
+                   charges from the total    charges from the total    Difference   Adjustment
+    Country
+                   yearly salary average     yearly salary average        (A-B)     coefficient
+                    (STUDY RESULTS)           (EUROSTAT DATA)
+Austria                    19,56                        -                  -             -
+Belgium                    22,91                     31,12               8,21          1,08
+Bulgaria                   18,94                     25,08               6,14          1,06
+Croatia                    25,62                        -                  -             -
+Cyprus                     10,71                     15,25               4,54          1,05
+Czech Republic             24,30                     26,92               2,62          1,03
+Denmark                    12,75                     10,34               -2,41         0,98
+Estonia                    27,65                     25,39               -2,26         0,98
+Finland                    14,32                     20,83               6,51          1,07
+France                     32,73                     28,87               -3,86         0,96
+Germany                    16,95                     23,40               6,45          1,06
+Greece                     19,18                     19,97               0,79          1,01
+Hungary                    26,49                     27,82               1,33          1,01
+Iceland                    16,22                     15,22               -1,00         0,99
+Ireland                    14,22                     12,93               -1,29         0,99
+Israel                     20,31                        -                  -             -
+Italy                      20,60                     29,38               8,78          1,09
+Latvia                        -                      20,69                 -             -
+Lithuania                  28,73                     28,23               -0,50         0,99
+Luxembourg                 14,01                     15,37               1,36          1,01
+Malta                       7,53                      8,13               0,60          1,01
+Netherlands                20,65                     21,40               0,75          1,01
+Norway                     13,57                      6,98               -6,59         0,93
+Poland                     22,08                     16,59               -5,49         0,95
+Portugal                   16,27                     21,16               4,89          1,05
+Romania                    23,46                     24,49               1,03          1,01
+Slovakia                   24,31                     25,23               0,92          1,01
+Slovenia                   21,32                     14,55               -6,77         0,93
+Spain                      18,87                     24,85               5,98          1,06
+Sweden                     34,00                     30,56               -3,44         0,97
+Switzerland                13,76                        -                  -             -
+Turkey                     18,08                        -                  -             -
+United Kingdom             16,78                     18,31               1,53          1,02
+
+ SOURCE: Eurostat, Labour cost, wages and salaries, direct remuneration for Research and
+                           Development (NACE code), 2005.
+
+                              Table 5 – Adjustment coefficient
+
+
+
+
+CARSA                                                                            Page 40 of 211
+

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="us-009.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="2" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="399" x2="426" y1="614" y2="628"/>
+                <content>Discountrate</content>
+                <instruction instr-id="998"/>
+                <instruction instr-id="1000"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="439" x2="468" y1="614" y2="628"/>
+                <content>Expected
+NPV</content>
+                <instruction instr-id="1002"/>
+                <instruction instr-id="1004"/>
+            </cell>
+            <cell id="2" start-col="2" start-row="0">
+                <bounding-box x1="485" x2="515" y1="607" y2="635"/>
+                <content>Total
+expected
+PV
+(benefits)</content>
+                <instruction instr-id="1006"/>
+                <instruction instr-id="1008"/>
+                <instruction instr-id="1010"/>
+                <instruction instr-id="1012"/>
+            </cell>
+            <cell id="3" start-col="3" start-row="0">
+                <bounding-box x1="533" x2="561" y1="607" y2="635"/>
+                <content>Total
+expected
+PV
+(costs)</content>
+                <instruction instr-id="1014"/>
+                <instruction instr-id="1016"/>
+                <instruction instr-id="1018"/>
+                <instruction instr-id="1020"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="1">
+                <bounding-box x1="399" x2="426" y1="592" y2="599"/>
+                <content>3%.......</content>
+                <instruction instr-id="1044" subinstr-id="0"/>
+                <instruction instr-id="1044" subinstr-id="2"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="1">
+                <bounding-box x1="456" x2="473" y1="592" y2="599"/>
+                <content>$40.4</content>
+                <instruction instr-id="1044" subinstr-id="4"/>
+            </cell>
+            <cell id="6" start-col="2" start-row="1">
+                <bounding-box x1="502" x2="520" y1="592" y2="599"/>
+                <content>$66.2</content>
+                <instruction instr-id="1044" subinstr-id="6"/>
+            </cell>
+            <cell id="7" start-col="3" start-row="1">
+                <bounding-box x1="549" x2="567" y1="592" y2="599"/>
+                <content>$25.8</content>
+                <instruction instr-id="1046"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="2">
+                <bounding-box x1="399" x2="426" y1="584" y2="591"/>
+                <content>7 ..........</content>
+                <instruction instr-id="1062" subinstr-id="0"/>
+                <instruction instr-id="1062" subinstr-id="2"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="2">
+                <bounding-box x1="463" x2="473" y1="584" y2="591"/>
+                <content>9.3</content>
+                <instruction instr-id="1062" subinstr-id="4"/>
+            </cell>
+            <cell id="10" start-col="2" start-row="2">
+                <bounding-box x1="506" x2="520" y1="584" y2="591"/>
+                <content>22.0</content>
+                <instruction instr-id="1064" subinstr-id="0"/>
+            </cell>
+            <cell id="11" start-col="3" start-row="2">
+                <bounding-box x1="553" x2="566" y1="584" y2="591"/>
+                <content>12.8</content>
+                <instruction instr-id="1064" subinstr-id="2"/>
+            </cell>
+        </region>
+    </table>
+</document>

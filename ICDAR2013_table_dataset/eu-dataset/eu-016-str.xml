@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="eu-016.pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition-entry-structure-model.xsd">
+    <table id="0">
+        <region col-increment="0" id="0" page="1" row-increment="0">
+            <cell id="0" start-col="0" start-row="0">
+                <bounding-box x1="212" x2="251" y1="675" y2="685"/>
+                <content>Country</content>
+                <instruction instr-id="87" subinstr-id="0"/>
+            </cell>
+            <cell id="1" start-col="1" start-row="0">
+                <bounding-box x1="361" x2="383" y1="675" y2="685"/>
+                <content>PWT</content>
+                <instruction instr-id="87" subinstr-id="2"/>
+            </cell>
+            <cell id="2" start-col="0" start-row="1">
+                <bounding-box x1="212" x2="243" y1="657" y2="667"/>
+                <content>Austria</content>
+                <instruction instr-id="93" subinstr-id="0"/>
+            </cell>
+            <cell id="3" start-col="1" start-row="1">
+                <bounding-box x1="358" x2="383" y1="657" y2="667"/>
+                <content>93,14</content>
+                <instruction instr-id="93" subinstr-id="2"/>
+            </cell>
+            <cell id="4" start-col="0" start-row="2">
+                <bounding-box x1="212" x2="248" y1="642" y2="652"/>
+                <content>Belgium</content>
+                <instruction instr-id="99" subinstr-id="0"/>
+            </cell>
+            <cell id="5" start-col="1" start-row="2">
+                <bounding-box x1="358" x2="383" y1="642" y2="652"/>
+                <content>88,91</content>
+                <instruction instr-id="99" subinstr-id="2"/>
+            </cell>
+            <cell id="6" start-col="0" start-row="3">
+                <bounding-box x1="212" x2="282" y1="628" y2="638"/>
+                <content>Czech Republic</content>
+                <instruction instr-id="105" subinstr-id="0"/>
+            </cell>
+            <cell id="7" start-col="1" start-row="3">
+                <bounding-box x1="358" x2="383" y1="628" y2="638"/>
+                <content>32,62</content>
+                <instruction instr-id="105" subinstr-id="2"/>
+            </cell>
+            <cell id="8" start-col="0" start-row="4">
+                <bounding-box x1="212" x2="253" y1="613" y2="623"/>
+                <content>Denmark</content>
+                <instruction instr-id="111" subinstr-id="0"/>
+            </cell>
+            <cell id="9" start-col="1" start-row="4">
+                <bounding-box x1="352" x2="383" y1="613" y2="623"/>
+                <content>110,09</content>
+                <instruction instr-id="111" subinstr-id="2"/>
+                <instruction instr-id="111" subinstr-id="4"/>
+            </cell>
+            <cell id="10" start-col="0" start-row="5">
+                <bounding-box x1="212" x2="245" y1="598" y2="608"/>
+                <content>Finland</content>
+                <instruction instr-id="116" subinstr-id="0"/>
+            </cell>
+            <cell id="11" start-col="1" start-row="5">
+                <bounding-box x1="358" x2="383" y1="598" y2="608"/>
+                <content>96,58</content>
+                <instruction instr-id="116" subinstr-id="2"/>
+            </cell>
+            <cell id="12" start-col="0" start-row="6">
+                <bounding-box x1="212" x2="243" y1="584" y2="594"/>
+                <content>France</content>
+                <instruction instr-id="121" subinstr-id="0"/>
+            </cell>
+            <cell id="13" start-col="1" start-row="6">
+                <bounding-box x1="358" x2="383" y1="584" y2="594"/>
+                <content>93,98</content>
+                <instruction instr-id="121" subinstr-id="2"/>
+            </cell>
+            <cell id="14" start-col="0" start-row="7">
+                <bounding-box x1="212" x2="253" y1="569" y2="579"/>
+                <content>Germany</content>
+                <instruction instr-id="125" subinstr-id="0"/>
+            </cell>
+            <cell id="15" start-col="1" start-row="7">
+                <bounding-box x1="358" x2="383" y1="569" y2="579"/>
+                <content>95,04</content>
+                <instruction instr-id="125" subinstr-id="2"/>
+            </cell>
+            <cell id="16" start-col="0" start-row="8">
+                <bounding-box x1="212" x2="245" y1="554" y2="564"/>
+                <content>Greece</content>
+                <instruction instr-id="130" subinstr-id="0"/>
+            </cell>
+            <cell id="17" start-col="1" start-row="8">
+                <bounding-box x1="358" x2="383" y1="554" y2="564"/>
+                <content>67,93</content>
+                <instruction instr-id="130" subinstr-id="2"/>
+            </cell>
+            <cell id="18" start-col="0" start-row="9">
+                <bounding-box x1="212" x2="250" y1="540" y2="550"/>
+                <content>Hungary</content>
+                <instruction instr-id="133" subinstr-id="0"/>
+            </cell>
+            <cell id="19" start-col="1" start-row="9">
+                <bounding-box x1="358" x2="383" y1="540" y2="550"/>
+                <content>41,36</content>
+                <instruction instr-id="133" subinstr-id="2"/>
+            </cell>
+            <cell id="20" start-col="0" start-row="10">
+                <bounding-box x1="212" x2="243" y1="525" y2="535"/>
+                <content>Ireland</content>
+                <instruction instr-id="137" subinstr-id="0"/>
+            </cell>
+            <cell id="21" start-col="1" start-row="10">
+                <bounding-box x1="358" x2="383" y1="525" y2="535"/>
+                <content>87,34</content>
+                <instruction instr-id="137" subinstr-id="2"/>
+            </cell>
+            <cell id="22" start-col="0" start-row="11">
+                <bounding-box x1="212" x2="231" y1="511" y2="521"/>
+                <content>Italy</content>
+                <instruction instr-id="142" subinstr-id="0"/>
+            </cell>
+            <cell id="23" start-col="1" start-row="11">
+                <bounding-box x1="358" x2="383" y1="511" y2="521"/>
+                <content>79,22</content>
+                <instruction instr-id="142" subinstr-id="2"/>
+            </cell>
+            <cell id="24" start-col="0" start-row="12">
+                <bounding-box x1="212" x2="240" y1="496" y2="506"/>
+                <content>Japan</content>
+                <instruction instr-id="147" subinstr-id="0"/>
+            </cell>
+            <cell id="25" start-col="1" start-row="12">
+                <bounding-box x1="352" x2="383" y1="496" y2="506"/>
+                <content>153,36</content>
+                <instruction instr-id="147" subinstr-id="2"/>
+            </cell>
+            <cell id="26" start-col="0" start-row="13">
+                <bounding-box x1="212" x2="268" y1="481" y2="491"/>
+                <content>Luxembourg</content>
+                <instruction instr-id="151" subinstr-id="0"/>
+            </cell>
+            <cell id="27" start-col="1" start-row="13">
+                <bounding-box x1="363" x2="383" y1="481" y2="491"/>
+                <content>86,2</content>
+                <instruction instr-id="151" subinstr-id="2"/>
+            </cell>
+            <cell id="28" start-col="0" start-row="14">
+                <bounding-box x1="212" x2="266" y1="467" y2="477"/>
+                <content>Netherlands</content>
+                <instruction instr-id="156" subinstr-id="0"/>
+            </cell>
+            <cell id="29" start-col="1" start-row="14">
+                <bounding-box x1="358" x2="383" y1="467" y2="477"/>
+                <content>88,78</content>
+                <instruction instr-id="156" subinstr-id="2"/>
+            </cell>
+            <cell id="30" start-col="0" start-row="15">
+                <bounding-box x1="212" x2="246" y1="452" y2="462"/>
+                <content>Norway</content>
+                <instruction instr-id="161" subinstr-id="0"/>
+            </cell>
+            <cell id="31" start-col="1" start-row="15">
+                <bounding-box x1="358" x2="383" y1="452" y2="462"/>
+                <content>116,7</content>
+                <instruction instr-id="161" subinstr-id="2"/>
+            </cell>
+            <cell id="32" start-col="0" start-row="16">
+                <bounding-box x1="212" x2="243" y1="437" y2="447"/>
+                <content>Poland</content>
+                <instruction instr-id="166" subinstr-id="0"/>
+            </cell>
+            <cell id="33" start-col="1" start-row="16">
+                <bounding-box x1="358" x2="383" y1="437" y2="447"/>
+                <content>40,86</content>
+                <instruction instr-id="166" subinstr-id="2"/>
+            </cell>
+            <cell id="34" start-col="0" start-row="17">
+                <bounding-box x1="212" x2="250" y1="423" y2="433"/>
+                <content>Portugal</content>
+                <instruction instr-id="170" subinstr-id="0"/>
+            </cell>
+            <cell id="35" start-col="1" start-row="17">
+                <bounding-box x1="358" x2="383" y1="423" y2="433"/>
+                <content>63,23</content>
+                <instruction instr-id="170" subinstr-id="2"/>
+            </cell>
+            <cell id="36" start-col="0" start-row="18">
+                <bounding-box x1="212" x2="250" y1="408" y2="418"/>
+                <content>Slovakia</content>
+                <instruction instr-id="174" subinstr-id="0"/>
+            </cell>
+            <cell id="37" start-col="1" start-row="18">
+                <bounding-box x1="358" x2="383" y1="408" y2="418"/>
+                <content>28,91</content>
+                <instruction instr-id="174" subinstr-id="2"/>
+            </cell>
+            <cell id="38" start-col="0" start-row="19">
+                <bounding-box x1="212" x2="238" y1="393" y2="403"/>
+                <content>Spain</content>
+                <instruction instr-id="178" subinstr-id="0"/>
+            </cell>
+            <cell id="39" start-col="1" start-row="19">
+                <bounding-box x1="364" x2="383" y1="393" y2="403"/>
+                <content>63,2</content>
+                <instruction instr-id="178" subinstr-id="2"/>
+            </cell>
+            <cell id="40" start-col="0" start-row="20">
+                <bounding-box x1="212" x2="248" y1="379" y2="389"/>
+                <content>Sweden</content>
+                <instruction instr-id="182" subinstr-id="0"/>
+            </cell>
+            <cell id="41" start-col="1" start-row="20">
+                <bounding-box x1="352" x2="383" y1="379" y2="389"/>
+                <content>105,64</content>
+                <instruction instr-id="182" subinstr-id="2"/>
+            </cell>
+            <cell id="42" start-col="0" start-row="21">
+                <bounding-box x1="212" x2="264" y1="364" y2="374"/>
+                <content>Switzerland</content>
+                <instruction instr-id="186" subinstr-id="0"/>
+            </cell>
+            <cell id="43" start-col="1" start-row="21">
+                <bounding-box x1="352" x2="383" y1="364" y2="374"/>
+                <content>123,61</content>
+                <instruction instr-id="186" subinstr-id="2"/>
+            </cell>
+            <cell id="44" start-col="0" start-row="22">
+                <bounding-box x1="212" x2="283" y1="349" y2="360"/>
+                <content>United Kingdom</content>
+                <instruction instr-id="192" subinstr-id="0"/>
+            </cell>
+            <cell id="45" start-col="1" start-row="22">
+                <bounding-box x1="358" x2="383" y1="349" y2="360"/>
+                <content>100,5</content>
+                <instruction instr-id="192" subinstr-id="2"/>
+            </cell>
+            <cell id="46" start-col="0" start-row="23">
+                <bounding-box x1="212" x2="272" y1="337" y2="347"/>
+                <content>United States</content>
+                <instruction instr-id="198" subinstr-id="0"/>
+            </cell>
+            <cell id="47" start-col="1" start-row="23">
+                <bounding-box x1="352" x2="383" y1="337" y2="347"/>
+                <content>100,48</content>
+                <instruction instr-id="198" subinstr-id="2"/>
+            </cell>
+        </region>
+    </table>
+</document>

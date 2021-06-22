@@ -1,0 +1,52 @@
+                                                          Notes to the Principal Financial Statements
+                                                                      September 30, 2011, and 2010
+
+Note 3. General Property, Plant and Equipment, Net
+The components of General Property, Plant and Equipment as of September 30, 2011 and 2010 were:
+
+(Amounts in Thousands)                                                       2011
+                                                              Acquisition  Accumulated         Net Book
+                                                                Cost       Depreciation         Value
+Equipment                                                   $    135,785 $    (109,646) $         26,139
+Aircraft and Satellites                                          138,487      (138,487)                -
+Buildings and Structures                                         297,609       (99,599)          198,010
+Leasehold Improvements                                            10,981        (7,048)            3,933
+Construction in Progress                                          17,491              -           17,491
+Internal Use Software                                              8,096        (7,192)              904
+Software in Development                                           31,649              -           31,649
+Total PP&E                                                  $    640,098 $    (361,972) $        278,126
+
+(Amounts in Thousands)                                                          2010
+                                                              Acquisition  Accumulated         Net Book
+                                                                Cost       Depreciation         Value
+Equipment                                                   $    131,182 $    (104,549) $         26,633
+Aircraft and Satellites                                          138,487      (138,487)                -
+Buildings and Structures                                         279,361       (92,201)          187,160
+Leasehold Improvements                                             8,798        (4,904)            3,894
+Construction in Progress                                          33,470              -           33,470
+Internal Use Software                                              7,091        (7,091)                -
+Software in Development                                           25,597              -           25,597
+Total PP&E                                                  $    623,986 $    (347,232) $        276,754
+
+
+Note 4. General Property, Plant and Equipment in the Custody of Other Entities
+NSF received a ruling from FASAB on accounting for PP&E owned by NSF but in the custody of and
+used by others (see Note 1H). The FASAB guidance requires PP&E in the custody of others be excluded
+from NSF PP&E as defined in the SFFAS No. 6, Accounting for Property, Plant and Equipment. NSF is
+required to disclose the dollar amount of NSF PP&E held by others in the footnotes based on information
+contained in the most recently issued audited financial statements of the organization holding the assets.
+
+At September 30, 2011, there were 25 colleges or universities, and 10 commercial entities that held
+property titled to NSF. None of the colleges, universities or commercial entities reported NSF titled
+property separately.
+
+The amount of PP&E owned by NSF but in the custody of an FFRDC is identified in the table below. In
+some cases, FFRDCs operate on a fiscal year-end basis other than September 30. If NSF PP&E is not
+separately stated on the FFRDC’s audited financial statements or the FFRDC is not audited, the related
+amounts are annotated as Not Available (N/A) in the table.
+
+
+
+
+                                                  II-32
+
