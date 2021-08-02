@@ -36,7 +36,7 @@ Codes to generate tfrds for train is in the `gen_ground_truth` folder. You can g
 
 All hyperparameters about training can be changed in `split_config.py` and `merge_config.py` under the `config` folder.
 
-You must **train for split stage** and got a model for split which can work well **firstly**. 
+You must **train for split stage** and get a model for split which can work well **firstly**. 
 
 ```
 python split_train.py
