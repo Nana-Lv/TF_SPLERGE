@@ -1,5 +1,8 @@
 ## Introduction
 
+Bug report:
+SFCN was not added to Merge model's beginning. You can fix this bug by modify Class Merge in ./model/merge.py. 
+
 TF_SPLERGE is an implementation for [SPLERGE](https://ieeexplore.ieee.org/document/8977975) which is an method for tabel structure decomposition, published on ICDAR 2019 and got the best paper in table strucuture analysis (**the paper has been put in the rootdir of the rep**). 
 
 My blogs about this implementation is [here](https://blog.csdn.net/abandon_first/category_11000568.html). Another implementation based on Torch is [here](https://github.com/CharlesWu123/SPLERGE), which provided reference for me at the beginning.
